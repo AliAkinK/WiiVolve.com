@@ -17,6 +17,7 @@ const NOW = new Date('2026-11-04T17:22:00Z');
 const SITE = {
   url: 'https://wiivolve.com',
   name: 'WiiVolve',
+  title: 'WiiVolve.com — WiiVolving Around You',
   tagline: 'Still spinning since 2006.',
   description: 'Fresh Nintendo Wii news and homebrew scene activity, gathered every hour.',
   author: 'Ali Kurnaz',
@@ -184,8 +185,8 @@ test('every hook from section 6.1 is present with the right element', () => {
 test('head carries the required meta, links and JSON-LD', () => {
   const html = render();
   const head = html.split('</head>')[0];
-  for (const re of [/<meta charset="utf-8">/, /name="viewport"/, /<title>WiiVolve — Wii news, WiiVolving around you since 2006<\/title>/, /name="description"/, /rel="canonical" href="https:\/\/wiivolve.com\/"/,
-    /property="og:title"/, /property="og:description"/, /property="og:image" content="https:\/\/wiivolve.com\/og.png"/, /property="og:url"/, /property="og:type"/, /name="twitter:card" content="summary_large_image"/,
+  for (const re of [/<meta charset="utf-8">/, /name="viewport"/, /<title>WiiVolve.com — WiiVolving Around You<\/title>/, /property="og:title" content="WiiVolve.com — WiiVolving Around You"/, /name="description"/, /rel="canonical" href="https:\/\/wiivolve.com\/"/,
+    /property="og:title"/, /property="og:description"/, /property="og:image" content="https:\/\/wiivolve.com\/og.png(\?v=[0-9a-f]{8})?"/, /property="og:url"/, /property="og:type"/, /name="twitter:card" content="summary_large_image"/,
     /name="theme-color" content="#fbfbfc" media="\(prefers-color-scheme: light\)"/, /name="theme-color" content="#121a2e" media="\(prefers-color-scheme: dark\)"/,
     /type="application\/rss\+xml"/, /type="application\/feed\+json"/, /rel="manifest"/, /rel="icon" href="\/favicon.svg" type="image\/svg\+xml"/, /rel="apple-touch-icon" href="\/apple-touch-icon.png"/,
     /rel="preload" href="\/fonts\/bricolage-grotesque-96.woff2" as="font" type="font\/woff2" crossorigin/, /href="\/style.css"/, /href="\/print.css" media="print"/]) {

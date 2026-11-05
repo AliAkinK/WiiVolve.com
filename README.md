@@ -62,7 +62,7 @@ You need Node 22 or later. There is nothing to install.
 | `npm run qa` | Static contract checks plus a set of screenshots in `work/shots/` (needs Google Chrome). |
 | `npm run check` | The weekly self-check against the live site. Prints a report; exits 1 if something is wrong. |
 | `npm run deploy` | Deploys `site/` by hand (after `npx wrangler@4 login`). Normally CI does this; see RUNBOOK, "Doing things by hand", before you use it. |
-| `npm run icons` | Re-renders the icons, `favicon.ico` and the share image (`site/*.png`, `site/favicon.*`) from `assets-src/` with headless Chrome, and shrinks the PNGs when ffmpeg is installed. Only needed after changing the console's look or the favicon. |
+| `npm run icons` | Re-renders the icons, `favicon.ico` and the share image (`site/*.png`, `site/favicon.*`) from `assets-src/` with headless Chrome, and shrinks the PNGs when ffmpeg is installed. It also stamps the share image's fingerprint into the page's `og:image` address, so apps show the new card at once. Only needed after changing the console's look, the share image or the favicon. |
 
 Useful flags for `node scripts/build-news.mjs` (all of them are in ARCHITECTURE section 5): `--offline`, `--force` (write even when nothing changed), `--now 2026-11-19T15:00:00Z` (pretend it is another time), `--quiet`. The page also accepts `?now=<ISO date>` in the address bar to preview another day, for example the birthday mode (party hat and all) with `?now=2026-11-19T15:00:00Z`. A preview like that never touches the page's memory of your last visit.
 
@@ -114,7 +114,7 @@ Delete its entry from `sources` and push. Leave `tests/fixtures/` alone (the tes
 * `keywords`: words and phrases that make a story count as Wii news. Matching ignores case and only matches whole words. `Wii` itself never matches "Wii U" unless you set `"wiiU": true`.
 * `exclude`: titles to drop from every source, written as case-insensitive regular expressions, for example `"megathread"`. In JSON a backslash is written twice (`"\\?"`). It is always a list, even with one pattern (`["megathread"]`); a wrong type stops the build instead of emptying the page.
 * `selection`: how many days count as fresh (`windowDays`), the fewest stories to show (`minItems`, topped up with older ones), the oldest story allowed (`maxAgeDays`), the caps (`maxItems`, `maxPerSource`), and two floors: every source shows at least its newest `minPerSource` stories and each tab at least `minPerTab`, from older stories if the last two weeks hold fewer (so a busy week of Reddit posts never pushes Dolphin, Hackaday or the Press tab off the page). Below the fresh window the page says "Further back: a few picks per source." and writes no quiet gaps there, since that part is a selection.
-* `site`: the address, name and texts of the site.
+* `site`: the address, name and texts of the site. `title` is the browser-tab and share-card title.
 
 ## Where things live
 

@@ -12,12 +12,16 @@
 // (16 and 32 px PNGs in one ICO, for feed readers and tools that ask for /favicon.ico).
 // The pages are served next to a copy of site/, so they use the real style.css, fonts and CSP.
 //
+// After the PNGs it points templates/index.html's og:image at og.png by content (`/og.png?v=<8 hex>`), so a
+// share preview never shows an app's cached copy of an older card.
+//
 // Shrinking: when ffmpeg is installed, each PNG is re-encoded as an 8-bit palette PNG (no visible change at
 // 1x, about half the bytes) and kept only if smaller. Without ffmpeg this step is skipped with a note; nothing
 // else in the project needs ffmpeg.
 
 import { cp, mkdtemp, rm, mkdir, readFile, writeFile, stat, rename } from 'node:fs/promises';
 import { execFileSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
 import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -78,6 +82,16 @@ async function shrink(files) {
   }
 }
 
+/** Writes og.png's content fingerprint into the template's og:image URL (no change when it is already current). */
+async function stampOgVersion() {
+  const template = path.join(HERE, '..', 'templates', 'index.html');
+  const v = createHash('sha256').update(await readFile(path.join(SITE, 'og.png'))).digest('hex').slice(0, 8);
+  const before = await readFile(template, 'utf8');
+  const after = before.replace(/\/og\.png(?:\?v=[0-9a-f]+)?"/, `/og.png?v=${v}"`);
+  if (after !== before) await writeFile(template, after);
+  console.log(`templates/index.html: og:image is /og.png?v=${v}`);
+}
+
 const tmp = await mkdtemp(path.join(os.tmpdir(), 'wiivolve-assets-'));
 try {
   if (all || args.has('--favicon')) await cp(path.join(HERE, 'favicon.svg'), path.join(SITE, 'favicon.svg'));
@@ -111,7 +125,10 @@ try {
     await writeFile(path.join(SITE, 'favicon.ico'), pngsToIco(images));
     console.log('site/favicon.ico (16 and 32 px)');
   }
-  if (all || args.has('--shrink')) await shrink(PNGS);
+  if (all || args.has('--shrink')) {
+    await shrink(PNGS);
+    await stampOgVersion();
+  }
   try {
     for (const f of PNGS) console.log(execFileSync('sips', ['-g', 'pixelWidth', '-g', 'pixelHeight', path.join(SITE, f)], { encoding: 'utf8' }).trim().replace(/\n\s+/g, '  '));
   } catch {

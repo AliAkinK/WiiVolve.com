@@ -1,11 +1,9 @@
 /* Generator-only styles for og.png and the PNG icons (assets-src/render.mjs). Never deployed.
  The console itself comes from site/style.css, so the icons always match the page. */
 *{animation:none!important;transition:none!important}
-body.og{display:grid;grid-template-columns:1fr 560px;align-items:center;gap:24px;width:1200px;height:630px;margin:0;padding:0 72px 0 88px;background:#fbfbfc;color:#1b2a4a;overflow:hidden}
-.og-word{margin:0;font:700 150px/.9 var(--fd);letter-spacing:-.045em}
-.og-tag{margin:26px 0 0;font:300 40px/1.1 var(--fd);letter-spacing:-.02em;color:#5b6474;text-wrap:balance}
-.og-sub{margin:22px 0 0;max-width:22em;font:500 22px/1.4 var(--fb);color:#5b6474}
-.og .stage{--cw:540px;padding:0 0 40px}
+/* og.png: the wordmark alone, centred, and narrow enough to survive the square crop some apps make of the card */
+body.og{display:grid;place-items:center;width:1200px;height:630px;margin:0;background:#fbfbfc;color:#1b2a4a;overflow:hidden}
+.og-word{margin:0;font:700 160px/1 var(--fd);letter-spacing:-.045em}
 body.ic{display:grid;place-items:center;width:512px;height:512px;margin:0;background:radial-gradient(120% 90% at 50% 30%,#22325a,#131c31 70%);overflow:hidden}
 .ic .stage{--cw:400px;--shade:0 0 0;--c1:#c3cad6;--c2:#e4e8ee;padding:0 0 40px}
 .ic.m .stage{--cw:330px}

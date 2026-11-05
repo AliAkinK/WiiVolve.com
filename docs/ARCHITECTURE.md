@@ -69,6 +69,7 @@ The file is JSON. Comments (`//`, `/* */`) and trailing commas are tolerated, as
   "site": {
     "url": "https://wiivolve.com",          // canonical origin, no trailing slash
     "name": "WiiVolve",
+    "title": "WiiVolve.com — WiiVolving Around You",   // <title> and og:title, the share card's title
     "tagline": "WiiVolving around you since 2006.",
     "description": "Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.",
     "author": "Ali Kurnaz",
@@ -297,7 +298,7 @@ These IDs and attributes are used by tests, the screenshot harness and `check.mj
 | `[data-item]` | each live and archive item | with `data-id`, `data-tab`, `data-source`, `data-published`, `data-first-seen`; a live item after a true quiet gap also `data-qa` (All) and/or `data-qt` (its tab), 6.2.3 |
 | `time[datetime]` | inside each item | absolute label in HTML; JS may make it relative |
 
-Head must contain: `<meta charset>`, viewport (without `viewport-fit=cover`: nothing is drawn edge to edge, so iPhones keep the layout inside the safe area), `<title>`, description, canonical, Open Graph (`og:title`, `og:description`, `og:image` absolute `site.url + "/og.png"`, `og:url`, `og:type`), `twitter:card=summary_large_image` with `twitter:image:alt`, `theme-color` for light and dark, `<link rel="alternate">` for both feeds, `<link rel="manifest">`, `<link rel="icon" href="/favicon.svg" type="image/svg+xml">`, `<link rel="apple-touch-icon" href="/apple-touch-icon.png">`, the font preload, `/style.css`, `/print.css` with `media="print"`, `<script type="module" src="/app.js">` (not render-blocking: no `blocking` attribute, so first paint never waits for JS), and a `WebSite` JSON-LD block (with a `SearchAction` for `?q=`). On the birthday the renderer adds `<link rel="stylesheet" href="/party.css" id="party">`.
+Head must contain: `<meta charset>`, viewport (without `viewport-fit=cover`: nothing is drawn edge to edge, so iPhones keep the layout inside the safe area), `<title>`, description, canonical, Open Graph (`og:title`, `og:description`, `og:image` absolute `site.url + "/og.png?v=<fingerprint>"` (written into the template by `node assets-src/render.mjs`), `og:url`, `og:type`), `twitter:card=summary_large_image` with `twitter:image:alt`, `theme-color` for light and dark, `<link rel="alternate">` for both feeds, `<link rel="manifest">`, `<link rel="icon" href="/favicon.svg" type="image/svg+xml">`, `<link rel="apple-touch-icon" href="/apple-touch-icon.png">`, the font preload, `/style.css`, `/print.css` with `media="print"`, `<script type="module" src="/app.js">` (not render-blocking: no `blocking` attribute, so first paint never waits for JS), and a `WebSite` JSON-LD block (with a `SearchAction` for `?q=`). On the birthday the renderer adds `<link rel="stylesheet" href="/party.css" id="party">`.
 
 ### 6.2 Page behaviour (all designs must implement)
 1. **Hero.** Wordmark (new type in the display face; no "[2]", no imitation of Nintendo's "ii" figures), tagline, the console (CSS-drawn white slab lying on its side, slot across the front, glow = "something new"), and the Wii age line: before Nov 19 2026 "20 years in N days"; on Nov 19 of any year "Happy birthday, Wii. N today." (a no-break space after the comma keeps "Wii." with the greeting; birthday mode, warmer glow in both themes); otherwise "N years and M days old". Pre-rendered in UTC, recomputed in local time by JS. *As built:* the console is a low-angle product shot (top face in perspective, bevel, recessed slot, glow spilling onto the face and the floor). Under it a caption explains it (`#cap`: "The slot glows when something new arrives.", "Psst, something new. Press the console to jump in." when lit, "Party hat on, confetti out, slot glowing." on the birthday; the variants live in `data-` attributes). Only app.js lights the slot, so the HTML carries the birthday caption alone (the server lights the birthday glow itself) and app.js fills in the others; the caption's line is reserved, so nothing shifts. Beside the age line one signal slot (`.sig`) shows the new count or, when nothing is new, the latest Dolphin release from `news.meta.dolphin`, in the same cell (no layout shift). **Birthday mode** adds a party hat on the console and confetti from `site/party.css`, loaded only on the day (the renderer links it in UTC, app.js in local time).
@@ -332,7 +333,7 @@ Head must contain: `<meta charset>`, viewport (without `viewport-fit=cover`: not
 | `print.css`, `party.css` | source | loaded only when needed: `media="print"`, and on November 19 (section 6.2.1) |
 | `fonts/bricolage-grotesque-96.woff2`, `fonts/OFL.txt` | source | Bricolage Grotesque, opsz 96, wght 200–800, Latin subset (41 KB); `font-display: swap`; preload |
 | `legacy/header-2009.webp` | source | the recovered teal-era wordmark artifact, as captured in 2009 (the file name stays: it is immutable-cached) |
-| `favicon.svg`, `favicon.ico` (16 and 32 px), `apple-touch-icon.png` (180), `icon-192.png`, `icon-512.png`, `icon-maskable-512.png`, `og.png` (1200×630) | source | rendered with `tools/shoot.mjs` by `node assets-src/render.mjs` from the HTML/SVG in `assets-src/`, which draw the console with the real `style.css`; the maskable icon keeps the console inside the 80 % safe circle; the PNGs are 8-bit palette PNGs when ffmpeg is installed (optional step, about half the bytes) |
+| `favicon.svg`, `favicon.ico` (16 and 32 px), `apple-touch-icon.png` (180), `icon-192.png`, `icon-512.png`, `icon-maskable-512.png`, `og.png` (1200×630) | source | rendered with `tools/shoot.mjs` by `node assets-src/render.mjs` from the HTML/SVG in `assets-src/`, which draw the console with the real `style.css` (the share image is the wordmark alone, centred); the maskable icon keeps the console inside the 80 % safe circle; the PNGs are 8-bit palette PNGs when ffmpeg is installed (optional step, about half the bytes) |
 | `manifest.webmanifest`, `robots.txt`, `sitemap.xml` | source | |
 | `_headers`, `_redirects`, `.assetsignore` | config | parsed by Cloudflare, never served |
 
@@ -392,7 +393,7 @@ Old WiiVolve URLs still appear in forums and old posts (`/fullNews.php?newsId=21
 
 ## 10. Copy
 
-* **Title:** WiiVolve — Wii news, WiiVolving around you since 2006
+* **Title:** WiiVolve.com — WiiVolving Around You (`site.title`; also the share card's title)
 * **Hero:** WiiVolve · WiiVolving around you since 2006. · {age line} · {N new since your last visit}
 * **Deep end heading:** Eighteen quiet years.
 * **Deep end body:** From 2006 to 2008, WiiVolve covered the Wii several times a week, and almost daily around launch: news, reviews, previews, cheats, and Direct2Wii, a newsletter delivered to the console itself. The last post, in March 2008, promised a reconstruction. This is it.

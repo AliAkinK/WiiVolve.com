@@ -283,7 +283,7 @@ export function renderPage({ template, news, archive, health, site, now }) {
   const base = (safeUrl(cfg.url) || 'https://wiivolve.com/').replace(/\/+$/, '');
   const name = clean(cfg.name) || 'WiiVolve';
   const since = Number.isInteger(cfg.since) ? cfg.since : 2006;
-  const title = `${name} — Wii news, WiiVolving around you since ${since}`;
+  const title = clean(cfg.title) || name;
   const description = clean(cfg.description);
   const isItem = (it) => it && typeof it === 'object';
   const live = sortLive((Array.isArray(news?.items) ? news.items : []).filter((it) => isItem(it) && it.tab !== 'archive'), nowMs);
