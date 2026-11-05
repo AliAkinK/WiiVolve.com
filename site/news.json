@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T04:13:16Z",
+  "generatedAt": "2026-11-05T10:50:04Z",
   "items": [
+    {
+      "id": "0e31de6bc41d",
+      "title": "Legit WiiWare Wii with Pokémon Rumble?",
+      "url": "https://www.reddit.com/r/wii/comments/1xoduef/legit_wiiware_wii_with_pok%C3%A9mon_rumble/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-05T08:53:15Z",
+      "firstSeen": "2026-11-05T10:50:04Z",
+      "excerpt": "Is there anyone interested in selling their Wii with Pokémon Rumble legally installed (if such a thing even exists anymore)?",
+      "matched": []
+    },
     {
       "id": "d1a70aa936b0",
       "title": "Is there a Wii game case that doesn't have this tab? (see below)",
@@ -132,18 +144,6 @@
       "published": "2026-11-03T12:47:51Z",
       "firstSeen": "2026-11-04T17:22:25Z",
       "excerpt": "Or should i go for an old and yellowed official classic controller?",
-      "matched": []
-    },
-    {
-      "id": "3278e67fa31f",
-      "title": "Christmas Lights as sensor bar",
-      "url": "https://www.reddit.com/r/wii/comments/1xmjen9/christmas_lights_as_sensor_bar/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-03T04:25:28Z",
-      "firstSeen": "2026-11-04T17:22:25Z",
-      "excerpt": "You can use Christmas Lights as a sensor bar replacement. Incase you somehow dont have candles laying around lol",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-22T04:13:16Z",
+    "windowStart": "2026-10-22T10:50:04Z",
     "completeSince": {
-      "all": "2026-11-02T22:52:55Z",
-      "press": "2026-10-22T04:13:16Z",
-      "scene": "2026-11-02T22:52:55Z"
+      "all": "2026-11-03T04:25:28Z",
+      "press": "2026-10-22T10:50:04Z",
+      "scene": "2026-11-03T04:25:28Z"
     }
   }
 }

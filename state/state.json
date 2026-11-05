@@ -1,14 +1,15 @@
 {
   "version": 1,
-  "signature": "389f23b2fe7fee34288f64624a576aebe80e7d72405e9193bdb43fac2f349d6b",
+  "signature": "b6a9d9e6a814058fb32b8796f89c9652f99e463936535c3e744acce7fa658249",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-05T04:13:16Z",
+  "lastWrite": "2026-11-05T10:50:04Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
     "09b862d39f1b": "2026-11-04T17:22:25Z",
     "0b14a20b1603": "2026-10-16T10:10:25Z",
     "0b7b17e3be00": "2009-03-25T07:00:00Z",
+    "0e31de6bc41d": "2026-11-05T10:50:04Z",
     "11ea74c38072": "2024-07-26T11:00:00Z",
     "17861fa5b00f": "2026-04-14T07:00:00Z",
     "1a7b95242020": "2007-05-21T07:00:00Z",
@@ -118,8 +119,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T04:13:16Z",
-      "lastAttempt": "2026-11-05T04:13:16Z",
+      "lastOk": "2026-11-05T10:50:04Z",
+      "lastAttempt": "2026-11-05T10:50:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -127,29 +128,29 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Thu, 05 Nov 2026 03:20:00 -0000",
-      "lastOk": "2026-11-05T04:13:16Z",
-      "lastAttempt": "2026-11-05T04:13:16Z",
+      "lastModified": "Thu, 05 Nov 2026 10:43:00 -0000",
+      "lastOk": "2026-11-05T10:50:04Z",
+      "lastAttempt": "2026-11-05T10:50:04Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "\"120502316e860d5f8878a0570739f74d\"",
-      "lastModified": "Thu, 05 Nov 2026 03:10:54 GMT",
-      "lastOk": "2026-11-05T04:13:16Z",
-      "lastAttempt": "2026-11-05T04:13:16Z",
+      "etag": "W/\"53f8bab116d3105ea93b4a84a460ae4a\"",
+      "lastModified": "Thu, 05 Nov 2026 07:02:22 GMT",
+      "lastOk": "2026-11-05T10:50:04Z",
+      "lastAttempt": "2026-11-05T10:50:04Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": []
     },
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T04:13:16Z",
-      "lastAttempt": "2026-11-05T04:13:16Z",
+      "lastOk": "2026-11-05T10:50:04Z",
+      "lastAttempt": "2026-11-05T10:50:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -158,8 +159,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T04:13:16Z",
-      "lastAttempt": "2026-11-05T04:13:16Z",
+      "lastOk": "2026-11-05T10:50:04Z",
+      "lastAttempt": "2026-11-05T10:50:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -174,21 +175,6 @@
           "tab": "press",
           "published": "2026-11-02T18:10:29Z",
           "firstSeen": "2026-11-02T18:10:29Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "db9eddafe83c",
-          "title": "5 Classic Nintendo Wii Games That Are Unplayable Today",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MVAtVnZrZHRzWGVBRWktMkViZFRFTktpdlEyTDk5N2o0dFV3WGI3RjF4NnptUHFJU1ZJMkhUTi02YlFfUVdXR3RKeXFUc01OUHhWOU1RQ3hjOVFqWmpaUW1JRGtZRzhvNW9hN3ZRMFM3djRJUHFMNVlPemU?oc=5",
-          "source": "SVG",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-10-26T07:00:00Z",
-          "firstSeen": "2026-10-26T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -695,10 +681,10 @@
     "hackaday": {
       "etag": "W/\"e62a3963d07560e66c6bee4237261138\"",
       "lastModified": "Thu, 05 Nov 2026 00:40:21 GMT",
-      "lastOk": "2026-11-05T04:13:16Z",
-      "lastAttempt": "2026-11-05T04:13:16Z",
+      "lastOk": "2026-11-05T10:50:04Z",
+      "lastAttempt": "2026-11-05T10:50:04Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": [
         {
@@ -794,8 +780,8 @@
     "dolphin": {
       "etag": "W/\"6a89b42a892e26d0c4f13b359c957da7\"",
       "lastModified": "Thu, 15 Oct 2026 03:44:39 GMT",
-      "lastOk": "2026-11-05T04:13:16Z",
-      "lastAttempt": "2026-11-05T04:13:16Z",
+      "lastOk": "2026-11-05T10:50:04Z",
+      "lastAttempt": "2026-11-05T10:50:04Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1045,12 +1031,24 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T04:13:16Z",
-      "lastAttempt": "2026-11-05T04:13:16Z",
+      "lastOk": "2026-11-05T10:50:04Z",
+      "lastAttempt": "2026-11-05T10:50:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "0e31de6bc41d",
+          "title": "Legit WiiWare Wii with Pokémon Rumble?",
+          "url": "https://www.reddit.com/r/wii/comments/1xoduef/legit_wiiware_wii_with_pok%C3%A9mon_rumble/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-05T08:53:15Z",
+          "firstSeen": "2026-11-05T10:50:04Z",
+          "excerpt": "Is there anyone interested in selling their Wii with Pokémon Rumble legally installed (if such a thing even exists anymore)?",
+          "matched": []
+        },
         {
           "id": "d1a70aa936b0",
           "title": "Is there a Wii game case that doesn't have this tab? (see below)",
@@ -1316,18 +1314,6 @@
           "matched": []
         },
         {
-          "id": "bd8654811e08",
-          "title": "Wii clear shell swap and drive replacement",
-          "url": "https://www.reddit.com/r/wii/comments/1xlb4vh/wii_clear_shell_swap_and_drive_replacement/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-01T18:54:02Z",
-          "firstSeen": "2026-11-01T18:54:02Z",
-          "excerpt": "For anyone who swapped out the shell before Give me some tips on the faceplate The complete worst part of the whole thing",
-          "matched": []
-        },
-        {
           "id": "763072b463b6",
           "title": "A little question about the forecast channel",
           "url": "https://www.reddit.com/r/wii/comments/1xl6cmp/a_little_question_about_the_forecast_channel/",
@@ -1344,8 +1330,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T04:13:16Z",
-      "lastAttempt": "2026-11-05T04:13:16Z",
+      "lastOk": "2026-11-05T10:50:04Z",
+      "lastAttempt": "2026-11-05T10:50:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
