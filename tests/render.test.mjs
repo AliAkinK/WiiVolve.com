@@ -22,7 +22,6 @@ const SITE = {
   author: 'Ali Kurnaz',
   since: 2006,
   wiiLaunch: '2006-11-19',
-  repo: null,
 };
 
 let n = 0;
@@ -372,20 +371,13 @@ test('health: the status line, all-sources-down and the About source list', () =
   assert.equal(statusLine(stale), 'Sources unreachable right now. Showing the last update.');
 });
 
-test('GitHub links appear only in About and only with a repo; the issue link is pre-filled; the footer links RSS and About only', () => {
-  const none = render();
-  assert.ok(!/github/i.test(none));
+test('the page links neither GitHub nor the JSON Feed, even with a repo in the config; the footer links RSS and About', () => {
   const html = render({ site: { ...SITE, repo: 'https://github.com/example/wiivolve/' } });
-  assert.match(html, /<a href="https:\/\/github.com\/example\/wiivolve">Source code on GitHub<\/a>/);
+  assert.ok(!/github/i.test(html));
+  assert.ok(!/<a [^>]*href="\/feed\.json"/.test(html));
+  assert.match(html, /<link rel="alternate" type="application\/feed\+json"[^>]*href="\/feed\.json">/);
   const foot = html.match(/<nav class="foot-nav"[\s\S]*?<\/nav>/)[0];
-  assert.ok(!/github|feed\.json/i.test(foot), foot);
-  assert.match(foot, /<a href="\/feed.xml">RSS<\/a>/);
-  const issue = html.match(/<a href="(https:\/\/github.com\/example\/wiivolve\/issues\/new\?[^"]+)">Report a broken source<\/a>/);
-  assert.ok(issue);
-  const u = new URL(issue[1].replace(/&amp;/g, '&'));
-  assert.equal(u.searchParams.get('title'), 'Broken source: ');
-  assert.match(u.searchParams.get('body'), /- r\/wii: Retrying/);
-  assert.ok(!/javascript/i.test(render({ site: { ...SITE, repo: 'javascript:alert(1)' } })));
+  assert.equal(foot, '<nav class="foot-nav" aria-label="Elsewhere"><a href="/feed.xml">RSS</a><button type="button" popovertarget="about">About</button></nav>');
 });
 
 test('the page stays under its 64 KB budget on a heavy day by shortening excerpts', async () => {

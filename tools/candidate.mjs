@@ -57,12 +57,11 @@ export async function buildCandidate(dir, { now = new Date() } = {}) {
     author: 'Ali Kurnaz',
     since: 2006,
     wiiLaunch: '2006-11-19',
-    repo: 'https://github.com/example/wiivolve',
   };
   if (existsSync(path.join(ROOT, 'feeds.json'))) {
     try {
       const cfg = JSON.parse(await readFile(path.join(ROOT, 'feeds.json'), 'utf8'));
-      site = { ...site, ...cfg.site, repo: cfg.site?.repo || site.repo };
+      site = { ...site, ...cfg.site };
     } catch {}
   }
   const { renderPage } = await import(pathToFileURL(path.join(cand, 'render.mjs')).href + `?t=${now.getTime()}`);

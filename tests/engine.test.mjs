@@ -23,7 +23,7 @@ const rss = (items) =>
     .join('')}</channel></rss>`;
 
 const BASE = {
-  site: { url: 'https://wiivolve.com', name: 'WiiVolve', tagline: 'Still spinning since 2006.', description: 'd', author: 'Ali Kurnaz', since: 2006, wiiLaunch: '2006-11-19', repo: null },
+  site: { url: 'https://wiivolve.com', name: 'WiiVolve', tagline: 'Still spinning since 2006.', description: 'd', author: 'Ali Kurnaz', since: 2006, wiiLaunch: '2006-11-19' },
   selection: { windowDays: 14, minItems: 30, maxAgeDays: 400, maxItems: 60, maxPerSource: 12 },
   wiiU: false,
   keywords: ['Wii', 'Nunchuk', 'Wii Sports'],

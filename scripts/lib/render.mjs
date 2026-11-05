@@ -289,8 +289,6 @@ export function renderPage({ template, news, archive, health, site, now }) {
   const live = sortLive((Array.isArray(news?.items) ? news.items : []).filter((it) => isItem(it) && it.tab !== 'archive'), nowMs);
   const press = live.filter((it) => it.tab === 'press').length;
   const age = ageLine(nowMs, cfg.wiiLaunch);
-  const repo = safeUrl(cfg.repo || '');
-  const repoBase = repo ? repo.replace(/\/+$/, '') : null;
   const generated = toMs(news?.generatedAt) ?? nowMs;
   const sources = Array.isArray(health?.sources) ? health.sources.filter(isItem) : [];
   const dolphin = news?.meta?.dolphin;
@@ -300,11 +298,6 @@ export function renderPage({ template, news, archive, health, site, now }) {
   const windowMs = toMs(news?.meta?.windowStart) ?? -Infinity;
   const cs = news?.meta?.completeSince ?? {};
   const complete = { all: toMs(cs.all) ?? Infinity, press: toMs(cs.press) ?? Infinity, scene: toMs(cs.scene) ?? Infinity };
-
-  // A pre-filled issue that lists the sources that were not OK at the last update.
-  const unwell = sources.filter((s) => s.status !== 'ok').map((s) => `- ${clean(s.name) || s.id}: ${STATUS[s.status] || 'Down'}`);
-  const issueBody = `Which source looks broken, and what did you see?\n\nAt the last update (${isoSeconds(generated)}):\n${unwell.length ? unwell.join('\n') : '- every source reported OK'}\n`;
-  const issueUrl = repoBase ? `${repoBase}/issues/new?title=${encodeURIComponent('Broken source: ')}&body=${encodeURIComponent(issueBody)}` : null;
 
   const jsonld = JSON.stringify({
     '@context': 'https://schema.org',
@@ -346,9 +339,6 @@ export function renderPage({ template, news, archive, health, site, now }) {
     year: String(new Date(nowMs).getUTCFullYear()),
     author: escapeHtml(clean(cfg.author) || 'Ali Kurnaz'),
     since: String(since),
-    aboutRepo: repoBase
-      ? `<p class="ab-links"><a href="${escapeHtml(repoBase)}">Source code on GitHub</a><a href="${escapeHtml(issueUrl)}">Report a broken source</a></p>`
-      : '',
   };
 
   // Keep the page under its budgets (raw and gzip) even on a heavy day: shorten live excerpts step by step, then

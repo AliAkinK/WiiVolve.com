@@ -167,15 +167,9 @@ export function rulesHashOf(config, engine = ENGINE_VERSION) {
   );
 }
 
-/** feeds.json#site with `repo` resolved: site.repo, else GITHUB_SERVER_URL + GITHUB_REPOSITORY, else null. */
-export function resolveSite(site, env = process.env) {
-  let repo = typeof site.repo === 'string' && isHttpUrl(site.repo) ? site.repo.replace(/\/+$/, '') : null;
-  if (!repo && env.GITHUB_REPOSITORY) {
-    const server = (env.GITHUB_SERVER_URL || 'https://github.com').replace(/\/+$/, '');
-    const candidate = `${server}/${env.GITHUB_REPOSITORY}`;
-    if (isHttpUrl(candidate)) repo = candidate;
-  }
-  return { ...site, url: String(site.url).replace(/\/+$/, ''), repo };
+/** feeds.json#site with its url normalized (no trailing slash). */
+export function resolveSite(site) {
+  return { ...site, url: String(site.url).replace(/\/+$/, '') };
 }
 
 /** site/archive.json -> { version, items }. Missing is allowed (no deep-end items); present but broken fails the build. */
@@ -226,7 +220,7 @@ export async function runBuild(options = {}) {
     throw new Error(`feeds.json: ${err.code === 'ENOENT' ? `not found at ${configPath}` : `not valid JSON (${err.message})`}`);
   }
   const config = validateConfig(rawConfig);
-  const site = resolveSite(config.site, env);
+  const site = resolveSite(config.site);
   const sources = config.sources;
   const selection = config.selection;
 

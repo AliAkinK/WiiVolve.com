@@ -432,12 +432,8 @@ test('CLI: usage errors exit 2, --help exits 0', () => {
   assert.deepEqual(parseArgs(['--now=2026-11-04T17:00:00Z', '--force', '--out', 'x']).now, '2026-11-04T17:00:00Z');
 });
 
-test('site.repo resolution: config, else GITHUB_SERVER_URL + GITHUB_REPOSITORY, else null', () => {
-  const site = { url: 'https://wiivolve.com/', repo: null };
-  assert.equal(resolveSite(site, {}).repo, null);
-  assert.equal(resolveSite(site, {}).url, 'https://wiivolve.com');
-  assert.equal(resolveSite(site, { GITHUB_SERVER_URL: 'https://github.com', GITHUB_REPOSITORY: 'ali/wiivolve' }).repo, 'https://github.com/ali/wiivolve');
-  assert.equal(resolveSite(site, { GITHUB_REPOSITORY: 'ali/wiivolve' }).repo, 'https://github.com/ali/wiivolve');
-  assert.equal(resolveSite({ ...site, repo: 'https://github.com/owner/repo/' }, { GITHUB_REPOSITORY: 'x/y' }).repo, 'https://github.com/owner/repo');
-  assert.equal(resolveSite({ ...site, repo: 'javascript:alert(1)' }, {}).repo, null);
+test('resolveSite drops the trailing slash from site.url and leaves the rest alone', () => {
+  assert.equal(resolveSite({ url: 'https://wiivolve.com/' }).url, 'https://wiivolve.com');
+  assert.equal(resolveSite({ url: 'https://wiivolve.com' }).url, 'https://wiivolve.com');
+  assert.deepEqual(resolveSite({ url: 'https://wiivolve.com/', name: 'WiiVolve' }), { url: 'https://wiivolve.com', name: 'WiiVolve' });
 });

@@ -114,7 +114,7 @@ Delete its entry from `sources` and push. Leave `tests/fixtures/` alone (the tes
 * `keywords`: words and phrases that make a story count as Wii news. Matching ignores case and only matches whole words. `Wii` itself never matches "Wii U" unless you set `"wiiU": true`.
 * `exclude`: titles to drop from every source, written as case-insensitive regular expressions, for example `"megathread"`. In JSON a backslash is written twice (`"\\?"`). It is always a list, even with one pattern (`["megathread"]`); a wrong type stops the build instead of emptying the page.
 * `selection`: how many days count as fresh (`windowDays`), the fewest stories to show (`minItems`, topped up with older ones), the oldest story allowed (`maxAgeDays`), the caps (`maxItems`, `maxPerSource`), and two floors: every source shows at least its newest `minPerSource` stories and each tab at least `minPerTab`, from older stories if the last two weeks hold fewer (so a busy week of Reddit posts never pushes Dolphin, Hackaday or the Press tab off the page). Below the fresh window the page says "Further back: a few picks per source." and writes no quiet gaps there, since that part is a selection.
-* `site`: the address, name and texts of the site. `repo` stays `null`; CI fills in the GitHub link.
+* `site`: the address, name and texts of the site.
 
 ## Where things live
 
