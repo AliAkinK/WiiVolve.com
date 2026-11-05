@@ -283,7 +283,7 @@ export function renderPage({ template, news, archive, health, site, now }) {
   const base = (safeUrl(cfg.url) || 'https://wiivolve.com/').replace(/\/+$/, '');
   const name = clean(cfg.name) || 'WiiVolve';
   const since = Number.isInteger(cfg.since) ? cfg.since : 2006;
-  const title = `${name} — Wii news, still spinning since ${since}`;
+  const title = `${name} — Wii news, WiiVolving around you since ${since}`;
   const description = clean(cfg.description);
   const isItem = (it) => it && typeof it === 'object';
   const live = sortLive((Array.isArray(news?.items) ? news.items : []).filter((it) => isItem(it) && it.tab !== 'archive'), nowMs);
@@ -326,7 +326,7 @@ export function renderPage({ template, news, archive, health, site, now }) {
     party: age.birthday ? '\n<link rel="stylesheet" href="/party.css" id="party">' : '',
     launch: escapeHtml(cfg.wiiLaunch || '2006-11-19'),
     age: age.html,
-    tagline: escapeHtml(clean(cfg.tagline) || `Still spinning since ${since}.`),
+    tagline: escapeHtml(clean(cfg.tagline) || `WiiVolving around you since ${since}.`),
     dolphin:
       dolphinUrl && clean(dolphin.version)
         ? `<a class="dol" href="${escapeHtml(dolphinUrl)}" rel="noopener">Latest Dolphin release: <b>${escapeHtml(clean(dolphin.version))}</b></a>`
@@ -346,7 +346,6 @@ export function renderPage({ template, news, archive, health, site, now }) {
     year: String(new Date(nowMs).getUTCFullYear()),
     author: escapeHtml(clean(cfg.author) || 'Ali Kurnaz'),
     since: String(since),
-    footRepo: repoBase ? `<a href="${escapeHtml(repoBase)}">GitHub</a>` : '',
     aboutRepo: repoBase
       ? `<p class="ab-links"><a href="${escapeHtml(repoBase)}">Source code on GitHub</a><a href="${escapeHtml(issueUrl)}">Report a broken source</a></p>`
       : '',

@@ -185,7 +185,7 @@ test('every hook from section 6.1 is present with the right element', () => {
 test('head carries the required meta, links and JSON-LD', () => {
   const html = render();
   const head = html.split('</head>')[0];
-  for (const re of [/<meta charset="utf-8">/, /name="viewport"/, /<title>WiiVolve — Wii news, still spinning since 2006<\/title>/, /name="description"/, /rel="canonical" href="https:\/\/wiivolve.com\/"/,
+  for (const re of [/<meta charset="utf-8">/, /name="viewport"/, /<title>WiiVolve — Wii news, WiiVolving around you since 2006<\/title>/, /name="description"/, /rel="canonical" href="https:\/\/wiivolve.com\/"/,
     /property="og:title"/, /property="og:description"/, /property="og:image" content="https:\/\/wiivolve.com\/og.png"/, /property="og:url"/, /property="og:type"/, /name="twitter:card" content="summary_large_image"/,
     /name="theme-color" content="#fbfbfc" media="\(prefers-color-scheme: light\)"/, /name="theme-color" content="#121a2e" media="\(prefers-color-scheme: dark\)"/,
     /type="application\/rss\+xml"/, /type="application\/feed\+json"/, /rel="manifest"/, /rel="icon" href="\/favicon.svg" type="image\/svg\+xml"/, /rel="apple-touch-icon" href="\/apple-touch-icon.png"/,
@@ -372,11 +372,14 @@ test('health: the status line, all-sources-down and the About source list', () =
   assert.equal(statusLine(stale), 'Sources unreachable right now. Showing the last update.');
 });
 
-test('GitHub links appear only with a repo; the issue link is pre-filled', () => {
+test('GitHub links appear only in About and only with a repo; the issue link is pre-filled; the footer links RSS and About only', () => {
   const none = render();
   assert.ok(!/github/i.test(none));
   const html = render({ site: { ...SITE, repo: 'https://github.com/example/wiivolve/' } });
-  assert.match(html, /<a href="https:\/\/github.com\/example\/wiivolve">GitHub<\/a>/);
+  assert.match(html, /<a href="https:\/\/github.com\/example\/wiivolve">Source code on GitHub<\/a>/);
+  const foot = html.match(/<nav class="foot-nav"[\s\S]*?<\/nav>/)[0];
+  assert.ok(!/github|feed\.json/i.test(foot), foot);
+  assert.match(foot, /<a href="\/feed.xml">RSS<\/a>/);
   const issue = html.match(/<a href="(https:\/\/github.com\/example\/wiivolve\/issues\/new\?[^"]+)">Report a broken source<\/a>/);
   assert.ok(issue);
   const u = new URL(issue[1].replace(/&amp;/g, '&'));

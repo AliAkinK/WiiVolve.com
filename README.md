@@ -1,6 +1,6 @@
 # WiiVolve
 
-**Wii news, still spinning since 2006.** <https://wiivolve.com>
+**Wii news, WiiVolving around you since 2006.** <https://wiivolve.com>
 
 WiiVolve was a Nintendo Wii news site from 2006 to 2008, run by a group of high-school students. In 2026 it is back as a single page that gathers Wii news and homebrew scene activity from around the web every hour, removes duplicates and links you to the source. Below today's news the page runs back in time to the original site's own 2006 to 2008 headlines, ending with the August 2006 "coming soon" page where it all started. Old wiivolve.com links from forums still work: they land on the best archived copy of the page.
 

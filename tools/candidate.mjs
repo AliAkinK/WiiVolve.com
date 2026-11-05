@@ -51,7 +51,7 @@ export async function buildCandidate(dir, { now = new Date() } = {}) {
   let site = {
     url: 'https://wiivolve.com',
     name: 'WiiVolve',
-    tagline: 'Still spinning since 2006.',
+    tagline: 'WiiVolving around you since 2006.',
     description:
       'Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.',
     author: 'Ali Kurnaz',
