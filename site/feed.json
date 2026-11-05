@@ -9,6 +9,51 @@
   "language": "en",
   "items": [
     {
+      "id": "7b17ff03ba71",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xokjc4/is_it_still_possible_to_port_gta_san_andreas_to/",
+      "title": "Is it still possible to port GTA: San Andreas to the Wii?",
+      "content_text": "I found a project that lets the PS2 version of GTA: San Andreas, which requires 64 MB of RAM, run on the PSP. Since this version requires only 64 MB of RAM, would it be possible to port it to the Wii, which has 88 MB…",
+      "date_published": "2026-11-05T14:49:22Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "8f1c22607ead",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xojjmb/help_fixing_overblown_picture_on_sd_crt/",
+      "title": "Help fixing overblown picture on sd crt",
+      "content_text": "Both Wii and GC games run both through USB loader GX and nintendont show an overblown picture that cause some UI elements to be hidden. In fact all the homebrew apps, including the homebrew channel seem overblown on…",
+      "date_published": "2026-11-05T14:08:16Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "885ce50c2ea2",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xofez5/material_3_expressive_theme_for_40/",
+      "title": "Material 3 Expressive Theme for 4.0",
+      "content_text": "Material 3 Expressive Theme for 4.0",
+      "date_published": "2026-11-05T10:35:35Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "0e31de6bc41d",
       "url": "https://www.reddit.com/r/wii/comments/1xoduef/legit_wiiware_wii_with_pok%C3%A9mon_rumble/",
       "title": "Legit WiiWare Wii with Pokémon Rumble?",
@@ -329,51 +374,6 @@
       "title": "is there a compiled list of game ports to the Wii or do you have to search",
       "content_text": "like this! https://www.reddit.com/r/WiiHacks/s/rf4a4wRiDy",
       "date_published": "2026-10-29T07:57:31Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "3f3f53daab5f",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xh0xuc/i_have_a_stupid_question_can_someone_try_to_port/",
-      "title": "I have a stupid question can someone try to port Tomodachi Life to the wii?",
-      "content_text": "Why I am asking is because I am a big fan of Tomodachi Life and I want it on the wii.",
-      "date_published": "2026-10-27T18:42:22Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "4584976d3f66",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xgroxn/wii_lan_adapter_any_reliable_budget_options/",
-      "title": "Wii LAN adapter - any reliable budget options?",
-      "content_text": "Hey I am looking for a Wii USB LAN adapter for my Wii as my internet connection is just way too inconsistent through WiFi, and the official adapters are way too expensive. Does anyone know of any cheap alternatives…",
-      "date_published": "2026-10-27T12:52:26Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "67f8d841da4f",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xghuxa/red_transparent_wii_case/",
-      "title": "Red Transparent Wii Case",
-      "content_text": "Red Transparent Wii Case",
-      "date_published": "2026-10-27T03:24:20Z",
       "authors": [
         {
           "name": "r/WiiHacks"

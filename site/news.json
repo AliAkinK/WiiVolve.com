@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T10:50:04Z",
+  "generatedAt": "2026-11-05T18:43:09Z",
   "items": [
+    {
+      "id": "7b17ff03ba71",
+      "title": "Is it still possible to port GTA: San Andreas to the Wii?",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xokjc4/is_it_still_possible_to_port_gta_san_andreas_to/",
+      "source": "r/WiiHacks",
+      "sourceId": "reddit-wiihacks",
+      "tab": "scene",
+      "published": "2026-11-05T14:49:22Z",
+      "firstSeen": "2026-11-05T18:43:09Z",
+      "excerpt": "I found a project that lets the PS2 version of GTA: San Andreas, which requires 64 MB of RAM, run on the PSP. Since this version requires only 64 MB of RAM, would it be possible to port it to the Wii, which has 88 MB…",
+      "matched": []
+    },
+    {
+      "id": "8f1c22607ead",
+      "title": "Help fixing overblown picture on sd crt",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xojjmb/help_fixing_overblown_picture_on_sd_crt/",
+      "source": "r/WiiHacks",
+      "sourceId": "reddit-wiihacks",
+      "tab": "scene",
+      "published": "2026-11-05T14:08:16Z",
+      "firstSeen": "2026-11-05T18:43:09Z",
+      "excerpt": "Both Wii and GC games run both through USB loader GX and nintendont show an overblown picture that cause some UI elements to be hidden. In fact all the homebrew apps, including the homebrew channel seem overblown on…",
+      "matched": []
+    },
+    {
+      "id": "885ce50c2ea2",
+      "title": "Material 3 Expressive Theme for 4.0",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xofez5/material_3_expressive_theme_for_40/",
+      "source": "r/WiiHacks",
+      "sourceId": "reddit-wiihacks",
+      "tab": "scene",
+      "published": "2026-11-05T10:35:35Z",
+      "firstSeen": "2026-11-05T18:43:09Z",
+      "excerpt": "",
+      "matched": []
+    },
     {
       "id": "0e31de6bc41d",
       "title": "Legit WiiWare Wii with Pokémon Rumble?",
@@ -270,42 +306,6 @@
       "matched": []
     },
     {
-      "id": "3f3f53daab5f",
-      "title": "I have a stupid question can someone try to port Tomodachi Life to the wii?",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xh0xuc/i_have_a_stupid_question_can_someone_try_to_port/",
-      "source": "r/WiiHacks",
-      "sourceId": "reddit-wiihacks",
-      "tab": "scene",
-      "published": "2026-10-27T18:42:22Z",
-      "firstSeen": "2026-10-27T18:42:22Z",
-      "excerpt": "Why I am asking is because I am a big fan of Tomodachi Life and I want it on the wii.",
-      "matched": []
-    },
-    {
-      "id": "4584976d3f66",
-      "title": "Wii LAN adapter - any reliable budget options?",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xgroxn/wii_lan_adapter_any_reliable_budget_options/",
-      "source": "r/WiiHacks",
-      "sourceId": "reddit-wiihacks",
-      "tab": "scene",
-      "published": "2026-10-27T12:52:26Z",
-      "firstSeen": "2026-10-27T12:52:26Z",
-      "excerpt": "Hey I am looking for a Wii USB LAN adapter for my Wii as my internet connection is just way too inconsistent through WiFi, and the official adapters are way too expensive. Does anyone know of any cheap alternatives…",
-      "matched": []
-    },
-    {
-      "id": "67f8d841da4f",
-      "title": "Red Transparent Wii Case",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xghuxa/red_transparent_wii_case/",
-      "source": "r/WiiHacks",
-      "sourceId": "reddit-wiihacks",
-      "tab": "scene",
-      "published": "2026-10-27T03:24:20Z",
-      "firstSeen": "2026-10-27T03:24:20Z",
-      "excerpt": "",
-      "matched": []
-    },
-    {
       "id": "db9eddafe83c",
       "title": "5 Classic Nintendo Wii Games That Are Unplayable Today",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MVAtVnZrZHRzWGVBRWktMkViZFRFTktpdlEyTDk5N2o0dFV3WGI3RjF4NnptUHFJU1ZJMkhUTi02YlFfUVdXR3RKeXFUc01OUHhWOU1RQ3hjOVFqWmpaUW1JRGtZRzhvNW9hN3ZRMFM3djRJUHFMNVlPemU?oc=5",
@@ -474,10 +474,10 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-22T10:50:04Z",
+    "windowStart": "2026-10-22T18:43:09Z",
     "completeSince": {
       "all": "2026-11-03T04:25:28Z",
-      "press": "2026-10-22T10:50:04Z",
+      "press": "2026-10-22T18:43:09Z",
       "scene": "2026-11-03T04:25:28Z"
     }
   }

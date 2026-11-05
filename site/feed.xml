@@ -5,9 +5,35 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 10:50:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 18:43:09 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Is it still possible to port GTA: San Andreas to the Wii?</title>
+<link>https://www.reddit.com/r/WiiHacks/comments/1xokjc4/is_it_still_possible_to_port_gta_san_andreas_to/</link>
+<guid isPermaLink="false">7b17ff03ba71</guid>
+<pubDate>Thu, 05 Nov 2026 14:49:22 GMT</pubDate>
+<description>I found a project that lets the PS2 version of GTA: San Andreas, which requires 64 MB of RAM, run on the PSP. Since this version requires only 64 MB of RAM, would it be possible to port it to the Wii, which has 88 MB…</description>
+<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
+<category>scene</category>
+</item>
+<item>
+<title>Help fixing overblown picture on sd crt</title>
+<link>https://www.reddit.com/r/WiiHacks/comments/1xojjmb/help_fixing_overblown_picture_on_sd_crt/</link>
+<guid isPermaLink="false">8f1c22607ead</guid>
+<pubDate>Thu, 05 Nov 2026 14:08:16 GMT</pubDate>
+<description>Both Wii and GC games run both through USB loader GX and nintendont show an overblown picture that cause some UI elements to be hidden. In fact all the homebrew apps, including the homebrew channel seem overblown on…</description>
+<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
+<category>scene</category>
+</item>
+<item>
+<title>Material 3 Expressive Theme for 4.0</title>
+<link>https://www.reddit.com/r/WiiHacks/comments/1xofez5/material_3_expressive_theme_for_40/</link>
+<guid isPermaLink="false">885ce50c2ea2</guid>
+<pubDate>Thu, 05 Nov 2026 10:35:35 GMT</pubDate>
+<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
+<category>scene</category>
+</item>
 <item>
 <title>Legit WiiWare Wii with Pokémon Rumble?</title>
 <link>https://www.reddit.com/r/wii/comments/1xoduef/legit_wiiware_wii_with_pok%C3%A9mon_rumble/</link>
@@ -201,32 +227,6 @@
 <guid isPermaLink="false">57fec4247196</guid>
 <pubDate>Thu, 29 Oct 2026 07:57:31 GMT</pubDate>
 <description>like this! https://www.reddit.com/r/WiiHacks/s/rf4a4wRiDy</description>
-<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
-<category>scene</category>
-</item>
-<item>
-<title>I have a stupid question can someone try to port Tomodachi Life to the wii?</title>
-<link>https://www.reddit.com/r/WiiHacks/comments/1xh0xuc/i_have_a_stupid_question_can_someone_try_to_port/</link>
-<guid isPermaLink="false">3f3f53daab5f</guid>
-<pubDate>Tue, 27 Oct 2026 18:42:22 GMT</pubDate>
-<description>Why I am asking is because I am a big fan of Tomodachi Life and I want it on the wii.</description>
-<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
-<category>scene</category>
-</item>
-<item>
-<title>Wii LAN adapter - any reliable budget options?</title>
-<link>https://www.reddit.com/r/WiiHacks/comments/1xgroxn/wii_lan_adapter_any_reliable_budget_options/</link>
-<guid isPermaLink="false">4584976d3f66</guid>
-<pubDate>Tue, 27 Oct 2026 12:52:26 GMT</pubDate>
-<description>Hey I am looking for a Wii USB LAN adapter for my Wii as my internet connection is just way too inconsistent through WiFi, and the official adapters are way too expensive. Does anyone know of any cheap alternatives…</description>
-<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
-<category>scene</category>
-</item>
-<item>
-<title>Red Transparent Wii Case</title>
-<link>https://www.reddit.com/r/WiiHacks/comments/1xghuxa/red_transparent_wii_case/</link>
-<guid isPermaLink="false">67f8d841da4f</guid>
-<pubDate>Tue, 27 Oct 2026 03:24:20 GMT</pubDate>
 <source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
 <category>scene</category>
 </item>
