@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Test fixture: https://gonintendo.com/feeds/all.xml captured 2026-11-04T16:47:50Z, trimmed to 12 of 45 items. Markup otherwise as served. -->
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>GoNintendo</title>
+    <description>What are YOU Waiting For?</description>
+    <link>https://gonintendo.com/</link>
+    <category>Video Games</category>
+    <copyright>2026 GoNintendo</copyright>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Nov 2026 06:08:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gonintendo.com/images/thumbnails/gonintendo6feed.png</url>
+      <title>GoNintendo</title>
+      <link>https://gonintendo.com/</link>
+    </image>
+    <item>
+      <title>Stellar Blade "Stellar Beats to Chill To" official remix album now streaming</title>
+      <description>For when you need a break from the Naytibas</description>
+      <pubDate>Wed, 04 Nov 2026 06:08:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66856-stellar-blade-stellar-beats-to-chill-to-official-remix-album-now-streaming</link>
+      <guid isPermaLink="false">gonintendo-content-66856</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88600/file/medium-a61675e0fd65145d794a083cfc8ae8d9.jpg"/>
+    </item>
+    <item>
+      <title>Brigandine: Abyss first patch detailed, update roadmap revealed</title>
+      <description>Big things to come</description>
+      <pubDate>Wed, 04 Nov 2026 04:25:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66855-brigandine-abyss-first-patch-detailed-update-roadmap-revealed</link>
+      <guid isPermaLink="false">gonintendo-content-66855</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88599/file/medium-9596a4ef2e54cc4fa1fa0aa61908a42c.jpg"/>
+    </item>
+    <item>
+      <title>Nintendo cancels Kirby Air Riders Halloween event due to performance issues (UPDATE)</title>
+      <description>All tricks, no treats</description>
+      <pubDate>Wed, 04 Nov 2026 04:24:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66723-nintendo-cancels-kirby-air-riders-halloween-event-due-to-performance-issues-update</link>
+      <guid isPermaLink="false">gonintendo-content-66723</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88445/file/medium-683289d9fd8a40eabe8b7820168aece8.jpg"/>
+    </item>
+    <item>
+      <title>Famitsu review scores for Nov. 3rd, 2026 (Zelda: Ocarina of Time score revealed)</title>
+      <description>And the big winner of the week is...</description>
+      <pubDate>Wed, 04 Nov 2026 04:15:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66854-famitsu-review-scores-for-nov-3rd-2026-zelda-ocarina-of-time-score-revealed</link>
+      <guid isPermaLink="false">gonintendo-content-66854</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88598/file/medium-5addd4f1665cfa06abc665e75a57550d.jpg"/>
+    </item>
+    <item>
+      <title>Delicious in Dungeon crossover announced for Dragon's Dogma II: Dark Arisen</title>
+      <description>A tasty team-up</description>
+      <pubDate>Wed, 04 Nov 2026 00:33:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66853-delicious-in-dungeon-crossover-announced-for-dragon-s-dogma-ii-dark-arisen</link>
+      <guid isPermaLink="false">gonintendo-content-66853</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88597/file/medium-790fcdb80f5e51277ffd4e76e3df843e.jpg"/>
+    </item>
+    <item>
+      <title>Sonic Racing: CrossWorlds "Year Two" update now live, Godzilla Pack and more available</title>
+      <description>A kaiju crossover!</description>
+      <pubDate>Wed, 04 Nov 2026 00:01:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66852-sonic-racing-crossworlds-year-two-update-now-live-godzilla-pack-and-more-available</link>
+      <guid isPermaLink="false">gonintendo-content-66852</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88596/file/medium-6fbac4a1cbafbcbbb4f296b4d06de2cf.jpg"/>
+    </item>
+    <item>
+      <title>Street Fighter 6 “ Winter Pocket Present” Fighting Pass Arrives November 4th, 2026</title>
+      <description>Be sure to pocket this one </description>
+      <pubDate>Tue, 03 Nov 2026 23:01:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66851-street-fighter-6-winter-pocket-present-fighting-pass-arrives-november-4th-2026</link>
+      <guid isPermaLink="false">gonintendo-content-66851</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88595/file/medium-c6521711fddbc0d3ec9ce21106d6bbe4.jpeg"/>
+    </item>
+    <item>
+      <title>Mega Man Battle Network 6 "MegaMan.EXE Gregar Beast" Luminasta Figure Revealed</title>
+      <description>Beast mode</description>
+      <pubDate>Tue, 03 Nov 2026 21:16:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66850-mega-man-battle-network-6-megaman-exe-gregar-beast-luminasta-figure-revealed</link>
+      <guid isPermaLink="false">gonintendo-content-66850</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88594/file/medium-e3b66d267839330abcf04dd75636cacd.png"/>
+    </item>
+    <item>
+      <title>Zero Parades: Director's Cut now available on Switch 2</title>
+      <description>Time to hit the streets</description>
+      <pubDate>Tue, 03 Nov 2026 21:08:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66849-zero-parades-director-s-cut-now-available-on-switch-2</link>
+      <guid isPermaLink="false">gonintendo-content-66849</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88592/file/medium-fac4aee48b7050b3e56cd8230b68b30e.jpg"/>
+    </item>
+    <item>
+      <title>Pikmin Autumn Harvest Festival announced for Langham Place</title>
+      <description>The Pikmin place to be</description>
+      <pubDate>Tue, 03 Nov 2026 21:04:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66848-pikmin-autumn-harvest-festival-announced-for-langham-place</link>
+      <guid isPermaLink="false">gonintendo-content-66848</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88591/file/medium-e55b78d2a3e1a0e25b14cf38e2e3a787.png"/>
+    </item>
+    <item>
+      <title>Discover more of the city during Pokémon GO Wild Area: Mexico City</title>
+      <description>Oh, the places you'll Mexi-go</description>
+      <pubDate>Tue, 03 Nov 2026 21:02:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66847-discover-more-of-the-city-during-pokemon-go-wild-area-mexico-city</link>
+      <guid isPermaLink="false">gonintendo-content-66847</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88590/file/medium-19a83753e32ffbbfcf7c830c92620e22.png"/>
+    </item>
+    <item>
+      <title>Taito reveals Legend of Zelda heart container and Master Sword keychains</title>
+      <description>Don't want to leave home without either!</description>
+      <pubDate>Tue, 03 Nov 2026 20:55:00 +0000</pubDate>
+      <link>https://gonintendo.com/contents/66846-taito-reveals-legend-of-zelda-heart-container-and-master-sword-keychains</link>
+      <guid isPermaLink="false">gonintendo-content-66846</guid>
+      <dc:creator>rawmeatcowboy</dc:creator>
+      <media:thumbnail url="https://gonintendo.com/attachments/image/88589/file/medium-df188efd878a548595d93d6b3c60b333.jpg"/>
+    </item>
+  </channel>
+</rss>

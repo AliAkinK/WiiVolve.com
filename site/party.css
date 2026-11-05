@@ -1,0 +1,9 @@
+/* WiiVolve birthday kit, loaded only on November 19 (the renderer adds it in UTC, app.js in local time).
+ A party hat on the console's top and confetti around it; the warm glow itself lives in style.css (.bday). */
+.bday .hat{left:10%;top:-3%;width:8.5%;aspect-ratio:4/5;rotate:-12deg;clip-path:polygon(50% 0,100% 100%,0 100%);background:repeating-linear-gradient(-55deg,#ff6f91 0 7px,#ffd25e 0 14px,#57c7f5 0 21px)}
+/* Sixteen diamonds: one rotated square cloned with box-shadows (offsets are in its rotated frame). */
+.bday .stage::before{content:"";position:absolute;left:50%;top:128px;width:7px;height:7px;rotate:45deg;pointer-events:none;box-shadow:-240px 184px #ff6f91,-269px 110px #ffd25e,-247px 35px #57c7f5,-208px -41px #ff6f91,-134px -92px #ffd25e,-86px -174px #57c7f5,-4px -219px #ff6f91,75px -253px #ffd25e,160px -253px #57c7f5,236px -205px #ff6f91,272px -136px #ffd25e,257px -62px #57c7f5,238px -11px #ff6f91,-21px 236px #ffd25e,-91px 257px #57c7f5,-178px 252px #ff6f91;animation:pop .8s var(--ease) .3s both}
+@media (max-width:540px){.bday .stage::before{top:96px;scale:.68}}
+/* Below 380 px the caption sits higher than the lowest diamonds: shrink the burst so it clears the text. */
+@media (max-width:379px){.bday .stage::before{scale:.55}}
+@keyframes pop{from{opacity:0;scale:.3}}

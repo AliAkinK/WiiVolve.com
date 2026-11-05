@@ -1,0 +1,76 @@
+<!-- Fixture: https://gonintendo.com/feeds as served 2026-11-04 (an HTML directory of feeds, not a feed), trimmed. -->
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns:og="http://ogp.me/ns#">
+  <head>
+    <meta charset="UTF-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FXVTS4T3KB"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoNintendo | What are YOU waiting for?</title>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CElJHhmnktAjy6Eu69cTt-96DaCFsp1BvgJuoZUeEELacS3JyHtA1BaN6UIEcgL_YWwqr8cmcNu1xH4w3tyCWw" />
+    
+    <meta name="turbo-cache-control" content="no-preview">
+    <meta name="turbo-prefetch" content="false">
+    <meta name="robots" content="noodp">
+
+    <!-- For Google search console -->
+    <meta name="google-site-verification" content="MheYECbFvkCkVrltl3mCpsvhuDOLRLRKtIueNp2WBwM">
+
+      <meta property="og:title" content="GoNintendo | What are YOU waiting for?">
+      <meta property="og:description" content="A thriving community of fans devoted to everything Nintendo">
+      <meta property="og:locale" content="en_US">
+      <meta property="og:site_name" content="GoNintendo">
+      <meta name="twitter:site" content="@gonintendotweet">
+      <meta name="twitter:title" content="GoNintendo | What are YOU waiting for?">
+      <meta name="twitter:description" content="A thriving community of fans devoted to everything Nintendo">
+      <meta name="description" content="A thriving community of fans devoted to everything Nintendo">
+      <meta name="keywords" content="GoNintendo, Nintendo, Switch, RawmeatCowboy, Video Games, Mario, Zelda, Smash Brothers, Splatoon, Pokemon, Fire Emblem">
+    <meta name="application-name" content="GoNintendo">
+    <meta name="theme-color" content="#9F0C18">
+    <link rel="icon" href="/favicon.ico" type="image/ico">
+    <link rel="icon" href="/favicon.png" type="image/png" sizes="48x48">
+    <link rel="icon" href="/favicon-192x192.png" type="image/png" sizes="192x192">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/manifest.json">
+
+    <link rel="alternate" type="application/rss+xml" title="GoNintendo News Feed" href="https://gonintendo.com/feeds/all.xml" />
+    <link rel="alternate" type="application/atom+xml" title="GoNintendo Podcast Feed" href="https://feeds.feedburner.com/NintendoNowBlogspotPodcast" />
+
+    <link rel="preload" href="/assets/fonts/lato/lato-latin-900-normal-5b19bf18.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/assets/fonts/lato/lato-latin-700-normal-41f81667.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/assets/fonts/open-sans/open-sans-latin-300-normal-411c6a47.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/assets/fonts/open-sans/open-sans-latin-400-normal-239e55b3.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/application-e532f15c.css" data-turbo-track="reload" />
+    <style type="text/css">
+  #leaderboard_atf {
+    width: 100%;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+    
+  </head>
+<body>
+<div class="all-feeds pages py-1">
+
+  <h1>RSS Feeds</h1>
+  <div class="mb-4">
+    <strong>All News</strong><br>
+    <a target="_blank" class="flex items-center space-x-2" href="https://gonintendo.com/feeds/all.xml">
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 sm:w-5 sm:h-5 fill-current">
+        <path d="M19.199 24C19.199 13.467 10.533 4.8 0 4.8V0c13.165 0 24 10.835 24 24h-4.801zM3.291 17.415c1.814 0 3.293 1.479 3.293 3.295 0 1.813-1.485 3.29-3.301 3.29C1.47 24 0 22.526 0 20.71s1.475-3.294 3.291-3.295zM15.909 24h-4.665c0-6.169-5.075-11.245-11.244-11.245V8.09c8.727 0 15.909 7.184 15.909 15.91z"/>
+      </svg>
+      <span>https://gonintendo.com/feeds/all.xml</span>
+</a>  </div>
+
+
+  <hr>
+
+  </div>
+</body>
+</html>

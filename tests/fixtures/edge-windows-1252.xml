@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Synthetic fixture: windows-1252 bytes (0x92 0x93 0x94 0x96 0xE9 0x80). -->
+<rss version="2.0"><channel><title>Windows-1252 feed</title><link>https://edge.example/</link>
+<item><title>Nintendo’s Wii “classics” – café €5</title><link>https://edge.example/cp1252-1</link><description>Priced at </description><pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate></item>
+</channel></rss>

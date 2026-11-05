@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Synthetic fixture: named and numeric entities, double encoding, an unescaped ampersand, tracking parameters. -->
+<rss version="2.0">
+<channel>
+<title>Edge &amp; Entities</title>
+<link>https://edge.example/</link>
+<description>Entity handling</description>
+<item>
+<title>Wii&#8217;s 20th: Nintendo&#x2019;s &mdash; best &amp;amp; brightest&nbsp;years</title>
+<link>https://edge.example/a?utm_source=rss&amp;utm_medium=feed&amp;id=1&amp;fbclid=XYZ</link>
+<description>&lt;p&gt;Caf&amp;eacute; &amp;amp; Wii &amp;#8220;quotes&amp;#8221; &amp;hellip;&lt;/p&gt;&lt;p&gt;Read more &amp;raquo;&lt;/p&gt;</description>
+<pubDate>Tue, 03 Nov 2026 10:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Mario & Luigi: unescaped ampersand &bogus; &#150; dash on the Wii</title>
+<link>https://edge.example/b</link>
+<description>Plain text with 5 &lt; 6 and AT&T</description>
+<pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Double encoded &amp;#8217;Wii&amp;#8217; &amp;amp; friends</title>
+<link>https://EDGE.example/C/Path?q=a%20b&amp;utm_campaign=x#frag</link>
+<description><![CDATA[<p>The post <a href="https://edge.example/c">Something</a> appeared first on <a href="https://edge.example">Edge</a>.</p>]]></description>
+<pubDate>Tue, 03 Nov 2026 08:00:00 EST</pubDate>
+</item>
+</channel>
+</rss>

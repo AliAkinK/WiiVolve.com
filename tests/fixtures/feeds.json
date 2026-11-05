@@ -1,0 +1,49 @@
+{
+  "site": {
+    "url": "https://wiivolve.com",
+    "name": "WiiVolve",
+    "tagline": "Still spinning since 2006.",
+    "description": "Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.",
+    "author": "Ali Kurnaz",
+    "since": 2006,
+    "wiiLaunch": "2006-11-19",
+    "repo": null
+  },
+  "selection": {
+    "windowDays": 14,
+    "minItems": 30,
+    "maxAgeDays": 400,
+    "maxItems": 60,
+    "maxPerSource": 12,
+    "minPerSource": 2,
+    "minPerTab": 8
+  },
+  "wiiU": false,
+  "keywords": ["Wii", "Wiimote", "Wii Remote", "Nunchuk", "WiiWare", "Wii Sports", "Wii Fit", "Wii Shop",
+               "WiiConnect24", "Balance Board", "MotionPlus", "Homebrew Channel", "Wiimmfi", "WiiLink", "RiiConnect24"],
+  "exclude": ["megathread", "help thread", "memery monday", "what are wii playing wednesday"],
+  "userAgent": "Mozilla/5.0 (compatible; WiiVolveBot/1.0; +https://wiivolve.com/)",
+  "sources": [
+    { "id": "nintendolife", "name": "Nintendo Life", "tab": "press", "filter": "keywords", "priority": 2,
+      "url": "https://www.nintendolife.com/feeds/latest", "homepage": "https://www.nintendolife.com" },
+    { "id": "gonintendo", "name": "GoNintendo", "tab": "press", "filter": "keywords", "priority": 2,
+      "url": "https://gonintendo.com/feeds/all.xml", "homepage": "https://gonintendo.com" },
+    { "id": "nintendoeverything", "name": "Nintendo Everything", "tab": "press", "filter": "keywords", "priority": 2,
+      "url": "https://nintendoeverything.com/feed/", "homepage": "https://nintendoeverything.com" },
+    { "id": "timeextension", "name": "Time Extension", "tab": "press", "filter": "keywords", "priority": 2,
+      "url": "https://www.timeextension.com/feeds/latest", "homepage": "https://www.timeextension.com" },
+    { "id": "googlenews", "name": "Google News", "tab": "press", "filter": "keywords", "aggregator": true, "priority": 0,
+      "url": "https://news.google.com/rss/search?q=%22Nintendo+Wii%22&hl=en-US&gl=US&ceid=US:en",
+      "homepage": "https://news.google.com/search?q=%22Nintendo%20Wii%22&hl=en-US&gl=US&ceid=US%3Aen" },
+    { "id": "hackaday", "name": "Hackaday", "tab": "scene", "filter": "keywords", "priority": 2,
+      "url": "https://hackaday.com/tag/wii/feed/", "homepage": "https://hackaday.com/tag/wii/" },
+    { "id": "dolphin", "name": "Dolphin Emulator", "tab": "scene", "filter": "none", "priority": 3,
+      "url": "https://dolphin-emu.org/blog/feeds/", "homepage": "https://dolphin-emu.org/blog/" },
+    { "id": "reddit-wii", "name": "r/wii", "tab": "scene", "filter": "none", "priority": 1,
+      "userAgent": "web:com.wiivolve.news:v1.0 (+https://wiivolve.com/)",
+      "url": "https://www.reddit.com/r/wii/.rss", "homepage": "https://www.reddit.com/r/wii/" },
+    { "id": "reddit-wiihacks", "name": "r/WiiHacks", "tab": "scene", "filter": "none", "priority": 1,
+      "userAgent": "web:com.wiivolve.news:v1.0 (+https://wiivolve.com/)",
+      "url": "https://www.reddit.com/r/WiiHacks/.rss", "homepage": "https://www.reddit.com/r/WiiHacks/" }
+  ]
+}

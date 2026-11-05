@@ -1,0 +1,552 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "WiiVolve",
+  "home_page_url": "https://wiivolve.com/",
+  "feed_url": "https://wiivolve.com/feed.json",
+  "description": "Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.",
+  "icon": "https://wiivolve.com/icon-512.png",
+  "favicon": "https://wiivolve.com/icon-192.png",
+  "language": "en",
+  "items": [
+    {
+      "id": "d1a70aa936b0",
+      "url": "https://www.reddit.com/r/wii/comments/1xo2ec0/is_there_a_wii_game_case_that_doesnt_have_this/",
+      "title": "Is there a Wii game case that doesn't have this tab? (see below)",
+      "content_text": "I’ve noticed that it damages the edges of the manuals—it’s really annoying. I’m looking for something with a design similar to the cases used for PS3, PS4, or PS5 games?…",
+      "date_published": "2026-11-04T22:47:07Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "6ab5c217cb95",
+      "url": "https://www.reddit.com/r/wii/comments/1xnzxia/grand_theft_wuhu_gta_on_wuhu_island/",
+      "title": "Grand Theft Wuhu - GTA on Wuhu Island",
+      "content_text": "Yes, AI was used to help make this game — No, I have no clue why I made this — https://theagencymge.github.io/grand-theft-wuhu-play/",
+      "date_published": "2026-11-04T21:06:34Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "c79d217e529d",
+      "url": "https://www.reddit.com/r/wii/comments/1xnxyf4/tried_to_play_on_my_ancient_wii_am_i_cooked/",
+      "title": "Tried to play on my ANCIENT Wii, am I cooked?",
+      "content_text": "The display won't budge from this.",
+      "date_published": "2026-11-04T19:49:43Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "ae265a8b8b61",
+      "url": "https://www.reddit.com/r/wii/comments/1xnqixk/i_beat_luc%C3%ADa_in_wii_sports_resort/",
+      "title": "I beat Lucía in wii sports resort",
+      "content_text": "I got to 1400 skill rating in about 40 mins on my wii u after not playing for 2-3 years, and last night unlocked ability to play Lucía and played for an hour and a half and beat her in half an hour this morning…",
+      "date_published": "2026-11-04T15:06:02Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "019143d0295e",
+      "url": "https://www.reddit.com/r/wii/comments/1xnpju9/trying_to_find_every_mecha_games_on_wii/",
+      "title": "Trying to find every mecha games on Wii",
+      "content_text": "I'm looking to compile a fully thorough list of every game featuring mech/mecha/big robots that came to the original Wii console. Games that feature this either in full or part; piloted mech armor suits, giant robots…",
+      "date_published": "2026-11-04T14:26:04Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "305480fc5d04",
+      "url": "https://www.reddit.com/r/wii/comments/1xnijiu/are_these_wii_remote_plus_controllers_authentic/",
+      "title": "Are these Wii Remote Plus controllers authentic or fake?",
+      "content_text": "Hi everyone! I'm thinking about buying these two Wii Remote Plus controllers, but I'm not sure if they're genuine Nintendo products or knockoffs. I noticed two things that seem a bit strange: 1.The white controller has…",
+      "date_published": "2026-11-04T07:59:08Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "503a2e2d8b96",
+      "url": "https://www.reddit.com/r/wii/comments/1xnh5ia/anyone_able_to_link_me_a_working_ethernet_adapter/",
+      "title": "Anyone able to link me a working Ethernet adapter for the Wii?",
+      "content_text": "So a new Slippi configuration was modded in called SlippWii where you can literally play Slippi Melee on your Wii online with dolphin users. Works pretty good. I’ve got this adapter today but I don’t know if it works…",
+      "date_published": "2026-11-04T06:32:43Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "d8a89993727a",
+      "url": "https://www.reddit.com/r/wii/comments/1xnfdvy/wii_collection_since_2009/",
+      "title": "Wii collection since 2009",
+      "content_text": "I also have Mario party 8",
+      "date_published": "2026-11-04T04:53:33Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "492e6ace070d",
+      "url": "https://www.reddit.com/r/wii/comments/1xna905/question_about_previously_downloaded_wii_digital/",
+      "title": "Question about previously downloaded Wii digital software",
+      "content_text": "Hey, does anyone have any USA Wiis that still have legally downloaded WiiWare and Virtual Console software that is listed under \"Titles You've Downloaded\"?",
+      "date_published": "2026-11-04T00:38:44Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "cf2a37c5d759",
+      "url": "https://www.reddit.com/r/wii/comments/1xn8bbr/some_new_pickups_to_add_to_the_wii_collection/",
+      "title": "Some new pickups to add to the wii collection",
+      "content_text": "Metal Slug Anthology, SNK arcade classics, Kirby Air Ride(i know its GC) and Tatsunoko vs Capcom. My only gripe is with SNK arcade classics, because World Heroes requires 10 trophies to unlock the game, but at least…",
+      "date_published": "2026-11-03T23:12:30Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "b25ab4396885",
+      "url": "https://www.reddit.com/r/wii/comments/1xms1sh/are_these_unofficial_unbranded_classic/",
+      "title": "Are these unofficial, unbranded classic controllers good enough?",
+      "content_text": "Or should i go for an old and yellowed official classic controller?",
+      "date_published": "2026-11-03T12:47:51Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "3278e67fa31f",
+      "url": "https://www.reddit.com/r/wii/comments/1xmjen9/christmas_lights_as_sensor_bar/",
+      "title": "Christmas Lights as sensor bar",
+      "content_text": "You can use Christmas Lights as a sensor bar replacement. Incase you somehow dont have candles laying around lol",
+      "date_published": "2026-11-03T04:25:28Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "ed13f06de9c7",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFh3SERjMFFwZklUVGg1RXVDaFBDS1hLRGZydVlNUTM4OHNWVUt2VTRkZFhZSmhYV3pxYWctdDh6TkFtWm1FLVB0dHhNcGFGUnpWYmJfejdLOGthUldjUmYzb0pLUnBKcFYwYS0xMThFZ0VlTFdRVGJrWm1aTDFNWEdSQVNkcktFblRmXw?oc=5",
+      "title": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
+      "content_text": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
+      "date_published": "2026-11-02T18:10:29Z",
+      "authors": [
+        {
+          "name": "Retro Dodo"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "a0c0e3ff6c3f",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xknkdk/another_metroid_2_remake_has_made_its_way_to_the/",
+      "title": "Another Metroid 2 Remake Has Made Its Way to the Nintendo Wii",
+      "content_text": "I've written a little article about AM2R GX, a new native Nintendo Wii port of Another Metroid 2 Remake, developed by cmyksoda. I just love that we're approaching the Wii's twentieth birthday and people are still…",
+      "date_published": "2026-10-31T22:47:07Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "3652089356b4",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xkmo3q/cwebview_a_webbased_homebrew_development_method/",
+      "title": "CWebView - A Web-Based Homebrew Development Method (Web Browser)",
+      "content_text": "CWebView - A Web-Based Homebrew Development Method (Web Browser)",
+      "date_published": "2026-10-31T22:04:30Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "d45cb87b4ee9",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xkbbwt/usb_loader_gx_40_forwarder_stock_safety_boot_image/",
+      "title": "Usb loader gx 4.0 & forwarder stock safety boot image",
+      "content_text": "Greetings. I’ve been using new artificial intelligence tools, such as \"Claude\" or \"Codex,\" to modify boot images. The image shown is the stock Nintendo health and safety screen; my goal is for the result to look as…",
+      "date_published": "2026-10-31T14:15:03Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "3413f05d8fa0",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xk2nch/i_got_a_perfect_game_in_wii_play_tanks_read/",
+      "title": "I got a perfect game in Wii Play Tanks! (read description)",
+      "content_text": "A little over a year ago, I got a perfect game in Wii Play Tanks (no lives lost while beating all 100 missions), and I posted it to YouTube as my first video 😁 — I became the sixth person ever to have a verified…",
+      "date_published": "2026-10-31T06:10:29Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "c64dde292934",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xj5jfb/yo_so_im_trying_to_make_a_forwarder_for_caveex/",
+      "title": "Yo, so I'm trying to make a forwarder for CaveEx, but I keep getting this error for some reason.",
+      "content_text": "The channel worked just fine, and the forwarder managed to find the boot.dol and loaded it, but it always seemed to crash after that. I used CustomizeMii to make the wad file, and I've tried both the comex and…",
+      "date_published": "2026-10-30T04:07:07Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "ce3fa9d6925f",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xivzwv/wii_hdmi_mod/",
+      "title": "Wii HDMI Mod",
+      "content_text": "Is it still possible to get my Wii serviced and get an HDMI mod installed? I was looking around and most sites are just selling the chip/mod for it and I know absolutely nothing about soldering and do not want to mess…",
+      "date_published": "2026-10-29T20:57:24Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "4edd75978dfb",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xiizi7/is_there_any_new_super_mario_galaxy_splitscreen/",
+      "title": "Is there any new Super Mario Galaxy SPLITSCREEN mod",
+      "content_text": "I wanted to try to play this game on splitscreen but the only mod I found (by Mr Brocoli) seems to be abandoned and full of glitches, bugs and power-up crash. Isn't there any other mod out there?",
+      "date_published": "2026-10-29T12:45:52Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "fb344aa21b7e",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xiioss/are_there_issues_using_a_partitioned_hdd_with_the/",
+      "title": "Are there issues using a partitioned HDD with the vWii?",
+      "content_text": "Hi, I have a partitioned 2TB external HDD connected to the two back ports of my Wii-U. One partition for Wii-U stuff, one for GC/Wii stuff. The Wii-U partition works perfectly - fast, stable, reliable. The vWii…",
+      "date_published": "2026-10-29T12:32:03Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "57fec4247196",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xidsv8/is_there_a_compiled_list_of_game_ports_to_the_wii/",
+      "title": "is there a compiled list of game ports to the Wii or do you have to search",
+      "content_text": "like this! https://www.reddit.com/r/WiiHacks/s/rf4a4wRiDy",
+      "date_published": "2026-10-29T07:57:31Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "3f3f53daab5f",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xh0xuc/i_have_a_stupid_question_can_someone_try_to_port/",
+      "title": "I have a stupid question can someone try to port Tomodachi Life to the wii?",
+      "content_text": "Why I am asking is because I am a big fan of Tomodachi Life and I want it on the wii.",
+      "date_published": "2026-10-27T18:42:22Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "4584976d3f66",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xgroxn/wii_lan_adapter_any_reliable_budget_options/",
+      "title": "Wii LAN adapter - any reliable budget options?",
+      "content_text": "Hey I am looking for a Wii USB LAN adapter for my Wii as my internet connection is just way too inconsistent through WiFi, and the official adapters are way too expensive. Does anyone know of any cheap alternatives…",
+      "date_published": "2026-10-27T12:52:26Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "67f8d841da4f",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xghuxa/red_transparent_wii_case/",
+      "title": "Red Transparent Wii Case",
+      "content_text": "Red Transparent Wii Case",
+      "date_published": "2026-10-27T03:24:20Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "db9eddafe83c",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MVAtVnZrZHRzWGVBRWktMkViZFRFTktpdlEyTDk5N2o0dFV3WGI3RjF4NnptUHFJU1ZJMkhUTi02YlFfUVdXR3RKeXFUc01OUHhWOU1RQ3hjOVFqWmpaUW1JRGtZRzhvNW9hN3ZRMFM3djRJUHFMNVlPemU?oc=5",
+      "title": "5 Classic Nintendo Wii Games That Are Unplayable Today",
+      "content_text": "5 Classic Nintendo Wii Games That Are Unplayable Today",
+      "date_published": "2026-10-26T07:00:00Z",
+      "authors": [
+        {
+          "name": "SVG"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "5b9a4f30e349",
+      "url": "https://dolphin-emu.org/blog/2026/09/24/dolphin-progress-report-release-2609/",
+      "title": "Dolphin Progress Report: Release 2609",
+      "content_text": "Welcome to Dolphin 2609's accompanying Progress Report! Like everyone else, we've been doing our best to weather the Techpocalypse brought on by AI, but it's really come after us in the past few months. Our website has…",
+      "date_published": "2026-09-24T04:36:38Z",
+      "authors": [
+        {
+          "name": "Dolphin Emulator"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "cac75d39f101",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pT2c3cE9reGJrODNibHg3d2RYandhdHozMkVnY04yOEtFdW1sTTF0WkFzeUk0T01GWkp1VmprVTdjdUd0VVBoYk1wQnpFT054TGhHbHJJRlNNS3NSQU9pc05XamRma0piZi1MemtFRGJMdw?oc=5",
+      "title": "5 Nintendo Wii Games That Are 10/10 Masterpieces",
+      "content_text": "5 Nintendo Wii Games That Are 10/10 Masterpieces",
+      "date_published": "2026-08-25T07:00:00Z",
+      "authors": [
+        {
+          "name": "ScreenRant"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "3fbd14de8f0f",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEVW1OX1BidnhoNDJZQWVfTjlfMFNjZXRVSVlnMC01VlFwejRzcmNid1NKM3VKTF9KallwTFdNVVFlczA2NEN5bXFLZHVUZ1NKZVlYUThKNzcyVVVYZ2p0a1NTb0w5d0hKM1M1Nk9BNGt0X3RySWhlSA?oc=5",
+      "title": "Three Nintendo Wii Accessories Owners Loved (And Two They Hated)",
+      "content_text": "Three Nintendo Wii Accessories Owners Loved (And Two They Hated)",
+      "date_published": "2026-07-20T07:00:00Z",
+      "authors": [
+        {
+          "name": "BGR"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "de16ade6e837",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXV5MkxyMERBN202ckxHTGpucm5iVU0yQ01nemRsWm56ZmtfRUZvNG8wQUdDal9hczFiYTRieUNlaXdBaEhUTWZmRURxUXJSSEhaLVpQck50OHFjMlRkcUgwbW9uWXduclhQVVRmN0Q0RzQ?oc=5",
+      "title": "Why Is Buying An Old Nintendo Wii So Much Cheaper Than A GameCube?",
+      "content_text": "Why Is Buying An Old Nintendo Wii So Much Cheaper Than A GameCube?",
+      "date_published": "2026-07-10T07:00:00Z",
+      "authors": [
+        {
+          "name": "BGR"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "ac936a45a54c",
+      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+      "title": "Dolphin Progress Report: Release 2606",
+      "content_text": "Welcome to the Progress Report for Dolphin Release 2606. We usually prefer to launch toward the beginning of the month, but a slew of important, large, and technically challenging changes had us working overtime. Strap…",
+      "date_published": "2026-06-25T04:05:01Z",
+      "authors": [
+        {
+          "name": "Dolphin Emulator"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "d356528af061",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qVkg4Q0l5VFRhemNnakhzWkU0ZzdjVTNtRERwczhra3RrMV9xOEVaRjBFdlAwTTJWWnNmZk5sS1p0T050aDN6OHJ5akxQZ0o4S0s3OEh2ZU9UeDZGczFWZV9rLXJsdS10?oc=5",
+      "title": "Is The Nintendo Wii Still Worth Buying In 2026?",
+      "content_text": "Is The Nintendo Wii Still Worth Buying In 2026?",
+      "date_published": "2026-06-02T07:00:00Z",
+      "authors": [
+        {
+          "name": "BGR"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "17861fa5b00f",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85T1I0WXBkRWxHRmh1M281blA0T3hTZFBOQUNpMG5RdUR0MTFBd2tSdUwyb3VSekZoRFZ0S1ZHWTNjc2JVeGxHWkVnNWdMS2JlZTdPLWFlcV95WVp0U2pUdHlRY2tzdjRnejBlN0pDcVkyeHU4bnBBcHktWQ?oc=5",
+      "title": "7 Untouchable Nintendo Wii Games Nobody Remembers",
+      "content_text": "7 Untouchable Nintendo Wii Games Nobody Remembers",
+      "date_published": "2026-04-14T07:00:00Z",
+      "authors": [
+        {
+          "name": "Comic Book Resources"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "79862c0cbd30",
+      "url": "https://hackaday.com/2026/04/08/youve-all-seen-a-hackintosh-but-have-you-seen-one-on-a-wii/",
+      "title": "You’ve All Seen A Hackintosh, But Have You Seen One On A Wii?",
+      "content_text": "The Intel era of Apple Macs led to so-called “Hackintoshes”, more normal PCs running x86 MacOS X. Now Bryan Keller proves that a Hackintosh isn’t restricted to the x86 era…",
+      "date_published": "2026-04-09T05:00:02Z",
+      "authors": [
+        {
+          "name": "Hackaday"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "cf1ef8f6dc13",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wRUQ1cFAwQzA4OW9NLWJKcUlaTktsdmpVcDRjR0s3M2hHR1ZhcUY5OG1odlVUdWl2bmoxZ3Uyc3B4M2YxVkRMQkdWalRURm1RTFl1SmF5VURnVHV5ZzRtYjUtYmhhSDhBRHFTejd2R2owci0xRWc?oc=5",
+      "title": "5 Clever Uses For Your Old Nintendo Wii Remotes",
+      "content_text": "5 Clever Uses For Your Old Nintendo Wii Remotes",
+      "date_published": "2026-02-18T08:00:00Z",
+      "authors": [
+        {
+          "name": "BGR"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "e8fe48d4d728",
+      "url": "https://hackaday.com/2026/01/22/ordering-pizza-on-the-nintendo-wii-again/",
+      "title": "Ordering Pizza On The Nintendo Wii (Again)",
+      "content_text": "The Nintendo Wii first launched in 2006, and quickly became a fixture in living rooms around the world. It offered motion-controlled bowling, some basic internet features, and a pretty decent Zelda…",
+      "date_published": "2026-01-22T09:00:06Z",
+      "authors": [
+        {
+          "name": "Hackaday"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    }
+  ]
+}

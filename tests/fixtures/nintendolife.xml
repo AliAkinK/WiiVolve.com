@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Test fixture: https://www.nintendolife.com/feeds/latest captured 2026-11-04T16:46:31Z, trimmed to 12 of 25 items. Markup otherwise as served. -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Nintendo Life | Latest Updates</title>
+		<link>https://www.nintendolife.com/feeds/latest</link>
+		<description></description>
+		<language>en</language>
+		<copyright>(c) 2026 Hookshot Media</copyright>
+		<lastBuildDate>Wed, 04 Nov 2026 16:45:00 GMT</lastBuildDate>
+		<docs>https://www.nintendolife.com/feeds</docs>
+		<generator>dgpCMS/1.0 https://hookshot.media</generator>
+		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
+		<ttl>5</ttl>
+		<image>
+			<url>https://images.nintendolife.com/site/icon/128x128.png</url>
+			<title>Nintendo Life</title>
+			<link>https://www.nintendolife.com/</link>
+			<width>128</width>
+			<height>128</height>
+		</image>
+		<atom:link href="https://www.nintendolife.com/feeds/latest" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Wed, 04 Nov 2026 16:15:00 GMT</pubDate>
+			<title>Pokémon Pokopia&#039;s Limited-Time &#039;Apples To Applin&#039; Event Begins This Month</title>
+			<description><![CDATA[<p><strong>Applin of my eye.</strong></p><p>The next limited-time in-game event for <a href="https://www.nintendolife.com/games/nintendo-switch-2/pokemon-pokopia">Pokémon Pokopia</a> is almost upon us, and it comes with a fresh batch of new 'mon to add to your towns.</p><p>The 'Apples to Applin' event begins later this month on <strong>16th November</strong> and will be sticking around until <strong>1st December</strong>.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/pokemon-pokopias-limited-time-apples-to-applin-event-begins-this-month">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208623</guid>
+			<link>https://www.nintendolife.com/news/2026/11/pokemon-pokopias-limited-time-apples-to-applin-event-begins-this-month</link>
+			<media:thumbnail url="https://images.nintendolife.com/a380ec8f62487/small.jpg" />
+			<media:content url="https://images.nintendolife.com/a380ec8f62487/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 15:30:00 GMT</pubDate>
+			<title>Kirby Air Riders&#039; Cancelled Halloween Event Gets A Returning Replacement</title>
+			<description><![CDATA[<p><strong>Update: And it starts today.</strong></p><p>If you have been keeping up with <a href="https://www.nintendolife.com/games/nintendo-switch-2/kirby-air-riders">Kirby Air Riders</a> of late, you might have been excited to dive into the game's new Halloween event this weekend and pick up some spooky Ghost headwear while you're at it. Well, we're sorry, but that's not going to happen, as Nintendo has cancelled the event.</p><p>The event was originally scheduled to run from 28th October through until 4th November, but many players reported nasty technical difficulties when taking part in early matches, where the screen would regularly freeze — which, in a game as frantic as Air Riders, isn't going to cut it.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/kirby-air-riders-cancelled-halloween-event-gets-a-returning-replacement">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208394</guid>
+			<link>https://www.nintendolife.com/news/2026/11/kirby-air-riders-cancelled-halloween-event-gets-a-returning-replacement</link>
+			<media:thumbnail url="https://images.nintendolife.com/0a96007f379cc/small.jpg" />
+			<media:content url="https://images.nintendolife.com/0a96007f379cc/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+			<title>Pokémon Pokopia&#039;s Second DLC Wave Launches Next Month</title>
+			<description><![CDATA[<p><strong>Dazzling!</strong></p><p>Those after even more <a href="https://www.nintendolife.com/games/nintendo-switch-2/pokemon-pokopia">Pokémon Pokopia</a> content need not wait too much longer, as The Pokémon Company has announced that the game's second wave of DLC will launch next month on <strong>9th December</strong>.</p><p>The 'Dazzling Decorations' DLC isn't quite as big as its Bubbly Basin predecessor, but it's still a very cute addition for all those who are after a little bit of 'mon customisation. The biggie this time around is a bunch of new accessories that you can stick on Ditto and your Poké pals. Did you need to see Dedenne in a pair of shades? This is the pack for you.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/pokemon-pokopias-second-dlc-wave-launches-next-month">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208621</guid>
+			<link>https://www.nintendolife.com/news/2026/11/pokemon-pokopias-second-dlc-wave-launches-next-month</link>
+			<media:thumbnail url="https://images.nintendolife.com/6dfdc179346d0/small.jpg" />
+			<media:content url="https://images.nintendolife.com/6dfdc179346d0/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 14:15:00 GMT</pubDate>
+			<title>Ocarina Of Time Remake Tops Metacritic&#039;s GOTY List, And It&#039;s High On The All-Time Ranking</title>
+			<description><![CDATA[<p><strong>Your move, GTA.</strong></p><p>Just in case you missed it, the <a href="https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time">Ocarina of Time</a> remake <a href="https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-the-legend-of-zelda-ocarina-of-time-on-switch-2">reviews are in</a>, and they are really rather positive. They are so positive, in fact, that the game has shot straight to the top of Metacritic's <a href="https://www.metacritic.com/browse/game/all/all/current-year/">Best Games of 2026 list</a>, and it's placing comfortably high on the site's <a href="https://www.metacritic.com/browse/game/">all-time rankings</a>.</p><p>At the time of writing, the game has a <a href="https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time-2026/">Metascore</a> of 96 based on 81 critic reviews. This has bumped down the previous gold medallist, <a href="https://www.nintendolife.com/games/nintendo-switch-2/sektori">Sektori</a>, into second, with a score of 93. <a href="https://www.nintendolife.com/games/nintendo-switch-2/resident-evil-2-deluxe-edition">Resident Evil 2: Deluxe Edition</a> follows in third, also with 93, with <a href="https://www.nintendolife.com/games/nintendo-switch-2/witcher-iii-wild-hunt-remastered">The Witcher III: Wild Hunt - Remaster</a> (92) and <a href="https://www.nintendolife.com/games/nintendo-switch-2/big-walk">Big Walk</a> (91) rounding out the top five.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/ocarina-of-time-remake-tops-metacritics-goty-list-and-its-high-on-the-all-time-ranking">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208610</guid>
+			<link>https://www.nintendolife.com/news/2026/11/ocarina-of-time-remake-tops-metacritics-goty-list-and-its-high-on-the-all-time-ranking</link>
+			<media:thumbnail url="https://images.nintendolife.com/930bc0c306da1/small.jpg" />
+			<media:content url="https://images.nintendolife.com/930bc0c306da1/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 13:30:00 GMT</pubDate>
+			<title>&quot;Worth Your Time&quot; - Digital Foundry Delivers Its Tech Review For Zelda: Ocarina Of Time</title>
+			<description><![CDATA[<p><strong>Another Switch 2 stunner.</strong></p><p>Reviews for <a href="https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time">The Legend of Zelda: Ocarina of Time</a> are live, and that includes a tech-focused assessment from John Linneman over at Digital Foundry.</p><p>Naturally, Linneman heaps praise upon Nintendo's remake, with really only a couple of minor nitpicks. To start, resolution ranges from 1080p up to 1440p when docked and from 720p to 1080p during handheld mode. It's noted that handheld mode does implement some tweaks such as more aggressive level-of-detail distances and texture downgrades, but it's overall a very crisp, handsome game.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/worth-your-time-digital-foundry-delivers-its-tech-review-for-zelda-ocarina-of-time">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208609</guid>
+			<link>https://www.nintendolife.com/news/2026/11/worth-your-time-digital-foundry-delivers-its-tech-review-for-zelda-ocarina-of-time</link>
+			<media:thumbnail url="https://images.nintendolife.com/0cb9986d52b2e/small.jpg" />
+			<media:content url="https://images.nintendolife.com/0cb9986d52b2e/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 12:45:00 GMT</pubDate>
+			<title>Round Up: The Reviews Are In For The Legend Of Zelda: Ocarina Of Time On Switch 2</title>
+			<description><![CDATA[<p><strong>HYAAAH or lower?</strong></p><p>The week is finally upon us, folks! We are less than 24 hours away from the launch of <a href="https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time">Ocarina of Time</a> on Switch 2, and to say that we're all excited would be an understatement.</p><p>Our excitement is made all the bigger by the fact that the game's reviews are now in, so we can start to get an idea of what the full experience has in store for us.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-the-legend-of-zelda-ocarina-of-time-on-switch-2">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208607</guid>
+			<link>https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-the-legend-of-zelda-ocarina-of-time-on-switch-2</link>
+			<media:thumbnail url="https://images.nintendolife.com/f66b12865e978/small.jpg" />
+			<media:content url="https://images.nintendolife.com/f66b12865e978/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 12:15:00 GMT</pubDate>
+			<title>Switch 1 &amp; 2 Cartridges Under Threat As Key ROM Manufacturer Exits Business</title>
+			<description><![CDATA[<p><strong>Move may accelerate transition to digital.</strong></p><p>Macronix, one of Nintendo's key ROM manufacturers for physical game cartridges, is ceasing the production of ROM altogether.</p><p>This comes via analyst <a href="https://x.com/gibbogame/status/2117805196130582970">David Gibson</a> who relayed the news from Macronix's latest financial release. According to the data, ROM products accounted for just 5% of the firm's overall revenue for Q3 2026, representing a stark decrease of 39% year-on-year.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/switch-1-and-2-cartridges-under-threat-as-key-rom-manufacturer-exits-business">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208598</guid>
+			<link>https://www.nintendolife.com/news/2026/11/switch-1-and-2-cartridges-under-threat-as-key-rom-manufacturer-exits-business</link>
+			<media:thumbnail url="https://images.nintendolife.com/adc8a2883031b/small.jpg" />
+			<media:content url="https://images.nintendolife.com/adc8a2883031b/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 11:45:00 GMT</pubDate>
+			<title>Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags</title>
+			<description><![CDATA[<p><strong>Tag, you're it!</strong></p><p>Nintendo has joined the <a href="https://accessiblegames.com/">Accessible Games Initiative</a> and, in the process, has added a collection of <a href="https://www.nintendo.com/us/store/games/tags/">new accessibility tags</a> to the eShop.</p><p>The new tags — which include various accessibility features like 'Narrated Menus', 'Full Input Remapping', and 'Playable with Buttons Only' — make it easier to sort through games based on specific requirements. Simply select a tag from the <a href="https://www.nintendo.com/us/store/games/tags/">eShop Tags page</a>, and it will bring up every game where that requirement can be applied.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/nintendo-joins-the-accessible-games-initiative-adopting-a-bunch-of-new-eshop-game-tags">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208586</guid>
+			<link>https://www.nintendolife.com/news/2026/11/nintendo-joins-the-accessible-games-initiative-adopting-a-bunch-of-new-eshop-game-tags</link>
+			<media:thumbnail url="https://images.nintendolife.com/c8587b9426358/small.jpg" />
+			<media:content url="https://images.nintendolife.com/c8587b9426358/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 11:00:00 GMT</pubDate>
+			<title>Review: The Legend Of Zelda: Ocarina Of Time (Switch 2) - A Stunning Remake, But Not Quite Definitive</title>
+			<description><![CDATA[<p><strong>A link between eras.</strong></p><p>You’re not ready for this. No matter how many trailers you’ve watched or how much pre-release footage you’ve pored over, walking out into Hyrule Field for the first time in the <a href="https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time">Zelda: Ocarina of Time</a> remake is a revelatory experience.</p><p>It’s easy to forget how impactful Hyrule Field really was in the <a href="https://www.nintendolife.com/games/n64/legend_of_zelda_ocarina_of_time">N64 original</a>. While the game itself is still held in remarkably high regard, its main hub world has arguably been supplanted by later entries, particularly <a href="https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition">Breath of the Wild</a>'s enormous, immersive open world. It’s pioneering, yes, but it’s also quite small and empty when viewed through a modern lens.</p><p>Read the <a href="https://www.nintendolife.com/reviews/nintendo-switch-2/the-legend-of-zelda-ocarina-of-time">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-207828</guid>
+			<link>https://www.nintendolife.com/reviews/nintendo-switch-2/the-legend-of-zelda-ocarina-of-time</link>
+			<media:thumbnail url="https://images.nintendolife.com/89f2fe272afb6/small.jpg" />
+			<media:content url="https://images.nintendolife.com/89f2fe272afb6/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 10:15:00 GMT</pubDate>
+			<title>The Elder Scrolls 6: Sentinel Is Reportedly Still &quot;More Than Two Years Away&quot;</title>
+			<description><![CDATA[<p><strong>You are over-encumbered.</strong></p><p>After initially announcing <a href="https://www.pushsquare.com/games/ps5/elder_scrolls_vi_sentinel">The Elder Scrolls 6</a> all the way back in 2018, Bethesda has now <a href="https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-finally-has-an-official-title">officially confirmed</a> its subtitle: Sentinel. <em>Ooh</em>.</p><p>However, if you're under the impression that this means the game is somewhat imminent, a new post from Bloomberg's <a href="https://bsky.app/profile/jasonschreier.bsky.social/post/3mzg733y6os2p">Jason Schreier</a> suggests that it is still "more than two years away" (thanks, <a href="https://www.pushsquare.com/news/2026/11/the-elder-scrolls-6-sentinel-is-still-at-least-two-years-away-as-disappointment-follows-new-trailer">Push Square</a>).</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-sentinel-is-reportedly-still-more-than-two-years-away">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208594</guid>
+			<link>https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-sentinel-is-reportedly-still-more-than-two-years-away</link>
+			<media:thumbnail url="https://images.nintendolife.com/118cb51578f92/small.jpg" />
+			<media:content url="https://images.nintendolife.com/118cb51578f92/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 06:55:00 GMT</pubDate>
+			<title>Street Fighter 6 &#039;Winter Pocket Present&#039; Fighting Pass Adds Super Gem Fighter Mini Mix</title>
+			<description><![CDATA[<p><strong>And a bunch of other rewards.</strong></p><p>Capcom continues to roll out regular updates for <a href="https://www.nintendolife.com/games/nintendo-switch-2/street-fighter-6-years-1-2-fighters-edition">Street Fighter 6</a>, and it's now lifted the lid on its "<strong>Winter Pocket Present</strong>" Fighting Pass, arriving this week.</p><p>This new pass is themed around the 1997 arcade chibi-style title <a href="https://www.nintendolife.com/games/arcade/super_gem_fighter_mini_mix">Super Gem Fighter Mini Mix</a> (aka <a href="https://www.nintendolife.com/games/arcade/super_gem_fighter_mini_mix">Pocket Fighter</a>) and includes all sorts of rewards inspired by this classic game.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/street-fighter-6-winter-pocket-present-fighting-pass-adds-super-gem-fighter-mini-mix">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208583</guid>
+			<link>https://www.nintendolife.com/news/2026/11/street-fighter-6-winter-pocket-present-fighting-pass-adds-super-gem-fighter-mini-mix</link>
+			<media:thumbnail url="https://images.nintendolife.com/383e6737a8b8f/small.jpg" />
+			<media:content url="https://images.nintendolife.com/383e6737a8b8f/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Wed, 04 Nov 2026 05:55:00 GMT</pubDate>
+			<title>The Legend Of Zelda: Ocarina Of Time Switch 2 Updated (Version 1.1.1), Here Are The Patch Notes</title>
+			<description><![CDATA[<p><strong>Adds support for Zelda Notes.</strong></p><p>Some parts of the world are now just hours away from the launch of <a href="https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time">Zelda: Ocarina of Time</a> remake for Switch 2, and ahead of this, Nintendo has rolled out a new game update.</p><p>The anticipated release has been bumped from <strong>Version 1.0.0</strong> to <strong>Version 1.1.1</strong>. Next time you check your game, you should be prompted to update. We had a look and can confirm our copy is also running on Version 1.1.1.</p><p>Read the <a href="https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-1-here-are-the-patch-notes">full article on nintendolife.com</a></p>]]></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208581</guid>
+			<link>https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-1-here-are-the-patch-notes</link>
+			<media:thumbnail url="https://images.nintendolife.com/7cb213a589318/small.jpg" />
+			<media:content url="https://images.nintendolife.com/7cb213a589318/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+	</channel>
+</rss>

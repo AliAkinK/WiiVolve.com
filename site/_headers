@@ -1,0 +1,45 @@
+# Response headers for Cloudflare Workers Static Assets.
+# Parsed by Cloudflare at deploy time and never served. Contract: docs/ARCHITECTURE.md, sections 7.2 and 7.3.
+# Paths that no rule below gives a Cache-Control keep the platform default
+# ("public, max-age=0, must-revalidate" plus an ETag): HTML, CSS, JS, JSON, XML, the manifest.
+# Values for the same header from two matching rules are joined with a comma, so each
+# path gets Cache-Control from exactly one rule. Comments must start at the beginning of a line.
+
+/*
+  Content-Security-Policy: default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self' https://static.cloudflareinsights.com; connect-src 'self' https://cloudflareinsights.com; font-src 'self'; manifest-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  Cross-Origin-Opener-Policy: same-origin
+  Strict-Transport-Security: max-age=31536000
+
+# Never change in place: a new font or artifact gets a new file name, and its own rule here. The files are
+# named one by one because header rules also apply to 404 responses: "/fonts/*" would cache a mistyped
+# font URL's 404 for a year.
+/fonts/bricolage-grotesque-96.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+/legacy/header-2009.webp
+  Cache-Control: public, max-age=31536000, immutable
+
+# Icons and the share image: one day.
+/favicon.svg
+  Cache-Control: public, max-age=86400
+
+/favicon.ico
+  Cache-Control: public, max-age=86400
+
+/apple-touch-icon.png
+  Cache-Control: public, max-age=86400
+
+/icon-192.png
+  Cache-Control: public, max-age=86400
+
+/icon-512.png
+  Cache-Control: public, max-age=86400
+
+/icon-maskable-512.png
+  Cache-Control: public, max-age=86400
+
+/og.png
+  Cache-Control: public, max-age=86400

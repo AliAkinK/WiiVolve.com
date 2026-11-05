@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Synthetic fixture: starts with a UTF-8 byte order mark. -->
+<rss version="2.0"><channel><title>BOM feed</title><link>https://edge.example/</link>
+<item><title>Café owners love the Wii</title><link>https://edge.example/bom-1</link><description>Starts with a byte order mark: naïve parsers choke on it.</description><pubDate>Mon, 02 Nov 2026 10:00:00 GMT</pubDate></item>
+</channel></rss>

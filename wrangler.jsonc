@@ -1,0 +1,28 @@
+// Cloudflare Workers Static Assets, no Worker script. Contract: docs/ARCHITECTURE.md, section 7.1.
+// Deploy with `npx --yes wrangler@4 deploy` (CI does this; see docs/RUNBOOK.md for the one-time setup).
+{
+  "name": "wiivolve",
+  "compatibility_date": "2026-11-04",
+
+  // Everything in site/ is uploaded and served as-is. site/.assetsignore keeps junk out,
+  // site/_headers and site/_redirects are parsed by Cloudflare and never served.
+  "assets": {
+    "directory": "./site",
+    "not_found_handling": "404-page",          // unknown paths get site/404.html with status 404
+    "html_handling": "auto-trailing-slash"      // /index.html -> /, /name -> name.html
+  },
+
+  // Also reachable at wiivolve.<your-subdomain>.workers.dev (handy before the domain is attached).
+  "workers_dev": true,
+  // No public per-version copies (<id>-wiivolve.<subdomain>.workers.dev): with workers_dev on, Version URLs
+  // are otherwise enabled by default, and every deploy would leave another public copy of an old build.
+  "preview_urls": false,
+
+  // wiivolve.com is a Custom Domain: the Worker is the origin and Cloudflare manages the DNS
+  // record and certificate. Delete the old DNS records for wiivolve.com first (RUNBOOK, step 2).
+  // www.wiivolve.com is NOT listed: it is a placeholder DNS record plus a Redirect Rule to the
+  // apex (RUNBOOK, step 4), because a deploy replaces this Worker's Custom Domains with this list.
+  "routes": [
+    { "pattern": "wiivolve.com", "custom_domain": true }
+  ]
+}

@@ -1,0 +1,5 @@
+# WiiVolve: everything here may be crawled.
+User-agent: *
+Allow: /
+
+Sitemap: https://wiivolve.com/sitemap.xml

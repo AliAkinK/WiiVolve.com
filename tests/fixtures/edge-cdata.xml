@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Synthetic fixture: CDATA everywhere. A comment with <item><title>Not an item</title></item> inside must be ignored. -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title><![CDATA[CDATA & Co]]></title>
+<link>https://edge.example/</link>
+<item>
+<title><![CDATA[Wii <b>bold</b> & raw ampersand]]></title>
+<link><![CDATA[https://edge.example/cdata-1]]></link>
+<description>Before <![CDATA[<em>inside &amp; literal</em>]]> after &amp; decoded</description>
+<content:encoded><![CDATA[<p>Content with </item> and <title>fake</title> inside CDATA</p>]]></content:encoded>
+<dc:creator><![CDATA[Jane Doe]]></dc:creator>
+<category><![CDATA[Wii]]></category>
+<category>Homebrew</category>
+<guid isPermaLink="false">cdata-1</guid>
+<pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+<item>
+<!-- <title>commented-out title</title> -->
+<title>Second <![CDATA[part]]> joined</title>
+<link>https://edge.example/cdata-2</link>
+<description><![CDATA[one]]><![CDATA[ two]]></description>
+<pubDate>Mon, 02 Nov 2026 11:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

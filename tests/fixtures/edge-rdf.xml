@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Synthetic fixture: RSS 1.0 (RDF). Items are siblings of the channel. -->
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel rdf:about="https://edge.example/rdf">
+<title>RDF Site Summary</title>
+<link>https://edge.example/</link>
+<description>RSS 1.0</description>
+<items><rdf:Seq><rdf:li rdf:resource="https://edge.example/rdf/1"/><rdf:li rdf:resource="https://edge.example/rdf/2"/></rdf:Seq></items>
+</channel>
+<item rdf:about="https://edge.example/rdf/1">
+<title>RDF item about the Wii Remote</title>
+<link>https://edge.example/rdf/1</link>
+<description>First RDF item</description>
+<content:encoded><![CDATA[<p>Full <em>content</em></p>]]></content:encoded>
+<dc:date>2026-11-01T12:00:00-05:00</dc:date>
+<dc:creator>RDF Author</dc:creator>
+<dc:subject>Wii</dc:subject>
+</item>
+<item rdf:about="https://edge.example/rdf/2">
+<title>RDF item without a link element</title>
+<description>Uses rdf:about</description>
+<dc:date>2026-10-30</dc:date>
+</item>
+</rdf:RDF>

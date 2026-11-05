@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Synthetic fixture: XSS canaries. Hostile text must come out escaped; non-http(s) links must drop the item. -->
+<rss version="2.0">
+<channel>
+<title>Hostile &lt;feed&gt;</title>
+<link>https://hostile.example/</link>
+<item>
+<title>&lt;script&gt;alert(1)&lt;/script&gt; Wii exploit headline</title>
+<link>https://hostile.example/1</link>
+<description><![CDATA[<script>alert(2)</script><p>Excerpt with &lt;script&gt;alert(3)&lt;/script&gt; text and <img src=x onerror=alert(4)> inline on the Wii</p>]]></description>
+<pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+<source url="https://hostile.example/">&lt;b onmouseover="alert(5)"&gt;Evil Publisher&lt;/b&gt;</source>
+</item>
+<item>
+<title>"&gt;&lt;svg onload=alert(6)&gt; Wii quote breaker ' and "</title>
+<link>https://hostile.example/2?x="&gt;&lt;script&gt;</link>
+<description>Attribute &quot; breaker &#x27; &lt;/textarea&gt;&lt;img src=x onerror=alert(7)&gt;</description>
+<pubDate>Wed, 04 Nov 2026 11:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Wii javascript link should be dropped</title>
+<link>javascript:alert(8)</link>
+<pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Wii mixed-case javascript link should be dropped</title>
+<link> JaVaScRiPt:alert(9)</link>
+<pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Wii tab-split javascript link should be dropped</title>
+<link>java&#x09;script:alert(10)</link>
+<pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Wii data link should be dropped</title>
+<link>data:text/html,&lt;script&gt;alert(11)&lt;/script&gt;</link>
+<pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Wii relative link is resolved against the feed URL</title>
+<link>/relative/wii</link>
+<pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

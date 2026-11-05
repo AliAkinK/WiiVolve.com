@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en"<!--@htmlClass-->>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title><!--@title--></title>
+<meta name="description" content="<!--@description-->">
+<link rel="canonical" href="<!--@url-->/">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#fbfbfc" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121a2e" media="(prefers-color-scheme: dark)">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="WiiVolve">
+<meta property="og:title" content="<!--@title-->">
+<meta property="og:description" content="<!--@description-->">
+<meta property="og:url" content="<!--@url-->/">
+<meta property="og:image" content="<!--@url-->/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="A white console lying on its side, its disc slot glowing blue, beside the WiiVolve wordmark.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="A white console lying on its side, its disc slot glowing blue, beside the WiiVolve wordmark.">
+<link rel="alternate" type="application/rss+xml" title="WiiVolve (RSS)" href="/feed.xml">
+<link rel="alternate" type="application/feed+json" title="WiiVolve (JSON Feed)" href="/feed.json">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preload" href="/fonts/bricolage-grotesque-96.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/print.css" media="print"><!--@party-->
+<script type="module" src="/app.js"></script>
+<script type="application/ld+json"><!--@jsonld--></script>
+</head>
+<body id="top">
+<a class="skip" href="#main">Skip to the stories</a>
+<header class="bar">
+  <div class="bar-in wrap">
+    <a class="brand" href="/" aria-label="WiiVolve home"><span class="mini" aria-hidden="true"></span><span aria-hidden="true">WiiVolve</span></a>
+    <div class="ctl">
+      <fieldset class="seg">
+        <legend class="vh">Show</legend>
+        <input class="vh" type="radio" name="tab" id="tab-all" value="all" checked><label for="tab-all">All <span class="n" id="n-all"><!--@nAll--></span></label>
+        <input class="vh" type="radio" name="tab" id="tab-press" value="press"><label for="tab-press">Press <span class="n" id="n-press"><!--@nPress--></span></label>
+        <input class="vh" type="radio" name="tab" id="tab-scene" value="scene"><label for="tab-scene">Scene <span class="n" id="n-scene"><!--@nScene--></span></label>
+      </fieldset>
+      <search class="find">
+        <input id="search" type="search" placeholder="Search stories" aria-label="Search stories and the archive" title="Search (press /)" autocomplete="off" spellcheck="false" enterkeyhint="search">
+      </search>
+    </div>
+    <button class="about-btn" type="button" popovertarget="about">About</button>
+  </div>
+</header>
+<section class="hero wrap" aria-labelledby="wordmark">
+  <div class="hero-copy">
+    <h1 class="wordmark" id="wordmark">WiiVolve</h1>
+    <p class="tagline"><!--@tagline--></p>
+    <p class="age" id="age" data-launch="<!--@launch-->"><!--@age--></p>
+    <div class="sig"><p class="fresh" id="fresh"></p><!--@dolphin--></div>
+  </div>
+  <div class="stage">
+    <button class="console" id="console" type="button" aria-label="Jump to the newest story" aria-describedby="fresh" disabled><span class="c-top"></span><span class="c-front"></span><span class="c-spill"></span><span class="c-edge"></span><span class="c-slot"></span><span class="c-btn"></span><span class="c-btn"></span><span class="c-floor"></span><span class="dz"><span class="disc"></span></span><span class="hat"></span></button>
+    <p class="cap" id="cap" data-idle="The slot glows when something new arrives." data-lit="Psst, something new. Press the console to jump in." data-bday="Party hat on, confetti out, slot glowing."><!--@cap--></p>
+  </div>
+</section>
+<main id="main">
+  <p class="vh" id="live" role="status" aria-live="polite"></p>
+  <div class="wrap">
+    <div class="empty" id="empty" hidden><span class="mini" aria-hidden="true"></span><p id="em">No matches. Try <button class="lnk" type="button" id="reset">All</button>, or a shorter word.</p></div>
+  </div>
+  <div class="stream wrap" id="stream" data-window="<!--@window-->"><!--@stream--></div>
+  <section class="deep" id="deep-end" aria-labelledby="deep-h">
+    <div class="deep-in wrap">
+      <div class="deep-rail" aria-hidden="true"><span class="deep-yr"></span></div>
+      <div class="deep-body">
+        <h2 class="deep-h" id="deep-h">Eighteen quiet years.</h2>
+        <p class="deep-p">From 2006 to 2008, WiiVolve covered the Wii several times a week, and almost daily around launch: news, reviews, previews, cheats, and Direct2Wii, a newsletter delivered to the console itself. The last post, in March 2008, promised a reconstruction. This is it.</p>
+        <figure class="quote">
+          <blockquote><p>“…a group of unpaid high school students in the middle of their school years.”</p></blockquote>
+          <figcaption><a href="https://web.archive.org/web/20110509235246/http://wiivolve.com/fullNews.php?newsId=267">WiiVolve Reconstruction Plan</a>, March 1, 2008</figcaption>
+        </figure>
+        <dl class="stats">
+          <div><dt>posts</dt><dd>220+</dd></div>
+          <div><dt>articles</dt><dd><span aria-hidden="true">~</span><span class="vh">about </span>70</dd></div>
+          <div><dt>games</dt><dd>260+</dd></div>
+          <div><dt>archive captures</dt><dd>144</dd></div>
+        </dl>
+        <figure class="artifact">
+          <img src="/legacy/header-2009.webp" width="800" height="125" loading="lazy" decoding="async" alt="The teal-era WiiVolve header, as captured in 2009: the name in white letters on a glossy dark grey bar, with a faint [2] at the right end.">
+          <figcaption>The teal-era header, as captured in 2009, recovered from the Wayback Machine. <a href="https://web.archive.org/web/20090802061250/http://wiivolve.com/">See the teal era</a></figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+  <div class="stream archive wrap" id="archive"><!--@archive-->
+    <p class="end">That’s the very first page. You made it all the way back to 2006. <a href="#top">Back to today</a></p>
+  </div>
+</main>
+<footer class="foot">
+  <div class="foot-in wrap">
+    <p class="status"><span id="status" data-generated="<!--@generated-->"><!--@status--></span><span class="upd" id="upd"></span></p>
+    <p>© <!--@since-->–<!--@year--> <!--@author--> · Not affiliated with or endorsed by Nintendo.</p>
+    <nav class="foot-nav" aria-label="Elsewhere"><a href="/feed.xml">RSS</a><a href="/feed.json">JSON Feed</a><button type="button" popovertarget="about">About</button><!--@footRepo--></nav>
+  </div>
+</footer>
+<div class="about" id="about" popover role="dialog" aria-labelledby="about-h">
+  <div class="ab-head">
+    <h2 id="about-h">About WiiVolve</h2>
+    <button class="ab-close" type="button" popovertarget="about" popovertargetaction="hide" aria-label="Close" autofocus><span aria-hidden="true">×</span></button>
+  </div>
+  <p>WiiVolve was a Wii news site from 2006 to 2008. It’s back as a single page that gathers Wii news and homebrew scene activity from around the web every hour and links you to the source.</p>
+  <p>How it works: every hour a small script reads the sources below, keeps what’s about the original Wii, removes duplicates and rebuilds this page. Nobody edits the list by hand. Links to stories found through Google News go through Google first.</p>
+  <p class="js-only"><label class="opt"><input type="checkbox" id="slash" checked><span>Press <kbd>/</kbd> anywhere to search</span></label></p>
+  <h3>Sources <span class="ab-sum"><!--@status--></span></h3>
+  <ul class="srcs"><!--@sources--></ul>
+  <h3>From the archive</h3>
+  <ul class="snaps">
+    <li><a href="https://web.archive.org/web/20070703152325/http://wiivolve.com/">2007 heyday</a><span>July 3, 2007</span></li>
+    <li><a href="https://web.archive.org/web/20060826001626/http://wiivolve.com/">Coming-soon page</a><span>August 26, 2006 · artwork not archived</span></li>
+    <li><a href="https://web.archive.org/web/20110509235246/http://wiivolve.com/fullNews.php?newsId=267">The last post</a><span>March 1, 2008</span></li>
+    <li><a href="https://web.archive.org/web/20090802061250/http://wiivolve.com/">The teal era</a><span>from July 2007 · captured August 2, 2009</span></li>
+    <li><a href="https://web.archive.org/web/2007*/wiivolve.com">Every capture</a><span>August 2006 to July 2025</span></li>
+  </ul>
+  <h3>Follow along</h3>
+  <p class="ab-links"><a href="/feed.xml">RSS feed</a><a href="/feed.json">JSON Feed</a></p>
+  <!--@aboutRepo-->
+  <p class="ab-legal">Not affiliated with or endorsed by Nintendo. Wii is a trademark of Nintendo.</p>
+</div>
+</body>
+</html>

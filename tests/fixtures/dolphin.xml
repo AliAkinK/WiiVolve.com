@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Test fixture: https://dolphin-emu.org/blog/feeds/ captured 2026-11-04T16:46:50Z, trimmed to 12 of 20 entries. Each summary is shortened to about 4000 characters. Markup otherwise as served. -->
+<feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom"><title>dolphin-emu.org - Last entries</title><link href="https://dolphin-emu.org/blog/" rel="alternate"/><link href="https://dolphin-emu.org/blog/feeds/" rel="self"/><id>https://dolphin-emu.org/blog/</id><updated>2026-10-15T03:44:39.555667+00:00</updated><subtitle>The last entries on the site dolphin-emu.org</subtitle><rights>Zinnia</rights><entry><title>Dolphin Progress Report: Release 2609
+</title><link href="https://dolphin-emu.org/blog/2026/09/24/dolphin-progress-report-release-2609/" rel="alternate"/><published>2026-09-24T04:36:38+00:00</published><updated>2026-10-08T02:39:22.834000+00:00</updated><author><name>JosJuice</name><uri>https://dolphin-emu.org/blog/authors/JosJuice/</uri></author><id>https://dolphin-emu.org/blog/2026/09/24/dolphin-progress-report-release-2609/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2609/progressreportheader2609.avif" alt="progressreportheader2609.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/progress-report/2609/progressreportheader2609-mini.avif" alt="progressreportheader2609-mini.avif"/&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;Welcome to Dolphin 2609's accompanying Progress Report! Like everyone else, we've been doing our best to weather the Techpocalypse brought on by AI, but it's really come after us in the past few months. Our website has been up and down repeatedly lately, as our defenses are barely holding out under the endless bombardment. But now AI has started to come for the emulator directly, with people using AI to mass-scan open source projects for potential vulnerabilities and overwhelm our volunteer team with very verbose reports.  Though draining, once these vulnerabilities are out there, we can't ignore them. A lot of effort has had to be diverted to deal with them, both in patching them and adjusting our workflows to better manage them. For more information, zip directly to that section with &lt;a href="#brace-for-impact-the-ai-vulnerability-reporting-wave-crashes-into-dolphin"&gt;this link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But that's not all. A vulnerability in macOS allowed our macOS buildbot to be briefly compromised by a generic cryptominer attack.  We'll skip the quick summary and just point you toward the full story below, which you can reach by &lt;a href="#the-macos-cryptominer-incident"&gt;clicking here&lt;/a&gt;.  The important thing is that we have determined that &lt;strong&gt;no builds were compromised&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We really just want to keep making Dolphin better. Fortunately, despite these headaches and roadbumps, there are still quite a few notable changes to go through, so let's get to it.&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="hotfix-release-2609a"&gt;&lt;strong&gt;Hotfix Release 2609a&lt;/strong&gt;&lt;a class="headerlink" href="#hotfix-release-2609a" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We released Dolphin 2609a on 7 October 2026. You can find the full change log below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a prompt on Android to request permission for local network access while using NetPlay.&lt;ul&gt;
+&lt;li&gt;This permission is not required if you only want to play with others over the internet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Approved additional codes and patches in various games for use with RetroAchievements in hardcore mode.&lt;/li&gt;
+&lt;li&gt;Fixed an issue on Google Play where Dolphin was accidentally listed as compatible with 32-bit ARM devices.&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://dolphin-emu.org/blog/2015/07/01/dolphin-progress-report-june-2015/#40-6676-remove-armv7-support-by-sonicadvance1"&gt;32-bit ARM support was removed in 2015&lt;/a&gt;. We have no plans to re-introduce support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fixed a bug which caused the settings menu to crash on Android 9.0 (Pie) and older.&lt;/li&gt;
+&lt;li&gt;Fixed a bug where a GameCube controller plugged into port 1 of a GameCube Controller Adapter did not work in NetPlay.&lt;/li&gt;
+&lt;li&gt;Fixed a bug which could cause games to crash at boot on macOS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are the security patches in this hotfix release.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a bug where attempting to assemble certain syntactically invalid source causes Dolphin to crash.&lt;/li&gt;
+&lt;li&gt;Fixed a bug where a malicious NetPlay host could cause clients in a room to reserve an excessive amount of RAM.&lt;/li&gt;
+&lt;li&gt;Fixed a bug where a malicious NetPlay host could cause clients in a room to write part of their memory into a file on the Wii NAND.&lt;/li&gt;
+&lt;li&gt;Fixed a bug where a maliciously crafted save state could cause Dolphin to write outside of a buffer when load</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2026/09/24/progressreportheader2609-social-2.jpg" length="689430" rel="enclosure" type="image/jpeg"/></entry><entry><title>Dolphin Progress Report: Release 2606
+</title><link href="https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/" rel="alternate"/><published>2026-06-25T04:05:01+00:00</published><updated>2026-10-15T03:44:39.555667+00:00</updated><author><name>JosJuice</name><uri>https://dolphin-emu.org/blog/authors/JosJuice/</uri></author><id>https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/</id><summary type="html">
+&lt;!-- helper script for loading video files, avoids buggy Safari AV1 fallback where some versions may attempt to load AV1 videos despite the hardware not actually supporting it -oatmeal --&gt;
+&lt;script src="https://dolphin-emu.org/m/user/blog/progress-report/2606/videoloader.js"&gt;&lt;/script&gt;
+
+&lt;!-- hides dynamically loaded video elements (see above) if JavaScript is disabled --&gt;
+&lt;noscript&gt;
+&lt;style&gt;
+.noscript-hide { display: none; }
+&lt;/style&gt;
+&lt;/noscript&gt;
+
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2606/progressreportheader2606-3.avif" alt="progressreportheader2606-3.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/progress-report/2606/progressreportheader2606-mini.avif" alt="progressreportheader2606-mini.avif"/&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;Welcome to the Progress Report for Dolphin Release 2606.  We usually prefer to launch toward the beginning of the month, but a slew of important, large, and technically challenging changes had us working overtime.  Strap in, because we have a lot to cover!&lt;/p&gt;
+&lt;p&gt;For April Fool's we teased that Dolphin now had support for the Game Boy Player, but the joke was that &lt;em&gt;it was real!&lt;/em&gt; We'll detail exactly how it happened and the challenges that surrounded getting the emulated hardware and software working together. The last unplayable Triforce game, &lt;a href="https://wiki.dolphin-emu.org/index.php?title=Category:The_Key_of_Avalon_(Series)"&gt;The Key of Avalon&lt;/a&gt;, no longer has that title!  It is now functional in Dolphin, supporting up to &lt;em&gt;five&lt;/em&gt; instances of the emulator together for 4 player (and a server) action. And Graphics Mods quietly fixed a major visual issue at high resolution that has plagued many flagship games for Dolphin's entire existence!&lt;/p&gt;
+&lt;p&gt;All of that and more in this Dolphin Progress Re-&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;✱ knock knock knock ✱&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Huh, someone's at the door. Could you get that?&lt;/p&gt;
+&lt;div class="media-block wider"&gt;
+&lt;figure&gt;
+&lt;noscript&gt;
+&lt;video controls muted playsinline style="max-width: 100%;"&gt;
+&lt;source src="https://dolphin-emu.org/m/user/blog/progress-report/2606/Wiiwouldliketo-h264.mp4" alt="Wiiwouldliketo-h264.mp4 (h.264)" type="video/mp4"/&gt;
+&lt;/video&gt;
+&lt;/noscript&gt;
+&lt;video id="wiiwouldliketo-video" class="noscript-hide" muted playsinline style="max-width: 100%;"&gt;
+&lt;/video&gt;
+&lt;noscript&gt;
+&lt;figcaption&gt;If the video doesn't play, try enabling JavaScript for our website.&lt;/figcaption&gt;
+&lt;/noscript&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+loadBestVideoSource("wiiwouldliketo-video", [
+  {
+    src: "https://dolphin-emu.org/m/user/blog/progress-report/2606/Wiiwouldliketo-av1.webm",
+    type: 'video/webm; codecs="av01.0.00M.08, opus"',
+  },
+  {
+    src: "https://dolphin-emu.org/m/user/blog/progress-report/2606/Wiiwouldliketo-vp9.webm",
+    type: 'video/webm; codecs="vp9, opus"',
+  },
+  {
+    src: "https://dolphin-emu.org/m/user/blog/progress-report/2606/Wiiwouldliketo-h264.mp4",
+    type: "video/mp4",
+  },
+]);
+
+const wiivideo = document.getElementById('wiiwouldliketo-video');
+
+wiivideo.addEventListener('click', function() {
+  wiivideo.play();
+}, { once: true });
+&lt;/script&gt;
+
+&lt;p&gt;That's right! Since the last Dolphin Progress Report, RetroAchievements support has come to Wii games. You can now waggle your way up the leaderboard! We'll go over some statistics of the launch in a section down below, which you can reach with &lt;a href="#a-quarter-of-wii-retroachievements"&gt;this handy link&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Without further ado, let's get to the Notable Changes for Dolphin 2606!&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="hotfix-release-2606a"&gt;&lt;strong&gt;Hotfix Release 2606a&lt;/strong&gt;&lt;a class="headerlink" href="#hotf</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2026/06/25/progressreportheader2606-social.jpg" length="805204" rel="enclosure" type="image/jpeg"/></entry><entry><title>Dolphin Progress Report: Release 2603
+</title><link href="https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/" rel="alternate"/><published>2026-03-12T05:07:10+00:00</published><updated>2026-03-18T00:10:57.418929+00:00</updated><author><name>JosJuice</name><uri>https://dolphin-emu.org/blog/authors/JosJuice/</uri></author><id>https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2603/progressreportheader2603.avif" alt="progressreportheader2603.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/progress-report/2603/progressreportheader2603-mini.avif" alt="progressreportheader2603-mini.avif"/&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;Dolphin started out as a GameCube emulator in 2003.  In 2008, experimental Wii support was added.  And now in 2026, Dolphin enters the realm of arcade emulation with support for the Triforce, a joint Sega, Namco, and Nintendo arcade effort.  Want to learn more about the Triforce?  Check out our deep dive into the Triforce and how support for it ended up back in Dolphin!&lt;/p&gt;
+&lt;div class="media-block narrow"&gt; 
+&lt;figure&gt;
+&lt;a href="https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/"&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/triforce/triforce-header.avif" alt="triforce-header.avif"&gt;
+&lt;/a&gt;
+&lt;figcaption&gt;Click or tap the image above to read our deep dive into the Triforce!&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Emulating a new system and library of games for the first time in 18 years is big news, and we'll dive into some details and updates on that later in the report.  However, there are two other major additions that would have been flagship changes on their own in any other report.  Optimizations to Dolphin's MMU emulation have brought major performance uplifts to games that rely on custom page table mappings.  In fact, on powerful hardware, all Full MMU games can run full speed, &lt;em&gt;including the legendary &lt;a href="https://wiki.dolphin-emu.org/index.php?title=Star_Wars_Rogue_Squadron_III:_Rebel_Strike"&gt;Rogue Squadron III: Rebel Strike&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;On the other side of things is a targeted fix that was an epic tale spanning years of frustration.  In the end, the incredible efforts of the &lt;a href="https://wiki.dolphin-emu.org/index.php?title=Mario_Strikers_Charged"&gt;Mario Strikers Charged&lt;/a&gt; community combined with several CPU emulation experts finally cracked the case of a minor physics bug that would normally be impossible to see or test.&lt;/p&gt;
+&lt;p&gt;All that and more awaits in this release's jam-packed notable changes!&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="hotfix-release-2603a"&gt;&lt;strong&gt;Hotfix Release 2603a&lt;/strong&gt;&lt;a class="headerlink" href="#hotfix-release-2603a" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We released 2603a on March 17, 2026 to resolve some issues found in 2603. This release is &lt;strong&gt;required&lt;/strong&gt; to use RetroAchievements.&lt;/p&gt;
+&lt;p&gt;Here's what changed:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Fixed some issues with RetroAchievements support in preparation for the launch of Wii achievements.&lt;/li&gt;
+    &lt;li&gt;Temporarily disabled page table fastmem in TimeSplitters: Future Perfect to work around a bug that caused the game to crash.&lt;/li&gt;
+    &lt;li&gt;Fixed an issue where Dolphin might crash on macOS when changing settings if the current graphics backend was set to an invalid value.&lt;/li&gt;
+    &lt;li&gt;Fixed an issue where Dolphin would hang when taking a screenshot while replaying a FIFO log.&lt;/li&gt;
+    &lt;li&gt;
+        Fixed a build-time issue where Dolphin could link to system libraries even if disabled.
+        &lt;ul&gt;
+            &lt;li&gt;This issue may have caused official Dolphin builds of 2603 running on macOS 14 and older to crash when opening a ZIP file.&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Fixed a build-time issue where Dolphin used a header only available in {fmt} 11.0 or newer, despite our minimum requirement being 10.1.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="notable-changes"&gt;&lt;strong&gt;Notable Changes&lt;/strong&gt;&lt;a class="headerlink" href="#notable-changes" title="Permane</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2026/03/12/progressreportheader2603-social.jpg" length="582398" rel="enclosure" type="image/jpeg"/></entry><entry><title>Rise of the Triforce
+</title><link href="https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/" rel="alternate"/><published>2026-02-16T19:52:49+00:00</published><updated>2026-02-19T01:14:46.560776+00:00</updated><author><name>JMC47</name><uri>https://dolphin-emu.org/blog/authors/JMC47/</uri></author><id>https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/triforce/triforce-header.avif" alt="triforce-header.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/triforce/triforce-header-mini.avif" alt="triforce-header-mini.avif"/&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;During the rapid technological advancements of the early 1990s, the video game industry was on the cusp of a massive addition - &lt;span class="threedee"&gt;another dimension&lt;/span&gt;. With console shenanigans like the &lt;a href="https://en.wikipedia.org/wiki/Super_FX"&gt;Super FX chip&lt;/a&gt; giving players a taste of 3D, hype was at an all-time high.  But the games released for home consoles were nothing compared to what arcade developers were capable of doing. By employing gigantic budgets and cutting-edge hardware, the arcade gave players a chance to see the future, today.&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class="media-block full-width"&gt;
+&lt;figure class="col-sm-6"&gt;
+&lt;video autoplay mute loop playsinline style="width: 100%;"&gt;
+&lt;source src="https://dolphin-emu.org/m/user/blog/triforce/Virtuaracing-av1.webm" alt="Virtuaracing-av1.webm (AV1)" type="video/webm" codecs="av01.0.00M.08, opus"/&gt;
+&lt;source src="https://dolphin-emu.org/m/user/blog/triforce/Virtuaracing-vp9.webm" alt="Virtuaracing-vp9.webm (VP9)" type="video/webm" codecs="vp9"/&gt;
+&lt;source src="https://dolphin-emu.org/m/user/blog/triforce/Virtuaracing-h264.mp4" alt="Virtuaracing-h264.mp4 (h.264)" type="video/mp4"/&gt;
+&lt;/video&gt;
+&lt;figcaption&gt;In early 1994, this was 3D graphics for the home. &lt;br/&gt;&lt;br/&gt;&lt;span style="font-size: .8em;"&gt;15 FPS, &lt;a href="https://imagequalitymatters.blogspot.com/2011/01/retro-tech-analysis-virtua-racing-md-vs.html"&gt;low resolution (256x192)&lt;/a&gt;, 6500 polygons per second, practically no textures, and no texture filtering. And this required &lt;a href="https://segaretro.org/Sega_Virtua_Processor"&gt;extra hardware in the cartridge&lt;/a&gt; to achieve. &lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class="col-sm-6"&gt;
+&lt;video autoplay mute loop playsinline style="width: 100%;"&gt;
+&lt;source src="https://dolphin-emu.org/m/user/blog/triforce/daytona-av1.webm" alt="daytona-av1.webm (AV1)" type="video/webm" codecs="av01.0.00M.08, opus"/&gt;
+&lt;source src="https://dolphin-emu.org/m/user/blog/triforce/daytona-vp9.webm" alt="daytona-vp9.webm (VP9)" type="video/webm" codecs="vp9"/&gt;
+&lt;source src="https://dolphin-emu.org/m/user/blog/triforce/daytona-h264.mp4" alt="daytona-h264.mp4 (h.264)" type="video/mp4"/&gt;
+&lt;/video&gt;
+&lt;figcaption&gt;Meanwhile, this was in arcades. &lt;br/&gt;&lt;br/&gt;&lt;span style="font-size: .8em;"&gt;&lt;strong&gt;60 FPS&lt;/strong&gt;, ~4x the pixel count (496x384), 300,000 polygons per second, and filled with perspective-correct and trilinear-filtered textures.&lt;/span&gt; &lt;/br&gt;&lt;sub&gt;Video Credit: &lt;a href="https://www.youtube.com/watch?v=oXgKtlRcXUc"&gt;arronmunroe&lt;/a&gt;&lt;/sub&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;But the future eventually arrived with the launch of the &lt;a href="https://en.wikipedia.org/wiki/Fifth_generation_of_video_game_consoles"&gt;5th generation of consoles&lt;/a&gt;.  All of a sudden, the revolutionary 3D hardware features that were once exclusive to arcades were now available in home consoles.  Without next-generation hype pushing players into the arcade, powerful but expensive arcade machines were no longer sustainable to develop.  The industry adjusted by moving toward more cost effective solutions, with many turning to the inexpensive, already proven 3D-capable hardware available in 5th gen home consoles.&lt;/p&gt;
+&lt;p&gt;Rather than turning around the decline of the arcade, the cheaper hardware may have helped accelerate it.  There were fewer unique experiences to pull players into the arcade, and previous hit exclusives were now seeing</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2026/02/16/triforce-header-social.jpg" length="615456" rel="enclosure" type="image/jpeg"/></entry><entry><title>Dolphin Progress Report: Release 2512
+</title><link href="https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/" rel="alternate"/><published>2025-12-22T06:46:16+00:00</published><updated>2026-02-19T12:32:47.337967+00:00</updated><author><name>JMC47</name><uri>https://dolphin-emu.org/blog/authors/JMC47/</uri></author><id>https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2512/progressreportheader2512.avif" alt="progressreportheader2512.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/progress-report/2512/progressreportheader2512-mini.avif" alt="progressreportheader2512-mini.avif"/&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;With the holiday season reaching its apex, we have a few surprises for those of you that have been patiently waiting.  The latest release of Dolphin is stuffed with treats.  Our first present is presentation - &lt;em&gt;frame presentation&lt;/em&gt;, that is.  Two new options have arrived and will help users both reduce latency and smooth out games that struggle with frame pacing.&lt;/p&gt;
+&lt;p&gt;Some games do outright naughty things that make emulation difficult.  A slew of them are being coerced onto the nice list this year thanks to a sack full of patches that bypass their troublesome behaviors.  Fans of the Broadband Adapter (BBA) have a great present tailored just to them: a new local mode BBA!  Designed for allowing multiple instances of Dolphin on the same computer to connect together, it's perfect for use with Parsec or other similar services.  And perhaps another gift will have you singing your favorite Wii hits?&lt;/p&gt;
+&lt;p&gt;But alas, what fun would the holiday season be if we spoiled all the gifts?  Read on to unwrap the latest edition of the Dolphin Progress Report.&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;Huh?  We've received word that apparently the &lt;em&gt;Android users&lt;/em&gt; have made the nice list?  Really?  That can't be right... but this gift is addressed to them.&lt;/p&gt;
+&lt;div class="media-block full-width"&gt; 
+&lt;figure&gt;
+&lt;a href="https://dolphin-emu.org/m/user/blog/progress-report/2512/ra-android-banner.jpg"&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2512/ra-android-banner.avif" alt="ra-android-banner.avif"&gt;
+&lt;/a&gt;
+&lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After &lt;em&gt;more than a couple&lt;/em&gt; bumps in the road, RetroAchievements support has finally arrived on the Android version of Dolphin!  In Release 2512, the core achievement experience is now available in your pocket.  This initial version hasn't quite reached parity yet with the desktop experience, but we didn't want to hold things up any longer.  The important thing for Android RetroAchievements users is that you can log in and unlock achievements in &lt;a href="https://retroachievements.org/system/16-gamecube/games"&gt;supported GameCube games&lt;/a&gt;. Because some menus are incomplete, it may be best to have the &lt;a href="https://retroachievements.org/"&gt;RetroAchievements website&lt;/a&gt; open in the background for achievement lists and other things while we finish up the in-app UI.&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="notable-changes"&gt;&lt;strong&gt;Notable Changes&lt;/strong&gt;&lt;a class="headerlink" href="#notable-changes" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;All changes below are available in Release 2512.&lt;/p&gt;
+&lt;h4 id="2509-493-add-rush-frame-presentation-and-smooth-frame-presentation-options-by-billiard"&gt;&lt;strong&gt;&lt;a href="https://dolphin-emu.org/download/dev/master/2509-493/"&gt;2509-493 - Add Rush Frame Presentation and Smooth Frame Presentation Options&lt;/a&gt;&lt;/strong&gt;  by &lt;strong&gt;&lt;a href="https://github.com/jordan-woyak"&gt;Billiard&lt;/a&gt;&lt;/strong&gt;&lt;a class="headerlink" href="#2509-493-add-rush-frame-presentation-and-smooth-frame-presentation-options-by-billiard" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Latency was once a huge challenge for emulators, and it is still a major concern.  At one point not too long ago, it was pretty much infeasible for most emulators to match the latency of their console counterparts.  Compare</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2025/12/22/progressreportheader2512-social_VGVZLL5.jpg" length="903138" rel="enclosure" type="image/jpeg"/></entry><entry><title>Starlight Spotlight: A Hospital Wii in a New Light
+</title><link href="https://dolphin-emu.org/blog/2025/11/14/starlight-spotlight/" rel="alternate"/><published>2025-11-14T10:04:26+00:00</published><updated>2026-02-19T10:56:36.460001+00:00</updated><author><name>JMC47</name><uri>https://dolphin-emu.org/blog/authors/JMC47/</uri></author><id>https://dolphin-emu.org/blog/2025/11/14/starlight-spotlight/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/starlight/starlightheader.avif" alt="starlightheader.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/starlight/starlightheader.avif" alt="starlightheader-mini.avif"/&gt;
+&lt;a href="https://esahubble.org/images/potw1408a/"&gt;
+&lt;p style="text-align: right;"&gt;&lt;sub&gt;Stars BG Image Credit: NASA, ESA, and D. Gouliermis (University of Heidelberg). Acknowledgement: Luca Limatola. Edited by MayImilae.&lt;/sub&gt;&lt;/p&gt;&lt;/a&gt;
+&lt;/header&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;center&gt;&lt;em&gt;Dolphin is not affiliated with the Starlight Children's Foundation.&lt;/em&gt;&lt;/center&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;In the early 1990s, the world found itself at a crossroads of technological change.  Electronic entertainment was blowing up just about everywhere, with Nintendo at the forefront of the home video game markets with their Super Nintendo Entertainment System console and Game Boy handheld.  But if you were forced into an extended stay at the hospital, you might not have access to any of it. Due to &lt;a href="https://www.washingtonpost.com/archive/lifestyle/wellness/1995/10/03/hospitals-take-aim-at-electronic-interference/046a71c2-b890-4bbf-865e-b82d408e808f/"&gt;a wave of concerns surrounding electromagnetic interference (EMI) from electronics&lt;/a&gt;, many consumer devices were banned from hospitals.  If you were lucky enough to have a cell phone at the time, you'd have to go &lt;em&gt;outside of the hospital&lt;/em&gt; to make calls.&lt;/p&gt;
+&lt;p&gt;In 1992, the &lt;a href="https://www.starlight.org/"&gt;Starlight Children's Foundation&lt;/a&gt; partnered with Nintendo to bring video games into hospitals in a way that complied with stringent hospital regulations. Instead of subjecting children to magazines, books, and daytime television (if they were lucky), the foundation wanted to bring premiere entertainment right into their rooms by creating a hospital approved all-in-one media and gaming station.  Their belief was that giving kids a well-needed break from the hardships of treatment, injury, and illness would promote recovery.&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class="media-block"&gt;
+&lt;figure&gt;
+&lt;div class="embed-responsive embed-responsive-4by3"&gt;
+&lt;iframe src="https://www.youtube.com/embed/kprlpPR0twI" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;The Starlight Gaming Program in its early days.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This partnership proved to be a valuable one, and is still going to this day.  As of the writing of this article, this partnership has provided over &lt;em&gt;8,000&lt;/em&gt; gaming stations to children in hospitals, serving over &lt;strong&gt;15 million&lt;/strong&gt; gaming sessions to patients in need.  From the Super Nintendo all the way to the Nintendo Switch, every Nintendo home console has been housed in a Starlight kiosk at some point!&lt;/p&gt;
+&lt;p&gt;Each of these kiosks were designed to house an off-the-shelf retail console.  Except one.  Every single kiosk could use standard controllers and play retail games.  Except one.&lt;/p&gt;
+&lt;p&gt;In this article, we'd like to talk about the weird and wonderful &lt;em&gt;Starlight Wii&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id="a-brief-history-of-the-starlight-kiosks"&gt;A Brief History of the Starlight Kiosks&lt;a class="headerlink" href="#a-brief-history-of-the-starlight-kiosks" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;To set the stage for the &lt;em&gt;Starlight Wii Fun Center&lt;/em&gt; and why it is so special, we first need to take a look at its many siblings.  Each Starlight kiosk has its own story behind it and challenges that the engineers had to overcome while trying to keep costs as low as possible.  In addition to managing all of the electronics and the games, the Starlight Children's Foundation also had to </summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2025/11/14/starlightheader-social.jpg" length="574975" rel="enclosure" type="image/jpeg"/></entry><entry><title>Dolphin Progress Report: Release 2509
+</title><link href="https://dolphin-emu.org/blog/2025/09/16/dolphin-progress-report-release-2509/" rel="alternate"/><published>2025-09-16T03:21:58+00:00</published><updated>2026-04-06T11:22:31.013404+00:00</updated><author><name>JMC47</name><uri>https://dolphin-emu.org/blog/authors/JMC47/</uri></author><id>https://dolphin-emu.org/blog/2025/09/16/dolphin-progress-report-release-2509/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2507/progressreportheader2508.avif" alt="progressreportheader2508.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/progress-report/2507/progressreportheader2508-mini.avif" alt="progressreportheader2508-mini.avif"/&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;The Dolphin Blog is full of stories surrounding games, their development, and the challenges they present to emulate them.  And in these stories, we sometimes have some recurring characters that we gain a better understanding of over time.  Factor 5 and their &lt;a href="https://wiki.dolphin-emu.org/index.php?title=Category:Rogue_Squadron_(Series)"&gt;Star Wars: Rogue Squadron&lt;/a&gt; games continue to amaze us time and time again as we find different ways that they push the hardware to its limits.  &lt;a href="https://wiki.dolphin-emu.org/index.php?title=The_Legend_of_Zelda:_The_Wind_Waker"&gt;The Legend of Zelda: The Wind Waker&lt;/a&gt; uses many graphical tricks to create a timeless style, that surprises again and again with just how much care was put into every detail.  And, of course the &lt;a href="https://wiki.dolphin-emu.org/index.php?title=Metroid_Prime"&gt;Metroid Prime&lt;/a&gt; series shows up often given its sensitivity to even subtle changes to emulation.&lt;/p&gt;
+&lt;p&gt;However, as with every story, there have to be villains as well.  One such &lt;em&gt;villain&lt;/em&gt; is the &lt;strong&gt;The Disney Trio of Destruction™&lt;/strong&gt;.  For years, users have awaited the final showdown with these games.  And guess what?  They're finally playable &lt;em&gt;right now&lt;/em&gt;.  But are these games truly villains?  Or were they just misunderstood?  In this report, we dive into The Disney Trio of Destruction™ once and for all to determine their true nature.&lt;/p&gt;
+&lt;p&gt;Not every returning character is a game.  Sometimes we also have to deal with our own issues, such as &lt;em&gt;Dual Core mode&lt;/em&gt;.  It is constantly breaking games, disabled in many popular games by default, and the source of most crashes in Dolphin.  But is Dual Core really a hack?  Or is Dolphin simply doing something wrong.  In this report, we'll dive into the history of Dual Core and make a change that was long overdue.&lt;/p&gt;
+&lt;p&gt;On top of all of this, several longstanding features in Dolphin also saw some major upgrades, and we'll also get to those throughout the Dolphin Progress Report.  With that, let us begin.&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="nsoh-no"&gt;&lt;strong&gt;NSOh No&lt;/strong&gt;&lt;a class="headerlink" href="#nsoh-no" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div style="margin-top: .5em; margin-left:2em; margin-bottom:1em; max-width:25%; min-width:128px; float:right; text-align:center;"&gt;
+&lt;img style="max-width: 100%;" src="https://dolphin-emu.org/m/user/blog/progress-report/2507/nsogc_thumb.avif" alt="Nintendo Switch Online GameCube Controller"&gt;&lt;/div&gt;
+
+&lt;p&gt;Since the release of the Nintendo Switch 2, we have been repeatedly asked if Dolphin supports the &lt;a href="https://www.nintendo.com/us/store/products/nintendo-switch-2-nintendo-gamecube-controller-120833/"&gt;Nintendo Switch 2 NSO GameCube Controller&lt;/a&gt;. The short answer is not yet. The long answer is that Switch 2 controllers do some weird things; rather than take this on ourselves, we are waiting for the professionals at SDL to figure it all out. Currently they have an implementation, but it's early and missing features. Once they get it to a good place and it is in an SDL release, we will adopt it into Dolphin. &lt;/p&gt;
+&lt;p&gt;For now, please be patient.&lt;/p&gt;
+&lt;h3 id="notable-changes"&gt;&lt;strong&gt;Notable Changes&lt;/strong&gt;&lt;a class="headerlink" href="#notable-changes" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;All changes below are available in Release 2509.&lt;/p</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2025/09/16/progressreportheader2508-social.jpg" length="635834" rel="enclosure" type="image/jpeg"/></entry><entry><title>Dolphin Progress Report: Release 2506
+</title><link href="https://dolphin-emu.org/blog/2025/06/04/dolphin-progress-report-release-2506/" rel="alternate"/><published>2025-06-04T10:42:04+00:00</published><updated>2026-02-19T10:34:38.410950+00:00</updated><author><name>JMC47</name><uri>https://dolphin-emu.org/blog/authors/JMC47/</uri></author><id>https://dolphin-emu.org/blog/2025/06/04/dolphin-progress-report-release-2506/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2506/progressreportheader2506.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/progress-report/2506/progressreportheader2506-mini.avif" /&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;Welcome to the Dolphin Progress Report for Release 2506!  As we've alluded to a few times, we've had major changes in the pipeline that we've been very excited to show off.  Some of those changes are &lt;em&gt;finally&lt;/em&gt; here!  Headlining this report are major adjustments to how Dolphin handled audio lag under slowdown by default.  No longer will users have to choose between high-latency audio stretching or popping when dealing with small hitches in performance thanks to the new Granule Synthesis Audio System.&lt;/p&gt;
+&lt;p&gt;If the game is already running full speed, we still have some improvements for you.  Dolphin has seen a suite of frame pacing improvements that will give you a smoother experience across almost every game.  And, if your system is &lt;em&gt;very&lt;/em&gt; powerful, there are a select group of games that can now push past the 60 FPS barrier for high frame rate gaming.  Before you get &lt;em&gt;too&lt;/em&gt; excited, this feature does not work with most Nintendo developed titles and has incredibly low compatibility in general.  For a list of what games support this, we'll get into it later in the report.&lt;/p&gt;
+&lt;p&gt;If you care about preserving oddball Wii add-ons, we've got you covered here too.  Wii Speak emulation is &lt;em&gt;finally&lt;/em&gt; here after an incredibly long journey.  In addition, long time incompatible game &lt;a href="https://wiki.dolphin-emu.org/index.php?title=The_Daring_Game_for_Girls"&gt;The Daring Game For Girls&lt;/a&gt; is finally compatible with Dolphin.  We'll get into that game's story and more, &lt;em&gt;but first&lt;/em&gt;, we need to get through quite a bit of housekeeping.&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id="the-release-hotfix-fiasco"&gt;The Release Hotfix Fiasco&lt;a class="headerlink" href="#the-release-hotfix-fiasco" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;We finally had some big enough problems in a release that we had to create a hotfix using our &lt;a href="https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/#announcement"&gt;new versioning system&lt;/a&gt;. First, the macOS build for 2503 had the wrong version number attached, causing it to be incompatible with cross-platform NetPlay. We also found that GBA connectivity in compatible GameCube games was broken, and that there was a crashing bug when running Dolphin on older macOS versions. To rectify these problems, we created hotfix 2503a.  However, in doing so, we &lt;em&gt;inadvertently&lt;/em&gt; caused all development builds from that point on to take the "a" suffix.  Some of our systems temporarily broke in the immediate aftermath while support for the suffix was hastily added. We technically could have removed the suffix, but we decided not to in the end because removing it would have caused even more disruption.&lt;/p&gt;
+&lt;p&gt;In future releases, if a hotfix is needed it will &lt;em&gt;not&lt;/em&gt; apply a suffix to the development builds.  This should make things easier on us and anyone else that is maintaining Dolphin builds of their own.  We apologize for any inconvenience that this error has caused.&lt;/p&gt;
+&lt;p&gt;For reader convenience and future consistency, the hotfix suffix has been removed from all changes in this article.&lt;/p&gt;
+&lt;h4 id="windows-10-minimum-version-bumped-to-1903"&gt;&lt;a href="https://dolphin-emu.org/download/dev/master/2503-152/"&gt;Windows 10 minimum version bumped to 1903&lt;/a&gt;&lt;a class="headerlink" href="#windows-10-minimum-version-bumped-to-1903" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://www.microsoft.com/windows/end-of-support"&gt;Although </summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2025/06/04/progressreportheader2506-social.jpg" length="637116" rel="enclosure" type="image/jpeg"/></entry><entry><title>Dolphin Progress Report: Release 2503
+</title><link href="https://dolphin-emu.org/blog/2025/03/10/dolphin-progress-report-release-2503/" rel="alternate"/><published>2025-03-10T08:31:57+00:00</published><updated>2025-04-21T20:18:41.859877+00:00</updated><author><name>JosJuice</name><uri>https://dolphin-emu.org/blog/authors/JosJuice/</uri></author><id>https://dolphin-emu.org/blog/2025/03/10/dolphin-progress-report-release-2503/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2502/progressreportheader2502.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/progress-report/2502/progressreportheader2502-mini.avif" /&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;It's time for us to again delve into the latest changes hitting the newest release of Dolphin Emulator.  If you've been keeping tabs on development channels, you'll know there are some exciting bombshell features waiting for us just over the horizon.  Unfortunately, given the close proximity to this release, we've decided to hold a lot of them off so they can get more widespread testing in the development builds before hitting a release.  Think of the March 2025 release as an iterative improvement that focuses on user experience and stacking many small iterative improvements instead of swinging for every homerun.&lt;/p&gt;
+&lt;p&gt;Having said all of that?  We do have a few major changes that made the cut.&lt;/p&gt;
+&lt;p&gt;Probably the most requested of the features in this progress report is the ability to &lt;em&gt;finally&lt;/em&gt; set custom graphical settings on a per game basis.  Our advanced users may be thinking, "&lt;em&gt;Wait, couldn't we already do that?&lt;/em&gt;" and they'd be right.  The major change here is that per-game graphical settings has been added directly to the game properties page, allowing for a very easy, visual way to change settings and see what settings are force enabled.&lt;/p&gt;
+&lt;p&gt;For our achievement hunters out there, RetroAchievements has seen its first major upgrade that will bring a huge amount of quality of life to many games.  And if you're into weird old game behaviors?  A developer dove into &lt;a href="https://wiki.dolphin-emu.org/index.php?title=Summoner:_A_Goddess_Reborn"&gt;Summoner: A Goddess Reborn&lt;/a&gt; to determine why it crashes so much.  The catch with this one?  Some of these crashes have been confirmed to happen on &lt;strong&gt;official hardware&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;Additionally, there are a plethora of small, but tangible, changes that are the hallmark of an Open Source project.  The desktop versions of Dolphin also saw a lot of improvements to input configuration and a few &lt;em&gt;extra&lt;/em&gt; upgrades that might make people who want to track their time spent in games &lt;em&gt;very&lt;/em&gt; happy.  But, let's not spoil everything and get into the notable changes of the March 2025 release!&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="release-2503a"&gt;&lt;strong&gt;Release 2503a&lt;/strong&gt;&lt;a class="headerlink" href="#release-2503a" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;On April 21 2025, we created Hotfix Release 2503a to fix some problems that snuck into Release 2503:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a bug that caused GBA connectivity in some games to not work properly.&lt;/li&gt;
+&lt;li&gt;Fixed a bug where Dolphin would crash with a memory error on some older macOS versions.&lt;/li&gt;
+&lt;li&gt;Fixed an problem with our build system which caused Release 2503 to be mislabeled as a 2412 development build on some platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="notable-changes"&gt;&lt;strong&gt;Notable Changes&lt;/strong&gt;&lt;a class="headerlink" href="#notable-changes" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id="cheat-code-whitelist-for-hardcore-retroachievements-2412-8-and-2412-173-by-lillyjadekatrin"&gt;&lt;strong&gt;Cheat Code Whitelist for Hardcore RetroAchievements&lt;/strong&gt; - &lt;a href="https://dolphin-emu.org/download/dev/master/2412-8/"&gt;2412-8&lt;/a&gt;  and &lt;a href="https://dolphin-emu.org/download/dev/master/2412-173/"&gt;2412-173&lt;/a&gt; by &lt;strong&gt;&lt;a href="https://github.com/LillyJadeKatrin"&gt;LillyJadeKatrin&lt;/a&gt;&lt;/strong&gt;&lt;a class="headerlink" href="#cheat-code-whitelist-for-hardcore-retroachievements-2412-8-and-2412-173-by-l</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2025/01/25/progressreportheader2502-social_vBFTYKc.jpg" length="437668" rel="enclosure" type="image/jpeg"/></entry><entry><title>Dolphin Progress Report: Release 2412
+</title><link href="https://dolphin-emu.org/blog/2024/12/02/dolphin-progress-report-release-2412/" rel="alternate"/><published>2024-12-02T01:45:31+00:00</published><updated>2026-02-19T10:33:27.257381+00:00</updated><author><name>mitaclaw</name><uri>https://dolphin-emu.org/blog/authors/mitaclaw/</uri></author><id>https://dolphin-emu.org/blog/2024/12/02/dolphin-progress-report-release-2412/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2412/progressreportheader2412.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/progress-report/2412/progressreportheader2412-mini.avif" /&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;Dolphin 2412 is here and we've got the details for what's new in the latest release.  The biggest thing to note is that there's a lot of polishing to help make playing games a little more pleasant.  Several key fixes to Dolphin's HLE audio helps bring a few more games toward audio perfection, and adjustments to Dolphin's CPU &amp;lt;-&amp;gt; GPU syncing reduces the number of harmless, but annoying, popup errors that happen in certain games.&lt;/p&gt;
+&lt;p&gt;That isn't to say there aren't any titles seeing significant improvements.  &lt;a href="https://wiki.dolphin-emu.org/index.php?title=LIT"&gt;LIT (School of Darkness)&lt;/a&gt; had a unique problem that exposed yet another unemulated hardware behavior.  And if you're looking for a deep dive into problematic behavior in a game?  We have one of those as well.  &lt;a href="https://wiki.dolphin-emu.org/index.php?title=Eternal_Darkness:_Sanity%27s_Requiem"&gt;Eternal Darkness&lt;/a&gt; has been a thorn in our side the past couple of months and required some special attention to get working again in time for this release.&lt;/p&gt;
+&lt;p&gt;For details on all that and more, join us for Release 2412's Notable Changes!&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="notable-changes"&gt;&lt;strong&gt;Notable Changes&lt;/strong&gt;&lt;a class="headerlink" href="#notable-changes" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;All of the changes below are available in Release 2412. &lt;/p&gt;
+&lt;h4 id="2409-17-dsp-hle-fix-low-passbiquad-clipping-by-tilka"&gt;&lt;strong&gt;&lt;a href="https://dolphin-emu.org/download/dev/master/2409-17/"&gt;2409-17 - DSP-HLE: Fix Low Pass/Biquad Clipping&lt;/a&gt;&lt;/strong&gt;  by &lt;strong&gt;&lt;a href="https://github.com/tilka"&gt;Tilka&lt;/a&gt;&lt;/strong&gt;&lt;a class="headerlink" href="#2409-17-dsp-hle-fix-low-passbiquad-clipping-by-tilka" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://github.com/tilka"&gt;Tilka&lt;/a&gt;&lt;/strong&gt; has been perfecting DSP-HLE over the last few years.  A majority of their changes have been minor and fix subtle effects that most users won't notice unless they've recently played the game on console with a high-end sound system. In the last progress report, &lt;a href="https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/#zelda-hle-pikmin-fixes-2407-177-and-2407-225-by-flacs"&gt;we covered their implementation of the Zelda microcode's low-pass and biquad filters&lt;/a&gt;, but we didn't mention that &lt;strong&gt;&lt;a href="https://github.com/tilka"&gt;Tilka&lt;/a&gt;&lt;/strong&gt; also took the time to &lt;a href="https://dolphin-emu.org/download/dev/master/2407-257/"&gt;implement the biquad filter in the AX microcode&lt;/a&gt;! Doing so fixed an issue in &lt;a href="https://wiki.dolphin-emu.org/index.php?title=I_SPY:_Spooky_Mansion"&gt;I SPY: Spooky Mansion&lt;/a&gt; where the wind was too loud.&lt;/p&gt;
+&lt;p&gt;Unfortunately, it also started causing issues in &lt;a href="https://wiki.dolphin-emu.org/index.php?title=Need_for_Speed:_Nitro"&gt;Need for Speed: Nitro&lt;/a&gt;'s audio.&lt;/p&gt;
+&lt;div class="media-block full-width"&gt;
+&lt;div class="row more-padding"&gt;
+&lt;figure class="col-sm-6"&gt;
+&lt;audio controls src="https://dolphin-emu.org/m/user/blog/progress-report/2412/R7XP69_BAD_dspdump.mp3"&gt;Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.&lt;/audio&gt;
+&lt;figcaption&gt;Whenever the player activated nitro, the engine noise would be really loud with occasional crackling.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class="col-sm-6"&gt;
+&lt;audio controls src="htt</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2024/12/02/progressreportheader2411-social.jpg" length="594807" rel="enclosure" type="image/jpeg"/></entry><entry><title>Dolphin Progress Report: Release 2407 and 2409
+</title><link href="https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/" rel="alternate"/><published>2024-09-04T16:35:36+00:00</published><updated>2026-02-19T10:32:45.444881+00:00</updated><author><name>JosJuice</name><uri>https://dolphin-emu.org/blog/authors/JosJuice/</uri></author><id>https://dolphin-emu.org/blog/2024/09/04/dolphin-progress-report-release-2407-2409/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/progress-report/2409/progressreportheader2409.avif"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/progress-report/2409/progressreportheader2409-mini.avif" /&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;After an exciting round of feature articles, it's Progress Report time once again! However, a lot has changed. Dolphin has finally left the 5.0 era behind, and has entered the &lt;em&gt;Release Era&lt;/em&gt;. Not only did we get our first release in eight years, but we also established a commitment to continuous releases going forward.&lt;/p&gt;
+&lt;div class="media-block narrower"&gt; 
+&lt;figure&gt;
+&lt;a href="https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/"&gt; 
+&lt;img src="https://dolphin-emu.org/m/user/blog/releasesannouncement/releasesheader-still.avif"&gt;
+&lt;/a&gt; 
+&lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For the Reports, things will be more or less the same, but with a few changes.&lt;/p&gt;
+&lt;p&gt;Progress Reports are now also &lt;em&gt;release changelogs&lt;/em&gt;. We'll be going over the notable additions and changes between each release in every Progress Report going forward, rather than within a range of dates. As such, the name of the Reports will reflect the release accompanying it - if you want the new features, just update to the version at the top or higher and you'll have them! (However, since 2407 had a release article without a changelog, this Report will be covering the changes in both Release 2407 and Release 2409.)&lt;/p&gt;
+&lt;p&gt;That also means that the next release is happening &lt;em&gt;right now!&lt;/em&gt; Accompanying this report is &lt;strong&gt;Dolphin 2409&lt;/strong&gt;. It is now rolling out via our updater, and is available for download here on our website.&lt;/p&gt;
+&lt;p&gt;But there was also another feature article since our last Report. Dolphin now has RetroAchievements support!&lt;/p&gt;
+&lt;div class="media-block narrower"&gt; 
+&lt;figure&gt;
+&lt;a href="https://dolphin-emu.org/blog/2024/07/15/unlocked-retroachievements-come-dolphin/"&gt; 
+&lt;img src="https://dolphin-emu.org/m/user/blog/retroachievements/retroachievementsheader-169.jpg"&gt;
+&lt;/a&gt; 
+&lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For those waiting for it to show up in a release build, the wait is now over.  Throughout the past couple of months, we've ironed out one major issue alongside many smaller issues with RetroAchievements.  The first iteration of RetroAchievements in a release build is stable, but not all that flashy.  The groundwork is there for future improvements, but many features and options are yet to be finished.  As well, Android support is still deadlocked with a few issues. Please pardon our progress!&lt;/p&gt;
+&lt;p&gt;We have a bunch of cool statistics from the RetroAchievements team regarding the launch, however, we need to get on with the Report! So just &lt;a href="#the-first-month-of-dolphin-retroachievements"&gt;click this handy link&lt;/a&gt; to be taken to the bottom of the Report if you'd like to read more!&lt;/p&gt;
+&lt;p&gt;But before we get to the Notable Changes, we have a couple of things to cover.&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="google-play-update-delay"&gt;&lt;strong&gt;Google Play Update Delay&lt;/strong&gt;&lt;a class="headerlink" href="#google-play-update-delay" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Last month, we got a surprise email from Google Play saying that Dolphin doesn't comply with their policies because it "installs, but doesn't load". We have gotten emails like this before regarding Android TV, presumably because someone at Google tried to install Dolphin on one out of the vast majority of Android TV devices that don't meet Dolphin's hardware requirements, but this is the first time we've gotten a rejection for Android as a whole.</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2024/08/16/progressreportheader2409-social_N5zOsMr.jpg" length="661435" rel="enclosure" type="image/jpeg"/></entry><entry><title>Unlocked: RetroAchievements Come to Dolphin
+</title><link href="https://dolphin-emu.org/blog/2024/07/15/unlocked-retroachievements-come-dolphin/" rel="alternate"/><published>2024-07-15T20:54:59+00:00</published><updated>2026-02-19T10:31:46.308905+00:00</updated><author><name>JMC47</name><uri>https://dolphin-emu.org/blog/authors/JMC47/</uri></author><id>https://dolphin-emu.org/blog/2024/07/15/unlocked-retroachievements-come-dolphin/</id><summary type="html">
+&lt;header&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/retroachievements/retroachievementsheader.jpg"/&gt; 
+&lt;img class="mini" src="https://dolphin-emu.org/m/user/blog/retroachievements/retroachievementsheader-169.jpg" /&gt; 
+&lt;/header&gt;
+
+&lt;p&gt;Dolphin's users are always looking for new ways to play their favorite games.  And when a project called "RetroAchievements" started gaining popularity for adding achievements into retro games, users started wondering if Dolphin would ever add support for the project.  Unfortunately for them, Dolphin isn't a &lt;em&gt;retro&lt;/em&gt; game emulator.  We're a &lt;em&gt;modern&lt;/em&gt; emulator that emulates two &lt;em&gt;recent&lt;/em&gt; Nintendo consoles!  RetroAchievements wouldn't make sense-&lt;/p&gt;
+&lt;div class="media-block wide"&gt; 
+&lt;figure&gt;
+&lt;img src="https://dolphin-emu.org/m/user/blog/retroachievements/wereold.png"&gt;&lt;/a&gt; 
+&lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Ah shi-&lt;/p&gt;
+&lt;p&gt;&lt;a id="cuthere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="retroachievements-dolphin-launch-announcement"&gt;&lt;strong&gt;RetroAchievements Dolphin Launch Announcement!&lt;/strong&gt;&lt;a class="headerlink" href="#retroachievements-dolphin-launch-announcement" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;That's right, it's finally here.  RetroAchievements integration has come to Dolphin.  Now you can play some of your favorite GameCube games with full achievement sets that are automatically recorded to your RetroAchievements account.  Much like modern "achievements" or "trophies", RetroAchievements sets essentially amount to a list of tasks and goals that may go above and beyond simply beating the game.&lt;/p&gt;
+&lt;p&gt;For their GameCube launch day, they've gone all out, with over &lt;em&gt;100&lt;/em&gt; different titles on launch.  This ranges from some of the most popular GameCube games, to obscure gems, &lt;em&gt;terrible&lt;/em&gt; games, and even a few game mods!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=The_Legend_of_Zelda:_The_Wind_Waker"&gt;The Legend of Zelda: The Wind Waker&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Final_Fantasy_Crystal_Chronicles"&gt;Final Fantasy Crystal Chronicles&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Super_Mario_Sunshine"&gt;Super Mario Sunshine&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Harvest_Moon:_A_Wonderful_Life"&gt;Harvest Moon: A Wonderful Life&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Super_Smash_Bros._Melee"&gt;Super Smash Bros. Melee&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Baten_Kaitos_Origins"&gt;Baten Kaitos Origins&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Kirby_Air_Ride"&gt;Kirby Air Ride&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Star_Fox:_Assault"&gt;Star Fox Assault&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Metal_Gear_Solid:_The_Twin_Snakes"&gt;Metal Gear Solid: The Twin Snakes&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Mario_Golf:_Toadstool_Tour"&gt;Mario Golf: Toadstool Tour&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu.org/index.php?title=Luigi%27s_Mansion"&gt;Luigi's Mansion&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://wiki.dolphin-emu</summary><link href="https://dolphin-emu.org/m/user/uploads/zinnia/2024/07/14/retroachievementsheader-169_61l7rtj.jpg" length="201219" rel="enclosure" type="image/jpeg"/></entry></feed>

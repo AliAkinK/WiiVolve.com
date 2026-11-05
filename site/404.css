@@ -1,0 +1,15 @@
+/* WiiVolve 404, "No disc inserted." (loaded after style.css). The disc lies on the floor beside the console. */
+.nf{display:grid;min-height:100dvh;place-items:center;text-align:center}
+.nf main{width:min(560px,100% - 32px);padding:48px 0}
+.nf .stage{--cw:min(100%,360px);padding:0 0 64px}
+.nf .console{cursor:default;translate:none}
+/* The disc's box ends inside the console (no sideways scroll on phones); the disc itself sits where it did. */
+.nf .dz{overflow:visible;top:112%;left:58%;width:40%}
+.nf .disc{left:12.5%;width:100%;opacity:1;translate:none;rotate:-3deg}
+.nf p{margin:14px auto 0;max-width:42ch;color:var(--ink-2);text-wrap:balance}
+.nf p a{color:var(--ink);text-underline-offset:3px;text-decoration-color:var(--line-2)}
+.nf .bounce{color:var(--ink);font-weight:500}
+.home{display:inline-flex;align-items:center;min-height:48px;margin-top:28px;padding:0 24px;border-radius:99px;background:var(--ink);color:var(--paper);font-weight:600;text-decoration:none}
+.nf .alt{font-size:14px;text-wrap:balance}
+/* Each archive link stays on one line ("reviews A to / Z" read badly) */
+.nf .alt a{white-space:nowrap}

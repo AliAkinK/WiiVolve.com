@@ -1,0 +1,26 @@
+{
+  "name": "wiivolve",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WiiVolve: hourly Nintendo Wii news on one static page, the revival of the 2006-2008 site.",
+  "homepage": "https://wiivolve.com",
+  "author": "Ali Kurnaz",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test \"tests/**/*.test.mjs\"",
+    "build": "node scripts/build-news.mjs",
+    "build:offline": "node tools/offline.mjs",
+    "serve:offline": "node tools/serve.mjs work/offline/site --port 8788",
+    "legacy-map": "node scripts/build-legacy-map.mjs",
+    "check": "node scripts/check.mjs",
+    "serve": "node tools/serve.mjs site --port 8788",
+    "preview": "npx --yes wrangler@4.157.0 dev",
+    "qa": "node tools/qa.mjs site work/shots",
+    "deploy": "npx --yes wrangler@4.157.0 deploy",
+    "icons": "node assets-src/render.mjs"
+  }
+}

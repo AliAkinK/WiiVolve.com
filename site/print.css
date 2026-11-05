@@ -1,0 +1,16 @@
+/* WiiVolve print (media="print"): the hero and controls go, the list prints clean. */
+:root,.deep{--paper:#fff;--ink:#000;--ink-2:#333;--mist:#fff;--heritage:#000}
+.bar,.hero,.skip,.share,.more,.about,.empty,.artifact,.deep-rail,.foot-nav,.tag,.upd,.quiet,.end,.it::before,.it::after,.grp-h::before,.gap::before{display:none!important}
+.yr,.deep-in,.yr-b{display:block;padding:0;background:none!important}
+#stream{min-height:0!important}
+.further{position:static;height:auto;margin-top:6pt}
+.yr-h{position:static}
+.grp,.gap,.deep-body,.foot-in{padding:12pt 0 0}
+.it{break-inside:avoid;padding:5pt 0}
+.mt{padding-right:0}
+.ex{display:block!important}
+/* Say where the page came from, print each story's full date beside the relative one (app.js puts it in the
+   time's title; without JS the absolute UTC label already prints), and keep the archive off the stats row. */
+#stream::before{content:"WiiVolve · wiivolve.com";display:block;margin-bottom:8pt;font:700 18pt var(--fd)}
+.mt time[title]::after{content:" (" attr(title) ")"}
+#archive{margin-top:20pt}

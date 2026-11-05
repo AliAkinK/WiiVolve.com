@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Synthetic fixture: date formats, missing, invalid and future dates. Tests run with now = 2026-11-04T17:00:00Z. -->
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Edge dates</title>
+<link>https://edge.example/</link>
+<item><title>Wii date missing</title><link>https://edge.example/d/missing</link></item>
+<item><title>Wii date invalid</title><link>https://edge.example/d/invalid</link><pubDate>not a date</pubDate></item>
+<item><title>Wii date far future</title><link>https://edge.example/d/future</link><pubDate>Fri, 01 Jan 2049 00:00:00 GMT</pubDate></item>
+<item><title>Wii date thirty minutes ahead</title><link>https://edge.example/d/soon</link><pubDate>Wed, 04 Nov 2026 17:30:00 GMT</pubDate></item>
+<item><title>Wii date named zone</title><link>https://edge.example/d/pst</link><pubDate>Tue, 03 Nov 2026 12:00:00 PST</pubDate></item>
+<item><title>Wii date ISO offset</title><link>https://edge.example/d/iso</link><pubDate>2026-11-03T10:15:30+05:30</pubDate></item>
+<item><title>Wii date ISO no zone</title><link>https://edge.example/d/isonozone</link><pubDate>2026-11-02 08:00:00</pubDate></item>
+<item><title>Wii date only</title><link>https://edge.example/d/dateonly</link><pubDate>2026-11-01</pubDate></item>
+<item><title>Wii date two-digit year</title><link>https://edge.example/d/twodigit</link><pubDate>1 Nov 26 10:00 +0100</pubDate></item>
+<item><title>Wii dc date</title><link>https://edge.example/d/dc</link><dc:date>2026-10-31T09:00:00Z</dc:date></item>
+<item><title>Wii impossible time</title><link>https://edge.example/d/impossible</link><pubDate>Sun, 01 Nov 2026 25:61:00 GMT</pubDate></item>
+<item><title>Wii epoch date</title><link>https://edge.example/d/epoch</link><pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate></item>
+<item><title>Wii updated only</title><link>https://edge.example/d/updated</link><atom:updated>2026-10-30T06:00:00Z</atom:updated></item>
+</channel>
+</rss>

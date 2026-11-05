@@ -1,0 +1,54 @@
+# Legacy wiivolve.com links (2006-2008) -> the archived page. Contract: docs/ARCHITECTURE.md, section 7.4.
+# Parsed by Cloudflare at deploy time and never served.
+#
+# Verified with wrangler 4.157.0 dev (the same asset-worker code that runs at the edge): when a
+# destination has no query string of its own, the incoming query string is appended, so
+#   /cheats.php?alpha=a  ->  https://web.archive.org/web/2008/http://wiivolve.com/cheats.php?alpha=a
+# Matching is on the path only, exact and case-sensitive. Static rules are checked before
+# dynamic (splat) rules; among dynamic rules the first match wins.
+#
+# Not here on purpose: the endpoints with an id (fullNews.php, article.php, review.php, preview.php,
+# gameInfo.php, cheat.php) and a "/*.php" catch-all. Those requests get site/404.html (status 404), and
+# its 404.js sends a documented post, feature, review or preview, or a captured game or cheat page, to
+# its best capture (site/legacy-map.json; 188 of the 220 posts have no capture of their own), an id the
+# map does not know to the old site's own list for that endpoint, and any other old .php page to the 2008
+# form. A catch-all here would answer those endpoints first, in every spelling. tests/hosting.test.mjs
+# checks this.
+#
+# 302, not 301, for the archive: browsers keep a 301 without Cache-Control for good, and the best
+# archive address for a page can change.
+
+# New homes for two old endpoints.
+/rss.php                  /feed.xml   301
+/index.php                /           301
+
+# Every other .php endpoint in legacy-assets/wayback-url-index.json, plus the list pages after its
+# alphabetical cut-off that legacy-assets/FACTS.md documents (reviews, staff, stats).
+/aboutus.php              https://web.archive.org/web/2008/http://wiivolve.com/aboutus.php              302
+/articles.php             https://web.archive.org/web/2008/http://wiivolve.com/articles.php             302
+
+/cheats.php               https://web.archive.org/web/2008/http://wiivolve.com/cheats.php               302
+/competitions.php         https://web.archive.org/web/2008/http://wiivolve.com/competitions.php         302
+/contests.php             https://web.archive.org/web/2008/http://wiivolve.com/contests.php             302
+/d2w.php                  https://web.archive.org/web/2008/http://wiivolve.com/d2w.php                  302
+/d2w_subscribe.php        https://web.archive.org/web/2008/http://wiivolve.com/d2w_subscribe.php        302
+/downloads.php            https://web.archive.org/web/2008/http://wiivolve.com/downloads.php            302
+/fullNews-n-xiin.php      https://web.archive.org/web/2008/http://wiivolve.com/fullNews-n-xiin.php      302
+
+/games.php                https://web.archive.org/web/2008/http://wiivolve.com/games.php                302
+/index-n-xiin.php         https://web.archive.org/web/2008/http://wiivolve.com/index-n-xiin.php         302
+/legal.php                https://web.archive.org/web/2008/http://wiivolve.com/legal.php                302
+/mailbag.php              https://web.archive.org/web/2008/http://wiivolve.com/mailbag.php              302
+/newComment.php           https://web.archive.org/web/2008/http://wiivolve.com/newComment.php           302
+/news.php                 https://web.archive.org/web/2008/http://wiivolve.com/news.php                 302
+/previews.php             https://web.archive.org/web/2008/http://wiivolve.com/previews.php             302
+/reviews.php              https://web.archive.org/web/2008/http://wiivolve.com/reviews.php              302
+/staff.php                https://web.archive.org/web/2008/http://wiivolve.com/staff.php                302
+/stats.php                https://web.archive.org/web/2008/http://wiivolve.com/stats.php                302
+
+# Legacy folders (the same list the 404 fallback uses).
+/downloads/*              https://web.archive.org/web/2008/http://wiivolve.com/downloads/:splat         302
+/images/*                 https://web.archive.org/web/2008/http://wiivolve.com/images/:splat            302
+/browser/*                https://web.archive.org/web/2008/http://wiivolve.com/browser/:splat           302
+/gigazero/*               https://web.archive.org/web/2008/http://wiivolve.com/gigazero/:splat          302
+/error/*                  https://web.archive.org/web/2008/http://wiivolve.com/error/:splat             302

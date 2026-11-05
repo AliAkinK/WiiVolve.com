@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- Synthetic fixture: not well-formed. Unclosed title and item, stray tags, unescaped ampersands, garbage after the root. -->
+<rss version="2.0"><channel><title>Broken & proud</title>
+<item><title>Unclosed title about the Wii
+<link>https://edge.example/broken-1</link>
+<description>Unescaped & ampersand <b>stray tag</description>
+<pubDate>Mon, 02 Nov 2026 10:00:00 GMT</pubDate>
+<item><title>Item that closes</title><link>https://edge.example/broken-2</link></item>
+<item><title>Good item</title><link>https://edge.example/broken-3</link><pubDate>Mon, 02 Nov 2026 08:00:00 GMT</pubDate></item>
+<item/>
+</channel></rss>
+<garbage after="root">
+<![CDATA[unterminated
