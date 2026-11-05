@@ -194,10 +194,10 @@ Free, cookieless, and the only way to know the site is being read.
 1. Open the [Web Analytics page](https://dash.cloudflare.com/?to=/:account/web-analytics) of the dashboard and select **Add a site**.
 2. Choose `wiivolve.com` from the drop-down and select **Done**.
 
-That is the automatic setup: Cloudflare adds its small beacon script to the page as it passes through its network. The page's Content-Security-Policy (`site/_headers`) already allows it. After a visit or two, check that the beacon is there:
+That is the automatic setup: Cloudflare adds its small beacon script to the page as it passes through its network. The page's Content-Security-Policy (`site/_headers`) already allows it. After a visit or two, check that the beacon is there. Cloudflare adds it only to responses for browsers, which ask for `text/html`; without that header `curl` always prints `0`:
 
 ```sh
-curl -s https://wiivolve.com/ | grep -c cloudflareinsights
+curl -s -H 'Accept: text/html' https://wiivolve.com/ | grep -c cloudflareinsights
 # 1 (or more) means analytics is on
 ```
 
@@ -313,10 +313,10 @@ The **Weekly self-check** job is red: GitHub refused to create or update the iss
 
 ### Web Analytics shows nothing
 
-First visit the site yourself and give it a few minutes. If `curl -s https://wiivolve.com/ | grep -c cloudflareinsights` still prints `0`, the automatic injection is not reaching the page. Switch to the manual snippet: **Web Analytics** > **Manage site** > **Enable with JS Snippet installation**, copy the token from the snippet, and add this line before `</body>` in `templates/index.html` (an external script, which the Content-Security-Policy already allows), then push:
+First visit the site yourself and give it a few minutes. If `curl -s -H 'Accept: text/html' https://wiivolve.com/ | grep -c cloudflareinsights` still prints `0` (the header matters: Cloudflare injects the beacon only into responses for browsers), the automatic injection is not reaching the page. Switch to the manual snippet: **Web Analytics** > **Manage site** > **Enable with JS Snippet installation**, copy the token from the snippet, and add this line before `</body>` in `templates/index.html` (an external script, which the Content-Security-Policy already allows), then push:
 
 ```html
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "PASTE-THE-TOKEN"}'></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "PASTE-THE-TOKEN"}'></script>
 ```
 
 ---
