@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "4218170323f9056a8a387b0661bbf78feff1cea8186616ea7983ebef55de1281",
+  "signature": "e8ee08af70625f83a023a3f631e03c2389c38b53123b52f159b9de9424a19e6d",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-06T00:12:19Z",
+  "lastWrite": "2026-11-06T06:37:45Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -77,15 +77,17 @@
     "a0c0e3ff6c3f": "2026-10-31T22:47:07Z",
     "a248e7cb3c20": "2025-05-01T17:00:57Z",
     "a88306e7e51a": "2026-11-01T20:43:09Z",
+    "a930acfe0ad4": "2026-11-06T06:37:45Z",
     "ac936a45a54c": "2026-06-25T04:05:01Z",
     "acfb1b2246aa": "2022-07-10T07:00:00Z",
+    "ad5dff270e84": "2026-11-06T06:37:45Z",
     "ae265a8b8b61": "2026-11-04T17:22:25Z",
     "aea9e287c645": "2026-10-23T15:41:05Z",
     "b020cb01e5c1": "2026-11-02T02:47:21Z",
     "b25ab4396885": "2026-11-04T17:22:25Z",
+    "b27dbb75729b": "2026-11-06T06:37:45Z",
     "b38fd48928a6": "2024-04-30T07:21:16Z",
     "bb646e9fd9b0": "2026-10-24T14:06:09Z",
-    "bc66cecfff3d": "2026-01-21T08:00:00Z",
     "bd8654811e08": "2026-11-01T18:54:02Z",
     "c515348091a6": "2026-11-01T21:08:05Z",
     "c534ee37d865": "2023-05-26T23:19:02Z",
@@ -124,8 +126,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T00:12:19Z",
-      "lastAttempt": "2026-11-06T00:12:19Z",
+      "lastOk": "2026-11-06T06:37:45Z",
+      "lastAttempt": "2026-11-06T06:37:45Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -133,19 +135,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Thu, 05 Nov 2026 23:26:00 -0000",
-      "lastOk": "2026-11-06T00:12:19Z",
-      "lastAttempt": "2026-11-06T00:12:19Z",
+      "lastModified": "Fri, 06 Nov 2026 05:49:00 -0000",
+      "lastOk": "2026-11-06T06:37:45Z",
+      "lastAttempt": "2026-11-06T06:37:45Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"d7641227e0817eb862aff572ed5fd207\"",
-      "lastModified": "Thu, 05 Nov 2026 22:01:17 GMT",
-      "lastOk": "2026-11-06T00:12:19Z",
-      "lastAttempt": "2026-11-06T00:12:19Z",
+      "etag": "W/\"6a934e8636172b71a0ea0c50cc40373c\"",
+      "lastModified": "Fri, 06 Nov 2026 02:09:50 GMT",
+      "lastOk": "2026-11-06T06:37:45Z",
+      "lastAttempt": "2026-11-06T06:37:45Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -154,8 +156,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T00:12:19Z",
-      "lastAttempt": "2026-11-06T00:12:19Z",
+      "lastOk": "2026-11-06T06:37:45Z",
+      "lastAttempt": "2026-11-06T06:37:45Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -164,12 +166,27 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T00:12:19Z",
-      "lastAttempt": "2026-11-06T00:12:19Z",
+      "lastOk": "2026-11-06T06:37:45Z",
+      "lastAttempt": "2026-11-06T06:37:45Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "ad5dff270e84",
+          "title": "Nintendo Wii Steering Wheel khorasantimes.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1WVVwREs5Y3RGSlhqUWMwYU1rRmV3N3p1dG01dFp1WndLLVI5NDlLdW5kVDRGN0hpQzF2c1d1Q0VRVGpYVWx2VUF3dTNHSG5Qenljbk96MmowRDZJTEdoWm5yTFVSR21NOGNkT2U0WFFpU2tTWjJnblJWYw?oc=5",
+          "source": "khorasantimes.com",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-06T02:22:40Z",
+          "firstSeen": "2026-11-06T06:37:45Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
         {
           "id": "03e6a7a6c088",
           "title": "Remake of Nintendo Wii Exclusive Game Now Available for Free for Some",
@@ -300,21 +317,6 @@
           "tab": "press",
           "published": "2026-02-01T08:00:00Z",
           "firstSeen": "2026-02-01T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "bc66cecfff3d",
-          "title": "Classic Nintendo Wii Game Just Received New Content 16 Years Later",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemppa29lS0pJZXJSSWdHbF9zVUhORjFCQzlrTFVEZVptbFFDS09lVFNlcThVMUp2eGQzNkE0b2RpQVdHZzZGcGpteU1BeGNEUTRBVXVyMG83SkkyNVlLcE13SWNDejVUYVIxWWxSNFZWRXdsQldZVUhmanNEZ1dyY2ZrOA?oc=5",
-          "source": "ComicBook.com",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-01-21T08:00:00Z",
-          "firstSeen": "2026-01-21T08:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -699,10 +701,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"dec5ee189c7d8c68b0a4bc6b64493ae8\"",
-      "lastModified": "Thu, 05 Nov 2026 20:37:26 GMT",
-      "lastOk": "2026-11-06T00:12:19Z",
-      "lastAttempt": "2026-11-06T00:12:19Z",
+      "etag": "W/\"77d893d324a1140c7ebaf41a319d75eb\"",
+      "lastModified": "Thu, 05 Nov 2026 22:01:22 GMT",
+      "lastOk": "2026-11-06T06:37:45Z",
+      "lastAttempt": "2026-11-06T06:37:45Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -800,8 +802,8 @@
     "dolphin": {
       "etag": "W/\"6a89b42a892e26d0c4f13b359c957da7\"",
       "lastModified": "Thu, 15 Oct 2026 03:44:39 GMT",
-      "lastOk": "2026-11-06T00:12:19Z",
-      "lastAttempt": "2026-11-06T00:12:19Z",
+      "lastOk": "2026-11-06T06:37:45Z",
+      "lastAttempt": "2026-11-06T06:37:45Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1051,8 +1053,8 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T00:12:19Z",
-      "lastAttempt": "2026-11-06T00:12:19Z",
+      "lastOk": "2026-11-06T06:37:45Z",
+      "lastAttempt": "2026-11-06T06:37:45Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1350,12 +1352,24 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T00:12:19Z",
-      "lastAttempt": "2026-11-06T00:12:19Z",
+      "lastOk": "2026-11-06T06:37:45Z",
+      "lastAttempt": "2026-11-06T06:37:45Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "a930acfe0ad4",
+          "title": "Need help making a Super Mario Bros. CD WAD.",
+          "url": "https://www.reddit.com/r/WiiHacks/comments/1xow6th/need_help_making_a_super_mario_bros_cd_wad/",
+          "source": "r/WiiHacks",
+          "sourceId": "reddit-wiihacks",
+          "tab": "scene",
+          "published": "2026-11-05T22:23:09Z",
+          "firstSeen": "2026-11-06T06:37:45Z",
+          "excerpt": "I'm trying to create a custom Wii Menu channel for Super Mario Bros. CD using the latest Friish Produce (Catman version). I'm using Snes9x GX as the injection method. The game requires MSU-1 audio, so I've created a…",
+          "matched": []
+        },
         {
           "id": "7b17ff03ba71",
           "title": "Is it still possible to port GTA: San Andreas to the Wii?",
@@ -1390,6 +1404,18 @@
           "published": "2026-11-05T10:35:35Z",
           "firstSeen": "2026-11-05T18:43:09Z",
           "excerpt": "",
+          "matched": []
+        },
+        {
+          "id": "b27dbb75729b",
+          "title": "Boot directly into game on USB",
+          "url": "https://www.reddit.com/r/WiiHacks/comments/1xnn4uo/boot_directly_into_game_on_usb/",
+          "source": "r/WiiHacks",
+          "sourceId": "reddit-wiihacks",
+          "tab": "scene",
+          "published": "2026-11-04T12:37:42Z",
+          "firstSeen": "2026-11-06T06:37:45Z",
+          "excerpt": "Is it possible somehow to boot directly into a game on a USB drive? I know I can boot into USB Loader GX or whatever, but I'd like to not have to press any buttons at all before the game starts loading.",
           "matched": []
         },
         {
@@ -1606,18 +1632,6 @@
           "published": "2026-10-23T14:24:29Z",
           "firstSeen": "2026-10-23T14:24:29Z",
           "excerpt": "I was thinking 360p would scale better to x2 720p/x3 1080p/x6 to 4k. I know the pal wii could output 576i. But output of 540i or could interger 2x scale to 1080p, 4x to 4k. Or even 720i or 960i",
-          "matched": []
-        },
-        {
-          "id": "0b14a20b1603",
-          "title": "Cherche a rencontrer des Modder expérimenté sur la WiiU dans la région Brestoise dans le Finistère, afin d'apprendre...",
-          "url": "https://www.reddit.com/r/WiiHacks/comments/1x7cbqd/cherche_a_rencontrer_des_modder_exp%C3%A9riment%C3%A9_sur/",
-          "source": "r/WiiHacks",
-          "sourceId": "reddit-wiihacks",
-          "tab": "scene",
-          "published": "2026-10-16T10:10:25Z",
-          "firstSeen": "2026-10-16T10:10:25Z",
-          "excerpt": "J'ai 42 ans, j'ai débuté sur la NES, j'ai eu la chance de voir l'évolution du jeu vidéo,jusqu’à aujourd'hui ou le secteur connait une mutation horrible. J'ai Hack ma WiiU il y a 2 ans avec succès avec Tiramisu…",
           "matched": []
         }
       ]

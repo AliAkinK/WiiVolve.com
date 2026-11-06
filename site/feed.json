@@ -9,6 +9,36 @@
   "language": "en",
   "items": [
     {
+      "id": "ad5dff270e84",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1WVVwREs5Y3RGSlhqUWMwYU1rRmV3N3p1dG01dFp1WndLLVI5NDlLdW5kVDRGN0hpQzF2c1d1Q0VRVGpYVWx2VUF3dTNHSG5Qenljbk96MmowRDZJTEdoWm5yTFVSR21NOGNkT2U0WFFpU2tTWjJnblJWYw?oc=5",
+      "title": "Nintendo Wii Steering Wheel khorasantimes.com",
+      "content_text": "Nintendo Wii Steering Wheel khorasantimes.com",
+      "date_published": "2026-11-06T02:22:40Z",
+      "authors": [
+        {
+          "name": "khorasantimes.com"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "a930acfe0ad4",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xow6th/need_help_making_a_super_mario_bros_cd_wad/",
+      "title": "Need help making a Super Mario Bros. CD WAD.",
+      "content_text": "I'm trying to create a custom Wii Menu channel for Super Mario Bros. CD using the latest Friish Produce (Catman version). I'm using Snes9x GX as the injection method. The game requires MSU-1 audio, so I've created a…",
+      "date_published": "2026-11-05T22:23:09Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "03e6a7a6c088",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnFFa0lZTGwyVUtlYkppQlVnczB2aE0wQ1lKUEZYSUNacTFvYVEtNGxRY1QwTk04dmtlZlpteGw1OVpORFoxVUJiclFfbXczNm9xY0haTWlNN3pHN29WMFhBODJYSzRtSGREal9tbGRuclNjLVAwbEdQNjVoV1JncnU3cFRFVzUxRlFn?oc=5",
       "title": "Remake of Nintendo Wii Exclusive Game Now Available for Free for Some",
@@ -152,6 +182,21 @@
       "authors": [
         {
           "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "b27dbb75729b",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xnn4uo/boot_directly_into_game_on_usb/",
+      "title": "Boot directly into game on USB",
+      "content_text": "Is it possible somehow to boot directly into a game on a USB drive? I know I can boot into USB Loader GX or whatever, but I'd like to not have to press any buttons at all before the game starts loading.",
+      "date_published": "2026-11-04T12:37:42Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
         }
       ],
       "tags": [
@@ -369,36 +414,6 @@
       ]
     },
     {
-      "id": "fb344aa21b7e",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xiioss/are_there_issues_using_a_partitioned_hdd_with_the/",
-      "title": "Are there issues using a partitioned HDD with the vWii?",
-      "content_text": "Hi, I have a partitioned 2TB external HDD connected to the two back ports of my Wii-U. One partition for Wii-U stuff, one for GC/Wii stuff. The Wii-U partition works perfectly - fast, stable, reliable. The vWii…",
-      "date_published": "2026-10-29T12:32:03Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "57fec4247196",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xidsv8/is_there_a_compiled_list_of_game_ports_to_the_wii/",
-      "title": "is there a compiled list of game ports to the Wii or do you have to search",
-      "content_text": "like this! https://www.reddit.com/r/WiiHacks/s/rf4a4wRiDy",
-      "date_published": "2026-10-29T07:57:31Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
       "id": "db9eddafe83c",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MVAtVnZrZHRzWGVBRWktMkViZFRFTktpdlEyTDk5N2o0dFV3WGI3RjF4NnptUHFJU1ZJMkhUTi02YlFfUVdXR3RKeXFUc01OUHhWOU1RQ3hjOVFqWmpaUW1JRGtZRzhvNW9hN3ZRMFM3djRJUHFMNVlPemU?oc=5",
       "title": "5 Classic Nintendo Wii Games That Are Unplayable Today",
@@ -497,21 +512,6 @@
       "authors": [
         {
           "name": "BGR"
-        }
-      ],
-      "tags": [
-        "press"
-      ]
-    },
-    {
-      "id": "17861fa5b00f",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85T1I0WXBkRWxHRmh1M281blA0T3hTZFBOQUNpMG5RdUR0MTFBd2tSdUwyb3VSekZoRFZ0S1ZHWTNjc2JVeGxHWkVnNWdMS2JlZTdPLWFlcV95WVp0U2pUdHlRY2tzdjRnejBlN0pDcVkyeHU4bnBBcHktWQ?oc=5",
-      "title": "7 Untouchable Nintendo Wii Games Nobody Remembers",
-      "content_text": "7 Untouchable Nintendo Wii Games Nobody Remembers",
-      "date_published": "2026-04-14T07:00:00Z",
-      "authors": [
-        {
-          "name": "Comic Book Resources"
         }
       ],
       "tags": [

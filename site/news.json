@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T00:12:19Z",
+  "generatedAt": "2026-11-06T06:37:45Z",
   "items": [
+    {
+      "id": "ad5dff270e84",
+      "title": "Nintendo Wii Steering Wheel khorasantimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1WVVwREs5Y3RGSlhqUWMwYU1rRmV3N3p1dG01dFp1WndLLVI5NDlLdW5kVDRGN0hpQzF2c1d1Q0VRVGpYVWx2VUF3dTNHSG5Qenljbk96MmowRDZJTEdoWm5yTFVSR21NOGNkT2U0WFFpU2tTWjJnblJWYw?oc=5",
+      "source": "khorasantimes.com",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-06T02:22:40Z",
+      "firstSeen": "2026-11-06T06:37:45Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
+    {
+      "id": "a930acfe0ad4",
+      "title": "Need help making a Super Mario Bros. CD WAD.",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xow6th/need_help_making_a_super_mario_bros_cd_wad/",
+      "source": "r/WiiHacks",
+      "sourceId": "reddit-wiihacks",
+      "tab": "scene",
+      "published": "2026-11-05T22:23:09Z",
+      "firstSeen": "2026-11-06T06:37:45Z",
+      "excerpt": "I'm trying to create a custom Wii Menu channel for Super Mario Bros. CD using the latest Friish Produce (Catman version). I'm using Snes9x GX as the injection method. The game requires MSU-1 audio, so I've created a…",
+      "matched": []
+    },
     {
       "id": "03e6a7a6c088",
       "title": "Remake of Nintendo Wii Exclusive Game Now Available for Free for Some",
@@ -123,6 +150,18 @@
       "published": "2026-11-04T14:26:04Z",
       "firstSeen": "2026-11-04T17:22:25Z",
       "excerpt": "I'm looking to compile a fully thorough list of every game featuring mech/mecha/big robots that came to the original Wii console. Games that feature this either in full or part; piloted mech armor suits, giant robots…",
+      "matched": []
+    },
+    {
+      "id": "b27dbb75729b",
+      "title": "Boot directly into game on USB",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xnn4uo/boot_directly_into_game_on_usb/",
+      "source": "r/WiiHacks",
+      "sourceId": "reddit-wiihacks",
+      "tab": "scene",
+      "published": "2026-11-04T12:37:42Z",
+      "firstSeen": "2026-11-06T06:37:45Z",
+      "excerpt": "Is it possible somehow to boot directly into a game on a USB drive? I know I can boot into USB Loader GX or whatever, but I'd like to not have to press any buttons at all before the game starts loading.",
       "matched": []
     },
     {
@@ -297,30 +336,6 @@
       "matched": []
     },
     {
-      "id": "fb344aa21b7e",
-      "title": "Are there issues using a partitioned HDD with the vWii?",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xiioss/are_there_issues_using_a_partitioned_hdd_with_the/",
-      "source": "r/WiiHacks",
-      "sourceId": "reddit-wiihacks",
-      "tab": "scene",
-      "published": "2026-10-29T12:32:03Z",
-      "firstSeen": "2026-10-29T12:32:03Z",
-      "excerpt": "Hi, I have a partitioned 2TB external HDD connected to the two back ports of my Wii-U. One partition for Wii-U stuff, one for GC/Wii stuff. The Wii-U partition works perfectly - fast, stable, reliable. The vWii…",
-      "matched": []
-    },
-    {
-      "id": "57fec4247196",
-      "title": "is there a compiled list of game ports to the Wii or do you have to search",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xidsv8/is_there_a_compiled_list_of_game_ports_to_the_wii/",
-      "source": "r/WiiHacks",
-      "sourceId": "reddit-wiihacks",
-      "tab": "scene",
-      "published": "2026-10-29T07:57:31Z",
-      "firstSeen": "2026-10-29T07:57:31Z",
-      "excerpt": "like this! https://www.reddit.com/r/WiiHacks/s/rf4a4wRiDy",
-      "matched": []
-    },
-    {
       "id": "db9eddafe83c",
       "title": "5 Classic Nintendo Wii Games That Are Unplayable Today",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MVAtVnZrZHRzWGVBRWktMkViZFRFTktpdlEyTDk5N2o0dFV3WGI3RjF4NnptUHFJU1ZJMkhUTi02YlFfUVdXR3RKeXFUc01OUHhWOU1RQ3hjOVFqWmpaUW1JRGtZRzhvNW9hN3ZRMFM3djRJUHFMNVlPemU?oc=5",
@@ -420,21 +435,6 @@
       ]
     },
     {
-      "id": "17861fa5b00f",
-      "title": "7 Untouchable Nintendo Wii Games Nobody Remembers",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85T1I0WXBkRWxHRmh1M281blA0T3hTZFBOQUNpMG5RdUR0MTFBd2tSdUwyb3VSekZoRFZ0S1ZHWTNjc2JVeGxHWkVnNWdMS2JlZTdPLWFlcV95WVp0U2pUdHlRY2tzdjRnejBlN0pDcVkyeHU4bnBBcHktWQ?oc=5",
-      "source": "Comic Book Resources",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-04-14T07:00:00Z",
-      "firstSeen": "2026-04-14T07:00:00Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
       "id": "79862c0cbd30",
       "title": "You’ve All Seen A Hackintosh, But Have You Seen One On A Wii?",
       "url": "https://hackaday.com/2026/04/08/youve-all-seen-a-hackintosh-but-have-you-seen-one-on-a-wii/",
@@ -474,10 +474,10 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-23T00:12:19Z",
+    "windowStart": "2026-10-23T06:37:45Z",
     "completeSince": {
       "all": "2026-11-03T04:25:28Z",
-      "press": "2026-10-23T00:12:19Z",
+      "press": "2026-10-23T06:37:45Z",
       "scene": "2026-11-03T04:25:28Z"
     }
   }
