@@ -5,9 +5,27 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 14:59:51 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 20:52:27 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>help on this remote it keeps shaking erratically</title>
+<link>https://www.reddit.com/r/wii/comments/1xplgzi/help_on_this_remote_it_keeps_shaking_erratically/</link>
+<guid isPermaLink="false">3cdf27e2776e</guid>
+<pubDate>Fri, 06 Nov 2026 19:15:42 GMT</pubDate>
+<description>the pointer cursor hand on the wii works great but only on the mii channel and other types of apps (not games) make it verry shaky and erratic. yes i tested it during night without wny sory of interference and it still…</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
+<item>
+<title>Got a never opened rvl-001 wii and never opened wii fit and balance board what should I do with it.</title>
+<link>https://www.reddit.com/r/wii/comments/1xpghy8/got_a_never_opened_rvl001_wii_and_never_opened/</link>
+<guid isPermaLink="false">2b78f3fce6bb</guid>
+<pubDate>Fri, 06 Nov 2026 16:03:51 GMT</pubDate>
+<description>I wanna know if i should: keep it and let it stay in box and sell it in a couple years — Open it, homebrew it, and enjoy it with my family. Try to sell it and buy a complete in box wii u I definitely have a lot of wii…</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
 <item>
 <title>Fix-it Friday! Please ask and give help here for tech support and other common questions.</title>
 <link>https://www.reddit.com/r/wii/comments/1xp93yq/fixit_friday_please_ask_and_give_help_here_for/</link>
@@ -159,29 +177,19 @@
 <category>scene</category>
 </item>
 <item>
-<title>Question about previously downloaded Wii digital software</title>
-<link>https://www.reddit.com/r/wii/comments/1xna905/question_about_previously_downloaded_wii_digital/</link>
-<guid isPermaLink="false">492e6ace070d</guid>
-<pubDate>Wed, 04 Nov 2026 00:38:44 GMT</pubDate>
-<description>Hey, does anyone have any USA Wiis that still have legally downloaded WiiWare and Virtual Console software that is listed under &quot;Titles You&#39;ve Downloaded&quot;?</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>Some new pickups to add to the wii collection</title>
-<link>https://www.reddit.com/r/wii/comments/1xn8bbr/some_new_pickups_to_add_to_the_wii_collection/</link>
-<guid isPermaLink="false">cf2a37c5d759</guid>
-<pubDate>Tue, 03 Nov 2026 23:12:30 GMT</pubDate>
-<description>Metal Slug Anthology, SNK arcade classics, Kirby Air Ride(i know its GC) and Tatsunoko vs Capcom. My only gripe is with SNK arcade classics, because World Heroes requires 10 trophies to unlock the game, but at least…</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
 <title>SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld</title>
 <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFh3SERjMFFwZklUVGg1RXVDaFBDS1hLRGZydVlNUTM4OHNWVUt2VTRkZFhZSmhYV3pxYWctdDh6TkFtWm1FLVB0dHhNcGFGUnpWYmJfejdLOGthUldjUmYzb0pLUnBKcFYwYS0xMThFZ0VlTFdRVGJrWm1aTDFNWEdSQVNkcktFblRmXw?oc=5</link>
 <guid isPermaLink="false">ed13f06de9c7</guid>
 <pubDate>Mon, 02 Nov 2026 18:10:29 GMT</pubDate>
 <source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">Retro Dodo</source>
+<category>press</category>
+</item>
+<item>
+<title>PS5 vs Wii Sales Comparison - September 2026</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekotY29JZFlqSmk5YWZRVlFOY0poMkhEV200WEtxb2lhbldjVkU4SFF2RUFVbjJQcDZIdmhLYk5vemVjUTJQdUx6UUwwMm4wX2x5bGp2c1dRcjJwMFJFdTA0eVNRdmVTOG4xcC1hNGN5VEY1S1JFV3ZfNDcyOG5obENGRWIwMElzYmJF?oc=5</link>
+<guid isPermaLink="false">fa73389bb2f7</guid>
+<pubDate>Mon, 02 Nov 2026 14:57:02 GMT</pubDate>
+<source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">VGChartz</source>
 <category>press</category>
 </item>
 <item>
@@ -295,14 +303,6 @@
 <description>Welcome to the Progress Report for Dolphin Release 2606. We usually prefer to launch toward the beginning of the month, but a slew of important, large, and technically challenging changes had us working overtime. Strap…</description>
 <source url="https://dolphin-emu.org/blog/feeds/">Dolphin Emulator</source>
 <category>scene</category>
-</item>
-<item>
-<title>Is The Nintendo Wii Still Worth Buying In 2026?</title>
-<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qVkg4Q0l5VFRhemNnakhzWkU0ZzdjVTNtRERwczhra3RrMV9xOEVaRjBFdlAwTTJWWnNmZk5sS1p0T050aDN6OHJ5akxQZ0o4S0s3OEh2ZU9UeDZGczFWZV9rLXJsdS10?oc=5</link>
-<guid isPermaLink="false">d356528af061</guid>
-<pubDate>Tue, 02 Jun 2026 07:00:00 GMT</pubDate>
-<source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">BGR</source>
-<category>press</category>
 </item>
 <item>
 <title>You’ve All Seen A Hackintosh, But Have You Seen One On A Wii?</title>

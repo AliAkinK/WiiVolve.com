@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T14:59:51Z",
+  "generatedAt": "2026-11-06T20:52:27Z",
   "items": [
+    {
+      "id": "3cdf27e2776e",
+      "title": "help on this remote it keeps shaking erratically",
+      "url": "https://www.reddit.com/r/wii/comments/1xplgzi/help_on_this_remote_it_keeps_shaking_erratically/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-06T19:15:42Z",
+      "firstSeen": "2026-11-06T20:52:27Z",
+      "excerpt": "the pointer cursor hand on the wii works great but only on the mii channel and other types of apps (not games) make it verry shaky and erratic. yes i tested it during night without wny sory of interference and it still…",
+      "matched": []
+    },
+    {
+      "id": "2b78f3fce6bb",
+      "title": "Got a never opened rvl-001 wii and never opened wii fit and balance board what should I do with it.",
+      "url": "https://www.reddit.com/r/wii/comments/1xpghy8/got_a_never_opened_rvl001_wii_and_never_opened/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-06T16:03:51Z",
+      "firstSeen": "2026-11-06T20:52:27Z",
+      "excerpt": "I wanna know if i should: keep it and let it stay in box and sell it in a couple years — Open it, homebrew it, and enjoy it with my family. Try to sell it and buy a complete in box wii u I definitely have a lot of wii…",
+      "matched": []
+    },
     {
       "id": "f685411cfb62",
       "title": "Fix-it Friday! Please ask and give help here for tech support and other common questions.",
@@ -213,30 +237,6 @@
       "matched": []
     },
     {
-      "id": "492e6ace070d",
-      "title": "Question about previously downloaded Wii digital software",
-      "url": "https://www.reddit.com/r/wii/comments/1xna905/question_about_previously_downloaded_wii_digital/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-04T00:38:44Z",
-      "firstSeen": "2026-11-04T17:22:25Z",
-      "excerpt": "Hey, does anyone have any USA Wiis that still have legally downloaded WiiWare and Virtual Console software that is listed under \"Titles You've Downloaded\"?",
-      "matched": []
-    },
-    {
-      "id": "cf2a37c5d759",
-      "title": "Some new pickups to add to the wii collection",
-      "url": "https://www.reddit.com/r/wii/comments/1xn8bbr/some_new_pickups_to_add_to_the_wii_collection/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-03T23:12:30Z",
-      "firstSeen": "2026-11-04T17:22:25Z",
-      "excerpt": "Metal Slug Anthology, SNK arcade classics, Kirby Air Ride(i know its GC) and Tatsunoko vs Capcom. My only gripe is with SNK arcade classics, because World Heroes requires 10 trophies to unlock the game, but at least…",
-      "matched": []
-    },
-    {
       "id": "ed13f06de9c7",
       "title": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFh3SERjMFFwZklUVGg1RXVDaFBDS1hLRGZydVlNUTM4OHNWVUt2VTRkZFhZSmhYV3pxYWctdDh6TkFtWm1FLVB0dHhNcGFGUnpWYmJfejdLOGthUldjUmYzb0pLUnBKcFYwYS0xMThFZ0VlTFdRVGJrWm1aTDFNWEdSQVNkcktFblRmXw?oc=5",
@@ -246,6 +246,21 @@
       "tab": "press",
       "published": "2026-11-02T18:10:29Z",
       "firstSeen": "2026-11-02T18:10:29Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
+    {
+      "id": "fa73389bb2f7",
+      "title": "PS5 vs Wii Sales Comparison - September 2026",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekotY29JZFlqSmk5YWZRVlFOY0poMkhEV200WEtxb2lhbldjVkU4SFF2RUFVbjJQcDZIdmhLYk5vemVjUTJQdUx6UUwwMm4wX2x5bGp2c1dRcjJwMFJFdTA0eVNRdmVTOG4xcC1hNGN5VEY1S1JFV3ZfNDcyOG5obENGRWIwMElzYmJF?oc=5",
+      "source": "VGChartz",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-02T14:57:02Z",
+      "firstSeen": "2026-11-02T14:57:02Z",
       "excerpt": "",
       "matched": [
         "Wii"
@@ -420,21 +435,6 @@
       "matched": []
     },
     {
-      "id": "d356528af061",
-      "title": "Is The Nintendo Wii Still Worth Buying In 2026?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qVkg4Q0l5VFRhemNnakhzWkU0ZzdjVTNtRERwczhra3RrMV9xOEVaRjBFdlAwTTJWWnNmZk5sS1p0T050aDN6OHJ5akxQZ0o4S0s3OEh2ZU9UeDZGczFWZV9rLXJsdS10?oc=5",
-      "source": "BGR",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-06-02T07:00:00Z",
-      "firstSeen": "2026-06-02T07:00:00Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
       "id": "79862c0cbd30",
       "title": "You’ve All Seen A Hackintosh, But Have You Seen One On A Wii?",
       "url": "https://hackaday.com/2026/04/08/youve-all-seen-a-hackintosh-but-have-you-seen-one-on-a-wii/",
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-23T14:59:51Z",
+    "windowStart": "2026-10-23T20:52:27Z",
     "completeSince": {
-      "all": "2026-11-03T12:47:51Z",
-      "press": "2026-10-23T14:59:51Z",
-      "scene": "2026-11-03T12:47:51Z"
+      "all": "2026-11-04T00:38:44Z",
+      "press": "2026-10-23T20:52:27Z",
+      "scene": "2026-11-04T00:38:44Z"
     }
   }
 }
