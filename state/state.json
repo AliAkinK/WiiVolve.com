@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "e8ee08af70625f83a023a3f631e03c2389c38b53123b52f159b9de9424a19e6d",
+  "signature": "3b474578982f6093b96c9f00006257c1dbc96f1f37e5b052532b872c2328136a",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-06T06:37:45Z",
+  "lastWrite": "2026-11-06T14:59:51Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -41,6 +41,7 @@
     "4d2d82d76e2e": "2023-08-13T05:59:25Z",
     "4edd75978dfb": "2026-10-29T12:45:52Z",
     "4f0dff1e4517": "2026-11-04T17:22:25Z",
+    "500b2acd2d91": "2026-04-21T07:00:00Z",
     "503a2e2d8b96": "2026-11-04T17:22:25Z",
     "5579c2f30ee4": "2025-05-14T17:30:57Z",
     "561321a38c62": "2022-09-08T07:00:00Z",
@@ -88,6 +89,7 @@
     "b27dbb75729b": "2026-11-06T06:37:45Z",
     "b38fd48928a6": "2024-04-30T07:21:16Z",
     "bb646e9fd9b0": "2026-10-24T14:06:09Z",
+    "bc66cecfff3d": "2026-01-21T08:00:00Z",
     "bd8654811e08": "2026-11-01T18:54:02Z",
     "c515348091a6": "2026-11-01T21:08:05Z",
     "c534ee37d865": "2023-05-26T23:19:02Z",
@@ -115,6 +117,7 @@
     "e8fe48d4d728": "2026-01-22T09:00:06Z",
     "ed13f06de9c7": "2026-11-02T18:10:29Z",
     "f396b81c67b9": "2006-11-17T08:00:00Z",
+    "f685411cfb62": "2026-11-06T14:59:51Z",
     "f7b093d91946": "2021-11-20T08:00:00Z",
     "f8a3463f6b91": "2025-12-22T06:46:16Z",
     "f9d6ed4a214f": "2026-02-01T08:00:00Z",
@@ -126,8 +129,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T06:37:45Z",
-      "lastAttempt": "2026-11-06T06:37:45Z",
+      "lastOk": "2026-11-06T14:59:51Z",
+      "lastAttempt": "2026-11-06T14:59:51Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -136,18 +139,18 @@
     "gonintendo": {
       "etag": null,
       "lastModified": "Fri, 06 Nov 2026 05:49:00 -0000",
-      "lastOk": "2026-11-06T06:37:45Z",
-      "lastAttempt": "2026-11-06T06:37:45Z",
+      "lastOk": "2026-11-06T14:59:51Z",
+      "lastAttempt": "2026-11-06T14:59:51Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"6a934e8636172b71a0ea0c50cc40373c\"",
-      "lastModified": "Fri, 06 Nov 2026 02:09:50 GMT",
-      "lastOk": "2026-11-06T06:37:45Z",
-      "lastAttempt": "2026-11-06T06:37:45Z",
+      "etag": "W/\"89e331170cbcfec0058cb2a144708d63\"",
+      "lastModified": "Fri, 06 Nov 2026 13:38:36 GMT",
+      "lastOk": "2026-11-06T14:59:51Z",
+      "lastAttempt": "2026-11-06T14:59:51Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -156,8 +159,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T06:37:45Z",
-      "lastAttempt": "2026-11-06T06:37:45Z",
+      "lastOk": "2026-11-06T14:59:51Z",
+      "lastAttempt": "2026-11-06T14:59:51Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -166,8 +169,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T06:37:45Z",
-      "lastAttempt": "2026-11-06T06:37:45Z",
+      "lastOk": "2026-11-06T14:59:51Z",
+      "lastAttempt": "2026-11-06T14:59:51Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -197,6 +200,21 @@
           "tab": "press",
           "published": "2026-11-05T20:19:47Z",
           "firstSeen": "2026-11-06T00:12:19Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "db9eddafe83c",
+          "title": "5 Classic Nintendo Wii Games That Are Unplayable Today",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MVAtVnZrZHRzWGVBRWktMkViZFRFTktpdlEyTDk5N2o0dFV3WGI3RjF4NnptUHFJU1ZJMkhUTi02YlFfUVdXR3RKeXFUc01OUHhWOU1RQ3hjOVFqWmpaUW1JRGtZRzhvNW9hN3ZRMFM3djRJUHFMNVlPemU?oc=5",
+          "source": "SVG",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-10-26T07:00:00Z",
+          "firstSeen": "2026-10-26T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -263,6 +281,21 @@
           ]
         },
         {
+          "id": "500b2acd2d91",
+          "title": "Nintendo Switch Users Have Thousands of Free Wii and GameCube Games Now",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblN0bVZWMlVORlJOc1FOTVlQR1ZLa3h0THU0cGU0UWVTRTJubE1xVnlPQm1BMzhoYS1pUDNLNmF4RnlBV0FfbzN6NVBDbXRYZTY5MWdxRFNrSkg4NkQxU09kNHVMandMWWI0NEFIeG5TaGtFX2ZDZDRycDRFRUMxd2Rac0I3U2IzTDN2MGtoblRLejR6R21LZklXeXAzSVJydGp0TFdCenFhLWVVQ2RhNU9PbkJIUVk?oc=5",
+          "source": "GAMINGbible",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-04-21T07:00:00Z",
+          "firstSeen": "2026-04-21T07:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "17861fa5b00f",
           "title": "7 Untouchable Nintendo Wii Games Nobody Remembers",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85T1I0WXBkRWxHRmh1M281blA0T3hTZFBOQUNpMG5RdUR0MTFBd2tSdUwyb3VSekZoRFZ0S1ZHWTNjc2JVeGxHWkVnNWdMS2JlZTdPLWFlcV95WVp0U2pUdHlRY2tzdjRnejBlN0pDcVkyeHU4bnBBcHktWQ?oc=5",
@@ -317,6 +350,21 @@
           "tab": "press",
           "published": "2026-02-01T08:00:00Z",
           "firstSeen": "2026-02-01T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "bc66cecfff3d",
+          "title": "Classic Nintendo Wii Game Just Received New Content 16 Years Later",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemppa29lS0pJZXJSSWdHbF9zVUhORjFCQzlrTFVEZVptbFFDS09lVFNlcThVMUp2eGQzNkE0b2RpQVdHZzZGcGpteU1BeGNEUTRBVXVyMG83SkkyNVlLcE13SWNDejVUYVIxWWxSNFZWRXdsQldZVUhmanNEZ1dyY2ZrOA?oc=5",
+          "source": "ComicBook.com",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-01-21T08:00:00Z",
+          "firstSeen": "2026-01-21T08:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -703,10 +751,10 @@
     "hackaday": {
       "etag": "W/\"77d893d324a1140c7ebaf41a319d75eb\"",
       "lastModified": "Thu, 05 Nov 2026 22:01:22 GMT",
-      "lastOk": "2026-11-06T06:37:45Z",
-      "lastAttempt": "2026-11-06T06:37:45Z",
+      "lastOk": "2026-11-06T14:59:51Z",
+      "lastAttempt": "2026-11-06T14:59:51Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": [
         {
@@ -802,8 +850,8 @@
     "dolphin": {
       "etag": "W/\"6a89b42a892e26d0c4f13b359c957da7\"",
       "lastModified": "Thu, 15 Oct 2026 03:44:39 GMT",
-      "lastOk": "2026-11-06T06:37:45Z",
-      "lastAttempt": "2026-11-06T06:37:45Z",
+      "lastOk": "2026-11-06T14:59:51Z",
+      "lastAttempt": "2026-11-06T14:59:51Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1053,12 +1101,24 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T06:37:45Z",
-      "lastAttempt": "2026-11-06T06:37:45Z",
+      "lastOk": "2026-11-06T14:59:51Z",
+      "lastAttempt": "2026-11-06T14:59:51Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "f685411cfb62",
+          "title": "Fix-it Friday! Please ask and give help here for tech support and other common questions.",
+          "url": "https://www.reddit.com/r/wii/comments/1xp93yq/fixit_friday_please_ask_and_give_help_here_for/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-06T10:01:01Z",
+          "firstSeen": "2026-11-06T14:59:51Z",
+          "excerpt": "Need help figuring out what to do about your Wii console, game, accessory, or next purchase? This is the place to ask on r/Wii. Make a comment below and you will get a notification when others reply to your comment…",
+          "matched": []
+        },
         {
           "id": "0e31de6bc41d",
           "title": "Legit WiiWare Wii with Pokémon Rumble?",
@@ -1096,18 +1156,6 @@
           "matched": []
         },
         {
-          "id": "c79d217e529d",
-          "title": "Tried to play on my ANCIENT Wii, am I cooked?",
-          "url": "https://www.reddit.com/r/wii/comments/1xnxyf4/tried_to_play_on_my_ancient_wii_am_i_cooked/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-04T19:49:43Z",
-          "firstSeen": "2026-11-04T23:23:40Z",
-          "excerpt": "The display won't budge from this.",
-          "matched": []
-        },
-        {
           "id": "ae265a8b8b61",
           "title": "I beat Lucía in wii sports resort",
           "url": "https://www.reddit.com/r/wii/comments/1xnqixk/i_beat_luc%C3%ADa_in_wii_sports_resort/",
@@ -1129,18 +1177,6 @@
           "published": "2026-11-04T14:26:04Z",
           "firstSeen": "2026-11-04T17:22:25Z",
           "excerpt": "I'm looking to compile a fully thorough list of every game featuring mech/mecha/big robots that came to the original Wii console. Games that feature this either in full or part; piloted mech armor suits, giant robots…",
-          "matched": []
-        },
-        {
-          "id": "305480fc5d04",
-          "title": "Are these Wii Remote Plus controllers authentic or fake?",
-          "url": "https://www.reddit.com/r/wii/comments/1xnijiu/are_these_wii_remote_plus_controllers_authentic/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-04T07:59:08Z",
-          "firstSeen": "2026-11-04T17:22:25Z",
-          "excerpt": "Hi everyone! I'm thinking about buying these two Wii Remote Plus controllers, but I'm not sure if they're genuine Nintendo products or knockoffs. I noticed two things that seem a bit strange: 1.The white controller has…",
           "matched": []
         },
         {
@@ -1336,6 +1372,18 @@
           "matched": []
         },
         {
+          "id": "bd8654811e08",
+          "title": "Wii clear shell swap and drive replacement",
+          "url": "https://www.reddit.com/r/wii/comments/1xlb4vh/wii_clear_shell_swap_and_drive_replacement/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-01T18:54:02Z",
+          "firstSeen": "2026-11-01T18:54:02Z",
+          "excerpt": "For anyone who swapped out the shell before Give me some tips on the faceplate The complete worst part of the whole thing",
+          "matched": []
+        },
+        {
           "id": "763072b463b6",
           "title": "A little question about the forecast channel",
           "url": "https://www.reddit.com/r/wii/comments/1xl6cmp/a_little_question_about_the_forecast_channel/",
@@ -1352,8 +1400,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T06:37:45Z",
-      "lastAttempt": "2026-11-06T06:37:45Z",
+      "lastOk": "2026-11-06T14:59:51Z",
+      "lastAttempt": "2026-11-06T14:59:51Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,

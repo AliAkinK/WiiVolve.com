@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T06:37:45Z",
+  "generatedAt": "2026-11-06T14:59:51Z",
   "items": [
+    {
+      "id": "f685411cfb62",
+      "title": "Fix-it Friday! Please ask and give help here for tech support and other common questions.",
+      "url": "https://www.reddit.com/r/wii/comments/1xp93yq/fixit_friday_please_ask_and_give_help_here_for/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-06T10:01:01Z",
+      "firstSeen": "2026-11-06T14:59:51Z",
+      "excerpt": "Need help figuring out what to do about your Wii console, game, accessory, or next purchase? This is the place to ask on r/Wii. Make a comment below and you will get a notification when others reply to your comment…",
+      "matched": []
+    },
     {
       "id": "ad5dff270e84",
       "title": "Nintendo Wii Steering Wheel khorasantimes.com",
@@ -222,18 +234,6 @@
       "published": "2026-11-03T23:12:30Z",
       "firstSeen": "2026-11-04T17:22:25Z",
       "excerpt": "Metal Slug Anthology, SNK arcade classics, Kirby Air Ride(i know its GC) and Tatsunoko vs Capcom. My only gripe is with SNK arcade classics, because World Heroes requires 10 trophies to unlock the game, but at least…",
-      "matched": []
-    },
-    {
-      "id": "b25ab4396885",
-      "title": "Are these unofficial, unbranded classic controllers good enough?",
-      "url": "https://www.reddit.com/r/wii/comments/1xms1sh/are_these_unofficial_unbranded_classic/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-03T12:47:51Z",
-      "firstSeen": "2026-11-04T17:22:25Z",
-      "excerpt": "Or should i go for an old and yellowed official classic controller?",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-23T06:37:45Z",
+    "windowStart": "2026-10-23T14:59:51Z",
     "completeSince": {
-      "all": "2026-11-03T04:25:28Z",
-      "press": "2026-10-23T06:37:45Z",
-      "scene": "2026-11-03T04:25:28Z"
+      "all": "2026-11-03T12:47:51Z",
+      "press": "2026-10-23T14:59:51Z",
+      "scene": "2026-11-03T12:47:51Z"
     }
   }
 }
