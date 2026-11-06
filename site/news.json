@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T18:43:09Z",
+  "generatedAt": "2026-11-06T00:12:19Z",
   "items": [
+    {
+      "id": "03e6a7a6c088",
+      "title": "Remake of Nintendo Wii Exclusive Game Now Available for Free for Some",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnFFa0lZTGwyVUtlYkppQlVnczB2aE0wQ1lKUEZYSUNacTFvYVEtNGxRY1QwTk04dmtlZlpteGw1OVpORFoxVUJiclFfbXczNm9xY0haTWlNN3pHN29WMFhBODJYSzRtSGREal9tbGRuclNjLVAwbEdQNjVoV1JncnU3cFRFVzUxRlFn?oc=5",
+      "source": "ComicBook.com",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-05T20:19:47Z",
+      "firstSeen": "2026-11-06T00:12:19Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
     {
       "id": "7b17ff03ba71",
       "title": "Is it still possible to port GTA: San Andreas to the Wii?",
@@ -434,21 +449,6 @@
       ]
     },
     {
-      "id": "cf1ef8f6dc13",
-      "title": "5 Clever Uses For Your Old Nintendo Wii Remotes",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wRUQ1cFAwQzA4OW9NLWJKcUlaTktsdmpVcDRjR0s3M2hHR1ZhcUY5OG1odlVUdWl2bmoxZ3Uyc3B4M2YxVkRMQkdWalRURm1RTFl1SmF5VURnVHV5ZzRtYjUtYmhhSDhBRHFTejd2R2owci0xRWc?oc=5",
-      "source": "BGR",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-02-18T08:00:00Z",
-      "firstSeen": "2026-02-18T08:00:00Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
       "id": "e8fe48d4d728",
       "title": "Ordering Pizza On The Nintendo Wii (Again)",
       "url": "https://hackaday.com/2026/01/22/ordering-pizza-on-the-nintendo-wii-again/",
@@ -474,10 +474,10 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-22T18:43:09Z",
+    "windowStart": "2026-10-23T00:12:19Z",
     "completeSince": {
       "all": "2026-11-03T04:25:28Z",
-      "press": "2026-10-22T18:43:09Z",
+      "press": "2026-10-23T00:12:19Z",
       "scene": "2026-11-03T04:25:28Z"
     }
   }

@@ -1,11 +1,12 @@
 {
   "version": 1,
-  "signature": "fc3ae776ea4e30cfecdc7ff859df0bc27ab217faf2b40fa431e5bdff8d8a5be2",
+  "signature": "4218170323f9056a8a387b0661bbf78feff1cea8186616ea7983ebef55de1281",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-05T18:43:09Z",
+  "lastWrite": "2026-11-06T00:12:19Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
+    "03e6a7a6c088": "2026-11-06T00:12:19Z",
     "09b862d39f1b": "2026-11-04T17:22:25Z",
     "0b14a20b1603": "2026-10-16T10:10:25Z",
     "0b7b17e3be00": "2009-03-25T07:00:00Z",
@@ -84,6 +85,7 @@
     "b25ab4396885": "2026-11-04T17:22:25Z",
     "b38fd48928a6": "2024-04-30T07:21:16Z",
     "bb646e9fd9b0": "2026-10-24T14:06:09Z",
+    "bc66cecfff3d": "2026-01-21T08:00:00Z",
     "bd8654811e08": "2026-11-01T18:54:02Z",
     "c515348091a6": "2026-11-01T21:08:05Z",
     "c534ee37d865": "2023-05-26T23:19:02Z",
@@ -122,8 +124,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T18:43:09Z",
-      "lastAttempt": "2026-11-05T18:43:09Z",
+      "lastOk": "2026-11-06T00:12:19Z",
+      "lastAttempt": "2026-11-06T00:12:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -131,19 +133,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Thu, 05 Nov 2026 18:39:00 -0000",
-      "lastOk": "2026-11-05T18:43:09Z",
-      "lastAttempt": "2026-11-05T18:43:09Z",
+      "lastModified": "Thu, 05 Nov 2026 23:26:00 -0000",
+      "lastOk": "2026-11-06T00:12:19Z",
+      "lastAttempt": "2026-11-06T00:12:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"1493f02d84e5da9c458f4d93259ecbb4\"",
-      "lastModified": "Thu, 05 Nov 2026 18:19:31 GMT",
-      "lastOk": "2026-11-05T18:43:09Z",
-      "lastAttempt": "2026-11-05T18:43:09Z",
+      "etag": "W/\"d7641227e0817eb862aff572ed5fd207\"",
+      "lastModified": "Thu, 05 Nov 2026 22:01:17 GMT",
+      "lastOk": "2026-11-06T00:12:19Z",
+      "lastAttempt": "2026-11-06T00:12:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -152,8 +154,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T18:43:09Z",
-      "lastAttempt": "2026-11-05T18:43:09Z",
+      "lastOk": "2026-11-06T00:12:19Z",
+      "lastAttempt": "2026-11-06T00:12:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -162,22 +164,22 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T18:43:09Z",
-      "lastAttempt": "2026-11-05T18:43:09Z",
+      "lastOk": "2026-11-06T00:12:19Z",
+      "lastAttempt": "2026-11-06T00:12:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
         {
-          "id": "ed13f06de9c7",
-          "title": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFh3SERjMFFwZklUVGg1RXVDaFBDS1hLRGZydVlNUTM4OHNWVUt2VTRkZFhZSmhYV3pxYWctdDh6TkFtWm1FLVB0dHhNcGFGUnpWYmJfejdLOGthUldjUmYzb0pLUnBKcFYwYS0xMThFZ0VlTFdRVGJrWm1aTDFNWEdSQVNkcktFblRmXw?oc=5",
-          "source": "Retro Dodo",
+          "id": "03e6a7a6c088",
+          "title": "Remake of Nintendo Wii Exclusive Game Now Available for Free for Some",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnFFa0lZTGwyVUtlYkppQlVnczB2aE0wQ1lKUEZYSUNacTFvYVEtNGxRY1QwTk04dmtlZlpteGw1OVpORFoxVUJiclFfbXczNm9xY0haTWlNN3pHN29WMFhBODJYSzRtSGREal9tbGRuclNjLVAwbEdQNjVoV1JncnU3cFRFVzUxRlFn?oc=5",
+          "source": "ComicBook.com",
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
-          "published": "2026-11-02T18:10:29Z",
-          "firstSeen": "2026-11-02T18:10:29Z",
+          "published": "2026-11-05T20:19:47Z",
+          "firstSeen": "2026-11-06T00:12:19Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -298,6 +300,21 @@
           "tab": "press",
           "published": "2026-02-01T08:00:00Z",
           "firstSeen": "2026-02-01T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "bc66cecfff3d",
+          "title": "Classic Nintendo Wii Game Just Received New Content 16 Years Later",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemppa29lS0pJZXJSSWdHbF9zVUhORjFCQzlrTFVEZVptbFFDS09lVFNlcThVMUp2eGQzNkE0b2RpQVdHZzZGcGpteU1BeGNEUTRBVXVyMG83SkkyNVlLcE13SWNDejVUYVIxWWxSNFZWRXdsQldZVUhmanNEZ1dyY2ZrOA?oc=5",
+          "source": "ComicBook.com",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-01-21T08:00:00Z",
+          "firstSeen": "2026-01-21T08:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -682,10 +699,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"814c5c5a2d0c5894e047c165934708fe\"",
-      "lastModified": "Thu, 05 Nov 2026 15:14:04 GMT",
-      "lastOk": "2026-11-05T18:43:09Z",
-      "lastAttempt": "2026-11-05T18:43:09Z",
+      "etag": "W/\"dec5ee189c7d8c68b0a4bc6b64493ae8\"",
+      "lastModified": "Thu, 05 Nov 2026 20:37:26 GMT",
+      "lastOk": "2026-11-06T00:12:19Z",
+      "lastAttempt": "2026-11-06T00:12:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -783,8 +800,8 @@
     "dolphin": {
       "etag": "W/\"6a89b42a892e26d0c4f13b359c957da7\"",
       "lastModified": "Thu, 15 Oct 2026 03:44:39 GMT",
-      "lastOk": "2026-11-05T18:43:09Z",
-      "lastAttempt": "2026-11-05T18:43:09Z",
+      "lastOk": "2026-11-06T00:12:19Z",
+      "lastAttempt": "2026-11-06T00:12:19Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1034,8 +1051,8 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T18:43:09Z",
-      "lastAttempt": "2026-11-05T18:43:09Z",
+      "lastOk": "2026-11-06T00:12:19Z",
+      "lastAttempt": "2026-11-06T00:12:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1333,8 +1350,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-05T18:43:09Z",
-      "lastAttempt": "2026-11-05T18:43:09Z",
+      "lastOk": "2026-11-06T00:12:19Z",
+      "lastAttempt": "2026-11-06T00:12:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
