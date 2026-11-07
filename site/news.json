@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T07:06:17Z",
+  "generatedAt": "2026-11-07T22:42:52Z",
   "items": [
+    {
+      "id": "98fee3c0d488",
+      "title": "Is this official Nintendo packaging?",
+      "url": "https://www.reddit.com/r/wii/comments/1xqh7y8/is_this_official_nintendo_packaging/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-07T21:19:01Z",
+      "firstSeen": "2026-11-07T22:42:52Z",
+      "excerpt": "Looking to get a new wiimote/nunchuck since mine have finally stopped working and want to make sure they are official. Friend of mine said they usually come in boxes but I thought the Nintendo logo can't be used by…",
+      "matched": []
+    },
+    {
+      "id": "30f38c38ed8e",
+      "title": "Super unique thing I’ve never seen",
+      "url": "https://www.reddit.com/r/wii/comments/1xqfenw/super_unique_thing_ive_never_seen/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-07T19:59:01Z",
+      "firstSeen": "2026-11-07T22:42:52Z",
+      "excerpt": "",
+      "matched": []
+    },
     {
       "id": "966440fd7ab6",
       "title": "DIY Wii Vertical Stand :)",
@@ -201,18 +225,6 @@
       "matched": []
     },
     {
-      "id": "019143d0295e",
-      "title": "Trying to find every mecha games on Wii",
-      "url": "https://www.reddit.com/r/wii/comments/1xnpju9/trying_to_find_every_mecha_games_on_wii/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-04T14:26:04Z",
-      "firstSeen": "2026-11-04T17:22:25Z",
-      "excerpt": "I'm looking to compile a fully thorough list of every game featuring mech/mecha/big robots that came to the original Wii console. Games that feature this either in full or part; piloted mech armor suits, giant robots…",
-      "matched": []
-    },
-    {
       "id": "b27dbb75729b",
       "title": "Boot directly into game on USB",
       "url": "https://www.reddit.com/r/WiiHacks/comments/1xnn4uo/boot_directly_into_game_on_usb/",
@@ -222,18 +234,6 @@
       "published": "2026-11-04T12:37:42Z",
       "firstSeen": "2026-11-06T06:37:45Z",
       "excerpt": "Is it possible somehow to boot directly into a game on a USB drive? I know I can boot into USB Loader GX or whatever, but I'd like to not have to press any buttons at all before the game starts loading.",
-      "matched": []
-    },
-    {
-      "id": "305480fc5d04",
-      "title": "Are these Wii Remote Plus controllers authentic or fake?",
-      "url": "https://www.reddit.com/r/wii/comments/1xnijiu/are_these_wii_remote_plus_controllers_authentic/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-04T07:59:08Z",
-      "firstSeen": "2026-11-04T17:22:25Z",
-      "excerpt": "Hi everyone! I'm thinking about buying these two Wii Remote Plus controllers, but I'm not sure if they're genuine Nintendo products or knockoffs. I noticed two things that seem a bit strange: 1.The white controller has…",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-24T07:06:17Z",
+    "windowStart": "2026-10-24T22:42:52Z",
     "completeSince": {
-      "all": "2026-11-04T06:32:43Z",
-      "press": "2026-10-24T07:06:17Z",
-      "scene": "2026-11-04T06:32:43Z"
+      "all": "2026-11-04T14:26:04Z",
+      "press": "2026-10-24T22:42:52Z",
+      "scene": "2026-11-04T14:26:04Z"
     }
   }
 }

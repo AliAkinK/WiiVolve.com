@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "6b28280b1bad3cae32fb81594c2e125ac8c9ccb82f3fcd65e6da868f17f1352c",
+  "signature": "421d60b473397f7bd7c9506bbd5ff9c8000abb4761f5c9b57611dff31ec8500c",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-07T07:06:17Z",
+  "lastWrite": "2026-11-07T22:42:52Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -20,6 +20,7 @@
     "2edbb7d89cb2": "2024-07-02T07:47:50Z",
     "2f18f1d06051": "2025-09-16T03:21:58Z",
     "305480fc5d04": "2026-11-04T17:22:25Z",
+    "30f38c38ed8e": "2026-11-07T22:42:52Z",
     "3195ae4b1ddb": "2026-11-02T05:05:03Z",
     "3278e67fa31f": "2026-11-04T17:22:25Z",
     "3413f05d8fa0": "2026-10-31T06:10:29Z",
@@ -78,6 +79,7 @@
     "906eb0a8028c": "2026-10-23T14:24:29Z",
     "935589548a37": "2023-11-25T15:44:10Z",
     "966440fd7ab6": "2026-11-07T07:06:17Z",
+    "98fee3c0d488": "2026-11-07T22:42:52Z",
     "a05b86d55c1b": "2020-04-29T07:00:00Z",
     "a0c0e3ff6c3f": "2026-10-31T22:47:07Z",
     "a248e7cb3c20": "2025-05-01T17:00:57Z",
@@ -134,8 +136,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T07:06:17Z",
-      "lastAttempt": "2026-11-07T07:06:17Z",
+      "lastOk": "2026-11-07T22:42:52Z",
+      "lastAttempt": "2026-11-07T22:42:52Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -143,19 +145,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Sat, 07 Nov 2026 06:05:00 -0000",
-      "lastOk": "2026-11-07T07:06:17Z",
-      "lastAttempt": "2026-11-07T07:06:17Z",
+      "lastModified": "Sat, 07 Nov 2026 19:27:00 -0000",
+      "lastOk": "2026-11-07T22:42:52Z",
+      "lastAttempt": "2026-11-07T22:42:52Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"127a52f557ed0db8a8305bca2cdf7fd5\"",
-      "lastModified": "Sat, 07 Nov 2026 05:50:44 GMT",
-      "lastOk": "2026-11-07T07:06:17Z",
-      "lastAttempt": "2026-11-07T07:06:17Z",
+      "etag": "W/\"7761ff87a61e728bfb0a0d752521a458\"",
+      "lastModified": "Sat, 07 Nov 2026 21:30:19 GMT",
+      "lastOk": "2026-11-07T22:42:52Z",
+      "lastAttempt": "2026-11-07T22:42:52Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -164,8 +166,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T07:06:17Z",
-      "lastAttempt": "2026-11-07T07:06:17Z",
+      "lastOk": "2026-11-07T22:42:52Z",
+      "lastAttempt": "2026-11-07T22:42:52Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -174,37 +176,37 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T07:06:17Z",
-      "lastAttempt": "2026-11-07T07:06:17Z",
+      "lastOk": "2026-11-07T22:42:52Z",
+      "lastAttempt": "2026-11-07T22:42:52Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
         {
-          "id": "ad5dff270e84",
-          "title": "Nintendo Wii Steering Wheel khorasantimes.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1WVVwREs5Y3RGSlhqUWMwYU1rRmV3N3p1dG01dFp1WndLLVI5NDlLdW5kVDRGN0hpQzF2c1d1Q0VRVGpYVWx2VUF3dTNHSG5Qenljbk96MmowRDZJTEdoWm5yTFVSR21NOGNkT2U0WFFpU2tTWjJnblJWYw?oc=5",
-          "source": "khorasantimes.com",
+          "id": "03e6a7a6c088",
+          "title": "Remake of Nintendo Wii Exclusive Game Now Available for Free for Some",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnFFa0lZTGwyVUtlYkppQlVnczB2aE0wQ1lKUEZYSUNacTFvYVEtNGxRY1QwTk04dmtlZlpteGw1OVpORFoxVUJiclFfbXczNm9xY0haTWlNN3pHN29WMFhBODJYSzRtSGREal9tbGRuclNjLVAwbEdQNjVoV1JncnU3cFRFVzUxRlFn?oc=5",
+          "source": "ComicBook.com",
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
-          "published": "2026-11-06T02:22:40Z",
-          "firstSeen": "2026-11-06T06:37:45Z",
+          "published": "2026-11-05T20:19:47Z",
+          "firstSeen": "2026-11-06T00:12:19Z",
           "excerpt": "",
           "matched": [
             "Wii"
           ]
         },
         {
-          "id": "fa73389bb2f7",
-          "title": "PS5 vs Wii Sales Comparison - September 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekotY29JZFlqSmk5YWZRVlFOY0poMkhEV200WEtxb2lhbldjVkU4SFF2RUFVbjJQcDZIdmhLYk5vemVjUTJQdUx6UUwwMm4wX2x5bGp2c1dRcjJwMFJFdTA0eVNRdmVTOG4xcC1hNGN5VEY1S1JFV3ZfNDcyOG5obENGRWIwMElzYmJF?oc=5",
-          "source": "VGChartz",
+          "id": "ed13f06de9c7",
+          "title": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFh3SERjMFFwZklUVGg1RXVDaFBDS1hLRGZydVlNUTM4OHNWVUt2VTRkZFhZSmhYV3pxYWctdDh6TkFtWm1FLVB0dHhNcGFGUnpWYmJfejdLOGthUldjUmYzb0pLUnBKcFYwYS0xMThFZ0VlTFdRVGJrWm1aTDFNWEdSQVNkcktFblRmXw?oc=5",
+          "source": "Retro Dodo",
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
-          "published": "2026-11-02T14:57:02Z",
-          "firstSeen": "2026-11-02T14:57:02Z",
+          "published": "2026-11-02T18:10:29Z",
+          "firstSeen": "2026-11-02T18:10:29Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -739,10 +741,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"57e298925116fc9a82957a06981ccd9e\"",
-      "lastModified": "Fri, 06 Nov 2026 23:00:54 GMT",
-      "lastOk": "2026-11-07T07:06:17Z",
-      "lastAttempt": "2026-11-07T07:06:17Z",
+      "etag": "W/\"f27c050921491e6bcaf0f769c7f57dc6\"",
+      "lastModified": "Sat, 07 Nov 2026 01:00:31 GMT",
+      "lastOk": "2026-11-07T22:42:52Z",
+      "lastAttempt": "2026-11-07T22:42:52Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -840,8 +842,8 @@
     "dolphin": {
       "etag": "W/\"6a89b42a892e26d0c4f13b359c957da7\"",
       "lastModified": "Thu, 15 Oct 2026 03:44:39 GMT",
-      "lastOk": "2026-11-07T07:06:17Z",
-      "lastAttempt": "2026-11-07T07:06:17Z",
+      "lastOk": "2026-11-07T22:42:52Z",
+      "lastAttempt": "2026-11-07T22:42:52Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1091,12 +1093,36 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T07:06:17Z",
-      "lastAttempt": "2026-11-07T07:06:17Z",
+      "lastOk": "2026-11-07T22:42:52Z",
+      "lastAttempt": "2026-11-07T22:42:52Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "98fee3c0d488",
+          "title": "Is this official Nintendo packaging?",
+          "url": "https://www.reddit.com/r/wii/comments/1xqh7y8/is_this_official_nintendo_packaging/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-07T21:19:01Z",
+          "firstSeen": "2026-11-07T22:42:52Z",
+          "excerpt": "Looking to get a new wiimote/nunchuck since mine have finally stopped working and want to make sure they are official. Friend of mine said they usually come in boxes but I thought the Nintendo logo can't be used by…",
+          "matched": []
+        },
+        {
+          "id": "30f38c38ed8e",
+          "title": "Super unique thing I’ve never seen",
+          "url": "https://www.reddit.com/r/wii/comments/1xqfenw/super_unique_thing_ive_never_seen/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-07T19:59:01Z",
+          "firstSeen": "2026-11-07T22:42:52Z",
+          "excerpt": "",
+          "matched": []
+        },
         {
           "id": "966440fd7ab6",
           "title": "DIY Wii Vertical Stand :)",
@@ -1326,18 +1352,6 @@
           "matched": []
         },
         {
-          "id": "607ee5d86c15",
-          "title": "Brawlers / BeatEmUps with Motion Control",
-          "url": "https://www.reddit.com/r/wii/comments/1xlx1qj/brawlers_beatemups_with_motion_control/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-02T13:22:57Z",
-          "firstSeen": "2026-11-02T13:22:57Z",
-          "excerpt": "Hi Reddit! I’m looking for games where I can beat and smash things, using mainly motion controls, imitating the smashingn motions. I’m especially interested in hidden gems / games which are usually not on any lists…",
-          "matched": []
-        },
-        {
           "id": "422f8f354d2d",
           "title": "Volvi a comprar una wii, realmente valió la pena🥹",
           "url": "https://www.reddit.com/r/wii/comments/1xlv5v9/volvi_a_comprar_una_wii_realmente_vali%C3%B3_la_pena/",
@@ -1362,18 +1376,6 @@
           "matched": []
         },
         {
-          "id": "b020cb01e5c1",
-          "title": "Original family Wii still going strong!",
-          "url": "https://www.reddit.com/r/wii/comments/1xllvly/original_family_wii_still_going_strong/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-02T02:47:21Z",
-          "firstSeen": "2026-11-02T02:47:21Z",
-          "excerpt": "The only thing that has been done is the dropping of the original power brick a few years ago to reset the breaker (wish I could post more than one photo grr)",
-          "matched": []
-        },
-        {
           "id": "a88306e7e51a",
           "title": "Happy 20th AnniversaWii!!",
           "url": "https://www.reddit.com/r/wii/comments/1xldvoc/happy_20th_anniversawii/",
@@ -1390,8 +1392,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T07:06:17Z",
-      "lastAttempt": "2026-11-07T07:06:17Z",
+      "lastOk": "2026-11-07T22:42:52Z",
+      "lastAttempt": "2026-11-07T22:42:52Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
