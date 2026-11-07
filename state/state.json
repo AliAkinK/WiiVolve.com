@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "b4aecb7ff8c3a0168aa5b433edad6204aabedfe263585fb84941c0d2ef5e091c",
+  "signature": "6b28280b1bad3cae32fb81594c2e125ac8c9ccb82f3fcd65e6da868f17f1352c",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-07T00:54:22Z",
+  "lastWrite": "2026-11-07T07:06:17Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -58,6 +58,7 @@
     "6937c8d0dd8a": "2026-11-02T00:53:19Z",
     "6ab5c217cb95": "2026-11-04T23:23:40Z",
     "6e722df9ac34": "2007-01-25T08:00:00Z",
+    "6ecef8c0ea47": "2026-11-07T07:06:17Z",
     "706ce60a44f7": "2026-11-04T17:22:25Z",
     "7358153c731b": "2025-01-04T08:00:00Z",
     "74c1c473f52c": "2024-02-10T04:11:38Z",
@@ -76,6 +77,7 @@
     "8f1c22607ead": "2026-11-05T18:43:09Z",
     "906eb0a8028c": "2026-10-23T14:24:29Z",
     "935589548a37": "2023-11-25T15:44:10Z",
+    "966440fd7ab6": "2026-11-07T07:06:17Z",
     "a05b86d55c1b": "2020-04-29T07:00:00Z",
     "a0c0e3ff6c3f": "2026-10-31T22:47:07Z",
     "a248e7cb3c20": "2025-05-01T17:00:57Z",
@@ -132,8 +134,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T00:54:22Z",
-      "lastAttempt": "2026-11-07T00:54:22Z",
+      "lastOk": "2026-11-07T07:06:17Z",
+      "lastAttempt": "2026-11-07T07:06:17Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -141,19 +143,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Fri, 06 Nov 2026 22:33:00 -0000",
-      "lastOk": "2026-11-07T00:54:22Z",
-      "lastAttempt": "2026-11-07T00:54:22Z",
+      "lastModified": "Sat, 07 Nov 2026 06:05:00 -0000",
+      "lastOk": "2026-11-07T07:06:17Z",
+      "lastAttempt": "2026-11-07T07:06:17Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"7d82b17da89fa062fb6b0c5d9b31265d\"",
-      "lastModified": "Fri, 06 Nov 2026 22:14:55 GMT",
-      "lastOk": "2026-11-07T00:54:22Z",
-      "lastAttempt": "2026-11-07T00:54:22Z",
+      "etag": "W/\"127a52f557ed0db8a8305bca2cdf7fd5\"",
+      "lastModified": "Sat, 07 Nov 2026 05:50:44 GMT",
+      "lastOk": "2026-11-07T07:06:17Z",
+      "lastAttempt": "2026-11-07T07:06:17Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -162,8 +164,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T00:54:22Z",
-      "lastAttempt": "2026-11-07T00:54:22Z",
+      "lastOk": "2026-11-07T07:06:17Z",
+      "lastAttempt": "2026-11-07T07:06:17Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -172,8 +174,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T00:54:22Z",
-      "lastAttempt": "2026-11-07T00:54:22Z",
+      "lastOk": "2026-11-07T07:06:17Z",
+      "lastAttempt": "2026-11-07T07:06:17Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -188,21 +190,6 @@
           "tab": "press",
           "published": "2026-11-06T02:22:40Z",
           "firstSeen": "2026-11-06T06:37:45Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "03e6a7a6c088",
-          "title": "Remake of Nintendo Wii Exclusive Game Now Available for Free for Some",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnFFa0lZTGwyVUtlYkppQlVnczB2aE0wQ1lKUEZYSUNacTFvYVEtNGxRY1QwTk04dmtlZlpteGw1OVpORFoxVUJiclFfbXczNm9xY0haTWlNN3pHN29WMFhBODJYSzRtSGREal9tbGRuclNjLVAwbEdQNjVoV1JncnU3cFRFVzUxRlFn?oc=5",
-          "source": "ComicBook.com",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-05T20:19:47Z",
-          "firstSeen": "2026-11-06T00:12:19Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -752,10 +739,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"ce14afecfdd3ca884da1208d6b500bc5\"",
-      "lastModified": "Fri, 06 Nov 2026 08:26:15 GMT",
-      "lastOk": "2026-11-07T00:54:22Z",
-      "lastAttempt": "2026-11-07T00:54:22Z",
+      "etag": "W/\"57e298925116fc9a82957a06981ccd9e\"",
+      "lastModified": "Fri, 06 Nov 2026 23:00:54 GMT",
+      "lastOk": "2026-11-07T07:06:17Z",
+      "lastAttempt": "2026-11-07T07:06:17Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -853,8 +840,8 @@
     "dolphin": {
       "etag": "W/\"6a89b42a892e26d0c4f13b359c957da7\"",
       "lastModified": "Thu, 15 Oct 2026 03:44:39 GMT",
-      "lastOk": "2026-11-07T00:54:22Z",
-      "lastAttempt": "2026-11-07T00:54:22Z",
+      "lastOk": "2026-11-07T07:06:17Z",
+      "lastAttempt": "2026-11-07T07:06:17Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1104,12 +1091,36 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T00:54:22Z",
-      "lastAttempt": "2026-11-07T00:54:22Z",
+      "lastOk": "2026-11-07T07:06:17Z",
+      "lastAttempt": "2026-11-07T07:06:17Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "966440fd7ab6",
+          "title": "DIY Wii Vertical Stand :)",
+          "url": "https://www.reddit.com/r/wii/comments/1xpwi0e/diy_wii_vertical_stand/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-07T03:37:34Z",
+          "firstSeen": "2026-11-07T07:06:17Z",
+          "excerpt": "I bought a used Wii and then I realized it doesn't come with a stand, so I make one myself",
+          "matched": []
+        },
+        {
+          "id": "6ecef8c0ea47",
+          "title": "What is this worth? I have always wanted wii as a ps2 gamer.",
+          "url": "https://www.reddit.com/r/wii/comments/1xpuijl/what_is_this_worth_i_have_always_wanted_wii_as_a/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-07T01:55:14Z",
+          "firstSeen": "2026-11-07T07:06:17Z",
+          "excerpt": "I've always wanted a Wii. I have spotted this one in a local thrift/opp shop. 100aud, should I go for it? I have a 480p tv at home for it. Can I mod it to run 480p?",
+          "matched": []
+        },
         {
           "id": "3cdf27e2776e",
           "title": "help on this remote it keeps shaking erratically",
@@ -1291,18 +1302,6 @@
           "matched": []
         },
         {
-          "id": "4f0dff1e4517",
-          "title": "My Wii's disk drive is cooked.",
-          "url": "https://www.reddit.com/r/wii/comments/1xm81zx/my_wiis_disk_drive_is_cooked/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-02T20:10:46Z",
-          "firstSeen": "2026-11-04T17:22:25Z",
-          "excerpt": "As the title suggests, my disk drive is far beyond repair and would have to be replaced. The rest of the Wii works beautifully, and since ive always wanted to, I have decided it'd be a great idea to try and homebrew…",
-          "matched": []
-        },
-        {
           "id": "706ce60a44f7",
           "title": "Maybe I should've invested in some rechargeable batteries back then 🤔",
           "url": "https://www.reddit.com/r/wii/comments/1xm5lbm/maybe_i_shouldve_invested_in_some_rechargeable/",
@@ -1351,18 +1350,6 @@
           "matched": []
         },
         {
-          "id": "5ea678c6b8c0",
-          "title": "Any good off brand wii remotes?",
-          "url": "https://www.reddit.com/r/wii/comments/1xlrqxs/any_good_off_brand_wii_remotes/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-02T08:25:08Z",
-          "firstSeen": "2026-11-02T08:25:08Z",
-          "excerpt": "I know it might be a dumb question and it'll be best to get on brand wii motion plus controllers but I don't want to spend 40 bucks on a remote let alone 4 so I can play with my family so is there any good 3rd party…",
-          "matched": []
-        },
-        {
           "id": "3195ae4b1ddb",
           "title": "Nintndo switch wii custom made controllers",
           "url": "https://www.reddit.com/r/wii/comments/1xloh29/nintndo_switch_wii_custom_made_controllers/",
@@ -1403,8 +1390,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T00:54:22Z",
-      "lastAttempt": "2026-11-07T00:54:22Z",
+      "lastOk": "2026-11-07T07:06:17Z",
+      "lastAttempt": "2026-11-07T07:06:17Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,

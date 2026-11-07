@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T00:54:22Z",
+  "generatedAt": "2026-11-07T07:06:17Z",
   "items": [
+    {
+      "id": "966440fd7ab6",
+      "title": "DIY Wii Vertical Stand :)",
+      "url": "https://www.reddit.com/r/wii/comments/1xpwi0e/diy_wii_vertical_stand/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-07T03:37:34Z",
+      "firstSeen": "2026-11-07T07:06:17Z",
+      "excerpt": "I bought a used Wii and then I realized it doesn't come with a stand, so I make one myself",
+      "matched": []
+    },
+    {
+      "id": "6ecef8c0ea47",
+      "title": "What is this worth? I have always wanted wii as a ps2 gamer.",
+      "url": "https://www.reddit.com/r/wii/comments/1xpuijl/what_is_this_worth_i_have_always_wanted_wii_as_a/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-07T01:55:14Z",
+      "firstSeen": "2026-11-07T07:06:17Z",
+      "excerpt": "I've always wanted a Wii. I have spotted this one in a local thrift/opp shop. 100aud, should I go for it? I have a 480p tv at home for it. Can I mod it to run 480p?",
+      "matched": []
+    },
     {
       "id": "3cdf27e2776e",
       "title": "help on this remote it keeps shaking erratically",
@@ -210,30 +234,6 @@
       "published": "2026-11-04T07:59:08Z",
       "firstSeen": "2026-11-04T17:22:25Z",
       "excerpt": "Hi everyone! I'm thinking about buying these two Wii Remote Plus controllers, but I'm not sure if they're genuine Nintendo products or knockoffs. I noticed two things that seem a bit strange: 1.The white controller has…",
-      "matched": []
-    },
-    {
-      "id": "503a2e2d8b96",
-      "title": "Anyone able to link me a working Ethernet adapter for the Wii?",
-      "url": "https://www.reddit.com/r/wii/comments/1xnh5ia/anyone_able_to_link_me_a_working_ethernet_adapter/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-04T06:32:43Z",
-      "firstSeen": "2026-11-04T17:22:25Z",
-      "excerpt": "So a new Slippi configuration was modded in called SlippWii where you can literally play Slippi Melee on your Wii online with dolphin users. Works pretty good. I’ve got this adapter today but I don’t know if it works…",
-      "matched": []
-    },
-    {
-      "id": "d8a89993727a",
-      "title": "Wii collection since 2009",
-      "url": "https://www.reddit.com/r/wii/comments/1xnfdvy/wii_collection_since_2009/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-04T04:53:33Z",
-      "firstSeen": "2026-11-04T17:22:25Z",
-      "excerpt": "I also have Mario party 8",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-24T00:54:22Z",
+    "windowStart": "2026-10-24T07:06:17Z",
     "completeSince": {
-      "all": "2026-11-04T00:38:44Z",
-      "press": "2026-10-24T00:54:22Z",
-      "scene": "2026-11-04T00:38:44Z"
+      "all": "2026-11-04T06:32:43Z",
+      "press": "2026-10-24T07:06:17Z",
+      "scene": "2026-11-04T06:32:43Z"
     }
   }
 }
