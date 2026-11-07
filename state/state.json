@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "0482665c0a91c02c3bce4e06d80cacaac5a210b81f0b303d28715bb249cbeb80",
+  "signature": "b4aecb7ff8c3a0168aa5b433edad6204aabedfe263585fb84941c0d2ef5e091c",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-06T20:52:27Z",
+  "lastWrite": "2026-11-07T00:54:22Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -43,6 +43,7 @@
     "4d2d82d76e2e": "2023-08-13T05:59:25Z",
     "4edd75978dfb": "2026-10-29T12:45:52Z",
     "4f0dff1e4517": "2026-11-04T17:22:25Z",
+    "500b2acd2d91": "2026-04-21T07:00:00Z",
     "503a2e2d8b96": "2026-11-04T17:22:25Z",
     "5579c2f30ee4": "2025-05-14T17:30:57Z",
     "561321a38c62": "2022-09-08T07:00:00Z",
@@ -131,8 +132,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T20:52:27Z",
-      "lastAttempt": "2026-11-06T20:52:27Z",
+      "lastOk": "2026-11-07T00:54:22Z",
+      "lastAttempt": "2026-11-07T00:54:22Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -140,19 +141,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Fri, 06 Nov 2026 20:49:00 -0000",
-      "lastOk": "2026-11-06T20:52:27Z",
-      "lastAttempt": "2026-11-06T20:52:27Z",
+      "lastModified": "Fri, 06 Nov 2026 22:33:00 -0000",
+      "lastOk": "2026-11-07T00:54:22Z",
+      "lastAttempt": "2026-11-07T00:54:22Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"30b523f2545cd32ef910448dde41a3f5\"",
-      "lastModified": "Fri, 06 Nov 2026 20:00:47 GMT",
-      "lastOk": "2026-11-06T20:52:27Z",
-      "lastAttempt": "2026-11-06T20:52:27Z",
+      "etag": "W/\"7d82b17da89fa062fb6b0c5d9b31265d\"",
+      "lastModified": "Fri, 06 Nov 2026 22:14:55 GMT",
+      "lastOk": "2026-11-07T00:54:22Z",
+      "lastAttempt": "2026-11-07T00:54:22Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -161,8 +162,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T20:52:27Z",
-      "lastAttempt": "2026-11-06T20:52:27Z",
+      "lastOk": "2026-11-07T00:54:22Z",
+      "lastAttempt": "2026-11-07T00:54:22Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -171,8 +172,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T20:52:27Z",
-      "lastAttempt": "2026-11-06T20:52:27Z",
+      "lastOk": "2026-11-07T00:54:22Z",
+      "lastAttempt": "2026-11-07T00:54:22Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -217,21 +218,6 @@
           "tab": "press",
           "published": "2026-11-02T14:57:02Z",
           "firstSeen": "2026-11-02T14:57:02Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "db9eddafe83c",
-          "title": "5 Classic Nintendo Wii Games That Are Unplayable Today",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MVAtVnZrZHRzWGVBRWktMkViZFRFTktpdlEyTDk5N2o0dFV3WGI3RjF4NnptUHFJU1ZJMkhUTi02YlFfUVdXR3RKeXFUc01OUHhWOU1RQ3hjOVFqWmpaUW1JRGtZRzhvNW9hN3ZRMFM3djRJUHFMNVlPemU?oc=5",
-          "source": "SVG",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-10-26T07:00:00Z",
-          "firstSeen": "2026-10-26T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -292,6 +278,21 @@
           "tab": "press",
           "published": "2026-06-02T07:00:00Z",
           "firstSeen": "2026-06-02T07:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "500b2acd2d91",
+          "title": "Nintendo Switch Users Have Thousands of Free Wii and GameCube Games Now",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblN0bVZWMlVORlJOc1FOTVlQR1ZLa3h0THU0cGU0UWVTRTJubE1xVnlPQm1BMzhoYS1pUDNLNmF4RnlBV0FfbzN6NVBDbXRYZTY5MWdxRFNrSkg4NkQxU09kNHVMandMWWI0NEFIeG5TaGtFX2ZDZDRycDRFRUMxd2Rac0I3U2IzTDN2MGtoblRLejR6R21LZklXeXAzSVJydGp0TFdCenFhLWVVQ2RhNU9PbkJIUVk?oc=5",
+          "source": "GAMINGbible",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-04-21T07:00:00Z",
+          "firstSeen": "2026-04-21T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -751,10 +752,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"cfff9cfd7e7bde19077cb9a2e0edcc4c\"",
-      "lastModified": "Fri, 06 Nov 2026 19:32:59 GMT",
-      "lastOk": "2026-11-06T20:52:27Z",
-      "lastAttempt": "2026-11-06T20:52:27Z",
+      "etag": "W/\"ce14afecfdd3ca884da1208d6b500bc5\"",
+      "lastModified": "Fri, 06 Nov 2026 08:26:15 GMT",
+      "lastOk": "2026-11-07T00:54:22Z",
+      "lastAttempt": "2026-11-07T00:54:22Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -852,8 +853,8 @@
     "dolphin": {
       "etag": "W/\"6a89b42a892e26d0c4f13b359c957da7\"",
       "lastModified": "Thu, 15 Oct 2026 03:44:39 GMT",
-      "lastOk": "2026-11-06T20:52:27Z",
-      "lastAttempt": "2026-11-06T20:52:27Z",
+      "lastOk": "2026-11-07T00:54:22Z",
+      "lastAttempt": "2026-11-07T00:54:22Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1103,8 +1104,8 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T20:52:27Z",
-      "lastAttempt": "2026-11-06T20:52:27Z",
+      "lastOk": "2026-11-07T00:54:22Z",
+      "lastAttempt": "2026-11-07T00:54:22Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1402,8 +1403,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-06T20:52:27Z",
-      "lastAttempt": "2026-11-06T20:52:27Z",
+      "lastOk": "2026-11-07T00:54:22Z",
+      "lastAttempt": "2026-11-07T00:54:22Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
