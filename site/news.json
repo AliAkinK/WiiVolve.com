@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T16:41:19Z",
+  "generatedAt": "2026-11-08T21:08:08Z",
   "items": [
+    {
+      "id": "c2eb372083c5",
+      "title": "To celebrate the Wii’s upcoming 20th anniversary on November 19th I decided to draw a small sketch, I’ll give you an update on when I’m done coloring it in",
+      "url": "https://www.reddit.com/r/wii/comments/1xr7k7a/to_celebrate_the_wiis_upcoming_20th_anniversary/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-08T19:59:41Z",
+      "firstSeen": "2026-11-08T21:08:08Z",
+      "excerpt": "",
+      "matched": []
+    },
     {
       "id": "1c9799c1b985",
       "title": "Selling Wii Drums Harmonix",
@@ -210,18 +222,6 @@
       "published": "2026-11-05T10:35:35Z",
       "firstSeen": "2026-11-05T18:43:09Z",
       "excerpt": "",
-      "matched": []
-    },
-    {
-      "id": "0e31de6bc41d",
-      "title": "Legit WiiWare Wii with Pokémon Rumble?",
-      "url": "https://www.reddit.com/r/wii/comments/1xoduef/legit_wiiware_wii_with_pok%C3%A9mon_rumble/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-05T08:53:15Z",
-      "firstSeen": "2026-11-05T10:50:04Z",
-      "excerpt": "Is there anyone interested in selling their Wii with Pokémon Rumble legally installed (if such a thing even exists anymore)?",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-25T16:41:19Z",
+    "windowStart": "2026-10-25T21:08:08Z",
     "completeSince": {
-      "all": "2026-11-04T22:47:07Z",
-      "press": "2026-10-25T16:41:19Z",
-      "scene": "2026-11-04T22:47:07Z"
+      "all": "2026-11-05T08:53:15Z",
+      "press": "2026-10-25T21:08:08Z",
+      "scene": "2026-11-05T08:53:15Z"
     }
   }
 }

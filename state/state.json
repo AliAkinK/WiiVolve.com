@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "b2ab347d59cd6d4c2960287cdfca4bc62ca15162c33612600a31d42d0ce5f535",
+  "signature": "23a923a3eb69583c932bcaadb3a0c0f8efe3fe73e716bb2df1481b6a9c375171",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-08T16:41:19Z",
+  "lastWrite": "2026-11-08T21:08:08Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -100,6 +100,7 @@
     "bb646e9fd9b0": "2026-10-24T14:06:09Z",
     "bc66cecfff3d": "2026-01-21T08:00:00Z",
     "bd8654811e08": "2026-11-01T18:54:02Z",
+    "c2eb372083c5": "2026-11-08T21:08:08Z",
     "c515348091a6": "2026-11-01T21:08:05Z",
     "c534ee37d865": "2023-05-26T23:19:02Z",
     "c64dde292934": "2026-10-30T04:07:07Z",
@@ -139,8 +140,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T16:41:19Z",
-      "lastAttempt": "2026-11-08T16:41:19Z",
+      "lastOk": "2026-11-08T21:08:08Z",
+      "lastAttempt": "2026-11-08T21:08:08Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -148,19 +149,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Sun, 08 Nov 2026 06:11:00 -0000",
-      "lastOk": "2026-11-08T16:41:19Z",
-      "lastAttempt": "2026-11-08T16:41:19Z",
+      "lastModified": "Sun, 08 Nov 2026 19:15:00 -0000",
+      "lastOk": "2026-11-08T21:08:08Z",
+      "lastAttempt": "2026-11-08T21:08:08Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"3824551fbeb9f1009decb036717046e2\"",
-      "lastModified": "Sun, 08 Nov 2026 15:00:25 GMT",
-      "lastOk": "2026-11-08T16:41:19Z",
-      "lastAttempt": "2026-11-08T16:41:19Z",
+      "etag": "W/\"fc752236611f5ec53a69919998d511f8\"",
+      "lastModified": "Sun, 08 Nov 2026 19:03:36 GMT",
+      "lastOk": "2026-11-08T21:08:08Z",
+      "lastAttempt": "2026-11-08T21:08:08Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -169,8 +170,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T16:41:19Z",
-      "lastAttempt": "2026-11-08T16:41:19Z",
+      "lastOk": "2026-11-08T21:08:08Z",
+      "lastAttempt": "2026-11-08T21:08:08Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -179,8 +180,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T16:41:19Z",
-      "lastAttempt": "2026-11-08T16:41:19Z",
+      "lastOk": "2026-11-08T21:08:08Z",
+      "lastAttempt": "2026-11-08T21:08:08Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -714,10 +715,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"dbc13814a446922fd9148b57110e9099\"",
-      "lastModified": "Sun, 08 Nov 2026 02:31:45 GMT",
-      "lastOk": "2026-11-08T16:41:19Z",
-      "lastAttempt": "2026-11-08T16:41:19Z",
+      "etag": "W/\"190e167c34095fb4bd622c8690409132\"",
+      "lastModified": "Sun, 08 Nov 2026 17:54:20 GMT",
+      "lastOk": "2026-11-08T21:08:08Z",
+      "lastAttempt": "2026-11-08T21:08:08Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -815,8 +816,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-08T16:41:19Z",
-      "lastAttempt": "2026-11-08T16:41:19Z",
+      "lastOk": "2026-11-08T21:08:08Z",
+      "lastAttempt": "2026-11-08T21:08:08Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1066,12 +1067,24 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T16:41:19Z",
-      "lastAttempt": "2026-11-08T16:41:19Z",
+      "lastOk": "2026-11-08T21:08:08Z",
+      "lastAttempt": "2026-11-08T21:08:08Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "c2eb372083c5",
+          "title": "To celebrate the Wii’s upcoming 20th anniversary on November 19th I decided to draw a small sketch, I’ll give you an update on when I’m done coloring it in",
+          "url": "https://www.reddit.com/r/wii/comments/1xr7k7a/to_celebrate_the_wiis_upcoming_20th_anniversary/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-08T19:59:41Z",
+          "firstSeen": "2026-11-08T21:08:08Z",
+          "excerpt": "",
+          "matched": []
+        },
         {
           "id": "1c9799c1b985",
           "title": "Selling Wii Drums Harmonix",
@@ -1106,18 +1119,6 @@
           "published": "2026-11-08T08:48:13Z",
           "firstSeen": "2026-11-08T10:15:36Z",
           "excerpt": "yea gimme some ideas",
-          "matched": []
-        },
-        {
-          "id": "877d7331e801",
-          "title": "dusted off my Wii after 10+ years of not using it. Can someone catch me up on all the cool stuff you can do with it nowadays, like getting games through modding, extra features, homebrew, etc.?…",
-          "url": "https://www.reddit.com/r/wii/comments/1xqlfic/dusted_off_my_wii_after_10_years_of_not_using_it/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-08T00:37:24Z",
-          "firstSeen": "2026-11-08T02:26:39Z",
-          "excerpt": "",
           "matched": []
         },
         {
@@ -1365,8 +1366,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T16:41:19Z",
-      "lastAttempt": "2026-11-08T16:41:19Z",
+      "lastOk": "2026-11-08T21:08:08Z",
+      "lastAttempt": "2026-11-08T21:08:08Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
