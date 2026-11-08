@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "421d60b473397f7bd7c9506bbd5ff9c8000abb4761f5c9b57611dff31ec8500c",
+  "signature": "5c530152654acd7fd574c31102da32ea444b057bd5f59b97d0c685ef5a42bb9d",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-07T22:42:52Z",
+  "lastWrite": "2026-11-08T02:26:39Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -73,6 +73,7 @@
     "82a6975da88b": "2023-05-21T07:27:22Z",
     "856cb81f6dc2": "2008-07-17T07:00:00Z",
     "8744a64a1e79": "2017-10-16T20:21:07Z",
+    "877d7331e801": "2026-11-08T02:26:39Z",
     "885ce50c2ea2": "2026-11-05T18:43:09Z",
     "89ba2f11dae0": "2026-10-05T20:15:13Z",
     "8f1c22607ead": "2026-11-05T18:43:09Z",
@@ -136,8 +137,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T22:42:52Z",
-      "lastAttempt": "2026-11-07T22:42:52Z",
+      "lastOk": "2026-11-08T02:26:39Z",
+      "lastAttempt": "2026-11-08T02:26:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -146,18 +147,18 @@
     "gonintendo": {
       "etag": null,
       "lastModified": "Sat, 07 Nov 2026 19:27:00 -0000",
-      "lastOk": "2026-11-07T22:42:52Z",
-      "lastAttempt": "2026-11-07T22:42:52Z",
+      "lastOk": "2026-11-08T02:26:39Z",
+      "lastAttempt": "2026-11-08T02:26:39Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"7761ff87a61e728bfb0a0d752521a458\"",
-      "lastModified": "Sat, 07 Nov 2026 21:30:19 GMT",
-      "lastOk": "2026-11-07T22:42:52Z",
-      "lastAttempt": "2026-11-07T22:42:52Z",
+      "etag": "W/\"cce64db11adaeae1e9a4a5dbd6e45518\"",
+      "lastModified": "Sat, 07 Nov 2026 23:00:58 GMT",
+      "lastOk": "2026-11-08T02:26:39Z",
+      "lastAttempt": "2026-11-08T02:26:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -166,8 +167,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T22:42:52Z",
-      "lastAttempt": "2026-11-07T22:42:52Z",
+      "lastOk": "2026-11-08T02:26:39Z",
+      "lastAttempt": "2026-11-08T02:26:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -176,27 +177,12 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T22:42:52Z",
-      "lastAttempt": "2026-11-07T22:42:52Z",
+      "lastOk": "2026-11-08T02:26:39Z",
+      "lastAttempt": "2026-11-08T02:26:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
-        {
-          "id": "03e6a7a6c088",
-          "title": "Remake of Nintendo Wii Exclusive Game Now Available for Free for Some",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnFFa0lZTGwyVUtlYkppQlVnczB2aE0wQ1lKUEZYSUNacTFvYVEtNGxRY1QwTk04dmtlZlpteGw1OVpORFoxVUJiclFfbXczNm9xY0haTWlNN3pHN29WMFhBODJYSzRtSGREal9tbGRuclNjLVAwbEdQNjVoV1JncnU3cFRFVzUxRlFn?oc=5",
-          "source": "ComicBook.com",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-05T20:19:47Z",
-          "firstSeen": "2026-11-06T00:12:19Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
         {
           "id": "ed13f06de9c7",
           "title": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
@@ -741,10 +727,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"f27c050921491e6bcaf0f769c7f57dc6\"",
-      "lastModified": "Sat, 07 Nov 2026 01:00:31 GMT",
-      "lastOk": "2026-11-07T22:42:52Z",
-      "lastAttempt": "2026-11-07T22:42:52Z",
+      "etag": "W/\"35b9955448dcaa2bc84129ba4018ccde\"",
+      "lastModified": "Sat, 07 Nov 2026 23:18:21 GMT",
+      "lastOk": "2026-11-08T02:26:39Z",
+      "lastAttempt": "2026-11-08T02:26:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -842,8 +828,8 @@
     "dolphin": {
       "etag": "W/\"6a89b42a892e26d0c4f13b359c957da7\"",
       "lastModified": "Thu, 15 Oct 2026 03:44:39 GMT",
-      "lastOk": "2026-11-07T22:42:52Z",
-      "lastAttempt": "2026-11-07T22:42:52Z",
+      "lastOk": "2026-11-08T02:26:39Z",
+      "lastAttempt": "2026-11-08T02:26:39Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1093,12 +1079,24 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T22:42:52Z",
-      "lastAttempt": "2026-11-07T22:42:52Z",
+      "lastOk": "2026-11-08T02:26:39Z",
+      "lastAttempt": "2026-11-08T02:26:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "877d7331e801",
+          "title": "dusted off my Wii after 10+ years of not using it. Can someone catch me up on all the cool stuff you can do with it nowadays, like getting games through modding, extra features, homebrew, etc.?…",
+          "url": "https://www.reddit.com/r/wii/comments/1xqlfic/dusted_off_my_wii_after_10_years_of_not_using_it/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-08T00:37:24Z",
+          "firstSeen": "2026-11-08T02:26:39Z",
+          "excerpt": "",
+          "matched": []
+        },
         {
           "id": "98fee3c0d488",
           "title": "Is this official Nintendo packaging?",
@@ -1352,18 +1350,6 @@
           "matched": []
         },
         {
-          "id": "422f8f354d2d",
-          "title": "Volvi a comprar una wii, realmente valió la pena🥹",
-          "url": "https://www.reddit.com/r/wii/comments/1xlv5v9/volvi_a_comprar_una_wii_realmente_vali%C3%B3_la_pena/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-02T11:53:40Z",
-          "firstSeen": "2026-11-02T11:53:40Z",
-          "excerpt": "",
-          "matched": []
-        },
-        {
           "id": "3195ae4b1ddb",
           "title": "Nintndo switch wii custom made controllers",
           "url": "https://www.reddit.com/r/wii/comments/1xloh29/nintndo_switch_wii_custom_made_controllers/",
@@ -1392,8 +1378,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-07T22:42:52Z",
-      "lastAttempt": "2026-11-07T22:42:52Z",
+      "lastOk": "2026-11-08T02:26:39Z",
+      "lastAttempt": "2026-11-08T02:26:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,

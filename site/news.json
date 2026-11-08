@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T22:42:52Z",
+  "generatedAt": "2026-11-08T02:26:39Z",
   "items": [
+    {
+      "id": "877d7331e801",
+      "title": "dusted off my Wii after 10+ years of not using it. Can someone catch me up on all the cool stuff you can do with it nowadays, like getting games through modding, extra features, homebrew, etc.?…",
+      "url": "https://www.reddit.com/r/wii/comments/1xqlfic/dusted_off_my_wii_after_10_years_of_not_using_it/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-08T00:37:24Z",
+      "firstSeen": "2026-11-08T02:26:39Z",
+      "excerpt": "",
+      "matched": []
+    },
     {
       "id": "98fee3c0d488",
       "title": "Is this official Nintendo packaging?",
@@ -210,18 +222,6 @@
       "published": "2026-11-04T19:49:43Z",
       "firstSeen": "2026-11-04T23:23:40Z",
       "excerpt": "The display won't budge from this.",
-      "matched": []
-    },
-    {
-      "id": "ae265a8b8b61",
-      "title": "I beat Lucía in wii sports resort",
-      "url": "https://www.reddit.com/r/wii/comments/1xnqixk/i_beat_luc%C3%ADa_in_wii_sports_resort/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-04T15:06:02Z",
-      "firstSeen": "2026-11-04T17:22:25Z",
-      "excerpt": "I got to 1400 skill rating in about 40 mins on my wii u after not playing for 2-3 years, and last night unlocked ability to play Lucía and played for an hour and a half and beat her in half an hour this morning…",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-24T22:42:52Z",
+    "windowStart": "2026-10-25T02:26:39Z",
     "completeSince": {
-      "all": "2026-11-04T14:26:04Z",
-      "press": "2026-10-24T22:42:52Z",
-      "scene": "2026-11-04T14:26:04Z"
+      "all": "2026-11-04T15:06:02Z",
+      "press": "2026-10-25T02:26:39Z",
+      "scene": "2026-11-04T15:06:02Z"
     }
   }
 }
