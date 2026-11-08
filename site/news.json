@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T02:26:39Z",
+  "generatedAt": "2026-11-08T10:15:36Z",
   "items": [
+    {
+      "id": "46ae0db7fb93",
+      "title": "[WIP] Loco Roco Wii preview",
+      "url": "https://www.reddit.com/r/wii/comments/1xqv37s/wip_loco_roco_wii_preview/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-08T10:07:29Z",
+      "firstSeen": "2026-11-08T10:15:36Z",
+      "excerpt": "Experimental homebrew port of Loco Roco PSP. It’s still a work in progress, Currently features a preview of the first level. Game assets are generated locally using a converter from your own PSP copy of LocoRoco. The…",
+      "matched": []
+    },
+    {
+      "id": "41a8f36ed926",
+      "title": "Uh I have 2 Wiis what should I do with one",
+      "url": "https://www.reddit.com/r/wii/comments/1xqtwqg/uh_i_have_2_wiis_what_should_i_do_with_one/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-08T08:48:13Z",
+      "firstSeen": "2026-11-08T10:15:36Z",
+      "excerpt": "yea gimme some ideas",
+      "matched": []
+    },
     {
       "id": "877d7331e801",
       "title": "dusted off my Wii after 10+ years of not using it. Can someone catch me up on all the cool stuff you can do with it nowadays, like getting games through modding, extra features, homebrew, etc.?…",
@@ -198,30 +222,6 @@
       "published": "2026-11-04T22:47:07Z",
       "firstSeen": "2026-11-04T23:23:40Z",
       "excerpt": "I’ve noticed that it damages the edges of the manuals—it’s really annoying. I’m looking for something with a design similar to the cases used for PS3, PS4, or PS5 games?…",
-      "matched": []
-    },
-    {
-      "id": "6ab5c217cb95",
-      "title": "Grand Theft Wuhu - GTA on Wuhu Island",
-      "url": "https://www.reddit.com/r/wii/comments/1xnzxia/grand_theft_wuhu_gta_on_wuhu_island/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-04T21:06:34Z",
-      "firstSeen": "2026-11-04T23:23:40Z",
-      "excerpt": "Yes, AI was used to help make this game — No, I have no clue why I made this — https://theagencymge.github.io/grand-theft-wuhu-play/",
-      "matched": []
-    },
-    {
-      "id": "c79d217e529d",
-      "title": "Tried to play on my ANCIENT Wii, am I cooked?",
-      "url": "https://www.reddit.com/r/wii/comments/1xnxyf4/tried_to_play_on_my_ancient_wii_am_i_cooked/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-04T19:49:43Z",
-      "firstSeen": "2026-11-04T23:23:40Z",
-      "excerpt": "The display won't budge from this.",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-25T02:26:39Z",
+    "windowStart": "2026-10-25T10:15:36Z",
     "completeSince": {
-      "all": "2026-11-04T15:06:02Z",
-      "press": "2026-10-25T02:26:39Z",
-      "scene": "2026-11-04T15:06:02Z"
+      "all": "2026-11-04T21:06:34Z",
+      "press": "2026-10-25T10:15:36Z",
+      "scene": "2026-11-04T21:06:34Z"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "5c530152654acd7fd574c31102da32ea444b057bd5f59b97d0c685ef5a42bb9d",
+  "signature": "4a45991324639bf6dd4470fe8f17963d670ca31ae806ebf177283286cd4ae1be",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-08T02:26:39Z",
+  "lastWrite": "2026-11-08T10:15:36Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -33,10 +33,12 @@
     "3f3f53daab5f": "2026-10-27T18:42:22Z",
     "3fbd14de8f0f": "2026-07-20T07:00:00Z",
     "401d1b3ef4a8": "2026-03-12T05:07:10Z",
+    "41a8f36ed926": "2026-11-08T10:15:36Z",
     "422f8f354d2d": "2026-11-02T11:53:40Z",
     "438ce03d958c": "2024-12-02T01:45:31Z",
     "4584976d3f66": "2026-10-27T12:52:26Z",
     "45f11eb31877": "2010-05-28T07:00:00Z",
+    "46ae0db7fb93": "2026-11-08T10:15:36Z",
     "492e6ace070d": "2026-11-04T17:22:25Z",
     "4a27b425e27b": "2026-02-09T08:00:00Z",
     "4b3e2515bcb4": "2026-10-24T15:41:51Z",
@@ -137,8 +139,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T02:26:39Z",
-      "lastAttempt": "2026-11-08T02:26:39Z",
+      "lastOk": "2026-11-08T10:15:36Z",
+      "lastAttempt": "2026-11-08T10:15:36Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -146,19 +148,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Sat, 07 Nov 2026 19:27:00 -0000",
-      "lastOk": "2026-11-08T02:26:39Z",
-      "lastAttempt": "2026-11-08T02:26:39Z",
+      "lastModified": "Sun, 08 Nov 2026 06:11:00 -0000",
+      "lastOk": "2026-11-08T10:15:36Z",
+      "lastAttempt": "2026-11-08T10:15:36Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"cce64db11adaeae1e9a4a5dbd6e45518\"",
-      "lastModified": "Sat, 07 Nov 2026 23:00:58 GMT",
-      "lastOk": "2026-11-08T02:26:39Z",
-      "lastAttempt": "2026-11-08T02:26:39Z",
+      "etag": "W/\"d150e5aa942d4377be99bbae4af5353d\"",
+      "lastModified": "Sun, 08 Nov 2026 06:50:51 GMT",
+      "lastOk": "2026-11-08T10:15:36Z",
+      "lastAttempt": "2026-11-08T10:15:36Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -167,8 +169,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T02:26:39Z",
-      "lastAttempt": "2026-11-08T02:26:39Z",
+      "lastOk": "2026-11-08T10:15:36Z",
+      "lastAttempt": "2026-11-08T10:15:36Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -177,12 +179,27 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T02:26:39Z",
-      "lastAttempt": "2026-11-08T02:26:39Z",
+      "lastOk": "2026-11-08T10:15:36Z",
+      "lastAttempt": "2026-11-08T10:15:36Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "03e6a7a6c088",
+          "title": "Remake of Nintendo Wii Exclusive Game Now Available for Free for Some",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnFFa0lZTGwyVUtlYkppQlVnczB2aE0wQ1lKUEZYSUNacTFvYVEtNGxRY1QwTk04dmtlZlpteGw1OVpORFoxVUJiclFfbXczNm9xY0haTWlNN3pHN29WMFhBODJYSzRtSGREal9tbGRuclNjLVAwbEdQNjVoV1JncnU3cFRFVzUxRlFn?oc=5",
+          "source": "ComicBook.com",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-05T20:19:47Z",
+          "firstSeen": "2026-11-06T00:12:19Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
         {
           "id": "ed13f06de9c7",
           "title": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
@@ -729,10 +746,10 @@
     "hackaday": {
       "etag": "W/\"35b9955448dcaa2bc84129ba4018ccde\"",
       "lastModified": "Sat, 07 Nov 2026 23:18:21 GMT",
-      "lastOk": "2026-11-08T02:26:39Z",
-      "lastAttempt": "2026-11-08T02:26:39Z",
+      "lastOk": "2026-11-08T10:15:36Z",
+      "lastAttempt": "2026-11-08T10:15:36Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": [
         {
@@ -826,12 +843,12 @@
       ]
     },
     "dolphin": {
-      "etag": "W/\"6a89b42a892e26d0c4f13b359c957da7\"",
-      "lastModified": "Thu, 15 Oct 2026 03:44:39 GMT",
-      "lastOk": "2026-11-08T02:26:39Z",
-      "lastAttempt": "2026-11-08T02:26:39Z",
+      "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
+      "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
+      "lastOk": "2026-11-08T10:15:36Z",
+      "lastAttempt": "2026-11-08T10:15:36Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": [
         {
@@ -1079,12 +1096,36 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T02:26:39Z",
-      "lastAttempt": "2026-11-08T02:26:39Z",
+      "lastOk": "2026-11-08T10:15:36Z",
+      "lastAttempt": "2026-11-08T10:15:36Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "46ae0db7fb93",
+          "title": "[WIP] Loco Roco Wii preview",
+          "url": "https://www.reddit.com/r/wii/comments/1xqv37s/wip_loco_roco_wii_preview/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-08T10:07:29Z",
+          "firstSeen": "2026-11-08T10:15:36Z",
+          "excerpt": "Experimental homebrew port of Loco Roco PSP. It’s still a work in progress, Currently features a preview of the first level. Game assets are generated locally using a converter from your own PSP copy of LocoRoco. The…",
+          "matched": []
+        },
+        {
+          "id": "41a8f36ed926",
+          "title": "Uh I have 2 Wiis what should I do with one",
+          "url": "https://www.reddit.com/r/wii/comments/1xqtwqg/uh_i_have_2_wiis_what_should_i_do_with_one/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-08T08:48:13Z",
+          "firstSeen": "2026-11-08T10:15:36Z",
+          "excerpt": "yea gimme some ideas",
+          "matched": []
+        },
         {
           "id": "877d7331e801",
           "title": "dusted off my Wii after 10+ years of not using it. Can someone catch me up on all the cool stuff you can do with it nowadays, like getting games through modding, extra features, homebrew, etc.?…",
@@ -1314,18 +1355,6 @@
           "matched": []
         },
         {
-          "id": "09b862d39f1b",
-          "title": "Hear me out, we need a Wii 2 (or 3)",
-          "url": "https://www.reddit.com/r/wii/comments/1xmc7w4/hear_me_out_we_need_a_wii_2_or_3/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-02T22:52:55Z",
-          "firstSeen": "2026-11-04T17:22:25Z",
-          "excerpt": "The Wii is arguably one of the best consoles in the world. Its an affordable console with games that entire families can come together and play. Now for most of us, we probably just think it was good because it was in…",
-          "matched": []
-        },
-        {
           "id": "706ce60a44f7",
           "title": "Maybe I should've invested in some rechargeable batteries back then 🤔",
           "url": "https://www.reddit.com/r/wii/comments/1xm5lbm/maybe_i_shouldve_invested_in_some_rechargeable/",
@@ -1360,26 +1389,14 @@
           "firstSeen": "2026-11-02T05:05:03Z",
           "excerpt": "Found a pic of these cool looking custom made controllers",
           "matched": []
-        },
-        {
-          "id": "a88306e7e51a",
-          "title": "Happy 20th AnniversaWii!!",
-          "url": "https://www.reddit.com/r/wii/comments/1xldvoc/happy_20th_anniversawii/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-01T20:43:09Z",
-          "firstSeen": "2026-11-01T20:43:09Z",
-          "excerpt": "This month marks the 20th anniversary of the Wii's release in North America! To celebrate, I made sure each player was invited :D — If you would like one for yourself, these are available at my Etsy shop!…",
-          "matched": []
         }
       ]
     },
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T02:26:39Z",
-      "lastAttempt": "2026-11-08T02:26:39Z",
+      "lastOk": "2026-11-08T10:15:36Z",
+      "lastAttempt": "2026-11-08T10:15:36Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,

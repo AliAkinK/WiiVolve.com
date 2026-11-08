@@ -9,6 +9,36 @@
   "language": "en",
   "items": [
     {
+      "id": "46ae0db7fb93",
+      "url": "https://www.reddit.com/r/wii/comments/1xqv37s/wip_loco_roco_wii_preview/",
+      "title": "[WIP] Loco Roco Wii preview",
+      "content_text": "Experimental homebrew port of Loco Roco PSP. It’s still a work in progress, Currently features a preview of the first level. Game assets are generated locally using a converter from your own PSP copy of LocoRoco. The…",
+      "date_published": "2026-11-08T10:07:29Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "41a8f36ed926",
+      "url": "https://www.reddit.com/r/wii/comments/1xqtwqg/uh_i_have_2_wiis_what_should_i_do_with_one/",
+      "title": "Uh I have 2 Wiis what should I do with one",
+      "content_text": "yea gimme some ideas",
+      "date_published": "2026-11-08T08:48:13Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "877d7331e801",
       "url": "https://www.reddit.com/r/wii/comments/1xqlfic/dusted_off_my_wii_after_10_years_of_not_using_it/",
       "title": "dusted off my Wii after 10+ years of not using it. Can someone catch me up on all the cool stuff you can do with it nowadays, like getting games through modding, extra features, homebrew, etc.?…",
@@ -239,36 +269,6 @@
       "title": "Is there a Wii game case that doesn't have this tab? (see below)",
       "content_text": "I’ve noticed that it damages the edges of the manuals—it’s really annoying. I’m looking for something with a design similar to the cases used for PS3, PS4, or PS5 games?…",
       "date_published": "2026-11-04T22:47:07Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "6ab5c217cb95",
-      "url": "https://www.reddit.com/r/wii/comments/1xnzxia/grand_theft_wuhu_gta_on_wuhu_island/",
-      "title": "Grand Theft Wuhu - GTA on Wuhu Island",
-      "content_text": "Yes, AI was used to help make this game — No, I have no clue why I made this — https://theagencymge.github.io/grand-theft-wuhu-play/",
-      "date_published": "2026-11-04T21:06:34Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "c79d217e529d",
-      "url": "https://www.reddit.com/r/wii/comments/1xnxyf4/tried_to_play_on_my_ancient_wii_am_i_cooked/",
-      "title": "Tried to play on my ANCIENT Wii, am I cooked?",
-      "content_text": "The display won't budge from this.",
-      "date_published": "2026-11-04T19:49:43Z",
       "authors": [
         {
           "name": "r/wii"
