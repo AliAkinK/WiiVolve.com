@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "4a45991324639bf6dd4470fe8f17963d670ca31ae806ebf177283286cd4ae1be",
+  "signature": "b2ab347d59cd6d4c2960287cdfca4bc62ca15162c33612600a31d42d0ce5f535",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-08T10:15:36Z",
+  "lastWrite": "2026-11-08T16:41:19Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -13,10 +13,11 @@
     "0e31de6bc41d": "2026-11-05T10:50:04Z",
     "11ea74c38072": "2024-07-26T11:00:00Z",
     "17861fa5b00f": "2026-04-14T07:00:00Z",
-    "1a7b95242020": "2007-05-21T07:00:00Z",
     "1c8927b09bf4": "2026-10-16T09:28:29Z",
+    "1c9799c1b985": "2026-11-08T16:41:19Z",
     "26437f139790": "2012-10-15T07:00:00Z",
     "2b78f3fce6bb": "2026-11-06T20:52:27Z",
+    "2db941bcf4f5": "2007-05-21T07:00:00Z",
     "2edbb7d89cb2": "2024-07-02T07:47:50Z",
     "2f18f1d06051": "2025-09-16T03:21:58Z",
     "305480fc5d04": "2026-11-04T17:22:25Z",
@@ -46,7 +47,6 @@
     "4d2d82d76e2e": "2023-08-13T05:59:25Z",
     "4edd75978dfb": "2026-10-29T12:45:52Z",
     "4f0dff1e4517": "2026-11-04T17:22:25Z",
-    "500b2acd2d91": "2026-04-21T07:00:00Z",
     "503a2e2d8b96": "2026-11-04T17:22:25Z",
     "5579c2f30ee4": "2025-05-14T17:30:57Z",
     "561321a38c62": "2022-09-08T07:00:00Z",
@@ -139,8 +139,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T10:15:36Z",
-      "lastAttempt": "2026-11-08T10:15:36Z",
+      "lastOk": "2026-11-08T16:41:19Z",
+      "lastAttempt": "2026-11-08T16:41:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -149,18 +149,18 @@
     "gonintendo": {
       "etag": null,
       "lastModified": "Sun, 08 Nov 2026 06:11:00 -0000",
-      "lastOk": "2026-11-08T10:15:36Z",
-      "lastAttempt": "2026-11-08T10:15:36Z",
+      "lastOk": "2026-11-08T16:41:19Z",
+      "lastAttempt": "2026-11-08T16:41:19Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"d150e5aa942d4377be99bbae4af5353d\"",
-      "lastModified": "Sun, 08 Nov 2026 06:50:51 GMT",
-      "lastOk": "2026-11-08T10:15:36Z",
-      "lastAttempt": "2026-11-08T10:15:36Z",
+      "etag": "W/\"3824551fbeb9f1009decb036717046e2\"",
+      "lastModified": "Sun, 08 Nov 2026 15:00:25 GMT",
+      "lastOk": "2026-11-08T16:41:19Z",
+      "lastAttempt": "2026-11-08T16:41:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -169,8 +169,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T10:15:36Z",
-      "lastAttempt": "2026-11-08T10:15:36Z",
+      "lastOk": "2026-11-08T16:41:19Z",
+      "lastAttempt": "2026-11-08T16:41:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -179,8 +179,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T10:15:36Z",
-      "lastAttempt": "2026-11-08T10:15:36Z",
+      "lastOk": "2026-11-08T16:41:19Z",
+      "lastAttempt": "2026-11-08T16:41:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -195,21 +195,6 @@
           "tab": "press",
           "published": "2026-11-05T20:19:47Z",
           "firstSeen": "2026-11-06T00:12:19Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "ed13f06de9c7",
-          "title": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFh3SERjMFFwZklUVGg1RXVDaFBDS1hLRGZydVlNUTM4OHNWVUt2VTRkZFhZSmhYV3pxYWctdDh6TkFtWm1FLVB0dHhNcGFGUnpWYmJfejdLOGthUldjUmYzb0pLUnBKcFYwYS0xMThFZ0VlTFdRVGJrWm1aTDFNWEdSQVNkcktFblRmXw?oc=5",
-          "source": "Retro Dodo",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-02T18:10:29Z",
-          "firstSeen": "2026-11-02T18:10:29Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -270,21 +255,6 @@
           "tab": "press",
           "published": "2026-06-02T07:00:00Z",
           "firstSeen": "2026-06-02T07:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "500b2acd2d91",
-          "title": "Nintendo Switch Users Have Thousands of Free Wii and GameCube Games Now",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblN0bVZWMlVORlJOc1FOTVlQR1ZLa3h0THU0cGU0UWVTRTJubE1xVnlPQm1BMzhoYS1pUDNLNmF4RnlBV0FfbzN6NVBDbXRYZTY5MWdxRFNrSkg4NkQxU09kNHVMandMWWI0NEFIeG5TaGtFX2ZDZDRycDRFRUMxd2Rac0I3U2IzTDN2MGtoblRLejR6R21LZklXeXAzSVJydGp0TFdCenFhLWVVQ2RhNU9PbkJIUVk?oc=5",
-          "source": "GAMINGbible",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-04-21T07:00:00Z",
-          "firstSeen": "2026-04-21T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -667,9 +637,9 @@
           ]
         },
         {
-          "id": "1a7b95242020",
+          "id": "2db941bcf4f5",
           "title": "Nintendo Wii Game Console",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1icXpBRUppZjFPSGR2RGxsMGIyNUM0WW4xSXdFMFBxWXhGaXplZ1lKZHRTUFA3WDhUOWJ4UFlMb09jQzlRNzl3M0hxZXRVb20wVkREb3JEa3ZSUElDbWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtZUZLUzlIV002a01fWDVKR3U4WWVXb0ZHTWFJbnFtS2J6eU5YZWVyZ05NcUFfTkNZMTVlYWNlRlFRRmo5RExhcTRVb2duUnFJVk5MaTVBalBvS2pOaGQxN2tsN0FITlNqd1BRRmh2RDJLUQ?oc=5",
           "source": "Sound & Vision",
           "sourceId": "googlenews",
           "via": "Google News",
@@ -744,12 +714,12 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"35b9955448dcaa2bc84129ba4018ccde\"",
-      "lastModified": "Sat, 07 Nov 2026 23:18:21 GMT",
-      "lastOk": "2026-11-08T10:15:36Z",
-      "lastAttempt": "2026-11-08T10:15:36Z",
+      "etag": "W/\"dbc13814a446922fd9148b57110e9099\"",
+      "lastModified": "Sun, 08 Nov 2026 02:31:45 GMT",
+      "lastOk": "2026-11-08T16:41:19Z",
+      "lastAttempt": "2026-11-08T16:41:19Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": [
         {
@@ -845,10 +815,10 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-08T10:15:36Z",
-      "lastAttempt": "2026-11-08T10:15:36Z",
+      "lastOk": "2026-11-08T16:41:19Z",
+      "lastAttempt": "2026-11-08T16:41:19Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": [
         {
@@ -1096,12 +1066,24 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T10:15:36Z",
-      "lastAttempt": "2026-11-08T10:15:36Z",
+      "lastOk": "2026-11-08T16:41:19Z",
+      "lastAttempt": "2026-11-08T16:41:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "1c9799c1b985",
+          "title": "Selling Wii Drums Harmonix",
+          "url": "https://www.reddit.com/r/wii/comments/1xqxlgk/selling_wii_drums_harmonix/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-08T12:44:33Z",
+          "firstSeen": "2026-11-08T16:41:19Z",
+          "excerpt": "Hi All, I'm selling my old Wii drums set up. Maybe someone will be interested in. I'm trying to save money for Stage Tour drums. We can negotiate the final price. Cheers! https://ebay.io/m/iwluxp — What do you think…",
+          "matched": []
+        },
         {
           "id": "46ae0db7fb93",
           "title": "[WIP] Loco Roco Wii preview",
@@ -1355,18 +1337,6 @@
           "matched": []
         },
         {
-          "id": "706ce60a44f7",
-          "title": "Maybe I should've invested in some rechargeable batteries back then 🤔",
-          "url": "https://www.reddit.com/r/wii/comments/1xm5lbm/maybe_i_shouldve_invested_in_some_rechargeable/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-02T18:41:40Z",
-          "firstSeen": "2026-11-04T17:22:25Z",
-          "excerpt": "",
-          "matched": []
-        },
-        {
           "id": "e709e488c51f",
           "title": "During the Wii’s heyday, were you aware that it was considered ‘underpowered’? How and when did you find out?",
           "url": "https://www.reddit.com/r/wii/comments/1xm4zjd/during_the_wiis_heyday_were_you_aware_that_it_was/",
@@ -1395,8 +1365,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-08T10:15:36Z",
-      "lastAttempt": "2026-11-08T10:15:36Z",
+      "lastOk": "2026-11-08T16:41:19Z",
+      "lastAttempt": "2026-11-08T16:41:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
