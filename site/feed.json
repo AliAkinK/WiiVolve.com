@@ -9,6 +9,51 @@
   "language": "en",
   "items": [
     {
+      "id": "54d8aafa577b",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xrh87f/ive_been_working_on_a_native_celeste_port_for_the/",
+      "title": "I've been working on a native Celeste port for the Wii. Here's how it's going so far!",
+      "content_text": "Hey everyone! So, I've been working on getting Celeste running natively on the Wii, and I figured some people here might find it interesting. It started out pretty simple. I just wanted to see if I could get the core…",
+      "date_published": "2026-11-09T03:29:26Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "35b72a7c352a",
+      "url": "https://www.reddit.com/r/wii/comments/1xrg3vw/feeling_nostalgic_about_forgotten_games/",
+      "title": "Feeling nostalgic about forgotten games",
+      "content_text": "So there's a game that I used to play when I was younger. I remember nothing about it's name, just that the main menu seems to me in a hotel and that the game had a variety of game modes, from darts to Frisbee golf…",
+      "date_published": "2026-11-09T02:32:24Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "0e6b97df8067",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xrdqwi/button_2_and_2nd_player_led_dont_work/",
+      "title": "Button 2 and 2nd Player LED don't work",
+      "content_text": "Initially, the controller wouldn't even turn on; the battery contacts were green and corroded. After cleaning everything with vinegar and IPA, it now powers on, but button 2 and the blue LED for the second player…",
+      "date_published": "2026-11-09T00:34:46Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "22700bb8bc69",
       "url": "https://www.reddit.com/r/wii/comments/1xrakct/hey_so_i_wanna_play_just_dance_again_in_a_long/",
       "title": "Hey so I wanna play just dance again in a long time so I got the Wii U but just the box what else do I need.",
@@ -164,21 +209,6 @@
       "title": "help on this remote it keeps shaking erratically",
       "content_text": "the pointer cursor hand on the wii works great but only on the mii channel and other types of apps (not games) make it verry shaky and erratic. yes i tested it during night without wny sory of interference and it still…",
       "date_published": "2026-11-06T19:15:42Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "2b78f3fce6bb",
-      "url": "https://www.reddit.com/r/wii/comments/1xpghy8/got_a_never_opened_rvl001_wii_and_never_opened/",
-      "title": "Got a never opened rvl-001 wii and never opened wii fit and balance board what should I do with it.",
-      "content_text": "I wanna know if i should: keep it and let it stay in box and sell it in a couple years — Open it, homebrew it, and enjoy it with my family. Try to sell it and buy a complete in box wii u I definitely have a lot of wii…",
-      "date_published": "2026-11-06T16:03:51Z",
       "authors": [
         {
           "name": "r/wii"
@@ -389,36 +419,6 @@
       "title": "Yo, so I'm trying to make a forwarder for CaveEx, but I keep getting this error for some reason.",
       "content_text": "The channel worked just fine, and the forwarder managed to find the boot.dol and loaded it, but it always seemed to crash after that. I used CustomizeMii to make the wad file, and I've tried both the comex and…",
       "date_published": "2026-10-30T04:07:07Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "ce3fa9d6925f",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xivzwv/wii_hdmi_mod/",
-      "title": "Wii HDMI Mod",
-      "content_text": "Is it still possible to get my Wii serviced and get an HDMI mod installed? I was looking around and most sites are just selling the chip/mod for it and I know absolutely nothing about soldering and do not want to mess…",
-      "date_published": "2026-10-29T20:57:24Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "4edd75978dfb",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xiizi7/is_there_any_new_super_mario_galaxy_splitscreen/",
-      "title": "Is there any new Super Mario Galaxy SPLITSCREEN mod",
-      "content_text": "I wanted to try to play this game on splitscreen but the only mod I found (by Mr Brocoli) seems to be abandoned and full of glitches, bugs and power-up crash. Isn't there any other mod out there?",
-      "date_published": "2026-10-29T12:45:52Z",
       "authors": [
         {
           "name": "r/WiiHacks"

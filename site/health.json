@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T00:51:52Z",
+  "generatedAt": "2026-11-09T07:56:44Z",
   "sources": [
     {
       "id": "nintendolife",
@@ -8,12 +8,12 @@
       "tab": "press",
       "homepage": "https://www.nintendolife.com",
       "status": "ok",
-      "lastOk": "2026-11-09T00:51:52Z",
+      "lastOk": "2026-11-09T07:56:44Z",
       "failures": 0,
       "items": 0,
       "httpStatus": 200,
       "error": null,
-      "ms": 393
+      "ms": 430
     },
     {
       "id": "gonintendo",
@@ -21,12 +21,12 @@
       "tab": "press",
       "homepage": "https://gonintendo.com",
       "status": "ok",
-      "lastOk": "2026-11-09T00:51:52Z",
+      "lastOk": "2026-11-09T07:56:44Z",
       "failures": 0,
       "items": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
-      "ms": 260
+      "ms": 193
     },
     {
       "id": "nintendoeverything",
@@ -34,12 +34,12 @@
       "tab": "press",
       "homepage": "https://nintendoeverything.com",
       "status": "ok",
-      "lastOk": "2026-11-09T00:51:52Z",
+      "lastOk": "2026-11-09T07:56:44Z",
       "failures": 0,
       "items": 0,
       "httpStatus": 200,
       "error": null,
-      "ms": 158
+      "ms": 203
     },
     {
       "id": "timeextension",
@@ -47,12 +47,12 @@
       "tab": "press",
       "homepage": "https://www.timeextension.com",
       "status": "ok",
-      "lastOk": "2026-11-09T00:51:52Z",
+      "lastOk": "2026-11-09T07:56:44Z",
       "failures": 0,
       "items": 0,
       "httpStatus": 200,
       "error": null,
-      "ms": 713
+      "ms": 582
     },
     {
       "id": "googlenews",
@@ -60,12 +60,12 @@
       "tab": "press",
       "homepage": "https://news.google.com/search?q=%22Nintendo%20Wii%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "lastOk": "2026-11-09T00:51:52Z",
+      "lastOk": "2026-11-09T07:56:44Z",
       "failures": 0,
       "items": 8,
       "httpStatus": 200,
       "error": null,
-      "ms": 444
+      "ms": 475
     },
     {
       "id": "hackaday",
@@ -73,12 +73,12 @@
       "tab": "scene",
       "homepage": "https://hackaday.com/tag/wii/",
       "status": "ok",
-      "lastOk": "2026-11-09T00:51:52Z",
+      "lastOk": "2026-11-09T07:56:44Z",
       "failures": 0,
       "items": 2,
       "httpStatus": 200,
       "error": null,
-      "ms": 312
+      "ms": 243
     },
     {
       "id": "dolphin",
@@ -86,12 +86,12 @@
       "tab": "scene",
       "homepage": "https://dolphin-emu.org/blog/",
       "status": "ok",
-      "lastOk": "2026-11-09T00:51:52Z",
+      "lastOk": "2026-11-09T07:56:44Z",
       "failures": 0,
       "items": 2,
       "httpStatus": 304,
       "error": null,
-      "ms": 204
+      "ms": 433
     },
     {
       "id": "reddit-wii",
@@ -99,12 +99,12 @@
       "tab": "scene",
       "homepage": "https://www.reddit.com/r/wii/",
       "status": "ok",
-      "lastOk": "2026-11-09T00:51:52Z",
+      "lastOk": "2026-11-09T07:56:44Z",
       "failures": 0,
       "items": 12,
       "httpStatus": 200,
       "error": null,
-      "ms": 919
+      "ms": 660
     },
     {
       "id": "reddit-wiihacks",
@@ -112,12 +112,12 @@
       "tab": "scene",
       "homepage": "https://www.reddit.com/r/WiiHacks/",
       "status": "ok",
-      "lastOk": "2026-11-09T00:51:52Z",
+      "lastOk": "2026-11-09T07:56:44Z",
       "failures": 0,
       "items": 12,
       "httpStatus": 200,
       "error": null,
-      "ms": 1069
+      "ms": 1612
     }
   ],
   "summary": {

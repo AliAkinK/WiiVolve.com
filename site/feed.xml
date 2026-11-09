@@ -5,9 +5,36 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 00:51:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 07:56:44 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>I&#39;ve been working on a native Celeste port for the Wii. Here&#39;s how it&#39;s going so far!</title>
+<link>https://www.reddit.com/r/WiiHacks/comments/1xrh87f/ive_been_working_on_a_native_celeste_port_for_the/</link>
+<guid isPermaLink="false">54d8aafa577b</guid>
+<pubDate>Mon, 09 Nov 2026 03:29:26 GMT</pubDate>
+<description>Hey everyone! So, I&#39;ve been working on getting Celeste running natively on the Wii, and I figured some people here might find it interesting. It started out pretty simple. I just wanted to see if I could get the core…</description>
+<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
+<category>scene</category>
+</item>
+<item>
+<title>Feeling nostalgic about forgotten games</title>
+<link>https://www.reddit.com/r/wii/comments/1xrg3vw/feeling_nostalgic_about_forgotten_games/</link>
+<guid isPermaLink="false">35b72a7c352a</guid>
+<pubDate>Mon, 09 Nov 2026 02:32:24 GMT</pubDate>
+<description>So there&#39;s a game that I used to play when I was younger. I remember nothing about it&#39;s name, just that the main menu seems to me in a hotel and that the game had a variety of game modes, from darts to Frisbee golf…</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
+<item>
+<title>Button 2 and 2nd Player LED don&#39;t work</title>
+<link>https://www.reddit.com/r/WiiHacks/comments/1xrdqwi/button_2_and_2nd_player_led_dont_work/</link>
+<guid isPermaLink="false">0e6b97df8067</guid>
+<pubDate>Mon, 09 Nov 2026 00:34:46 GMT</pubDate>
+<description>Initially, the controller wouldn&#39;t even turn on; the battery contacts were green and corroded. After cleaning everything with vinegar and IPA, it now powers on, but button 2 and the blue LED for the second player…</description>
+<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
+<category>scene</category>
+</item>
 <item>
 <title>Hey so I wanna play just dance again in a long time so I got the Wii U but just the box what else do I need.</title>
 <link>https://www.reddit.com/r/wii/comments/1xrakct/hey_so_i_wanna_play_just_dance_again_in_a_long/</link>
@@ -101,15 +128,6 @@
 <guid isPermaLink="false">3cdf27e2776e</guid>
 <pubDate>Fri, 06 Nov 2026 19:15:42 GMT</pubDate>
 <description>the pointer cursor hand on the wii works great but only on the mii channel and other types of apps (not games) make it verry shaky and erratic. yes i tested it during night without wny sory of interference and it still…</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>Got a never opened rvl-001 wii and never opened wii fit and balance board what should I do with it.</title>
-<link>https://www.reddit.com/r/wii/comments/1xpghy8/got_a_never_opened_rvl001_wii_and_never_opened/</link>
-<guid isPermaLink="false">2b78f3fce6bb</guid>
-<pubDate>Fri, 06 Nov 2026 16:03:51 GMT</pubDate>
-<description>I wanna know if i should: keep it and let it stay in box and sell it in a couple years — Open it, homebrew it, and enjoy it with my family. Try to sell it and buy a complete in box wii u I definitely have a lot of wii…</description>
 <source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
 <category>scene</category>
 </item>
@@ -230,24 +248,6 @@
 <guid isPermaLink="false">c64dde292934</guid>
 <pubDate>Fri, 30 Oct 2026 04:07:07 GMT</pubDate>
 <description>The channel worked just fine, and the forwarder managed to find the boot.dol and loaded it, but it always seemed to crash after that. I used CustomizeMii to make the wad file, and I&#39;ve tried both the comex and…</description>
-<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
-<category>scene</category>
-</item>
-<item>
-<title>Wii HDMI Mod</title>
-<link>https://www.reddit.com/r/WiiHacks/comments/1xivzwv/wii_hdmi_mod/</link>
-<guid isPermaLink="false">ce3fa9d6925f</guid>
-<pubDate>Thu, 29 Oct 2026 20:57:24 GMT</pubDate>
-<description>Is it still possible to get my Wii serviced and get an HDMI mod installed? I was looking around and most sites are just selling the chip/mod for it and I know absolutely nothing about soldering and do not want to mess…</description>
-<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
-<category>scene</category>
-</item>
-<item>
-<title>Is there any new Super Mario Galaxy SPLITSCREEN mod</title>
-<link>https://www.reddit.com/r/WiiHacks/comments/1xiizi7/is_there_any_new_super_mario_galaxy_splitscreen/</link>
-<guid isPermaLink="false">4edd75978dfb</guid>
-<pubDate>Thu, 29 Oct 2026 12:45:52 GMT</pubDate>
-<description>I wanted to try to play this game on splitscreen but the only mod I found (by Mr Brocoli) seems to be abandoned and full of glitches, bugs and power-up crash. Isn&#39;t there any other mod out there?</description>
 <source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
 <category>scene</category>
 </item>
