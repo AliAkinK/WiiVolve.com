@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T07:56:44Z",
+  "generatedAt": "2026-11-09T18:44:56Z",
   "items": [
+    {
+      "id": "cf81d239f637",
+      "title": "My little collection of console Merch from this era",
+      "url": "https://www.reddit.com/r/wii/comments/1xrnhhr/my_little_collection_of_console_merch_from_this/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-09T09:40:09Z",
+      "firstSeen": "2026-11-09T18:44:56Z",
+      "excerpt": "The Merchendis from this consoles are so cool. I also found a Wii fit Beanie online, but it did nor arrived Jet. My Goal will BE the Wii Sports Jacket 🥹 wich ist totaly hard tonfind (Specialy in Europe i Guess )",
+      "matched": []
+    },
     {
       "id": "54d8aafa577b",
       "title": "I've been working on a native Celeste port for the Wii. Here's how it's going so far!",
@@ -156,18 +168,6 @@
       "published": "2026-11-07T01:55:14Z",
       "firstSeen": "2026-11-07T07:06:17Z",
       "excerpt": "I've always wanted a Wii. I have spotted this one in a local thrift/opp shop. 100aud, should I go for it? I have a 480p tv at home for it. Can I mod it to run 480p?",
-      "matched": []
-    },
-    {
-      "id": "3cdf27e2776e",
-      "title": "help on this remote it keeps shaking erratically",
-      "url": "https://www.reddit.com/r/wii/comments/1xplgzi/help_on_this_remote_it_keeps_shaking_erratically/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-06T19:15:42Z",
-      "firstSeen": "2026-11-06T20:52:27Z",
-      "excerpt": "the pointer cursor hand on the wii works great but only on the mii channel and other types of apps (not games) make it verry shaky and erratic. yes i tested it during night without wny sory of interference and it still…",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-26T07:56:44Z",
+    "windowStart": "2026-10-26T18:44:56Z",
     "completeSince": {
-      "all": "2026-11-06T16:03:51Z",
-      "press": "2026-10-26T07:56:44Z",
-      "scene": "2026-11-06T16:03:51Z"
+      "all": "2026-11-06T19:15:42Z",
+      "press": "2026-10-26T18:44:56Z",
+      "scene": "2026-11-06T19:15:42Z"
     }
   }
 }

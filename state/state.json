@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "c3d3e7c0d6552924ba423b6d8a4879c1bc9383e165a8184d664ae0d7dbb0fc46",
+  "signature": "939ce677a336820c076e363add7a873a5f68150266bb8dbf81d8fced043b9672",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-09T07:56:44Z",
+  "lastWrite": "2026-11-09T18:44:56Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -114,6 +114,7 @@
     "ce3fa9d6925f": "2026-10-29T20:57:24Z",
     "cf1ef8f6dc13": "2026-02-18T08:00:00Z",
     "cf2a37c5d759": "2026-11-04T17:22:25Z",
+    "cf81d239f637": "2026-11-09T18:44:56Z",
     "d1a70aa936b0": "2026-11-04T23:23:40Z",
     "d356528af061": "2026-06-02T07:00:00Z",
     "d45cb87b4ee9": "2026-10-31T14:15:03Z",
@@ -143,8 +144,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-09T07:56:44Z",
-      "lastAttempt": "2026-11-09T07:56:44Z",
+      "lastOk": "2026-11-09T18:44:56Z",
+      "lastAttempt": "2026-11-09T18:44:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -152,19 +153,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Mon, 09 Nov 2026 05:34:00 -0000",
-      "lastOk": "2026-11-09T07:56:44Z",
-      "lastAttempt": "2026-11-09T07:56:44Z",
+      "lastModified": "Mon, 09 Nov 2026 18:33:00 -0000",
+      "lastOk": "2026-11-09T18:44:56Z",
+      "lastAttempt": "2026-11-09T18:44:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"cc9ecf45c74b81b6d738e70a52268e45\"",
-      "lastModified": "Mon, 09 Nov 2026 04:50:45 GMT",
-      "lastOk": "2026-11-09T07:56:44Z",
-      "lastAttempt": "2026-11-09T07:56:44Z",
+      "etag": "W/\"6727c35f1dbbc3aa780ce1074809b322\"",
+      "lastModified": "Mon, 09 Nov 2026 18:08:31 GMT",
+      "lastOk": "2026-11-09T18:44:56Z",
+      "lastAttempt": "2026-11-09T18:44:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -173,8 +174,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-09T07:56:44Z",
-      "lastAttempt": "2026-11-09T07:56:44Z",
+      "lastOk": "2026-11-09T18:44:56Z",
+      "lastAttempt": "2026-11-09T18:44:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -183,8 +184,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-09T07:56:44Z",
-      "lastAttempt": "2026-11-09T07:56:44Z",
+      "lastOk": "2026-11-09T18:44:56Z",
+      "lastAttempt": "2026-11-09T18:44:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -688,10 +689,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"5584e2952bf1c0172a4cbe04195dcb0c\"",
-      "lastModified": "Sun, 08 Nov 2026 18:35:29 GMT",
-      "lastOk": "2026-11-09T07:56:44Z",
-      "lastAttempt": "2026-11-09T07:56:44Z",
+      "etag": "W/\"37f79bea52d1cc20062503df105d1706\"",
+      "lastModified": "Mon, 09 Nov 2026 15:35:21 GMT",
+      "lastOk": "2026-11-09T18:44:56Z",
+      "lastAttempt": "2026-11-09T18:44:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -789,8 +790,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-09T07:56:44Z",
-      "lastAttempt": "2026-11-09T07:56:44Z",
+      "lastOk": "2026-11-09T18:44:56Z",
+      "lastAttempt": "2026-11-09T18:44:56Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1040,12 +1041,24 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-09T07:56:44Z",
-      "lastAttempt": "2026-11-09T07:56:44Z",
+      "lastOk": "2026-11-09T18:44:56Z",
+      "lastAttempt": "2026-11-09T18:44:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "cf81d239f637",
+          "title": "My little collection of console Merch from this era",
+          "url": "https://www.reddit.com/r/wii/comments/1xrnhhr/my_little_collection_of_console_merch_from_this/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-09T09:40:09Z",
+          "firstSeen": "2026-11-09T18:44:56Z",
+          "excerpt": "The Merchendis from this consoles are so cool. I also found a Wii fit Beanie online, but it did nor arrived Jet. My Goal will BE the Wii Sports Jacket 🥹 wich ist totaly hard tonfind (Specialy in Europe i Guess )",
+          "matched": []
+        },
         {
           "id": "35b72a7c352a",
           "title": "Feeling nostalgic about forgotten games",
@@ -1309,26 +1322,14 @@
           "firstSeen": "2026-11-04T17:22:25Z",
           "excerpt": "Or should i go for an old and yellowed official classic controller?",
           "matched": []
-        },
-        {
-          "id": "3278e67fa31f",
-          "title": "Christmas Lights as sensor bar",
-          "url": "https://www.reddit.com/r/wii/comments/1xmjen9/christmas_lights_as_sensor_bar/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-03T04:25:28Z",
-          "firstSeen": "2026-11-04T17:22:25Z",
-          "excerpt": "You can use Christmas Lights as a sensor bar replacement. Incase you somehow dont have candles laying around lol",
-          "matched": []
         }
       ]
     },
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-09T07:56:44Z",
-      "lastAttempt": "2026-11-09T07:56:44Z",
+      "lastOk": "2026-11-09T18:44:56Z",
+      "lastAttempt": "2026-11-09T18:44:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
