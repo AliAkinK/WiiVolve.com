@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T18:44:56Z",
+  "generatedAt": "2026-11-10T02:04:23Z",
   "items": [
+    {
+      "id": "41b4da9e6c69",
+      "title": "Anybody ever used these and what was your experience?",
+      "url": "https://www.reddit.com/r/wii/comments/1xs8y2x/anybody_ever_used_these_and_what_was_your/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-10T00:38:24Z",
+      "firstSeen": "2026-11-10T02:04:23Z",
+      "excerpt": "",
+      "matched": []
+    },
+    {
+      "id": "9df281965dbe",
+      "title": "Has anyone tried the USB-C rechargeable batteries?",
+      "url": "https://www.reddit.com/r/wii/comments/1xs5fqs/has_anyone_tried_the_usbc_rechargeable_batteries/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-09T22:11:44Z",
+      "firstSeen": "2026-11-10T02:04:23Z",
+      "excerpt": "I've been seeing batteries that have USB-C ports built into them, like these: https://www.amazon.com/dp/B0DSBQPPX4?th=1 — Doing some research, I've found that some people find them great but other people have reported…",
+      "matched": []
+    },
+    {
+      "id": "0313915f64ad",
+      "title": "Wii Games and More at the thrift store!",
+      "url": "https://www.reddit.com/r/wii/comments/1xs3jci/wii_games_and_more_at_the_thrift_store/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-09T20:57:55Z",
+      "firstSeen": "2026-11-10T02:04:23Z",
+      "excerpt": "Coraline was a heck of a find",
+      "matched": []
+    },
+    {
+      "id": "4f0a151a32b3",
+      "title": "Which multiplatform games are best played on Wii? whether it's because of performance or overall gameplay.",
+      "url": "https://www.reddit.com/r/wii/comments/1xs0ngz/which_multiplatform_games_are_best_played_on_wii/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-09T19:10:07Z",
+      "firstSeen": "2026-11-10T02:04:23Z",
+      "excerpt": "I have several consoles and I would like to know which non exclusive Wii game I should definitely play on Wii.",
+      "matched": []
+    },
     {
       "id": "cf81d239f637",
       "title": "My little collection of console Merch from this era",
@@ -120,54 +168,6 @@
       "published": "2026-11-08T00:37:24Z",
       "firstSeen": "2026-11-08T02:26:39Z",
       "excerpt": "",
-      "matched": []
-    },
-    {
-      "id": "98fee3c0d488",
-      "title": "Is this official Nintendo packaging?",
-      "url": "https://www.reddit.com/r/wii/comments/1xqh7y8/is_this_official_nintendo_packaging/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-07T21:19:01Z",
-      "firstSeen": "2026-11-07T22:42:52Z",
-      "excerpt": "Looking to get a new wiimote/nunchuck since mine have finally stopped working and want to make sure they are official. Friend of mine said they usually come in boxes but I thought the Nintendo logo can't be used by…",
-      "matched": []
-    },
-    {
-      "id": "30f38c38ed8e",
-      "title": "Super unique thing I’ve never seen",
-      "url": "https://www.reddit.com/r/wii/comments/1xqfenw/super_unique_thing_ive_never_seen/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-07T19:59:01Z",
-      "firstSeen": "2026-11-07T22:42:52Z",
-      "excerpt": "",
-      "matched": []
-    },
-    {
-      "id": "966440fd7ab6",
-      "title": "DIY Wii Vertical Stand :)",
-      "url": "https://www.reddit.com/r/wii/comments/1xpwi0e/diy_wii_vertical_stand/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-07T03:37:34Z",
-      "firstSeen": "2026-11-07T07:06:17Z",
-      "excerpt": "I bought a used Wii and then I realized it doesn't come with a stand, so I make one myself",
-      "matched": []
-    },
-    {
-      "id": "6ecef8c0ea47",
-      "title": "What is this worth? I have always wanted wii as a ps2 gamer.",
-      "url": "https://www.reddit.com/r/wii/comments/1xpuijl/what_is_this_worth_i_have_always_wanted_wii_as_a/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-07T01:55:14Z",
-      "firstSeen": "2026-11-07T07:06:17Z",
-      "excerpt": "I've always wanted a Wii. I have spotted this one in a local thrift/opp shop. 100aud, should I go for it? I have a 480p tv at home for it. Can I mod it to run 480p?",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-26T18:44:56Z",
+    "windowStart": "2026-10-27T02:04:23Z",
     "completeSince": {
-      "all": "2026-11-06T19:15:42Z",
-      "press": "2026-10-26T18:44:56Z",
-      "scene": "2026-11-06T19:15:42Z"
+      "all": "2026-11-07T21:19:01Z",
+      "press": "2026-10-27T02:04:23Z",
+      "scene": "2026-11-07T21:19:01Z"
     }
   }
 }
