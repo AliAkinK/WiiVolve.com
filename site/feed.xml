@@ -5,9 +5,26 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 02:04:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 09:44:52 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>I received these beautiful gifts for my birthday yesterday. I couldn&#39;t be happier!</title>
+<link>https://www.reddit.com/r/wii/comments/1xsfiic/i_received_these_beautiful_gifts_for_my_birthday/</link>
+<guid isPermaLink="false">a9018eb5ebee</guid>
+<pubDate>Tue, 10 Nov 2026 06:13:42 GMT</pubDate>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
+<item>
+<title>I think my Wii might be possessed...</title>
+<link>https://www.reddit.com/r/wii/comments/1xsfhbu/i_think_my_wii_might_be_possessed/</link>
+<guid isPermaLink="false">4180cb0161c6</guid>
+<pubDate>Tue, 10 Nov 2026 06:11:49 GMT</pubDate>
+<description>The disc drive light turned on by itself and the console isn&#39;t even on are there ghosts in my Wii</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
 <item>
 <title>Anybody ever used these and what was your experience?</title>
 <link>https://www.reddit.com/r/wii/comments/1xs8y2x/anybody_ever_used_these_and_what_was_your/</link>
@@ -111,23 +128,6 @@
 <guid isPermaLink="false">46ae0db7fb93</guid>
 <pubDate>Sun, 08 Nov 2026 10:07:29 GMT</pubDate>
 <description>Experimental homebrew port of Loco Roco PSP. It’s still a work in progress, Currently features a preview of the first level. Game assets are generated locally using a converter from your own PSP copy of LocoRoco. The…</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>Uh I have 2 Wiis what should I do with one</title>
-<link>https://www.reddit.com/r/wii/comments/1xqtwqg/uh_i_have_2_wiis_what_should_i_do_with_one/</link>
-<guid isPermaLink="false">41a8f36ed926</guid>
-<pubDate>Sun, 08 Nov 2026 08:48:13 GMT</pubDate>
-<description>yea gimme some ideas</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>dusted off my Wii after 10+ years of not using it. Can someone catch me up on all the cool stuff you can do with it nowadays, like getting games through modding, extra features, homebrew, etc.?…</title>
-<link>https://www.reddit.com/r/wii/comments/1xqlfic/dusted_off_my_wii_after_10_years_of_not_using_it/</link>
-<guid isPermaLink="false">877d7331e801</guid>
-<pubDate>Sun, 08 Nov 2026 00:37:24 GMT</pubDate>
 <source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
 <category>scene</category>
 </item>

@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T02:04:23Z",
+  "generatedAt": "2026-11-10T09:44:52Z",
   "items": [
+    {
+      "id": "a9018eb5ebee",
+      "title": "I received these beautiful gifts for my birthday yesterday. I couldn't be happier!",
+      "url": "https://www.reddit.com/r/wii/comments/1xsfiic/i_received_these_beautiful_gifts_for_my_birthday/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-10T06:13:42Z",
+      "firstSeen": "2026-11-10T09:44:52Z",
+      "excerpt": "",
+      "matched": []
+    },
+    {
+      "id": "4180cb0161c6",
+      "title": "I think my Wii might be possessed...",
+      "url": "https://www.reddit.com/r/wii/comments/1xsfhbu/i_think_my_wii_might_be_possessed/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-10T06:11:49Z",
+      "firstSeen": "2026-11-10T09:44:52Z",
+      "excerpt": "The disc drive light turned on by itself and the console isn't even on are there ghosts in my Wii",
+      "matched": []
+    },
     {
       "id": "41b4da9e6c69",
       "title": "Anybody ever used these and what was your experience?",
@@ -144,30 +168,6 @@
       "published": "2026-11-08T10:07:29Z",
       "firstSeen": "2026-11-08T10:15:36Z",
       "excerpt": "Experimental homebrew port of Loco Roco PSP. It’s still a work in progress, Currently features a preview of the first level. Game assets are generated locally using a converter from your own PSP copy of LocoRoco. The…",
-      "matched": []
-    },
-    {
-      "id": "41a8f36ed926",
-      "title": "Uh I have 2 Wiis what should I do with one",
-      "url": "https://www.reddit.com/r/wii/comments/1xqtwqg/uh_i_have_2_wiis_what_should_i_do_with_one/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-08T08:48:13Z",
-      "firstSeen": "2026-11-08T10:15:36Z",
-      "excerpt": "yea gimme some ideas",
-      "matched": []
-    },
-    {
-      "id": "877d7331e801",
-      "title": "dusted off my Wii after 10+ years of not using it. Can someone catch me up on all the cool stuff you can do with it nowadays, like getting games through modding, extra features, homebrew, etc.?…",
-      "url": "https://www.reddit.com/r/wii/comments/1xqlfic/dusted_off_my_wii_after_10_years_of_not_using_it/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-08T00:37:24Z",
-      "firstSeen": "2026-11-08T02:26:39Z",
-      "excerpt": "",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-27T02:04:23Z",
+    "windowStart": "2026-10-27T09:44:52Z",
     "completeSince": {
-      "all": "2026-11-07T21:19:01Z",
-      "press": "2026-10-27T02:04:23Z",
-      "scene": "2026-11-07T21:19:01Z"
+      "all": "2026-11-08T08:48:13Z",
+      "press": "2026-10-27T09:44:52Z",
+      "scene": "2026-11-08T08:48:13Z"
     }
   }
 }
