@@ -5,9 +5,17 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 09:44:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 23:16:20 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Half Life Wii: Nueva Update</title>
+<link>https://www.reddit.com/r/wii/comments/1xsuvzj/half_life_wii_nueva_update/</link>
+<guid isPermaLink="false">8567dcd71a89</guid>
+<pubDate>Tue, 10 Nov 2026 18:38:51 GMT</pubDate>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
 <item>
 <title>I received these beautiful gifts for my birthday yesterday. I couldn&#39;t be happier!</title>
 <link>https://www.reddit.com/r/wii/comments/1xsfiic/i_received_these_beautiful_gifts_for_my_birthday/</link>
@@ -119,15 +127,6 @@
 <guid isPermaLink="false">1c9799c1b985</guid>
 <pubDate>Sun, 08 Nov 2026 12:44:33 GMT</pubDate>
 <description>Hi All, I&#39;m selling my old Wii drums set up. Maybe someone will be interested in. I&#39;m trying to save money for Stage Tour drums. We can negotiate the final price. Cheers! https://ebay.io/m/iwluxp — What do you think…</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>[WIP] Loco Roco Wii preview</title>
-<link>https://www.reddit.com/r/wii/comments/1xqv37s/wip_loco_roco_wii_preview/</link>
-<guid isPermaLink="false">46ae0db7fb93</guid>
-<pubDate>Sun, 08 Nov 2026 10:07:29 GMT</pubDate>
-<description>Experimental homebrew port of Loco Roco PSP. It’s still a work in progress, Currently features a preview of the first level. Game assets are generated locally using a converter from your own PSP copy of LocoRoco. The…</description>
 <source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
 <category>scene</category>
 </item>

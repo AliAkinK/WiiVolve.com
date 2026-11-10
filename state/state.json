@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "64b216294facce5f0e0b7d679ed0ec0e73f45e219f14d41e8dc5b63c04af1e19",
+  "signature": "ff913ead8afca633c06fb36c76d2655b6a22f9b5dfa412c849a1d5c05c1ad345",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-10T09:44:52Z",
+  "lastWrite": "2026-11-10T23:16:20Z",
   "seen": {
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -80,6 +80,7 @@
     "7ca7f4366a15": "2025-03-10T08:31:57Z",
     "80db11f61c48": "2024-11-05T08:00:00Z",
     "82a6975da88b": "2023-05-21T07:27:22Z",
+    "8567dcd71a89": "2026-11-10T23:16:20Z",
     "856cb81f6dc2": "2008-07-17T07:00:00Z",
     "8744a64a1e79": "2017-10-16T20:21:07Z",
     "877d7331e801": "2026-11-08T02:26:39Z",
@@ -150,8 +151,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T09:44:52Z",
-      "lastAttempt": "2026-11-10T09:44:52Z",
+      "lastOk": "2026-11-10T23:16:20Z",
+      "lastAttempt": "2026-11-10T23:16:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -159,19 +160,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Tue, 10 Nov 2026 04:07:00 -0000",
-      "lastOk": "2026-11-10T09:44:52Z",
-      "lastAttempt": "2026-11-10T09:44:52Z",
+      "lastModified": "Tue, 10 Nov 2026 23:10:00 -0000",
+      "lastOk": "2026-11-10T23:16:20Z",
+      "lastAttempt": "2026-11-10T23:16:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"2d32a308795ad2ba371c703861c855fc\"",
-      "lastModified": "Tue, 10 Nov 2026 04:26:16 GMT",
-      "lastOk": "2026-11-10T09:44:52Z",
-      "lastAttempt": "2026-11-10T09:44:52Z",
+      "etag": "W/\"515b1492fe96bbd086a7abdd97641cea\"",
+      "lastModified": "Tue, 10 Nov 2026 20:56:07 GMT",
+      "lastOk": "2026-11-10T23:16:20Z",
+      "lastAttempt": "2026-11-10T23:16:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -180,8 +181,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T09:44:52Z",
-      "lastAttempt": "2026-11-10T09:44:52Z",
+      "lastOk": "2026-11-10T23:16:20Z",
+      "lastAttempt": "2026-11-10T23:16:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -190,8 +191,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T09:44:52Z",
-      "lastAttempt": "2026-11-10T09:44:52Z",
+      "lastOk": "2026-11-10T23:16:20Z",
+      "lastAttempt": "2026-11-10T23:16:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -710,10 +711,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"f8923f2b380c719be8b6a1298980e7b8\"",
-      "lastModified": "Tue, 10 Nov 2026 05:43:21 GMT",
-      "lastOk": "2026-11-10T09:44:52Z",
-      "lastAttempt": "2026-11-10T09:44:52Z",
+      "etag": "W/\"d93d78d250bb11ea54bce31ae8a4cf1e\"",
+      "lastModified": "Tue, 10 Nov 2026 13:33:54 GMT",
+      "lastOk": "2026-11-10T23:16:20Z",
+      "lastAttempt": "2026-11-10T23:16:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -811,8 +812,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-10T09:44:52Z",
-      "lastAttempt": "2026-11-10T09:44:52Z",
+      "lastOk": "2026-11-10T23:16:20Z",
+      "lastAttempt": "2026-11-10T23:16:20Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1062,12 +1063,24 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T09:44:52Z",
-      "lastAttempt": "2026-11-10T09:44:52Z",
+      "lastOk": "2026-11-10T23:16:20Z",
+      "lastAttempt": "2026-11-10T23:16:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "8567dcd71a89",
+          "title": "Half Life Wii: Nueva Update",
+          "url": "https://www.reddit.com/r/wii/comments/1xsuvzj/half_life_wii_nueva_update/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-10T18:38:51Z",
+          "firstSeen": "2026-11-10T23:16:20Z",
+          "excerpt": "",
+          "matched": []
+        },
         {
           "id": "a9018eb5ebee",
           "title": "I received these beautiful gifts for my birthday yesterday. I couldn't be happier!",
@@ -1321,18 +1334,6 @@
           "matched": []
         },
         {
-          "id": "d1a70aa936b0",
-          "title": "Is there a Wii game case that doesn't have this tab? (see below)",
-          "url": "https://www.reddit.com/r/wii/comments/1xo2ec0/is_there_a_wii_game_case_that_doesnt_have_this/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-04T22:47:07Z",
-          "firstSeen": "2026-11-04T23:23:40Z",
-          "excerpt": "I’ve noticed that it damages the edges of the manuals—it’s really annoying. I’m looking for something with a design similar to the cases used for PS3, PS4, or PS5 games?…",
-          "matched": []
-        },
-        {
           "id": "6ab5c217cb95",
           "title": "Grand Theft Wuhu - GTA on Wuhu Island",
           "url": "https://www.reddit.com/r/wii/comments/1xnzxia/grand_theft_wuhu_gta_on_wuhu_island/",
@@ -1361,8 +1362,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T09:44:52Z",
-      "lastAttempt": "2026-11-10T09:44:52Z",
+      "lastOk": "2026-11-10T23:16:20Z",
+      "lastAttempt": "2026-11-10T23:16:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
