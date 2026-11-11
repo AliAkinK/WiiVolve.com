@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T02:50:02Z",
+  "generatedAt": "2026-11-11T10:51:43Z",
   "items": [
+    {
+      "id": "379f962ee7b0",
+      "title": "GreatScott Gives Classic Wii Remote a New Life as AI Smart Home Controller",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oZnBWWUUybDUwSWxfaGFkcVZkTGdVS2hFWmxlOWNsNzI2UXV4ZDg0YURqT2l0TFkxNy1reXVVRUVnWEtqUjNWTmViTDlLMnpNaFRCZ281d01Lc192OXNDbmRNVVlZTWlpcnoxWnQ1NA?oc=5",
+      "source": "TechEBlog -",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-11T05:45:07Z",
+      "firstSeen": "2026-11-11T10:51:43Z",
+      "excerpt": "",
+      "matched": [
+        "Wii Remote"
+      ]
+    },
     {
       "id": "fd7ffcaebce4",
       "title": "Found a fun old picture :)",
@@ -408,21 +423,6 @@
       ]
     },
     {
-      "id": "de16ade6e837",
-      "title": "Why Is Buying An Old Nintendo Wii So Much Cheaper Than A GameCube?",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXV5MkxyMERBN202ckxHTGpucm5iVU0yQ01nemRsWm56ZmtfRUZvNG8wQUdDal9hczFiYTRieUNlaXdBaEhUTWZmRURxUXJSSEhaLVpQck50OHFjMlRkcUgwbW9uWXduclhQVVRmN0Q0RzQ?oc=5",
-      "source": "BGR",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-07-10T07:00:00Z",
-      "firstSeen": "2026-07-10T07:00:00Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
       "id": "ac936a45a54c",
       "title": "Dolphin Progress Report: Release 2606",
       "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
@@ -474,10 +474,10 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-28T02:50:02Z",
+    "windowStart": "2026-10-28T10:51:43Z",
     "completeSince": {
       "all": "2026-11-08T19:59:41Z",
-      "press": "2026-10-28T02:50:02Z",
+      "press": "2026-10-28T10:51:43Z",
       "scene": "2026-11-08T19:59:41Z"
     }
   }
