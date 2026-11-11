@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T23:16:20Z",
+  "generatedAt": "2026-11-11T02:50:02Z",
   "items": [
+    {
+      "id": "fd7ffcaebce4",
+      "title": "Found a fun old picture :)",
+      "url": "https://www.reddit.com/r/wii/comments/1xt3k6k/found_a_fun_old_picture/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-11T00:31:00Z",
+      "firstSeen": "2026-11-11T02:50:02Z",
+      "excerpt": "Me in 2009 opening my brand new wii on christmas — https://preview.redd.it/7sa4qtaoov0i1.png?width=401&format=png&auto=webp&s=f30e237a00b88003d9212d0b7784292306353cc2",
+      "matched": []
+    },
+    {
+      "id": "01209c4669af",
+      "title": "Is there a NES & SNES emulator with functionality like Genesis Plus GX?",
+      "url": "https://www.reddit.com/r/wii/comments/1xt375p/is_there_a_nes_snes_emulator_with_functionality/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-11T00:14:47Z",
+      "firstSeen": "2026-11-11T02:50:02Z",
+      "excerpt": "Genesis Plus GX has load recent and load from SD or USB option. The NES & SNES emulators don't seem to have that. Any other NES & SNES emulators I should try?",
+      "matched": []
+    },
     {
       "id": "8567dcd71a89",
       "title": "Half Life Wii: Nueva Update",
@@ -144,30 +168,6 @@
       "published": "2026-11-08T22:08:10Z",
       "firstSeen": "2026-11-09T00:51:52Z",
       "excerpt": "I'm also wondering is the gamepad is necessary or not as I said it's been a a LONG time since l've played so I don't know what to do. I plan to get a remote but I just don't know if the gamepad necessarily. While it's…",
-      "matched": []
-    },
-    {
-      "id": "c2eb372083c5",
-      "title": "To celebrate the Wii’s upcoming 20th anniversary on November 19th I decided to draw a small sketch, I’ll give you an update on when I’m done coloring it in",
-      "url": "https://www.reddit.com/r/wii/comments/1xr7k7a/to_celebrate_the_wiis_upcoming_20th_anniversary/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-08T19:59:41Z",
-      "firstSeen": "2026-11-08T21:08:08Z",
-      "excerpt": "",
-      "matched": []
-    },
-    {
-      "id": "1c9799c1b985",
-      "title": "Selling Wii Drums Harmonix",
-      "url": "https://www.reddit.com/r/wii/comments/1xqxlgk/selling_wii_drums_harmonix/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-08T12:44:33Z",
-      "firstSeen": "2026-11-08T16:41:19Z",
-      "excerpt": "Hi All, I'm selling my old Wii drums set up. Maybe someone will be interested in. I'm trying to save money for Stage Tour drums. We can negotiate the final price. Cheers! https://ebay.io/m/iwluxp — What do you think…",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-27T23:16:20Z",
+    "windowStart": "2026-10-28T02:50:02Z",
     "completeSince": {
-      "all": "2026-11-08T10:07:29Z",
-      "press": "2026-10-27T23:16:20Z",
-      "scene": "2026-11-08T10:07:29Z"
+      "all": "2026-11-08T19:59:41Z",
+      "press": "2026-10-28T02:50:02Z",
+      "scene": "2026-11-08T19:59:41Z"
     }
   }
 }

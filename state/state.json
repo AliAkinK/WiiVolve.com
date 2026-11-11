@@ -1,9 +1,10 @@
 {
   "version": 1,
-  "signature": "ff913ead8afca633c06fb36c76d2655b6a22f9b5dfa412c849a1d5c05c1ad345",
+  "signature": "2f32c996e4ff26c1f7bb7c293a2b90412f3cc899b7f5cd39d30a2347b66facf4",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-10T23:16:20Z",
+  "lastWrite": "2026-11-11T02:50:02Z",
   "seen": {
+    "01209c4669af": "2026-11-11T02:50:02Z",
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
     "0313915f64ad": "2026-11-10T02:04:23Z",
@@ -145,14 +146,15 @@
     "f9f8bf7284d3": "2020-11-19T08:00:00Z",
     "fa73389bb2f7": "2026-11-02T14:57:02Z",
     "fb344aa21b7e": "2026-10-29T12:32:03Z",
+    "fd7ffcaebce4": "2026-11-11T02:50:02Z",
     "fdd03e608492": "2026-10-26T19:24:05Z"
   },
   "sources": {
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T23:16:20Z",
-      "lastAttempt": "2026-11-10T23:16:20Z",
+      "lastOk": "2026-11-11T02:50:02Z",
+      "lastAttempt": "2026-11-11T02:50:02Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -160,19 +162,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Tue, 10 Nov 2026 23:10:00 -0000",
-      "lastOk": "2026-11-10T23:16:20Z",
-      "lastAttempt": "2026-11-10T23:16:20Z",
+      "lastModified": "Wed, 11 Nov 2026 01:47:00 -0000",
+      "lastOk": "2026-11-11T02:50:02Z",
+      "lastAttempt": "2026-11-11T02:50:02Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"515b1492fe96bbd086a7abdd97641cea\"",
-      "lastModified": "Tue, 10 Nov 2026 20:56:07 GMT",
-      "lastOk": "2026-11-10T23:16:20Z",
-      "lastAttempt": "2026-11-10T23:16:20Z",
+      "etag": "W/\"967eb1aab02c3d94f7075cd35aa3d429\"",
+      "lastModified": "Wed, 11 Nov 2026 01:27:59 GMT",
+      "lastOk": "2026-11-11T02:50:02Z",
+      "lastAttempt": "2026-11-11T02:50:02Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -181,8 +183,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T23:16:20Z",
-      "lastAttempt": "2026-11-10T23:16:20Z",
+      "lastOk": "2026-11-11T02:50:02Z",
+      "lastAttempt": "2026-11-11T02:50:02Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -191,8 +193,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T23:16:20Z",
-      "lastAttempt": "2026-11-10T23:16:20Z",
+      "lastOk": "2026-11-11T02:50:02Z",
+      "lastAttempt": "2026-11-11T02:50:02Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -711,10 +713,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"d93d78d250bb11ea54bce31ae8a4cf1e\"",
-      "lastModified": "Tue, 10 Nov 2026 13:33:54 GMT",
-      "lastOk": "2026-11-10T23:16:20Z",
-      "lastAttempt": "2026-11-10T23:16:20Z",
+      "etag": "W/\"82042e7ddfb4acf635303284968eabb7\"",
+      "lastModified": "Wed, 11 Nov 2026 00:45:58 GMT",
+      "lastOk": "2026-11-11T02:50:02Z",
+      "lastAttempt": "2026-11-11T02:50:02Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -812,8 +814,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-10T23:16:20Z",
-      "lastAttempt": "2026-11-10T23:16:20Z",
+      "lastOk": "2026-11-11T02:50:02Z",
+      "lastAttempt": "2026-11-11T02:50:02Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1063,12 +1065,36 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T23:16:20Z",
-      "lastAttempt": "2026-11-10T23:16:20Z",
+      "lastOk": "2026-11-11T02:50:02Z",
+      "lastAttempt": "2026-11-11T02:50:02Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "fd7ffcaebce4",
+          "title": "Found a fun old picture :)",
+          "url": "https://www.reddit.com/r/wii/comments/1xt3k6k/found_a_fun_old_picture/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-11T00:31:00Z",
+          "firstSeen": "2026-11-11T02:50:02Z",
+          "excerpt": "Me in 2009 opening my brand new wii on christmas — https://preview.redd.it/7sa4qtaoov0i1.png?width=401&format=png&auto=webp&s=f30e237a00b88003d9212d0b7784292306353cc2",
+          "matched": []
+        },
+        {
+          "id": "01209c4669af",
+          "title": "Is there a NES & SNES emulator with functionality like Genesis Plus GX?",
+          "url": "https://www.reddit.com/r/wii/comments/1xt375p/is_there_a_nes_snes_emulator_with_functionality/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-11T00:14:47Z",
+          "firstSeen": "2026-11-11T02:50:02Z",
+          "excerpt": "Genesis Plus GX has load recent and load from SD or USB option. The NES & SNES emulators don't seem to have that. Any other NES & SNES emulators I should try?",
+          "matched": []
+        },
         {
           "id": "8567dcd71a89",
           "title": "Half Life Wii: Nueva Update",
@@ -1322,18 +1348,6 @@
           "matched": []
         },
         {
-          "id": "0e31de6bc41d",
-          "title": "Legit WiiWare Wii with Pokémon Rumble?",
-          "url": "https://www.reddit.com/r/wii/comments/1xoduef/legit_wiiware_wii_with_pok%C3%A9mon_rumble/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-05T08:53:15Z",
-          "firstSeen": "2026-11-05T10:50:04Z",
-          "excerpt": "Is there anyone interested in selling their Wii with Pokémon Rumble legally installed (if such a thing even exists anymore)?",
-          "matched": []
-        },
-        {
           "id": "6ab5c217cb95",
           "title": "Grand Theft Wuhu - GTA on Wuhu Island",
           "url": "https://www.reddit.com/r/wii/comments/1xnzxia/grand_theft_wuhu_gta_on_wuhu_island/",
@@ -1344,26 +1358,14 @@
           "firstSeen": "2026-11-04T23:23:40Z",
           "excerpt": "Yes, AI was used to help make this game — No, I have no clue why I made this — https://theagencymge.github.io/grand-theft-wuhu-play/",
           "matched": []
-        },
-        {
-          "id": "ae265a8b8b61",
-          "title": "I beat Lucía in wii sports resort",
-          "url": "https://www.reddit.com/r/wii/comments/1xnqixk/i_beat_luc%C3%ADa_in_wii_sports_resort/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-04T15:06:02Z",
-          "firstSeen": "2026-11-04T17:22:25Z",
-          "excerpt": "I got to 1400 skill rating in about 40 mins on my wii u after not playing for 2-3 years, and last night unlocked ability to play Lucía and played for an hour and a half and beat her in half an hour this morning…",
-          "matched": []
         }
       ]
     },
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-10T23:16:20Z",
-      "lastAttempt": "2026-11-10T23:16:20Z",
+      "lastOk": "2026-11-11T02:50:02Z",
+      "lastAttempt": "2026-11-11T02:50:02Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
