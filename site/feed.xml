@@ -5,7 +5,7 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 18:17:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:41:04 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
@@ -95,6 +95,15 @@
 <category>scene</category>
 </item>
 <item>
+<title>Wired Ethernet for Wii homebrew with a $15 USB adapter IOS can&#39;t run – open-source driver (libwiieth)</title>
+<link>https://www.reddit.com/r/WiiHacks/comments/1xtsprr/wired_ethernet_for_wii_homebrew_with_a_15_usb/</link>
+<guid isPermaLink="false">c4d763faa6bf</guid>
+<pubDate>Wed, 11 Nov 2026 20:28:33 GMT</pubDate>
+<description>The Wii&#39;s own network stack only works with a few USB LAN adapters. Plug in anything else and net_init fails and the link light never comes on. I wrote a driver that skips IOS&#39;s networking and runs the adapter…</description>
+<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
+<category>scene</category>
+</item>
+<item>
 <title>The Wii and PS3 Both Turn 20 This Month, and Each Won a Different Race</title>
 <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Kejl4V2dROW5vS24tRFh5dzJnSXZiZWRkU1JfaWw5OUJPRURvaWM2NEd2bFJZVGdvRXI5LU9tSHhQNHc1QldmZGlua1RSQzJXak9wZmZxNmh4Y0Q1czBKQQ?oc=5</link>
 <guid isPermaLink="false">6c29995aae56</guid>
@@ -103,11 +112,29 @@
 <category>press</category>
 </item>
 <item>
+<title>Is there any way to hide the homebrew channel?</title>
+<link>https://www.reddit.com/r/WiiHacks/comments/1xtnk5q/is_there_any_way_to_hide_the_homebrew_channel/</link>
+<guid isPermaLink="false">6845a1ed1876</guid>
+<pubDate>Wed, 11 Nov 2026 17:16:31 GMT</pubDate>
+<description>So I&#39;m hacking a Wii for a buddy to use while he&#39;s in the slammer lol — I&#39;m gonna put a bunch of games on it for him, but I guess they are pretty anal about any apps on it that aren&#39;t games, so. Anyway to hide them?…</description>
+<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
+<category>scene</category>
+</item>
+<item>
 <title>New to Wii modding</title>
 <link>https://www.reddit.com/r/WiiHacks/comments/1xtm8ad/new_to_wii_modding/</link>
 <guid isPermaLink="false">5db4ffa8faf7</guid>
 <pubDate>Wed, 11 Nov 2026 16:28:22 GMT</pubDate>
 <description>Hello community, i’ve had my Wii since the dawn of time and now i’m interested in modding it. I’ve done some research, and i’ve purchased a 32gb microSD card. I didn’t have a usb drive around the house but i found this…</description>
+<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
+<category>scene</category>
+</item>
+<item>
+<title>Nintendo Wii 3rd-party wireless controller support🙏🙏</title>
+<link>https://www.reddit.com/r/WiiHacks/comments/1xtlola/nintendo_wii_3rdparty_wireless_controller_support/</link>
+<guid isPermaLink="false">329b3177e34a</guid>
+<pubDate>Wed, 11 Nov 2026 16:07:46 GMT</pubDate>
+<description>So I recently modded my Wii with Homebrew and wanted to play some GameCube and N64 games, but obviously I&#39;ll need an actual controller instead of my usual Wii Remote + Nunchuck. I can&#39;t use wired controllers, and…</description>
 <source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
 <category>scene</category>
 </item>
@@ -253,32 +280,6 @@
 <guid isPermaLink="false">a0c0e3ff6c3f</guid>
 <pubDate>Sat, 31 Oct 2026 22:47:07 GMT</pubDate>
 <description>I&#39;ve written a little article about AM2R GX, a new native Nintendo Wii port of Another Metroid 2 Remake, developed by cmyksoda. I just love that we&#39;re approaching the Wii&#39;s twentieth birthday and people are still…</description>
-<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
-<category>scene</category>
-</item>
-<item>
-<title>CWebView - A Web-Based Homebrew Development Method (Web Browser)</title>
-<link>https://www.reddit.com/r/WiiHacks/comments/1xkmo3q/cwebview_a_webbased_homebrew_development_method/</link>
-<guid isPermaLink="false">3652089356b4</guid>
-<pubDate>Sat, 31 Oct 2026 22:04:30 GMT</pubDate>
-<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
-<category>scene</category>
-</item>
-<item>
-<title>Usb loader gx 4.0 &amp; forwarder stock safety boot image</title>
-<link>https://www.reddit.com/r/WiiHacks/comments/1xkbbwt/usb_loader_gx_40_forwarder_stock_safety_boot_image/</link>
-<guid isPermaLink="false">d45cb87b4ee9</guid>
-<pubDate>Sat, 31 Oct 2026 14:15:03 GMT</pubDate>
-<description>Greetings. I’ve been using new artificial intelligence tools, such as &quot;Claude&quot; or &quot;Codex,&quot; to modify boot images. The image shown is the stock Nintendo health and safety screen; my goal is for the result to look as…</description>
-<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
-<category>scene</category>
-</item>
-<item>
-<title>I got a perfect game in Wii Play Tanks! (read description)</title>
-<link>https://www.reddit.com/r/WiiHacks/comments/1xk2nch/i_got_a_perfect_game_in_wii_play_tanks_read/</link>
-<guid isPermaLink="false">3413f05d8fa0</guid>
-<pubDate>Sat, 31 Oct 2026 06:10:29 GMT</pubDate>
-<description>A little over a year ago, I got a perfect game in Wii Play Tanks (no lives lost while beating all 100 missions), and I posted it to YouTube as my first video 😁 — I became the sixth person ever to have a verified…</description>
 <source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
 <category>scene</category>
 </item>

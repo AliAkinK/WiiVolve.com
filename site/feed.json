@@ -159,6 +159,21 @@
       ]
     },
     {
+      "id": "c4d763faa6bf",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xtsprr/wired_ethernet_for_wii_homebrew_with_a_15_usb/",
+      "title": "Wired Ethernet for Wii homebrew with a $15 USB adapter IOS can't run – open-source driver (libwiieth)",
+      "content_text": "The Wii's own network stack only works with a few USB LAN adapters. Plug in anything else and net_init fails and the link light never comes on. I wrote a driver that skips IOS's networking and runs the adapter…",
+      "date_published": "2026-11-11T20:28:33Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "6c29995aae56",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Kejl4V2dROW5vS24tRFh5dzJnSXZiZWRkU1JfaWw5OUJPRURvaWM2NEd2bFJZVGdvRXI5LU9tSHhQNHc1QldmZGlua1RSQzJXak9wZmZxNmh4Y0Q1czBKQQ?oc=5",
       "title": "The Wii and PS3 Both Turn 20 This Month, and Each Won a Different Race",
@@ -174,11 +189,41 @@
       ]
     },
     {
+      "id": "6845a1ed1876",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xtnk5q/is_there_any_way_to_hide_the_homebrew_channel/",
+      "title": "Is there any way to hide the homebrew channel?",
+      "content_text": "So I'm hacking a Wii for a buddy to use while he's in the slammer lol — I'm gonna put a bunch of games on it for him, but I guess they are pretty anal about any apps on it that aren't games, so. Anyway to hide them?…",
+      "date_published": "2026-11-11T17:16:31Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "5db4ffa8faf7",
       "url": "https://www.reddit.com/r/WiiHacks/comments/1xtm8ad/new_to_wii_modding/",
       "title": "New to Wii modding",
       "content_text": "Hello community, i’ve had my Wii since the dawn of time and now i’m interested in modding it. I’ve done some research, and i’ve purchased a 32gb microSD card. I didn’t have a usb drive around the house but i found this…",
       "date_published": "2026-11-11T16:28:22Z",
+      "authors": [
+        {
+          "name": "r/WiiHacks"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "329b3177e34a",
+      "url": "https://www.reddit.com/r/WiiHacks/comments/1xtlola/nintendo_wii_3rdparty_wireless_controller_support/",
+      "title": "Nintendo Wii 3rd-party wireless controller support🙏🙏",
+      "content_text": "So I recently modded my Wii with Homebrew and wanted to play some GameCube and N64 games, but obviously I'll need an actual controller instead of my usual Wii Remote + Nunchuck. I can't use wired controllers, and…",
+      "date_published": "2026-11-11T16:07:46Z",
       "authors": [
         {
           "name": "r/WiiHacks"
@@ -434,51 +479,6 @@
       "title": "Another Metroid 2 Remake Has Made Its Way to the Nintendo Wii",
       "content_text": "I've written a little article about AM2R GX, a new native Nintendo Wii port of Another Metroid 2 Remake, developed by cmyksoda. I just love that we're approaching the Wii's twentieth birthday and people are still…",
       "date_published": "2026-10-31T22:47:07Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "3652089356b4",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xkmo3q/cwebview_a_webbased_homebrew_development_method/",
-      "title": "CWebView - A Web-Based Homebrew Development Method (Web Browser)",
-      "content_text": "CWebView - A Web-Based Homebrew Development Method (Web Browser)",
-      "date_published": "2026-10-31T22:04:30Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "d45cb87b4ee9",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xkbbwt/usb_loader_gx_40_forwarder_stock_safety_boot_image/",
-      "title": "Usb loader gx 4.0 & forwarder stock safety boot image",
-      "content_text": "Greetings. I’ve been using new artificial intelligence tools, such as \"Claude\" or \"Codex,\" to modify boot images. The image shown is the stock Nintendo health and safety screen; my goal is for the result to look as…",
-      "date_published": "2026-10-31T14:15:03Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "3413f05d8fa0",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xk2nch/i_got_a_perfect_game_in_wii_play_tanks_read/",
-      "title": "I got a perfect game in Wii Play Tanks! (read description)",
-      "content_text": "A little over a year ago, I got a perfect game in Wii Play Tanks (no lives lost while beating all 100 missions), and I posted it to YouTube as my first video 😁 — I became the sixth person ever to have a verified…",
-      "date_published": "2026-10-31T06:10:29Z",
       "authors": [
         {
           "name": "r/WiiHacks"

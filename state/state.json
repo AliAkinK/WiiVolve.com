@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "89573bc0e17e63807921e0a273b8a01c523a9c3ddcf39f8e4d4f7cabb6ea702a",
+  "signature": "d4b3a54125cda16a9d6ac110c33c1edfac1c6282d5130778e66be13bd6095249",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-12T18:17:17Z",
+  "lastWrite": "2026-11-12T23:41:04Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "019143d0295e": "2026-11-04T17:22:25Z",
@@ -28,6 +28,7 @@
     "30f38c38ed8e": "2026-11-07T22:42:52Z",
     "3195ae4b1ddb": "2026-11-02T05:05:03Z",
     "3278e67fa31f": "2026-11-04T17:22:25Z",
+    "329b3177e34a": "2026-11-12T23:41:04Z",
     "3413f05d8fa0": "2026-10-31T06:10:29Z",
     "35b72a7c352a": "2026-11-09T07:56:44Z",
     "3652089356b4": "2026-10-31T22:04:30Z",
@@ -68,12 +69,14 @@
     "5d0e562a27e1": "2009-11-28T08:00:00Z",
     "5db4ffa8faf7": "2026-11-12T01:31:35Z",
     "5ea678c6b8c0": "2026-11-02T08:25:08Z",
+    "5fd7749b6f4e": "2016-03-22T07:00:00Z",
     "5feeed740b67": "2023-07-10T07:00:00Z",
     "607ee5d86c15": "2026-11-02T13:22:57Z",
     "6192b84301f1": "2024-07-15T20:54:59Z",
     "61dc30e4d790": "2026-11-12T01:31:35Z",
     "620060c0666c": "2026-11-12T01:31:35Z",
     "67f8d841da4f": "2026-10-27T03:24:20Z",
+    "6845a1ed1876": "2026-11-12T23:41:04Z",
     "68973704707b": "2026-11-12T01:31:35Z",
     "6937c8d0dd8a": "2026-11-02T00:53:19Z",
     "6ab5c217cb95": "2026-11-04T23:23:40Z",
@@ -123,6 +126,7 @@
     "bb646e9fd9b0": "2026-10-24T14:06:09Z",
     "bd8654811e08": "2026-11-01T18:54:02Z",
     "c2eb372083c5": "2026-11-08T21:08:08Z",
+    "c4d763faa6bf": "2026-11-12T23:41:04Z",
     "c515348091a6": "2026-11-01T21:08:05Z",
     "c534ee37d865": "2023-05-26T23:19:02Z",
     "c64dde292934": "2026-10-30T04:07:07Z",
@@ -165,8 +169,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T18:17:17Z",
-      "lastAttempt": "2026-11-12T18:17:17Z",
+      "lastOk": "2026-11-12T23:41:04Z",
+      "lastAttempt": "2026-11-12T23:41:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -174,19 +178,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Thu, 12 Nov 2026 18:13:00 -0000",
-      "lastOk": "2026-11-12T18:17:17Z",
-      "lastAttempt": "2026-11-12T18:17:17Z",
+      "lastModified": "Thu, 12 Nov 2026 22:20:00 -0000",
+      "lastOk": "2026-11-12T23:41:04Z",
+      "lastAttempt": "2026-11-12T23:41:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"823c790dacb1ae811e0f7a920619b1a7\"",
-      "lastModified": "Thu, 12 Nov 2026 17:44:18 GMT",
-      "lastOk": "2026-11-12T18:17:17Z",
-      "lastAttempt": "2026-11-12T18:17:17Z",
+      "etag": "W/\"a9c09ddaba105cb64b3f0a7d540ec20a\"",
+      "lastModified": "Thu, 12 Nov 2026 22:22:02 GMT",
+      "lastOk": "2026-11-12T23:41:04Z",
+      "lastAttempt": "2026-11-12T23:41:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -195,8 +199,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T18:17:17Z",
-      "lastAttempt": "2026-11-12T18:17:17Z",
+      "lastOk": "2026-11-12T23:41:04Z",
+      "lastAttempt": "2026-11-12T23:41:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -221,8 +225,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T18:17:17Z",
-      "lastAttempt": "2026-11-12T18:17:17Z",
+      "lastOk": "2026-11-12T23:41:04Z",
+      "lastAttempt": "2026-11-12T23:41:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -558,6 +562,21 @@
           ]
         },
         {
+          "id": "5fd7749b6f4e",
+          "title": "Every Single Nintendo Wii Mashup I Could Find, From Worst to Best",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeThKclhqMmpsQU9DQ0Zha0JjaVFlWUtEQnRUYjRQeElkQzZzSEYtUXVTSXl2Y0FQSkFIWElWemRnZTg1aVBvcHNRRmF4aElCeWwzWW9HN2hLNWl0TW1mSkhKd25jcGZUbjJpbW41V3V6dTBVUEVEbERGMkx3a2ZuUnBqQnBDdm8zQk9BRVFobw?oc=5",
+          "source": "Gizmodo",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2016-03-22T07:00:00Z",
+          "firstSeen": "2016-03-22T07:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "26437f139790",
           "title": "Nintendo Wii price drop ahead of Wii U launch",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclM4TUdnN0ZlQXMyeWdoa2JiQkNJLXVxLW83RGJhdUMwNW1ONFRobzZwYXhCMlFzbjRFdHdLd2k2N1psNFpCUzJPZkJUa3ZESzV6anM5OGQ1YjFmelZOYjBUSTdrWW54QnRtYzAxQmIyUXlmLWZGUTN0TmotaVBxdQ?oc=5",
@@ -741,10 +760,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"52bf7fe91ccd0f40c4d62eec12b49ff5\"",
-      "lastModified": "Thu, 12 Nov 2026 18:16:40 GMT",
-      "lastOk": "2026-11-12T18:17:17Z",
-      "lastAttempt": "2026-11-12T18:17:17Z",
+      "etag": "W/\"0b7f631a7f1bb900803884cda383123f\"",
+      "lastModified": "Thu, 12 Nov 2026 20:44:13 GMT",
+      "lastOk": "2026-11-12T23:41:04Z",
+      "lastAttempt": "2026-11-12T23:41:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -842,8 +861,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-12T18:17:17Z",
-      "lastAttempt": "2026-11-12T18:17:17Z",
+      "lastOk": "2026-11-12T23:41:04Z",
+      "lastAttempt": "2026-11-12T23:41:04Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1093,8 +1112,8 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T18:17:17Z",
-      "lastAttempt": "2026-11-12T18:17:17Z",
+      "lastOk": "2026-11-12T23:41:04Z",
+      "lastAttempt": "2026-11-12T23:41:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1380,12 +1399,36 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T18:17:17Z",
-      "lastAttempt": "2026-11-12T18:17:17Z",
+      "lastOk": "2026-11-12T23:41:04Z",
+      "lastAttempt": "2026-11-12T23:41:04Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "c4d763faa6bf",
+          "title": "Wired Ethernet for Wii homebrew with a $15 USB adapter IOS can't run – open-source driver (libwiieth)",
+          "url": "https://www.reddit.com/r/WiiHacks/comments/1xtsprr/wired_ethernet_for_wii_homebrew_with_a_15_usb/",
+          "source": "r/WiiHacks",
+          "sourceId": "reddit-wiihacks",
+          "tab": "scene",
+          "published": "2026-11-11T20:28:33Z",
+          "firstSeen": "2026-11-12T23:41:04Z",
+          "excerpt": "The Wii's own network stack only works with a few USB LAN adapters. Plug in anything else and net_init fails and the link light never comes on. I wrote a driver that skips IOS's networking and runs the adapter…",
+          "matched": []
+        },
+        {
+          "id": "6845a1ed1876",
+          "title": "Is there any way to hide the homebrew channel?",
+          "url": "https://www.reddit.com/r/WiiHacks/comments/1xtnk5q/is_there_any_way_to_hide_the_homebrew_channel/",
+          "source": "r/WiiHacks",
+          "sourceId": "reddit-wiihacks",
+          "tab": "scene",
+          "published": "2026-11-11T17:16:31Z",
+          "firstSeen": "2026-11-12T23:41:04Z",
+          "excerpt": "So I'm hacking a Wii for a buddy to use while he's in the slammer lol — I'm gonna put a bunch of games on it for him, but I guess they are pretty anal about any apps on it that aren't games, so. Anyway to hide them?…",
+          "matched": []
+        },
         {
           "id": "5db4ffa8faf7",
           "title": "New to Wii modding",
@@ -1396,6 +1439,18 @@
           "published": "2026-11-11T16:28:22Z",
           "firstSeen": "2026-11-12T01:31:35Z",
           "excerpt": "Hello community, i’ve had my Wii since the dawn of time and now i’m interested in modding it. I’ve done some research, and i’ve purchased a 32gb microSD card. I didn’t have a usb drive around the house but i found this…",
+          "matched": []
+        },
+        {
+          "id": "329b3177e34a",
+          "title": "Nintendo Wii 3rd-party wireless controller support🙏🙏",
+          "url": "https://www.reddit.com/r/WiiHacks/comments/1xtlola/nintendo_wii_3rdparty_wireless_controller_support/",
+          "source": "r/WiiHacks",
+          "sourceId": "reddit-wiihacks",
+          "tab": "scene",
+          "published": "2026-11-11T16:07:46Z",
+          "firstSeen": "2026-11-12T23:41:04Z",
+          "excerpt": "So I recently modded my Wii with Homebrew and wanted to play some GameCube and N64 games, but obviously I'll need an actual controller instead of my usual Wii Remote + Nunchuck. I can't use wired controllers, and…",
           "matched": []
         },
         {
@@ -1623,42 +1678,6 @@
           "tab": "scene",
           "published": "2026-10-27T03:24:20Z",
           "firstSeen": "2026-10-27T03:24:20Z",
-          "excerpt": "",
-          "matched": []
-        },
-        {
-          "id": "ccdff246fc71",
-          "title": "Is there a mod that makes the cursor black?",
-          "url": "https://www.reddit.com/r/WiiHacks/comments/1xgc2ou/is_there_a_mod_that_makes_the_cursor_black/",
-          "source": "r/WiiHacks",
-          "sourceId": "reddit-wiihacks",
-          "tab": "scene",
-          "published": "2026-10-26T23:01:45Z",
-          "firstSeen": "2026-10-26T23:01:45Z",
-          "excerpt": "Hi, everyone. I own a black Wii and I was able to find a dark mode menu theme to match it, but I can't find any mods to make the cursor match too. where can I find one? I don't know how to make it myself, so any advice…",
-          "matched": []
-        },
-        {
-          "id": "fdd03e608492",
-          "title": "What controller do you guys like to use?",
-          "url": "https://www.reddit.com/r/WiiHacks/comments/1xg6i9t/what_controller_do_you_guys_like_to_use/",
-          "source": "r/WiiHacks",
-          "sourceId": "reddit-wiihacks",
-          "tab": "scene",
-          "published": "2026-10-26T19:24:05Z",
-          "firstSeen": "2026-10-26T19:24:05Z",
-          "excerpt": "Batteries are such a pain, and the wii controller drains them even when its off, so you have to remove them, and its kind of a mess, Thank god I have a wii that can use gamecube controllers, but boy I do not like the…",
-          "matched": []
-        },
-        {
-          "id": "bb646e9fd9b0",
-          "title": "My unofficial OMORI port now runs on PSP, PS Vita, 3DS, Wii, PS3, PS2 and Xbox 360",
-          "url": "https://www.reddit.com/r/WiiHacks/comments/1xe9k8s/my_unofficial_omori_port_now_runs_on_psp_ps_vita/",
-          "source": "r/WiiHacks",
-          "sourceId": "reddit-wiihacks",
-          "tab": "scene",
-          "published": "2026-10-24T14:06:09Z",
-          "firstSeen": "2026-10-24T14:06:09Z",
           "excerpt": "",
           "matched": []
         }
