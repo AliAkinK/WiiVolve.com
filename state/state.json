@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "309293d3090b4e44822498cc72f81467846b2089529d5411676d3ec689b41e79",
+  "signature": "92766f15d9b2106296de3e811fd82590d0d39af8bdfe1eea5103d83f8c16b257",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-11T10:51:43Z",
+  "lastWrite": "2026-11-12T01:31:35Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "019143d0295e": "2026-11-04T17:22:25Z",
@@ -56,6 +56,7 @@
     "4edd75978dfb": "2026-10-29T12:45:52Z",
     "4f0a151a32b3": "2026-11-10T02:04:23Z",
     "4f0dff1e4517": "2026-11-04T17:22:25Z",
+    "500b2acd2d91": "2026-04-21T07:00:00Z",
     "503a2e2d8b96": "2026-11-04T17:22:25Z",
     "54d8aafa577b": "2026-11-09T07:56:44Z",
     "5579c2f30ee4": "2025-05-14T17:30:57Z",
@@ -63,13 +64,18 @@
     "57fec4247196": "2026-10-29T07:57:31Z",
     "5b9a4f30e349": "2026-09-24T04:36:38Z",
     "5d0e562a27e1": "2009-11-28T08:00:00Z",
+    "5db4ffa8faf7": "2026-11-12T01:31:35Z",
     "5ea678c6b8c0": "2026-11-02T08:25:08Z",
     "5feeed740b67": "2023-07-10T07:00:00Z",
     "607ee5d86c15": "2026-11-02T13:22:57Z",
     "6192b84301f1": "2024-07-15T20:54:59Z",
+    "61dc30e4d790": "2026-11-12T01:31:35Z",
+    "620060c0666c": "2026-11-12T01:31:35Z",
     "67f8d841da4f": "2026-10-27T03:24:20Z",
+    "68973704707b": "2026-11-12T01:31:35Z",
     "6937c8d0dd8a": "2026-11-02T00:53:19Z",
     "6ab5c217cb95": "2026-11-04T23:23:40Z",
+    "6c29995aae56": "2026-11-12T01:31:35Z",
     "6e722df9ac34": "2007-01-25T08:00:00Z",
     "6ecef8c0ea47": "2026-11-07T07:06:17Z",
     "706ce60a44f7": "2026-11-04T17:22:25Z",
@@ -109,6 +115,7 @@
     "b25ab4396885": "2026-11-04T17:22:25Z",
     "b27dbb75729b": "2026-11-06T06:37:45Z",
     "b38fd48928a6": "2024-04-30T07:21:16Z",
+    "b4555e9a812f": "2026-11-12T01:31:35Z",
     "bb646e9fd9b0": "2026-10-24T14:06:09Z",
     "bd8654811e08": "2026-11-01T18:54:02Z",
     "c2eb372083c5": "2026-11-08T21:08:08Z",
@@ -154,8 +161,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-11T10:51:43Z",
-      "lastAttempt": "2026-11-11T10:51:43Z",
+      "lastOk": "2026-11-12T01:31:35Z",
+      "lastAttempt": "2026-11-12T01:31:35Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -163,19 +170,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Wed, 11 Nov 2026 08:12:00 -0000",
-      "lastOk": "2026-11-11T10:51:43Z",
-      "lastAttempt": "2026-11-11T10:51:43Z",
+      "lastModified": "Thu, 12 Nov 2026 01:09:00 -0000",
+      "lastOk": "2026-11-12T01:31:35Z",
+      "lastAttempt": "2026-11-12T01:31:35Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"28ac99cea1cf0b81a7bab46b736117d6\"",
-      "lastModified": "Wed, 11 Nov 2026 09:24:09 GMT",
-      "lastOk": "2026-11-11T10:51:43Z",
-      "lastAttempt": "2026-11-11T10:51:43Z",
+      "etag": "W/\"843e25eb176051f546602d501b3d1764\"",
+      "lastModified": "Thu, 12 Nov 2026 01:04:49 GMT",
+      "lastOk": "2026-11-12T01:31:35Z",
+      "lastAttempt": "2026-11-12T01:31:35Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -184,8 +191,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-11T10:51:43Z",
-      "lastAttempt": "2026-11-11T10:51:43Z",
+      "lastOk": "2026-11-12T01:31:35Z",
+      "lastAttempt": "2026-11-12T01:31:35Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -194,12 +201,27 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-11T10:51:43Z",
-      "lastAttempt": "2026-11-11T10:51:43Z",
+      "lastOk": "2026-11-12T01:31:35Z",
+      "lastAttempt": "2026-11-12T01:31:35Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "6c29995aae56",
+          "title": "The Wii and PS3 Both Turn 20 This Month, and Each Won a Different Race",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Kejl4V2dROW5vS24tRFh5dzJnSXZiZWRkU1JfaWw5OUJPRURvaWM2NEd2bFJZVGdvRXI5LU9tSHhQNHc1QldmZGlua1RSQzJXak9wZmZxNmh4Y0Q1czBKQQ?oc=5",
+          "source": "Technobezz",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-11T18:47:42Z",
+          "firstSeen": "2026-11-12T01:31:35Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
         {
           "id": "379f962ee7b0",
           "title": "GreatScott Gives Classic Wii Remote a New Life as AI Smart Home Controller",
@@ -270,6 +292,21 @@
           "tab": "press",
           "published": "2026-06-02T07:00:00Z",
           "firstSeen": "2026-06-02T07:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "500b2acd2d91",
+          "title": "Nintendo Switch Users Have Thousands of Free Wii and GameCube Games Now",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblN0bVZWMlVORlJOc1FOTVlQR1ZLa3h0THU0cGU0UWVTRTJubE1xVnlPQm1BMzhoYS1pUDNLNmF4RnlBV0FfbzN6NVBDbXRYZTY5MWdxRFNrSkg4NkQxU09kNHVMandMWWI0NEFIeG5TaGtFX2ZDZDRycDRFRUMxd2Rac0I3U2IzTDN2MGtoblRLejR6R21LZklXeXAzSVJydGp0TFdCenFhLWVVQ2RhNU9PbkJIUVk?oc=5",
+          "source": "GAMINGbible",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-04-21T07:00:00Z",
+          "firstSeen": "2026-04-21T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -714,10 +751,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"dd5ab618600e827be552098f7393c4b4\"",
-      "lastModified": "Wed, 11 Nov 2026 04:51:34 GMT",
-      "lastOk": "2026-11-11T10:51:43Z",
-      "lastAttempt": "2026-11-11T10:51:43Z",
+      "etag": "W/\"486ff12a5ff2ab172579af4f7bec1094\"",
+      "lastModified": "Wed, 11 Nov 2026 18:19:23 GMT",
+      "lastOk": "2026-11-12T01:31:35Z",
+      "lastAttempt": "2026-11-12T01:31:35Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -815,8 +852,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-11T10:51:43Z",
-      "lastAttempt": "2026-11-11T10:51:43Z",
+      "lastOk": "2026-11-12T01:31:35Z",
+      "lastAttempt": "2026-11-12T01:31:35Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1066,12 +1103,60 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-11T10:51:43Z",
-      "lastAttempt": "2026-11-11T10:51:43Z",
+      "lastOk": "2026-11-12T01:31:35Z",
+      "lastAttempt": "2026-11-12T01:31:35Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "b4555e9a812f",
+          "title": "I made my phone look like the Wii menu",
+          "url": "https://www.reddit.com/r/wii/comments/1xtzmi7/i_made_my_phone_look_like_the_wii_menu/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-12T01:22:12Z",
+          "firstSeen": "2026-11-12T01:31:35Z",
+          "excerpt": "I know people have made others that are better than mine, but I’m happy with it. I’m trying to have less stress in my life, so I turned off all notifications and gave my apps different icons to remind me of simpler…",
+          "matched": []
+        },
+        {
+          "id": "68973704707b",
+          "title": "Just found out the Nvidia CEO cheated on his wife on my WII",
+          "url": "https://www.reddit.com/r/wii/comments/1xtzh3r/just_found_out_the_nvidia_ceo_cheated_on_his_wife/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-12T01:15:20Z",
+          "firstSeen": "2026-11-12T01:31:35Z",
+          "excerpt": "",
+          "matched": []
+        },
+        {
+          "id": "620060c0666c",
+          "title": "8BitDo Gamecube Reciever firmware v1.05 adds support for NSO Gamecube Controller",
+          "url": "https://www.reddit.com/r/wii/comments/1xtyfiy/8bitdo_gamecube_reciever_firmware_v105_adds/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-12T00:26:47Z",
+          "firstSeen": "2026-11-12T01:31:35Z",
+          "excerpt": "Finally! Something many folks have been waiting a very long time for. I'm happy to report that I just updated and it's working flawlessly, including rumble support. To pair the controller, simply press the pairing…",
+          "matched": []
+        },
+        {
+          "id": "61dc30e4d790",
+          "title": "The new Icy Tower came out yesterday. Now working on Wii",
+          "url": "https://www.reddit.com/r/wii/comments/1xtx0zf/the_new_icy_tower_came_out_yesterday_now_working/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-11T23:24:44Z",
+          "firstSeen": "2026-11-12T01:31:35Z",
+          "excerpt": "",
+          "matched": []
+        },
         {
           "id": "fd7ffcaebce4",
           "title": "Found a fun old picture :)",
@@ -1299,78 +1384,30 @@
           "firstSeen": "2026-11-07T07:06:17Z",
           "excerpt": "I bought a used Wii and then I realized it doesn't come with a stand, so I make one myself",
           "matched": []
-        },
-        {
-          "id": "6ecef8c0ea47",
-          "title": "What is this worth? I have always wanted wii as a ps2 gamer.",
-          "url": "https://www.reddit.com/r/wii/comments/1xpuijl/what_is_this_worth_i_have_always_wanted_wii_as_a/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-07T01:55:14Z",
-          "firstSeen": "2026-11-07T07:06:17Z",
-          "excerpt": "I've always wanted a Wii. I have spotted this one in a local thrift/opp shop. 100aud, should I go for it? I have a 480p tv at home for it. Can I mod it to run 480p?",
-          "matched": []
-        },
-        {
-          "id": "3cdf27e2776e",
-          "title": "help on this remote it keeps shaking erratically",
-          "url": "https://www.reddit.com/r/wii/comments/1xplgzi/help_on_this_remote_it_keeps_shaking_erratically/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-06T19:15:42Z",
-          "firstSeen": "2026-11-06T20:52:27Z",
-          "excerpt": "the pointer cursor hand on the wii works great but only on the mii channel and other types of apps (not games) make it verry shaky and erratic. yes i tested it during night without wny sory of interference and it still…",
-          "matched": []
-        },
-        {
-          "id": "2b78f3fce6bb",
-          "title": "Got a never opened rvl-001 wii and never opened wii fit and balance board what should I do with it.",
-          "url": "https://www.reddit.com/r/wii/comments/1xpghy8/got_a_never_opened_rvl001_wii_and_never_opened/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-06T16:03:51Z",
-          "firstSeen": "2026-11-06T20:52:27Z",
-          "excerpt": "I wanna know if i should: keep it and let it stay in box and sell it in a couple years — Open it, homebrew it, and enjoy it with my family. Try to sell it and buy a complete in box wii u I definitely have a lot of wii…",
-          "matched": []
-        },
-        {
-          "id": "f685411cfb62",
-          "title": "Fix-it Friday! Please ask and give help here for tech support and other common questions.",
-          "url": "https://www.reddit.com/r/wii/comments/1xp93yq/fixit_friday_please_ask_and_give_help_here_for/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-06T10:01:01Z",
-          "firstSeen": "2026-11-06T14:59:51Z",
-          "excerpt": "Need help figuring out what to do about your Wii console, game, accessory, or next purchase? This is the place to ask on r/Wii. Make a comment below and you will get a notification when others reply to your comment…",
-          "matched": []
-        },
-        {
-          "id": "6ab5c217cb95",
-          "title": "Grand Theft Wuhu - GTA on Wuhu Island",
-          "url": "https://www.reddit.com/r/wii/comments/1xnzxia/grand_theft_wuhu_gta_on_wuhu_island/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-04T21:06:34Z",
-          "firstSeen": "2026-11-04T23:23:40Z",
-          "excerpt": "Yes, AI was used to help make this game — No, I have no clue why I made this — https://theagencymge.github.io/grand-theft-wuhu-play/",
-          "matched": []
         }
       ]
     },
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-11T10:51:43Z",
-      "lastAttempt": "2026-11-11T10:51:43Z",
+      "lastOk": "2026-11-12T01:31:35Z",
+      "lastAttempt": "2026-11-12T01:31:35Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "5db4ffa8faf7",
+          "title": "New to Wii modding",
+          "url": "https://www.reddit.com/r/WiiHacks/comments/1xtm8ad/new_to_wii_modding/",
+          "source": "r/WiiHacks",
+          "sourceId": "reddit-wiihacks",
+          "tab": "scene",
+          "published": "2026-11-11T16:28:22Z",
+          "firstSeen": "2026-11-12T01:31:35Z",
+          "excerpt": "Hello community, i’ve had my Wii since the dawn of time and now i’m interested in modding it. I’ve done some research, and i’ve purchased a 32gb microSD card. I didn’t have a usb drive around the house but i found this…",
+          "matched": []
+        },
         {
           "id": "54d8aafa577b",
           "title": "I've been working on a native Celeste port for the Wii. Here's how it's going so far!",
@@ -1621,18 +1658,6 @@
           "published": "2026-10-26T19:24:05Z",
           "firstSeen": "2026-10-26T19:24:05Z",
           "excerpt": "Batteries are such a pain, and the wii controller drains them even when its off, so you have to remove them, and its kind of a mess, Thank god I have a wii that can use gamecube controllers, but boy I do not like the…",
-          "matched": []
-        },
-        {
-          "id": "4b3e2515bcb4",
-          "title": "Introducing: Another Pwn & The Haxx Bearers, 2 new Wii exploits!",
-          "url": "https://www.reddit.com/r/WiiHacks/comments/1xebvss/introducing_another_pwn_the_haxx_bearers_2_new/",
-          "source": "r/WiiHacks",
-          "sourceId": "reddit-wiihacks",
-          "tab": "scene",
-          "published": "2026-10-24T15:41:51Z",
-          "firstSeen": "2026-10-24T15:41:51Z",
-          "excerpt": "Hey guys, first things first: I'm doing this purely out of passion. I'm aware that there are easier Wii hacks (for now; yes this is a spoiler)! Where do I start? Over a year ago I started writing my own GameCube & Wii…",
           "matched": []
         },
         {
