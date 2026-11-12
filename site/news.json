@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T01:31:35Z",
+  "generatedAt": "2026-11-12T09:46:30Z",
   "items": [
+    {
+      "id": "4fdbe42adb7c",
+      "title": "Has anyone tried these? I have a Wii u pro controller I'd like to use on the Wii.",
+      "url": "https://www.reddit.com/r/wii/comments/1xu66l4/has_anyone_tried_these_i_have_a_wii_u_pro/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-12T07:07:57Z",
+      "firstSeen": "2026-11-12T09:46:30Z",
+      "excerpt": "",
+      "matched": []
+    },
+    {
+      "id": "ac6f21a2efba",
+      "title": "Bought a wii withDelisted digital games on it - pokemon rumble zelda mario",
+      "url": "https://www.reddit.com/r/wii/comments/1xu03nl/bought_a_wii_withdelisted_digital_games_on_it/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-12T01:45:21Z",
+      "firstSeen": "2026-11-12T09:46:30Z",
+      "excerpt": "I thought this was really cool; I assume the person bought these from the Wii Store. I haven't seen Rumble before; it's pretty fun, actually.",
+      "matched": []
+    },
     {
       "id": "b4555e9a812f",
       "title": "I made my phone look like the Wii menu",
@@ -162,30 +186,6 @@
       "published": "2026-11-10T00:38:24Z",
       "firstSeen": "2026-11-10T02:04:23Z",
       "excerpt": "",
-      "matched": []
-    },
-    {
-      "id": "9df281965dbe",
-      "title": "Has anyone tried the USB-C rechargeable batteries?",
-      "url": "https://www.reddit.com/r/wii/comments/1xs5fqs/has_anyone_tried_the_usbc_rechargeable_batteries/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-09T22:11:44Z",
-      "firstSeen": "2026-11-10T02:04:23Z",
-      "excerpt": "I've been seeing batteries that have USB-C ports built into them, like these: https://www.amazon.com/dp/B0DSBQPPX4?th=1 — Doing some research, I've found that some people find them great but other people have reported…",
-      "matched": []
-    },
-    {
-      "id": "0313915f64ad",
-      "title": "Wii Games and More at the thrift store!",
-      "url": "https://www.reddit.com/r/wii/comments/1xs3jci/wii_games_and_more_at_the_thrift_store/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-09T20:57:55Z",
-      "firstSeen": "2026-11-10T02:04:23Z",
-      "excerpt": "Coraline was a heck of a find",
       "matched": []
     },
     {
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-29T01:31:35Z",
+    "windowStart": "2026-10-29T09:46:30Z",
     "completeSince": {
-      "all": "2026-11-09T19:10:07Z",
-      "press": "2026-10-29T01:31:35Z",
-      "scene": "2026-11-09T19:10:07Z"
+      "all": "2026-11-09T22:11:44Z",
+      "press": "2026-10-29T09:46:30Z",
+      "scene": "2026-11-09T22:11:44Z"
     }
   }
 }
