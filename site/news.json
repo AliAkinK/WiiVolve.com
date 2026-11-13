@@ -1,7 +1,67 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T06:39:18Z",
+  "generatedAt": "2026-11-13T15:22:31Z",
   "items": [
+    {
+      "id": "f361d842a55e",
+      "title": "Nintendo Wii in 2009 and 2010 nostalgia🔥🔥🔥🔥",
+      "url": "https://www.reddit.com/r/wii/comments/1xvak04/nintendo_wii_in_2009_and_2010_nostalgia/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-13T15:18:35Z",
+      "firstSeen": "2026-11-13T15:22:31Z",
+      "excerpt": "",
+      "matched": []
+    },
+    {
+      "id": "b3a6328d8435",
+      "title": "Fix-it Friday! Please ask and give help here for tech support and other common questions.",
+      "url": "https://www.reddit.com/r/wii/comments/1xv3yhn/fixit_friday_please_ask_and_give_help_here_for/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-13T10:00:52Z",
+      "firstSeen": "2026-11-13T15:22:31Z",
+      "excerpt": "Need help figuring out what to do about your Wii console, game, accessory, or next purchase? This is the place to ask on r/Wii. Make a comment below and you will get a notification when others reply to your comment…",
+      "matched": []
+    },
+    {
+      "id": "a3429b0d5e62",
+      "title": "Wii motion controller iOS",
+      "url": "https://www.reddit.com/r/wii/comments/1xv3vr1/wii_motion_controller_ios/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-13T09:56:11Z",
+      "firstSeen": "2026-11-13T15:22:31Z",
+      "excerpt": "I made an iOS app that connects to dolphin on Mac and lets you use your iPhone as a Wii motion controller with tracking support. Here is the link",
+      "matched": []
+    },
+    {
+      "id": "44347108aaf3",
+      "title": "Where can I find smash bros Wii U dlc",
+      "url": "https://www.reddit.com/r/wii/comments/1xv2wxv/where_can_i_find_smash_bros_wii_u_dlc/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-13T08:54:17Z",
+      "firstSeen": "2026-11-13T15:22:31Z",
+      "excerpt": "",
+      "matched": []
+    },
+    {
+      "id": "79e9d6aad603",
+      "title": "i wanna download meme run on my wii can i?",
+      "url": "https://www.reddit.com/r/wii/comments/1xv1yi5/i_wanna_download_meme_run_on_my_wii_can_i/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-13T07:54:17Z",
+      "firstSeen": "2026-11-13T15:22:31Z",
+      "excerpt": "huh",
+      "matched": []
+    },
     {
       "id": "a0bfd84575fa",
       "title": "What’s going on with this wii remote?",
@@ -117,42 +177,6 @@
       "matched": []
     },
     {
-      "id": "68973704707b",
-      "title": "Just found out the Nvidia CEO cheated on his wife on my WII",
-      "url": "https://www.reddit.com/r/wii/comments/1xtzh3r/just_found_out_the_nvidia_ceo_cheated_on_his_wife/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-12T01:15:20Z",
-      "firstSeen": "2026-11-12T01:31:35Z",
-      "excerpt": "",
-      "matched": []
-    },
-    {
-      "id": "620060c0666c",
-      "title": "8BitDo Gamecube Reciever firmware v1.05 adds support for NSO Gamecube Controller",
-      "url": "https://www.reddit.com/r/wii/comments/1xtyfiy/8bitdo_gamecube_reciever_firmware_v105_adds/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-12T00:26:47Z",
-      "firstSeen": "2026-11-12T01:31:35Z",
-      "excerpt": "Finally! Something many folks have been waiting a very long time for. I'm happy to report that I just updated and it's working flawlessly, including rumble support. To pair the controller, simply press the pairing…",
-      "matched": []
-    },
-    {
-      "id": "61dc30e4d790",
-      "title": "The new Icy Tower came out yesterday. Now working on Wii",
-      "url": "https://www.reddit.com/r/wii/comments/1xtx0zf/the_new_icy_tower_came_out_yesterday_now_working/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-11T23:24:44Z",
-      "firstSeen": "2026-11-12T01:31:35Z",
-      "excerpt": "",
-      "matched": []
-    },
-    {
       "id": "c4d763faa6bf",
       "title": "Wired Ethernet for Wii homebrew with a $15 USB adapter IOS can't run – open-source driver (libwiieth)",
       "url": "https://www.reddit.com/r/WiiHacks/comments/1xtsprr/wired_ethernet_for_wii_homebrew_with_a_15_usb/",
@@ -229,30 +253,6 @@
       "matched": [
         "Wii Remote"
       ]
-    },
-    {
-      "id": "fd7ffcaebce4",
-      "title": "Found a fun old picture :)",
-      "url": "https://www.reddit.com/r/wii/comments/1xt3k6k/found_a_fun_old_picture/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-11T00:31:00Z",
-      "firstSeen": "2026-11-11T02:50:02Z",
-      "excerpt": "Me in 2009 opening my brand new wii on christmas — https://preview.redd.it/7sa4qtaoov0i1.png?width=401&format=png&auto=webp&s=f30e237a00b88003d9212d0b7784292306353cc2",
-      "matched": []
-    },
-    {
-      "id": "01209c4669af",
-      "title": "Is there a NES & SNES emulator with functionality like Genesis Plus GX?",
-      "url": "https://www.reddit.com/r/wii/comments/1xt375p/is_there_a_nes_snes_emulator_with_functionality/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-11T00:14:47Z",
-      "firstSeen": "2026-11-11T02:50:02Z",
-      "excerpt": "Genesis Plus GX has load recent and load from SD or USB option. The NES & SNES emulators don't seem to have that. Any other NES & SNES emulators I should try?",
-      "matched": []
     },
     {
       "id": "54d8aafa577b",
@@ -474,11 +474,11 @@
       "press": 8,
       "scene": 28
     },
-    "windowStart": "2026-10-30T06:39:18Z",
+    "windowStart": "2026-10-30T15:22:31Z",
     "completeSince": {
-      "all": "2026-11-10T18:38:51Z",
-      "press": "2026-10-30T06:39:18Z",
-      "scene": "2026-11-10T18:38:51Z"
+      "all": "2026-11-12T01:15:20Z",
+      "press": "2026-10-30T15:22:31Z",
+      "scene": "2026-11-12T01:15:20Z"
     }
   }
 }
