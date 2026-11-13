@@ -9,6 +9,51 @@
   "language": "en",
   "items": [
     {
+      "id": "a0d4d9608cba",
+      "url": "https://www.reddit.com/r/wii/comments/1xvhph9/i_have_been_working_really_hard_on_this_and_i/",
+      "title": "I have been working really hard on this and I have done it i got a perfect score on wii fitness",
+      "content_text": "I have been working really hard on this and I have done it i got a perfect score on wii fitness",
+      "date_published": "2026-11-13T19:46:37Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "3a5609bf17e0",
+      "url": "https://www.reddit.com/r/wii/comments/1xvfw6i/is_there_any_kind_of_wii_channel_banner_thats/",
+      "title": "Is there any kind of Wii CHannel Banner thats more interactive than Super Paper Mario? O.o",
+      "content_text": "Decided to look at my Wii Games i own and theyre Channel Banners and noticed that most of them are very Basic interms of their Design >.> — But SPMs Design seems to be the most Interactive due to the Amount of…",
+      "date_published": "2026-11-13T18:37:56Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "efbb6e833543",
+      "url": "https://www.reddit.com/r/wii/comments/1xvcozc/questions_about_modding_guide/",
+      "title": "Questions About Modding Guide",
+      "content_text": "I’m looking to mod a Wii but all the threads I’ve seen have conflicting answers. Everyone says that it’s incredibly easy and posts the link to the guide. Modmii looks like the easiest route for someone like me who…",
+      "date_published": "2026-11-13T16:40:10Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "f361d842a55e",
       "url": "https://www.reddit.com/r/wii/comments/1xvak04/nintendo_wii_in_2009_and_2010_nostalgia/",
       "title": "Nintendo Wii in 2009 and 2010 nostalgia🔥🔥🔥🔥",
@@ -174,51 +219,6 @@
       ]
     },
     {
-      "id": "4fdbe42adb7c",
-      "url": "https://www.reddit.com/r/wii/comments/1xu66l4/has_anyone_tried_these_i_have_a_wii_u_pro/",
-      "title": "Has anyone tried these? I have a Wii u pro controller I'd like to use on the Wii.",
-      "content_text": "Has anyone tried these? I have a Wii u pro controller I'd like to use on the Wii.",
-      "date_published": "2026-11-12T07:07:57Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "ac6f21a2efba",
-      "url": "https://www.reddit.com/r/wii/comments/1xu03nl/bought_a_wii_withdelisted_digital_games_on_it/",
-      "title": "Bought a wii withDelisted digital games on it - pokemon rumble zelda mario",
-      "content_text": "I thought this was really cool; I assume the person bought these from the Wii Store. I haven't seen Rumble before; it's pretty fun, actually.",
-      "date_published": "2026-11-12T01:45:21Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "b4555e9a812f",
-      "url": "https://www.reddit.com/r/wii/comments/1xtzmi7/i_made_my_phone_look_like_the_wii_menu/",
-      "title": "I made my phone look like the Wii menu",
-      "content_text": "I know people have made others that are better than mine, but I’m happy with it. I’m trying to have less stress in my life, so I turned off all notifications and gave my apps different icons to remind me of simpler…",
-      "date_published": "2026-11-12T01:22:12Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
       "id": "c4d763faa6bf",
       "url": "https://www.reddit.com/r/WiiHacks/comments/1xtsprr/wired_ethernet_for_wii_homebrew_with_a_15_usb/",
       "title": "Wired Ethernet for Wii homebrew with a $15 USB adapter IOS can't run – open-source driver (libwiieth)",
@@ -291,6 +291,21 @@
       ],
       "tags": [
         "scene"
+      ]
+    },
+    {
+      "id": "d7108c3b9c6c",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXI4UHBqZnFPdUF4c2hndkZhY2NpZkxfRHRyaTd2aGpDajBPLTJ3M0Y0bFNFakhNZnpNSTJONFVMU1YxVG1Qd1dZcXNDT1prUHJhcFRvTXIwQmJwNkdoQWlFVFA5RTkyNVFkd2hGX2Z6WVNPc2JfaFRtNFFfN1lWMGdJR3JKekp1aTJhdlBhcTdaSlE5clNUck11TnFPNWNzdE1Z?oc=5",
+      "title": "I used an Android phone as a Wii Remote in Dolphin, and it works better than it has any right to",
+      "content_text": "I used an Android phone as a Wii Remote in Dolphin, and it works better than it has any right to",
+      "date_published": "2026-11-11T13:30:22Z",
+      "authors": [
+        {
+          "name": "XDA"
+        }
+      ],
+      "tags": [
+        "press"
       ]
     },
     {

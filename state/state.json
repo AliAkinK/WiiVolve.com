@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "6518171a2ac2f61f7a46bcd1286c1631fa945aa69276d4023d24e0e016aa28cc",
+  "signature": "1a6f8c04e6b9e899e79027eb80b2bc516630c3d035e46ad4229984ec12985207",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-13T15:22:31Z",
+  "lastWrite": "2026-11-13T21:58:18Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "019143d0295e": "2026-11-04T17:22:25Z",
@@ -34,6 +34,7 @@
     "3652089356b4": "2026-10-31T22:04:30Z",
     "379f962ee7b0": "2026-11-11T10:51:43Z",
     "38cc74ba5835": "2023-07-20T08:11:32Z",
+    "3a5609bf17e0": "2026-11-13T21:58:18Z",
     "3b43bca4012d": "2009-12-05T08:00:00Z",
     "3cdf27e2776e": "2026-11-06T20:52:27Z",
     "3deb27d0327c": "2006-11-27T08:00:00Z",
@@ -111,6 +112,7 @@
     "9df281965dbe": "2026-11-10T02:04:23Z",
     "a0bfd84575fa": "2026-11-13T06:39:18Z",
     "a0c0e3ff6c3f": "2026-10-31T22:47:07Z",
+    "a0d4d9608cba": "2026-11-13T21:58:18Z",
     "a248e7cb3c20": "2025-05-01T17:00:57Z",
     "a3429b0d5e62": "2026-11-13T15:22:31Z",
     "a88306e7e51a": "2026-11-01T20:43:09Z",
@@ -148,6 +150,7 @@
     "d356528af061": "2026-06-02T07:00:00Z",
     "d45cb87b4ee9": "2026-10-31T14:15:03Z",
     "d547d3c4596f": "2026-02-16T19:52:49Z",
+    "d7108c3b9c6c": "2026-11-11T13:30:22Z",
     "d8a89993727a": "2026-11-04T17:22:25Z",
     "db9eddafe83c": "2026-10-26T07:00:00Z",
     "de16ade6e837": "2026-07-10T07:00:00Z",
@@ -159,6 +162,7 @@
     "e83273437945": "2024-03-20T07:00:00Z",
     "e8fe48d4d728": "2026-01-22T09:00:06Z",
     "ed13f06de9c7": "2026-11-02T18:10:29Z",
+    "efbb6e833543": "2026-11-13T21:58:18Z",
     "f361d842a55e": "2026-11-13T15:22:31Z",
     "f396b81c67b9": "2006-11-17T08:00:00Z",
     "f685411cfb62": "2026-11-06T14:59:51Z",
@@ -175,8 +179,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-13T15:22:31Z",
-      "lastAttempt": "2026-11-13T15:22:31Z",
+      "lastOk": "2026-11-13T21:58:18Z",
+      "lastAttempt": "2026-11-13T21:58:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -184,19 +188,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Fri, 13 Nov 2026 04:22:00 -0000",
-      "lastOk": "2026-11-13T15:22:31Z",
-      "lastAttempt": "2026-11-13T15:22:31Z",
+      "lastModified": "Fri, 13 Nov 2026 20:26:00 -0000",
+      "lastOk": "2026-11-13T21:58:18Z",
+      "lastAttempt": "2026-11-13T21:58:18Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"0ecdcd098a38c2b024e0dec3023f4b35\"",
-      "lastModified": "Fri, 13 Nov 2026 14:36:39 GMT",
-      "lastOk": "2026-11-13T15:22:31Z",
-      "lastAttempt": "2026-11-13T15:22:31Z",
+      "etag": "W/\"c30955f71262c255de21fee45748d559\"",
+      "lastModified": "Fri, 13 Nov 2026 18:11:20 GMT",
+      "lastOk": "2026-11-13T21:58:18Z",
+      "lastAttempt": "2026-11-13T21:58:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -205,8 +209,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-13T15:22:31Z",
-      "lastAttempt": "2026-11-13T15:22:31Z",
+      "lastOk": "2026-11-13T21:58:18Z",
+      "lastAttempt": "2026-11-13T21:58:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -231,8 +235,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-13T15:22:31Z",
-      "lastAttempt": "2026-11-13T15:22:31Z",
+      "lastOk": "2026-11-13T21:58:18Z",
+      "lastAttempt": "2026-11-13T21:58:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -265,6 +269,21 @@
           "excerpt": "",
           "matched": [
             "Wii"
+          ]
+        },
+        {
+          "id": "d7108c3b9c6c",
+          "title": "I used an Android phone as a Wii Remote in Dolphin, and it works better than it has any right to",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXI4UHBqZnFPdUF4c2hndkZhY2NpZkxfRHRyaTd2aGpDajBPLTJ3M0Y0bFNFakhNZnpNSTJONFVMU1YxVG1Qd1dZcXNDT1prUHJhcFRvTXIwQmJwNkdoQWlFVFA5RTkyNVFkd2hGX2Z6WVNPc2JfaFRtNFFfN1lWMGdJR3JKekp1aTJhdlBhcTdaSlE5clNUck11TnFPNWNzdE1Z?oc=5",
+          "source": "XDA",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-11T13:30:22Z",
+          "firstSeen": "2026-11-11T13:30:22Z",
+          "excerpt": "",
+          "matched": [
+            "Wii Remote"
           ]
         },
         {
@@ -736,10 +755,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"a153b27203a3e65d479392a4d01f530b\"",
-      "lastModified": "Fri, 13 Nov 2026 09:02:48 GMT",
-      "lastOk": "2026-11-13T15:22:31Z",
-      "lastAttempt": "2026-11-13T15:22:31Z",
+      "etag": "W/\"2a6077375039ec8d11505fc1fbe9d9f2\"",
+      "lastModified": "Fri, 13 Nov 2026 16:29:16 GMT",
+      "lastOk": "2026-11-13T21:58:18Z",
+      "lastAttempt": "2026-11-13T21:58:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -837,8 +856,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-13T15:22:31Z",
-      "lastAttempt": "2026-11-13T15:22:31Z",
+      "lastOk": "2026-11-13T21:58:18Z",
+      "lastAttempt": "2026-11-13T21:58:18Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1088,12 +1107,48 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-13T15:22:31Z",
-      "lastAttempt": "2026-11-13T15:22:31Z",
+      "lastOk": "2026-11-13T21:58:18Z",
+      "lastAttempt": "2026-11-13T21:58:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "a0d4d9608cba",
+          "title": "I have been working really hard on this and I have done it i got a perfect score on wii fitness",
+          "url": "https://www.reddit.com/r/wii/comments/1xvhph9/i_have_been_working_really_hard_on_this_and_i/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-13T19:46:37Z",
+          "firstSeen": "2026-11-13T21:58:18Z",
+          "excerpt": "",
+          "matched": []
+        },
+        {
+          "id": "3a5609bf17e0",
+          "title": "Is there any kind of Wii CHannel Banner thats more interactive than Super Paper Mario? O.o",
+          "url": "https://www.reddit.com/r/wii/comments/1xvfw6i/is_there_any_kind_of_wii_channel_banner_thats/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-13T18:37:56Z",
+          "firstSeen": "2026-11-13T21:58:18Z",
+          "excerpt": "Decided to look at my Wii Games i own and theyre Channel Banners and noticed that most of them are very Basic interms of their Design >.> — But SPMs Design seems to be the most Interactive due to the Amount of…",
+          "matched": []
+        },
+        {
+          "id": "efbb6e833543",
+          "title": "Questions About Modding Guide",
+          "url": "https://www.reddit.com/r/wii/comments/1xvcozc/questions_about_modding_guide/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-13T16:40:10Z",
+          "firstSeen": "2026-11-13T21:58:18Z",
+          "excerpt": "I’m looking to mod a Wii but all the threads I’ve seen have conflicting answers. Everyone says that it’s incredibly easy and posts the link to the guide. Modmii looks like the easiest route for someone like me who…",
+          "matched": []
+        },
         {
           "id": "f361d842a55e",
           "title": "Nintendo Wii in 2009 and 2010 nostalgia🔥🔥🔥🔥",
@@ -1128,18 +1183,6 @@
           "published": "2026-11-13T09:56:11Z",
           "firstSeen": "2026-11-13T15:22:31Z",
           "excerpt": "I made an iOS app that connects to dolphin on Mac and lets you use your iPhone as a Wii motion controller with tracking support. Here is the link",
-          "matched": []
-        },
-        {
-          "id": "44347108aaf3",
-          "title": "Where can I find smash bros Wii U dlc",
-          "url": "https://www.reddit.com/r/wii/comments/1xv2wxv/where_can_i_find_smash_bros_wii_u_dlc/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-13T08:54:17Z",
-          "firstSeen": "2026-11-13T15:22:31Z",
-          "excerpt": "",
           "matched": []
         },
         {
@@ -1347,30 +1390,6 @@
           "matched": []
         },
         {
-          "id": "0313915f64ad",
-          "title": "Wii Games and More at the thrift store!",
-          "url": "https://www.reddit.com/r/wii/comments/1xs3jci/wii_games_and_more_at_the_thrift_store/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-09T20:57:55Z",
-          "firstSeen": "2026-11-10T02:04:23Z",
-          "excerpt": "Coraline was a heck of a find",
-          "matched": []
-        },
-        {
-          "id": "4f0a151a32b3",
-          "title": "Which multiplatform games are best played on Wii? whether it's because of performance or overall gameplay.",
-          "url": "https://www.reddit.com/r/wii/comments/1xs0ngz/which_multiplatform_games_are_best_played_on_wii/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-09T19:10:07Z",
-          "firstSeen": "2026-11-10T02:04:23Z",
-          "excerpt": "I have several consoles and I would like to know which non exclusive Wii game I should definitely play on Wii.",
-          "matched": []
-        },
-        {
           "id": "cf81d239f637",
           "title": "My little collection of console Merch from this era",
           "url": "https://www.reddit.com/r/wii/comments/1xrnhhr/my_little_collection_of_console_merch_from_this/",
@@ -1387,8 +1406,8 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-13T15:22:31Z",
-      "lastAttempt": "2026-11-13T15:22:31Z",
+      "lastOk": "2026-11-13T21:58:18Z",
+      "lastAttempt": "2026-11-13T21:58:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
