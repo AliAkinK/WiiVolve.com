@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "d4b3a54125cda16a9d6ac110c33c1edfac1c6282d5130778e66be13bd6095249",
+  "signature": "877d06085d4c43179c01cc37f9c82389849b1d9046d1ab6bc036e2bba5ff5894",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-12T23:41:04Z",
+  "lastWrite": "2026-11-13T06:39:18Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "019143d0295e": "2026-11-04T17:22:25Z",
@@ -75,6 +75,7 @@
     "6192b84301f1": "2024-07-15T20:54:59Z",
     "61dc30e4d790": "2026-11-12T01:31:35Z",
     "620060c0666c": "2026-11-12T01:31:35Z",
+    "66ff83a6dc66": "2026-11-13T06:39:18Z",
     "67f8d841da4f": "2026-10-27T03:24:20Z",
     "6845a1ed1876": "2026-11-12T23:41:04Z",
     "68973704707b": "2026-11-12T01:31:35Z",
@@ -107,6 +108,7 @@
     "966440fd7ab6": "2026-11-07T07:06:17Z",
     "98fee3c0d488": "2026-11-07T22:42:52Z",
     "9df281965dbe": "2026-11-10T02:04:23Z",
+    "a0bfd84575fa": "2026-11-13T06:39:18Z",
     "a0c0e3ff6c3f": "2026-10-31T22:47:07Z",
     "a248e7cb3c20": "2025-05-01T17:00:57Z",
     "a88306e7e51a": "2026-11-01T20:43:09Z",
@@ -124,6 +126,7 @@
     "b38fd48928a6": "2024-04-30T07:21:16Z",
     "b4555e9a812f": "2026-11-12T01:31:35Z",
     "bb646e9fd9b0": "2026-10-24T14:06:09Z",
+    "bc66cecfff3d": "2026-01-21T08:00:00Z",
     "bd8654811e08": "2026-11-01T18:54:02Z",
     "c2eb372083c5": "2026-11-08T21:08:08Z",
     "c4d763faa6bf": "2026-11-12T23:41:04Z",
@@ -158,7 +161,6 @@
     "f7b093d91946": "2021-11-20T08:00:00Z",
     "f8a3463f6b91": "2025-12-22T06:46:16Z",
     "f9d6ed4a214f": "2026-02-01T08:00:00Z",
-    "f9f8bf7284d3": "2020-11-19T08:00:00Z",
     "fa73389bb2f7": "2026-11-02T14:57:02Z",
     "fb344aa21b7e": "2026-10-29T12:32:03Z",
     "fb86d2986c4e": "2026-11-12T18:17:17Z",
@@ -169,8 +171,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T23:41:04Z",
-      "lastAttempt": "2026-11-12T23:41:04Z",
+      "lastOk": "2026-11-13T06:39:18Z",
+      "lastAttempt": "2026-11-13T06:39:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -178,19 +180,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Thu, 12 Nov 2026 22:20:00 -0000",
-      "lastOk": "2026-11-12T23:41:04Z",
-      "lastAttempt": "2026-11-12T23:41:04Z",
+      "lastModified": "Fri, 13 Nov 2026 04:22:00 -0000",
+      "lastOk": "2026-11-13T06:39:18Z",
+      "lastAttempt": "2026-11-13T06:39:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"a9c09ddaba105cb64b3f0a7d540ec20a\"",
-      "lastModified": "Thu, 12 Nov 2026 22:22:02 GMT",
-      "lastOk": "2026-11-12T23:41:04Z",
-      "lastAttempt": "2026-11-12T23:41:04Z",
+      "etag": "W/\"2a0bd54a1879f2e31389c2accb3adfa8\"",
+      "lastModified": "Fri, 13 Nov 2026 04:18:55 GMT",
+      "lastOk": "2026-11-13T06:39:18Z",
+      "lastAttempt": "2026-11-13T06:39:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -199,8 +201,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T23:41:04Z",
-      "lastAttempt": "2026-11-12T23:41:04Z",
+      "lastOk": "2026-11-13T06:39:18Z",
+      "lastAttempt": "2026-11-13T06:39:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -225,8 +227,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T23:41:04Z",
-      "lastAttempt": "2026-11-12T23:41:04Z",
+      "lastOk": "2026-11-13T06:39:18Z",
+      "lastAttempt": "2026-11-13T06:39:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -244,21 +246,6 @@
           "excerpt": "",
           "matched": [
             "Wii"
-          ]
-        },
-        {
-          "id": "9482079d87e5",
-          "title": "What Is the Wii Shop Channel Theme Song? Composer and History",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkFmWk96T0s3cTFFZ0lmVGhKX01pamZtNGhGdlNFUmh2LUJidVhsM1VHcmttdE1Ma1ctU3l4UWJoeG15cEZSRGMzdzlkc3NyNWtjbUxPcDVkUVF5OE52Zzc3bFpVVV9aQ1JOU3RHUXdzWmZCM3BNbDh1NFR1VDNVU2ZHOFpFYVhCUGZpbnd3Q19TQjg?oc=5",
-          "source": "RouteNote",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-12T11:27:00Z",
-          "firstSeen": "2026-11-12T18:17:17Z",
-          "excerpt": "",
-          "matched": [
-            "Wii Shop"
           ]
         },
         {
@@ -412,6 +399,21 @@
           ]
         },
         {
+          "id": "bc66cecfff3d",
+          "title": "Classic Nintendo Wii Game Just Received New Content 16 Years Later",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemppa29lS0pJZXJSSWdHbF9zVUhORjFCQzlrTFVEZVptbFFDS09lVFNlcThVMUp2eGQzNkE0b2RpQVdHZzZGcGpteU1BeGNEUTRBVXVyMG83SkkyNVlLcE13SWNDejVUYVIxWWxSNFZWRXdsQldZVUhmanNEZ1dyY2ZrOA?oc=5",
+          "source": "ComicBook.com",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-01-21T08:00:00Z",
+          "firstSeen": "2026-01-21T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "df0e833ed93e",
           "title": "I wasn't expecting this Nintendo Wii Sports Resort remake to hook me – but I'm all in",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNWFSdTk0UlFOcmFCNDNURml2Tk52a0cwZVpvWnQ5b2ZNM3ktR202OC14LXd3dEJKem1sWERPQjNLNm81MUhlLUEzd3VRdU9vc180VktjM2ZBNmJVQ01rdDJ5RkUwV1NFVEtNb0lrNFNmNTRwZWtYOVp5RlpweHYwZGMyYlZITUF0ZkJ5OTJYNGpTLTI0ZDZGNWs5emIxSHdZbzhyNlJ0OVlUXy1EaDlCalVRbDhRQktvYUpoZ3pISFBqZF9QcWJYQWtpZERvdU53RkxSWExKTDZUZ185dkF0QXJSSTdKZw?oc=5",
@@ -526,21 +528,6 @@
           "tab": "press",
           "published": "2021-11-20T08:00:00Z",
           "firstSeen": "2021-11-20T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "f9f8bf7284d3",
-          "title": "There Will Never Be Another System Like The Wii",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZvdmhXVDlvaGVWNnlvdnhEdWNIam5Id0tmWC00cHRyOURoYUtzX0lISjQyLVVRYk9oUHVkZWJfYUlxZ3hCUzZEVHduYU5EdU9nV2M1REJlU3JzSnpQNmwyYWx5VkNIbEJvTlpZdDBSckxwOU1uZlZLMTIzMW4wTUg0NUtQN0NxZ2JNaC1jWW04MjZwSlpfWQ?oc=5",
-          "source": "TheGamer",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2020-11-19T08:00:00Z",
-          "firstSeen": "2020-11-19T08:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -760,10 +747,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"0b7f631a7f1bb900803884cda383123f\"",
-      "lastModified": "Thu, 12 Nov 2026 20:44:13 GMT",
-      "lastOk": "2026-11-12T23:41:04Z",
-      "lastAttempt": "2026-11-12T23:41:04Z",
+      "etag": "W/\"c637a885c52462ad48ad0013492275c9\"",
+      "lastModified": "Thu, 12 Nov 2026 22:25:00 GMT",
+      "lastOk": "2026-11-13T06:39:18Z",
+      "lastAttempt": "2026-11-13T06:39:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -861,8 +848,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-12T23:41:04Z",
-      "lastAttempt": "2026-11-12T23:41:04Z",
+      "lastOk": "2026-11-13T06:39:18Z",
+      "lastAttempt": "2026-11-13T06:39:18Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1112,12 +1099,36 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T23:41:04Z",
-      "lastAttempt": "2026-11-12T23:41:04Z",
+      "lastOk": "2026-11-13T06:39:18Z",
+      "lastAttempt": "2026-11-13T06:39:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "a0bfd84575fa",
+          "title": "What’s going on with this wii remote?",
+          "url": "https://www.reddit.com/r/wii/comments/1xuxkr8/whats_going_on_with_this_wii_remote/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-13T03:44:56Z",
+          "firstSeen": "2026-11-13T06:39:18Z",
+          "excerpt": "It doesn’t turn on. I’ve already cleaned the battery pins without any success, and after better inspection this exact part is what appears to be causing trouble. Does anyone know if it can be saved and how can I do it?",
+          "matched": []
+        },
+        {
+          "id": "66ff83a6dc66",
+          "title": "Does anyone want to be my friend!?",
+          "url": "https://www.reddit.com/r/wii/comments/1xuvohs/does_anyone_want_to_be_my_friend/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-13T02:11:44Z",
+          "firstSeen": "2026-11-13T06:39:18Z",
+          "excerpt": "",
+          "matched": []
+        },
         {
           "id": "fb86d2986c4e",
           "title": "After years and years of trying I finally got the platinum medal on Wii sports home run derby!",
@@ -1347,18 +1358,6 @@
           "matched": []
         },
         {
-          "id": "22700bb8bc69",
-          "title": "Hey so I wanna play just dance again in a long time so I got the Wii U but just the box what else do I need.",
-          "url": "https://www.reddit.com/r/wii/comments/1xrakct/hey_so_i_wanna_play_just_dance_again_in_a_long/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-08T22:08:10Z",
-          "firstSeen": "2026-11-09T00:51:52Z",
-          "excerpt": "I'm also wondering is the gamepad is necessary or not as I said it's been a a LONG time since l've played so I don't know what to do. I plan to get a remote but I just don't know if the gamepad necessarily. While it's…",
-          "matched": []
-        },
-        {
           "id": "c2eb372083c5",
           "title": "To celebrate the Wii’s upcoming 20th anniversary on November 19th I decided to draw a small sketch, I’ll give you an update on when I’m done coloring it in",
           "url": "https://www.reddit.com/r/wii/comments/1xr7k7a/to_celebrate_the_wiis_upcoming_20th_anniversary/",
@@ -1381,26 +1380,14 @@
           "firstSeen": "2026-11-08T10:15:36Z",
           "excerpt": "Experimental homebrew port of Loco Roco PSP. It’s still a work in progress, Currently features a preview of the first level. Game assets are generated locally using a converter from your own PSP copy of LocoRoco. The…",
           "matched": []
-        },
-        {
-          "id": "41a8f36ed926",
-          "title": "Uh I have 2 Wiis what should I do with one",
-          "url": "https://www.reddit.com/r/wii/comments/1xqtwqg/uh_i_have_2_wiis_what_should_i_do_with_one/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-08T08:48:13Z",
-          "firstSeen": "2026-11-08T10:15:36Z",
-          "excerpt": "yea gimme some ideas",
-          "matched": []
         }
       ]
     },
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-12T23:41:04Z",
-      "lastAttempt": "2026-11-12T23:41:04Z",
+      "lastOk": "2026-11-13T06:39:18Z",
+      "lastAttempt": "2026-11-13T06:39:18Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,

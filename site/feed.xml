@@ -5,9 +5,26 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 23:41:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:39:18 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>What’s going on with this wii remote?</title>
+<link>https://www.reddit.com/r/wii/comments/1xuxkr8/whats_going_on_with_this_wii_remote/</link>
+<guid isPermaLink="false">a0bfd84575fa</guid>
+<pubDate>Fri, 13 Nov 2026 03:44:56 GMT</pubDate>
+<description>It doesn’t turn on. I’ve already cleaned the battery pins without any success, and after better inspection this exact part is what appears to be causing trouble. Does anyone know if it can be saved and how can I do it?</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
+<item>
+<title>Does anyone want to be my friend!?</title>
+<link>https://www.reddit.com/r/wii/comments/1xuvohs/does_anyone_want_to_be_my_friend/</link>
+<guid isPermaLink="false">66ff83a6dc66</guid>
+<pubDate>Fri, 13 Nov 2026 02:11:44 GMT</pubDate>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
 <item>
 <title>After years and years of trying I finally got the platinum medal on Wii sports home run derby!</title>
 <link>https://www.reddit.com/r/wii/comments/1xuil4o/after_years_and_years_of_trying_i_finally_got_the/</link>
@@ -161,22 +178,6 @@
 <guid isPermaLink="false">01209c4669af</guid>
 <pubDate>Wed, 11 Nov 2026 00:14:47 GMT</pubDate>
 <description>Genesis Plus GX has load recent and load from SD or USB option. The NES &amp; SNES emulators don&#39;t seem to have that. Any other NES &amp; SNES emulators I should try?</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>Half Life Wii: Nueva Update</title>
-<link>https://www.reddit.com/r/wii/comments/1xsuvzj/half_life_wii_nueva_update/</link>
-<guid isPermaLink="false">8567dcd71a89</guid>
-<pubDate>Tue, 10 Nov 2026 18:38:51 GMT</pubDate>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>I received these beautiful gifts for my birthday yesterday. I couldn&#39;t be happier!</title>
-<link>https://www.reddit.com/r/wii/comments/1xsfiic/i_received_these_beautiful_gifts_for_my_birthday/</link>
-<guid isPermaLink="false">a9018eb5ebee</guid>
-<pubDate>Tue, 10 Nov 2026 06:13:42 GMT</pubDate>
 <source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
 <category>scene</category>
 </item>

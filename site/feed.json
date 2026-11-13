@@ -9,6 +9,36 @@
   "language": "en",
   "items": [
     {
+      "id": "a0bfd84575fa",
+      "url": "https://www.reddit.com/r/wii/comments/1xuxkr8/whats_going_on_with_this_wii_remote/",
+      "title": "What’s going on with this wii remote?",
+      "content_text": "It doesn’t turn on. I’ve already cleaned the battery pins without any success, and after better inspection this exact part is what appears to be causing trouble. Does anyone know if it can be saved and how can I do it?",
+      "date_published": "2026-11-13T03:44:56Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "66ff83a6dc66",
+      "url": "https://www.reddit.com/r/wii/comments/1xuvohs/does_anyone_want_to_be_my_friend/",
+      "title": "Does anyone want to be my friend!?",
+      "content_text": "Does anyone want to be my friend!?",
+      "date_published": "2026-11-13T02:11:44Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "fb86d2986c4e",
       "url": "https://www.reddit.com/r/wii/comments/1xuil4o/after_years_and_years_of_trying_i_finally_got_the/",
       "title": "After years and years of trying I finally got the platinum medal on Wii sports home run derby!",
@@ -269,36 +299,6 @@
       "title": "Is there a NES & SNES emulator with functionality like Genesis Plus GX?",
       "content_text": "Genesis Plus GX has load recent and load from SD or USB option. The NES & SNES emulators don't seem to have that. Any other NES & SNES emulators I should try?",
       "date_published": "2026-11-11T00:14:47Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "8567dcd71a89",
-      "url": "https://www.reddit.com/r/wii/comments/1xsuvzj/half_life_wii_nueva_update/",
-      "title": "Half Life Wii: Nueva Update",
-      "content_text": "Half Life Wii: Nueva Update",
-      "date_published": "2026-11-10T18:38:51Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "a9018eb5ebee",
-      "url": "https://www.reddit.com/r/wii/comments/1xsfiic/i_received_these_beautiful_gifts_for_my_birthday/",
-      "title": "I received these beautiful gifts for my birthday yesterday. I couldn't be happier!",
-      "content_text": "I received these beautiful gifts for my birthday yesterday. I couldn't be happier!",
-      "date_published": "2026-11-10T06:13:42Z",
       "authors": [
         {
           "name": "r/wii"
