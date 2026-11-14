@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "dddebc5abee9d8cf519ea1b2dbe75aec094f06f17774a3b8e09b99c5d22a0cc1",
+  "signature": "4a6c8c95dcfd4b6b8a24b9aeef3fc74ddbb51904ef5ede6b12c9a8d5c63e0d8b",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-14T17:03:48Z",
+  "lastWrite": "2026-11-14T21:27:25Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "019143d0295e": "2026-11-04T17:22:25Z",
@@ -24,6 +24,7 @@
     "2db941bcf4f5": "2007-05-21T07:00:00Z",
     "2edbb7d89cb2": "2024-07-02T07:47:50Z",
     "2f18f1d06051": "2025-09-16T03:21:58Z",
+    "2f9d09837bde": "2026-11-14T21:27:25Z",
     "305480fc5d04": "2026-11-04T17:22:25Z",
     "30f38c38ed8e": "2026-11-07T22:42:52Z",
     "3195ae4b1ddb": "2026-11-02T05:05:03Z",
@@ -160,7 +161,6 @@
     "e5895d91fa9f": "2024-04-19T15:30:06Z",
     "e709e488c51f": "2026-11-04T17:22:25Z",
     "e7c0b7774d5a": "2025-11-14T10:04:26Z",
-    "e83273437945": "2024-03-20T07:00:00Z",
     "e8fe48d4d728": "2026-01-22T09:00:06Z",
     "ed13f06de9c7": "2026-11-02T18:10:29Z",
     "efbb6e833543": "2026-11-13T21:58:18Z",
@@ -171,7 +171,6 @@
     "f7b093d91946": "2021-11-20T08:00:00Z",
     "f8a3463f6b91": "2025-12-22T06:46:16Z",
     "f9d6ed4a214f": "2026-02-01T08:00:00Z",
-    "f9f8bf7284d3": "2020-11-19T08:00:00Z",
     "fa73389bb2f7": "2026-11-02T14:57:02Z",
     "fb344aa21b7e": "2026-10-29T12:32:03Z",
     "fb86d2986c4e": "2026-11-12T18:17:17Z",
@@ -182,8 +181,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-14T17:03:48Z",
-      "lastAttempt": "2026-11-14T17:03:48Z",
+      "lastOk": "2026-11-14T21:27:25Z",
+      "lastAttempt": "2026-11-14T21:27:25Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -191,19 +190,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Sat, 14 Nov 2026 17:02:00 -0000",
-      "lastOk": "2026-11-14T17:03:48Z",
-      "lastAttempt": "2026-11-14T17:03:48Z",
+      "lastModified": "Sat, 14 Nov 2026 19:15:00 -0000",
+      "lastOk": "2026-11-14T21:27:25Z",
+      "lastAttempt": "2026-11-14T21:27:25Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"0a5b319d294375848984c9826197eb73\"",
-      "lastModified": "Sat, 14 Nov 2026 13:00:40 GMT",
-      "lastOk": "2026-11-14T17:03:48Z",
-      "lastAttempt": "2026-11-14T17:03:48Z",
+      "etag": "W/\"42fd6fe65422b791dbfddeb54900c030\"",
+      "lastModified": "Sat, 14 Nov 2026 18:06:25 GMT",
+      "lastOk": "2026-11-14T21:27:25Z",
+      "lastAttempt": "2026-11-14T21:27:25Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -212,8 +211,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-14T17:03:48Z",
-      "lastAttempt": "2026-11-14T17:03:48Z",
+      "lastOk": "2026-11-14T21:27:25Z",
+      "lastAttempt": "2026-11-14T21:27:25Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -238,8 +237,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-14T17:03:48Z",
-      "lastAttempt": "2026-11-14T17:03:48Z",
+      "lastOk": "2026-11-14T21:27:25Z",
+      "lastAttempt": "2026-11-14T21:27:25Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -470,21 +469,6 @@
           ]
         },
         {
-          "id": "e83273437945",
-          "title": "The Nintendo Wii is officially retro – so why is nobody nostalgic but me?",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzFGLTdkRUprb1hKeE9udUlMRGc3UHdheGR5dDJIbm5kVURtQjI4U0VaaWtyVFIzQ3FJaVk4bGM2QUFvTHpfWDBLMUVrOVl0V2RrZk9XTndQaGM3MVFZY2FhZXR4QkFtS1RYcHdQR0k3UFpzUUF5TXduQWU1TUVFaFRtUnlsRXc?oc=5",
-          "source": "Yahoo",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2024-03-20T07:00:00Z",
-          "firstSeen": "2024-03-20T07:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
           "id": "5feeed740b67",
           "title": "Nine Of The Best Uses For An Old Nintendo Wii",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfa2ZlUWRKUHo3aV9oSENnR0FfbXNjUlU1ZzM3TEpubUZ1clRvd0N1TVNHV2VnN2l5NzRISVZRQzhTdzlQZ3BRNE56ZmpYbHZGeDZUWS1uWlFpV1VScVFQY2F2ZjNvdlpSWFZnWXBn?oc=5",
@@ -554,21 +538,6 @@
           "tab": "press",
           "published": "2021-11-20T08:00:00Z",
           "firstSeen": "2021-11-20T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "f9f8bf7284d3",
-          "title": "There Will Never Be Another System Like The Wii",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZvdmhXVDlvaGVWNnlvdnhEdWNIam5Id0tmWC00cHRyOURoYUtzX0lISjQyLVVRYk9oUHVkZWJfYUlxZ3hCUzZEVHduYU5EdU9nV2M1REJlU3JzSnpQNmwyYWx5VkNIbEJvTlpZdDBSckxwOU1uZlZLMTIzMW4wTUg0NUtQN0NxZ2JNaC1jWW04MjZwSlpfWQ?oc=5",
-          "source": "TheGamer",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2020-11-19T08:00:00Z",
-          "firstSeen": "2020-11-19T08:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -773,10 +742,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"91b60159f69d9a1d95625e3b2767c5d4\"",
-      "lastModified": "Sat, 14 Nov 2026 15:05:55 GMT",
-      "lastOk": "2026-11-14T17:03:48Z",
-      "lastAttempt": "2026-11-14T17:03:48Z",
+      "etag": "W/\"1c0319a87aa2fbcce65f08a69814b158\"",
+      "lastModified": "Sat, 14 Nov 2026 05:35:39 GMT",
+      "lastOk": "2026-11-14T21:27:25Z",
+      "lastAttempt": "2026-11-14T21:27:25Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -874,8 +843,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-14T17:03:48Z",
-      "lastAttempt": "2026-11-14T17:03:48Z",
+      "lastOk": "2026-11-14T21:27:25Z",
+      "lastAttempt": "2026-11-14T21:27:25Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1125,12 +1094,24 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-14T17:03:48Z",
-      "lastAttempt": "2026-11-14T17:03:48Z",
+      "lastOk": "2026-11-14T21:27:25Z",
+      "lastAttempt": "2026-11-14T21:27:25Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "2f9d09837bde",
+          "title": "wii medal of honor game; what else?",
+          "url": "https://www.reddit.com/r/wii/comments/1xwce0t/wii_medal_of_honor_game_what_else/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-14T20:26:08Z",
+          "firstSeen": "2026-11-14T21:27:25Z",
+          "excerpt": "wii game medal of honor style — Hi everyone! I recently picked up an old Nintendo Wii and bought Medal of Honor: Heroes 2. From what I've read, many people consider it one of the best games in the Medal of Honor…",
+          "matched": []
+        },
         {
           "id": "3b35826d04a5",
           "title": "Put on my old Wii today in my new living and remembered that the remote doesn't like Sunlight.",
@@ -1406,26 +1387,14 @@
           "firstSeen": "2026-11-10T09:44:52Z",
           "excerpt": "",
           "matched": []
-        },
-        {
-          "id": "4180cb0161c6",
-          "title": "I think my Wii might be possessed...",
-          "url": "https://www.reddit.com/r/wii/comments/1xsfhbu/i_think_my_wii_might_be_possessed/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-10T06:11:49Z",
-          "firstSeen": "2026-11-10T09:44:52Z",
-          "excerpt": "The disc drive light turned on by itself and the console isn't even on are there ghosts in my Wii",
-          "matched": []
         }
       ]
     },
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-14T17:03:48Z",
-      "lastAttempt": "2026-11-14T17:03:48Z",
+      "lastOk": "2026-11-14T21:27:25Z",
+      "lastAttempt": "2026-11-14T21:27:25Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
