@@ -1,10 +1,11 @@
 {
   "version": 1,
-  "signature": "2fdf26c3937f9216eba307ce47a79d73d7df3ce04e61479e2f35719e9ad77416",
+  "signature": "9c3405f2c141746353e8d84b0bf4ab7ae4aace71b51b87a15800728939b0a138",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-15T17:05:32Z",
+  "lastWrite": "2026-11-15T21:46:01Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
+    "0164edd0ebb3": "2026-11-15T21:46:01Z",
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
     "0313915f64ad": "2026-11-10T02:04:23Z",
@@ -187,8 +188,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T17:05:32Z",
-      "lastAttempt": "2026-11-15T17:05:32Z",
+      "lastOk": "2026-11-15T21:46:01Z",
+      "lastAttempt": "2026-11-15T21:46:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -196,19 +197,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Sun, 15 Nov 2026 07:09:00 -0000",
-      "lastOk": "2026-11-15T17:05:32Z",
-      "lastAttempt": "2026-11-15T17:05:32Z",
+      "lastModified": "Sun, 15 Nov 2026 21:19:00 -0000",
+      "lastOk": "2026-11-15T21:46:01Z",
+      "lastAttempt": "2026-11-15T21:46:01Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"f158b83b2e6347fca410bb0d42d7f2bd\"",
-      "lastModified": "Sun, 15 Nov 2026 15:00:30 GMT",
-      "lastOk": "2026-11-15T17:05:32Z",
-      "lastAttempt": "2026-11-15T17:05:32Z",
+      "etag": "W/\"c317b9a1019e32eb8711b5a7f700186f\"",
+      "lastModified": "Sun, 15 Nov 2026 20:49:02 GMT",
+      "lastOk": "2026-11-15T21:46:01Z",
+      "lastAttempt": "2026-11-15T21:46:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -217,8 +218,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T17:05:32Z",
-      "lastAttempt": "2026-11-15T17:05:32Z",
+      "lastOk": "2026-11-15T21:46:01Z",
+      "lastAttempt": "2026-11-15T21:46:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -243,8 +244,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T17:05:32Z",
-      "lastAttempt": "2026-11-15T17:05:32Z",
+      "lastOk": "2026-11-15T21:46:01Z",
+      "lastAttempt": "2026-11-15T21:46:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -748,10 +749,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"969ce6411b1095bcb0c844b80ba79b56\"",
-      "lastModified": "Sun, 15 Nov 2026 05:14:23 GMT",
-      "lastOk": "2026-11-15T17:05:32Z",
-      "lastAttempt": "2026-11-15T17:05:32Z",
+      "etag": "W/\"68a9780cf55fa63343a8ee7e2017a415\"",
+      "lastModified": "Sun, 15 Nov 2026 05:24:12 GMT",
+      "lastOk": "2026-11-15T21:46:01Z",
+      "lastAttempt": "2026-11-15T21:46:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -849,8 +850,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-15T17:05:32Z",
-      "lastAttempt": "2026-11-15T17:05:32Z",
+      "lastOk": "2026-11-15T21:46:01Z",
+      "lastAttempt": "2026-11-15T21:46:01Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1100,8 +1101,8 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T17:05:32Z",
-      "lastAttempt": "2026-11-15T17:05:32Z",
+      "lastOk": "2026-11-15T21:46:01Z",
+      "lastAttempt": "2026-11-15T21:46:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1411,12 +1412,24 @@
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T17:05:32Z",
-      "lastAttempt": "2026-11-15T17:05:32Z",
+      "lastOk": "2026-11-15T21:46:01Z",
+      "lastAttempt": "2026-11-15T21:46:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "0164edd0ebb3",
+          "title": "Channels showing instead of games - is the hard drive done?",
+          "url": "https://www.reddit.com/r/WiiHacks/comments/1xwxfll/channels_showing_instead_of_games_is_the_hard/",
+          "source": "r/WiiHacks",
+          "sourceId": "reddit-wiihacks",
+          "tab": "scene",
+          "published": "2026-11-15T14:53:31Z",
+          "firstSeen": "2026-11-15T21:46:01Z",
+          "excerpt": "Got a hard drive and SD card that worked fine for months, I bought the whole unit off of someone without knowing much about this. Usually the hard drive flashes blue but recently it will stop when I go in to USB…",
+          "matched": []
+        },
         {
           "id": "c4d763faa6bf",
           "title": "Wired Ethernet for Wii homebrew with a $15 USB adapter IOS can't run – open-source driver (libwiieth)",
@@ -1667,30 +1680,6 @@
           "published": "2026-10-27T18:42:22Z",
           "firstSeen": "2026-10-27T18:42:22Z",
           "excerpt": "Why I am asking is because I am a big fan of Tomodachi Life and I want it on the wii.",
-          "matched": []
-        },
-        {
-          "id": "4584976d3f66",
-          "title": "Wii LAN adapter - any reliable budget options?",
-          "url": "https://www.reddit.com/r/WiiHacks/comments/1xgroxn/wii_lan_adapter_any_reliable_budget_options/",
-          "source": "r/WiiHacks",
-          "sourceId": "reddit-wiihacks",
-          "tab": "scene",
-          "published": "2026-10-27T12:52:26Z",
-          "firstSeen": "2026-10-27T12:52:26Z",
-          "excerpt": "Hey I am looking for a Wii USB LAN adapter for my Wii as my internet connection is just way too inconsistent through WiFi, and the official adapters are way too expensive. Does anyone know of any cheap alternatives…",
-          "matched": []
-        },
-        {
-          "id": "67f8d841da4f",
-          "title": "Red Transparent Wii Case",
-          "url": "https://www.reddit.com/r/WiiHacks/comments/1xghuxa/red_transparent_wii_case/",
-          "source": "r/WiiHacks",
-          "sourceId": "reddit-wiihacks",
-          "tab": "scene",
-          "published": "2026-10-27T03:24:20Z",
-          "firstSeen": "2026-10-27T03:24:20Z",
-          "excerpt": "",
           "matched": []
         }
       ]
