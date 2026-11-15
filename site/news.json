@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T21:27:25Z",
+  "generatedAt": "2026-11-15T01:52:30Z",
   "items": [
+    {
+      "id": "f325220fe2e5",
+      "title": "How does Ocarina of Time's input lag on VC compare to real hardware and vs pc emulation?",
+      "url": "https://www.reddit.com/r/wii/comments/1xwi5e8/how_does_ocarina_of_times_input_lag_on_vc_compare/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-15T00:49:04Z",
+      "firstSeen": "2026-11-15T01:52:30Z",
+      "excerpt": "I heard speedrunners use it, but idk if its cause it feels better or cause of some specific advantages.",
+      "matched": []
+    },
+    {
+      "id": "183f0be4a832",
+      "title": "Christmas surprise for my adult kids",
+      "url": "https://www.reddit.com/r/wii/comments/1xwfhd6/christmas_surprise_for_my_adult_kids/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-14T22:44:02Z",
+      "firstSeen": "2026-11-15T01:52:30Z",
+      "excerpt": "Hi everyone, I just bought a used Wii console, guitar, 2 wii wheels, 2 controllers and guitar hero 3, mario kart and lego rockband to be under the tree on Christmas morning. First time in 7 years, I will have all my…",
+      "matched": []
+    },
+    {
+      "id": "7e34f35c1650",
+      "title": "Should i get a wii or wii u?",
+      "url": "https://www.reddit.com/r/wii/comments/1xweyvr/should_i_get_a_wii_or_wii_u/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-14T22:20:28Z",
+      "firstSeen": "2026-11-15T01:52:30Z",
+      "excerpt": "I dont know which console to get. I like the controller for the wii u, and its relatively newer. I mainly want to play the Zelda, gutair hero, and smash bros games, and re4. Will the Wii last as long as i want it to?…",
+      "matched": []
+    },
     {
       "id": "2f9d09837bde",
       "title": "wii medal of honor game; what else?",
@@ -108,42 +144,6 @@
       "published": "2026-11-13T09:56:11Z",
       "firstSeen": "2026-11-13T15:22:31Z",
       "excerpt": "I made an iOS app that connects to dolphin on Mac and lets you use your iPhone as a Wii motion controller with tracking support. Here is the link",
-      "matched": []
-    },
-    {
-      "id": "44347108aaf3",
-      "title": "Where can I find smash bros Wii U dlc",
-      "url": "https://www.reddit.com/r/wii/comments/1xv2wxv/where_can_i_find_smash_bros_wii_u_dlc/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-13T08:54:17Z",
-      "firstSeen": "2026-11-13T15:22:31Z",
-      "excerpt": "",
-      "matched": []
-    },
-    {
-      "id": "79e9d6aad603",
-      "title": "i wanna download meme run on my wii can i?",
-      "url": "https://www.reddit.com/r/wii/comments/1xv1yi5/i_wanna_download_meme_run_on_my_wii_can_i/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-13T07:54:17Z",
-      "firstSeen": "2026-11-13T15:22:31Z",
-      "excerpt": "huh",
-      "matched": []
-    },
-    {
-      "id": "a0bfd84575fa",
-      "title": "What’s going on with this wii remote?",
-      "url": "https://www.reddit.com/r/wii/comments/1xuxkr8/whats_going_on_with_this_wii_remote/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-13T03:44:56Z",
-      "firstSeen": "2026-11-13T06:39:18Z",
-      "excerpt": "It doesn’t turn on. I’ve already cleaned the battery pins without any success, and after better inspection this exact part is what appears to be causing trouble. Does anyone know if it can be saved and how can I do it?",
       "matched": []
     },
     {
@@ -414,18 +414,6 @@
       ]
     },
     {
-      "id": "a0c0e3ff6c3f",
-      "title": "Another Metroid 2 Remake Has Made Its Way to the Nintendo Wii",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xknkdk/another_metroid_2_remake_has_made_its_way_to_the/",
-      "source": "r/WiiHacks",
-      "sourceId": "reddit-wiihacks",
-      "tab": "scene",
-      "published": "2026-10-31T22:47:07Z",
-      "firstSeen": "2026-10-31T22:47:07Z",
-      "excerpt": "I've written a little article about AM2R GX, a new native Nintendo Wii port of Another Metroid 2 Remake, developed by cmyksoda. I just love that we're approaching the Wii's twentieth birthday and people are still…",
-      "matched": []
-    },
-    {
       "id": "5b9a4f30e349",
       "title": "Dolphin Progress Report: Release 2609",
       "url": "https://dolphin-emu.org/blog/2026/09/24/dolphin-progress-report-release-2609/",
@@ -487,13 +475,13 @@
     },
     "counts": {
       "press": 9,
-      "scene": 28
+      "scene": 27
     },
-    "windowStart": "2026-10-31T21:27:25Z",
+    "windowStart": "2026-11-01T01:52:30Z",
     "completeSince": {
-      "all": "2026-11-13T02:11:44Z",
-      "press": "2026-10-31T21:27:25Z",
-      "scene": "2026-11-13T02:11:44Z"
+      "all": "2026-11-13T08:54:17Z",
+      "press": "2026-11-01T01:52:30Z",
+      "scene": "2026-11-13T08:54:17Z"
     }
   }
 }

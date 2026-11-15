@@ -5,9 +5,36 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 21:27:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 01:52:30 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How does Ocarina of Time&#39;s input lag on VC compare to real hardware and vs pc emulation?</title>
+<link>https://www.reddit.com/r/wii/comments/1xwi5e8/how_does_ocarina_of_times_input_lag_on_vc_compare/</link>
+<guid isPermaLink="false">f325220fe2e5</guid>
+<pubDate>Sun, 15 Nov 2026 00:49:04 GMT</pubDate>
+<description>I heard speedrunners use it, but idk if its cause it feels better or cause of some specific advantages.</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
+<item>
+<title>Christmas surprise for my adult kids</title>
+<link>https://www.reddit.com/r/wii/comments/1xwfhd6/christmas_surprise_for_my_adult_kids/</link>
+<guid isPermaLink="false">183f0be4a832</guid>
+<pubDate>Sat, 14 Nov 2026 22:44:02 GMT</pubDate>
+<description>Hi everyone, I just bought a used Wii console, guitar, 2 wii wheels, 2 controllers and guitar hero 3, mario kart and lego rockband to be under the tree on Christmas morning. First time in 7 years, I will have all my…</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
+<item>
+<title>Should i get a wii or wii u?</title>
+<link>https://www.reddit.com/r/wii/comments/1xweyvr/should_i_get_a_wii_or_wii_u/</link>
+<guid isPermaLink="false">7e34f35c1650</guid>
+<pubDate>Sat, 14 Nov 2026 22:20:28 GMT</pubDate>
+<description>I dont know which console to get. I like the controller for the wii u, and its relatively newer. I mainly want to play the Zelda, gutair hero, and smash bros games, and re4. Will the Wii last as long as i want it to?…</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
 <item>
 <title>wii medal of honor game; what else?</title>
 <link>https://www.reddit.com/r/wii/comments/1xwce0t/wii_medal_of_honor_game_what_else/</link>
@@ -84,32 +111,6 @@
 <guid isPermaLink="false">a3429b0d5e62</guid>
 <pubDate>Fri, 13 Nov 2026 09:56:11 GMT</pubDate>
 <description>I made an iOS app that connects to dolphin on Mac and lets you use your iPhone as a Wii motion controller with tracking support. Here is the link</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>Where can I find smash bros Wii U dlc</title>
-<link>https://www.reddit.com/r/wii/comments/1xv2wxv/where_can_i_find_smash_bros_wii_u_dlc/</link>
-<guid isPermaLink="false">44347108aaf3</guid>
-<pubDate>Fri, 13 Nov 2026 08:54:17 GMT</pubDate>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>i wanna download meme run on my wii can i?</title>
-<link>https://www.reddit.com/r/wii/comments/1xv1yi5/i_wanna_download_meme_run_on_my_wii_can_i/</link>
-<guid isPermaLink="false">79e9d6aad603</guid>
-<pubDate>Fri, 13 Nov 2026 07:54:17 GMT</pubDate>
-<description>huh</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>What’s going on with this wii remote?</title>
-<link>https://www.reddit.com/r/wii/comments/1xuxkr8/whats_going_on_with_this_wii_remote/</link>
-<guid isPermaLink="false">a0bfd84575fa</guid>
-<pubDate>Fri, 13 Nov 2026 03:44:56 GMT</pubDate>
-<description>It doesn’t turn on. I’ve already cleaned the battery pins without any success, and after better inspection this exact part is what appears to be causing trouble. Does anyone know if it can be saved and how can I do it?</description>
 <source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
 <category>scene</category>
 </item>
@@ -283,15 +284,6 @@
 <pubDate>Mon, 02 Nov 2026 14:57:02 GMT</pubDate>
 <source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">VGChartz</source>
 <category>press</category>
-</item>
-<item>
-<title>Another Metroid 2 Remake Has Made Its Way to the Nintendo Wii</title>
-<link>https://www.reddit.com/r/WiiHacks/comments/1xknkdk/another_metroid_2_remake_has_made_its_way_to_the/</link>
-<guid isPermaLink="false">a0c0e3ff6c3f</guid>
-<pubDate>Sat, 31 Oct 2026 22:47:07 GMT</pubDate>
-<description>I&#39;ve written a little article about AM2R GX, a new native Nintendo Wii port of Another Metroid 2 Remake, developed by cmyksoda. I just love that we&#39;re approaching the Wii&#39;s twentieth birthday and people are still…</description>
-<source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
-<category>scene</category>
 </item>
 <item>
 <title>Dolphin Progress Report: Release 2609</title>
