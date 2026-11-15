@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "6af2699f00627f27ebfa1c54395c6f91d1e0a5e952d2f85fa95526bd22f4beca",
+  "signature": "2fdf26c3937f9216eba307ce47a79d73d7df3ce04e61479e2f35719e9ad77416",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-15T09:20:09Z",
+  "lastWrite": "2026-11-15T17:05:32Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "019143d0295e": "2026-11-04T17:22:25Z",
@@ -160,6 +160,7 @@
     "db9eddafe83c": "2026-10-26T07:00:00Z",
     "de16ade6e837": "2026-07-10T07:00:00Z",
     "df0e833ed93e": "2025-03-02T08:00:00Z",
+    "e2023f0170c2": "2026-11-15T17:05:32Z",
     "e326b86c8a11": "2025-06-04T10:42:04Z",
     "e5895d91fa9f": "2024-04-19T15:30:06Z",
     "e709e488c51f": "2026-11-04T17:22:25Z",
@@ -186,8 +187,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T09:20:09Z",
-      "lastAttempt": "2026-11-15T09:20:09Z",
+      "lastOk": "2026-11-15T17:05:32Z",
+      "lastAttempt": "2026-11-15T17:05:32Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -196,18 +197,18 @@
     "gonintendo": {
       "etag": null,
       "lastModified": "Sun, 15 Nov 2026 07:09:00 -0000",
-      "lastOk": "2026-11-15T09:20:09Z",
-      "lastAttempt": "2026-11-15T09:20:09Z",
+      "lastOk": "2026-11-15T17:05:32Z",
+      "lastAttempt": "2026-11-15T17:05:32Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"b8004aa1a187a21a872e779731d09c94\"",
-      "lastModified": "Sun, 15 Nov 2026 06:50:35 GMT",
-      "lastOk": "2026-11-15T09:20:09Z",
-      "lastAttempt": "2026-11-15T09:20:09Z",
+      "etag": "W/\"f158b83b2e6347fca410bb0d42d7f2bd\"",
+      "lastModified": "Sun, 15 Nov 2026 15:00:30 GMT",
+      "lastOk": "2026-11-15T17:05:32Z",
+      "lastAttempt": "2026-11-15T17:05:32Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -216,8 +217,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T09:20:09Z",
-      "lastAttempt": "2026-11-15T09:20:09Z",
+      "lastOk": "2026-11-15T17:05:32Z",
+      "lastAttempt": "2026-11-15T17:05:32Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -242,8 +243,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T09:20:09Z",
-      "lastAttempt": "2026-11-15T09:20:09Z",
+      "lastOk": "2026-11-15T17:05:32Z",
+      "lastAttempt": "2026-11-15T17:05:32Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -261,21 +262,6 @@
           "excerpt": "",
           "matched": [
             "Wii Shop"
-          ]
-        },
-        {
-          "id": "d7108c3b9c6c",
-          "title": "I used an Android phone as a Wii Remote in Dolphin, and it works better than it has any right to",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXI4UHBqZnFPdUF4c2hndkZhY2NpZkxfRHRyaTd2aGpDajBPLTJ3M0Y0bFNFakhNZnpNSTJONFVMU1YxVG1Qd1dZcXNDT1prUHJhcFRvTXIwQmJwNkdoQWlFVFA5RTkyNVFkd2hGX2Z6WVNPc2JfaFRtNFFfN1lWMGdJR3JKekp1aTJhdlBhcTdaSlE5clNUck11TnFPNWNzdE1Z?oc=5",
-          "source": "XDA",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-11T13:30:22Z",
-          "firstSeen": "2026-11-11T13:30:22Z",
-          "excerpt": "",
-          "matched": [
-            "Wii Remote"
           ]
         },
         {
@@ -762,10 +748,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"097645c3d8cd3243f49b3cf97ac1dcbd\"",
-      "lastModified": "Sat, 14 Nov 2026 19:31:51 GMT",
-      "lastOk": "2026-11-15T09:20:09Z",
-      "lastAttempt": "2026-11-15T09:20:09Z",
+      "etag": "W/\"969ce6411b1095bcb0c844b80ba79b56\"",
+      "lastModified": "Sun, 15 Nov 2026 05:14:23 GMT",
+      "lastOk": "2026-11-15T17:05:32Z",
+      "lastAttempt": "2026-11-15T17:05:32Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -863,8 +849,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-15T09:20:09Z",
-      "lastAttempt": "2026-11-15T09:20:09Z",
+      "lastOk": "2026-11-15T17:05:32Z",
+      "lastAttempt": "2026-11-15T17:05:32Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1114,12 +1100,24 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T09:20:09Z",
-      "lastAttempt": "2026-11-15T09:20:09Z",
+      "lastOk": "2026-11-15T17:05:32Z",
+      "lastAttempt": "2026-11-15T17:05:32Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "e2023f0170c2",
+          "title": "i think i found a new way to mod the wii mini is called badbomb",
+          "url": "https://www.reddit.com/r/wii/comments/1xwrs1c/i_think_i_found_a_new_way_to_mod_the_wii_mini_is/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-15T09:58:56Z",
+          "firstSeen": "2026-11-15T17:05:32Z",
+          "excerpt": "badbomb is like bluebomb but why is called badbomb? because in the original bluebomb they give the credits one who made the exploit so i have an idea let's make an exploit that when you jailbreak it gives you a video…",
+          "matched": []
+        },
         {
           "id": "b191ff601d8a",
           "title": "Game Recording on Hardware vs Emulator",
@@ -1407,26 +1405,14 @@
           "firstSeen": "2026-11-12T01:31:35Z",
           "excerpt": "",
           "matched": []
-        },
-        {
-          "id": "fd7ffcaebce4",
-          "title": "Found a fun old picture :)",
-          "url": "https://www.reddit.com/r/wii/comments/1xt3k6k/found_a_fun_old_picture/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-11T00:31:00Z",
-          "firstSeen": "2026-11-11T02:50:02Z",
-          "excerpt": "Me in 2009 opening my brand new wii on christmas — https://preview.redd.it/7sa4qtaoov0i1.png?width=401&format=png&auto=webp&s=f30e237a00b88003d9212d0b7784292306353cc2",
-          "matched": []
         }
       ]
     },
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-15T09:20:09Z",
-      "lastAttempt": "2026-11-15T09:20:09Z",
+      "lastOk": "2026-11-15T17:05:32Z",
+      "lastAttempt": "2026-11-15T17:05:32Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
