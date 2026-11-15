@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T01:52:30Z",
+  "generatedAt": "2026-11-15T09:20:09Z",
   "items": [
+    {
+      "id": "b191ff601d8a",
+      "title": "Game Recording on Hardware vs Emulator",
+      "url": "https://www.reddit.com/r/wii/comments/1xwludz/game_recording_on_hardware_vs_emulator/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-15T04:01:52Z",
+      "firstSeen": "2026-11-15T09:20:09Z",
+      "excerpt": "Hey guys, If I Wanted to record gameplay of Gamecube games, which method should I go with? Recording on Hardware (ElectronWarp)? or on emulator (Dolphin)?",
+      "matched": []
+    },
     {
       "id": "f325220fe2e5",
       "title": "How does Ocarina of Time's input lag on VC compare to real hardware and vs pc emulation?",
@@ -132,18 +144,6 @@
       "published": "2026-11-13T10:00:52Z",
       "firstSeen": "2026-11-13T15:22:31Z",
       "excerpt": "Need help figuring out what to do about your Wii console, game, accessory, or next purchase? This is the place to ask on r/Wii. Make a comment below and you will get a notification when others reply to your comment…",
-      "matched": []
-    },
-    {
-      "id": "a3429b0d5e62",
-      "title": "Wii motion controller iOS",
-      "url": "https://www.reddit.com/r/wii/comments/1xv3vr1/wii_motion_controller_ios/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-13T09:56:11Z",
-      "firstSeen": "2026-11-13T15:22:31Z",
-      "excerpt": "I made an iOS app that connects to dolphin on Mac and lets you use your iPhone as a Wii motion controller with tracking support. Here is the link",
       "matched": []
     },
     {
@@ -477,11 +477,11 @@
       "press": 9,
       "scene": 27
     },
-    "windowStart": "2026-11-01T01:52:30Z",
+    "windowStart": "2026-11-01T09:20:09Z",
     "completeSince": {
-      "all": "2026-11-13T08:54:17Z",
-      "press": "2026-11-01T01:52:30Z",
-      "scene": "2026-11-13T08:54:17Z"
+      "all": "2026-11-13T09:56:11Z",
+      "press": "2026-11-01T09:20:09Z",
+      "scene": "2026-11-13T09:56:11Z"
     }
   }
 }

@@ -9,6 +9,21 @@
   "language": "en",
   "items": [
     {
+      "id": "b191ff601d8a",
+      "url": "https://www.reddit.com/r/wii/comments/1xwludz/game_recording_on_hardware_vs_emulator/",
+      "title": "Game Recording on Hardware vs Emulator",
+      "content_text": "Hey guys, If I Wanted to record gameplay of Gamecube games, which method should I go with? Recording on Hardware (ElectronWarp)? or on emulator (Dolphin)?",
+      "date_published": "2026-11-15T04:01:52Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "f325220fe2e5",
       "url": "https://www.reddit.com/r/wii/comments/1xwi5e8/how_does_ocarina_of_times_input_lag_on_vc_compare/",
       "title": "How does Ocarina of Time's input lag on VC compare to real hardware and vs pc emulation?",
@@ -164,21 +179,6 @@
       "title": "Fix-it Friday! Please ask and give help here for tech support and other common questions.",
       "content_text": "Need help figuring out what to do about your Wii console, game, accessory, or next purchase? This is the place to ask on r/Wii. Make a comment below and you will get a notification when others reply to your comment…",
       "date_published": "2026-11-13T10:00:52Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "a3429b0d5e62",
-      "url": "https://www.reddit.com/r/wii/comments/1xv3vr1/wii_motion_controller_ios/",
-      "title": "Wii motion controller iOS",
-      "content_text": "I made an iOS app that connects to dolphin on Mac and lets you use your iPhone as a Wii motion controller with tracking support. Here is the link",
-      "date_published": "2026-11-13T09:56:11Z",
       "authors": [
         {
           "name": "r/wii"
