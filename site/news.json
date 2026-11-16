@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T02:00:34Z",
+  "generatedAt": "2026-11-16T09:37:05Z",
   "items": [
+    {
+      "id": "cc76d5bf4d8d",
+      "title": "What is a Wii-Series?????",
+      "url": "https://www.reddit.com/r/wii/comments/1xxkh5l/what_is_a_wiiseries/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-16T08:48:49Z",
+      "firstSeen": "2026-11-16T09:37:05Z",
+      "excerpt": "Today's NintenDoku asks for Wii Series games for the 3DS. What's that exactly?",
+      "matched": []
+    },
+    {
+      "id": "18b955caef93",
+      "title": "Who else remembers this or has this",
+      "url": "https://www.reddit.com/r/wii/comments/1xxggal/who_else_remembers_this_or_has_this/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-16T04:46:00Z",
+      "firstSeen": "2026-11-16T09:37:05Z",
+      "excerpt": "I swear when I was a kid. My best friend at the time (we dont talk anymore) let me borrow his wii version, but it was H.D. I remember collecting all the stamps and having the extra large ruby wallet. I only own a…",
+      "matched": []
+    },
+    {
+      "id": "814ead13ef2a",
+      "title": "I just got the perfect setup for my kids for Christmas!",
+      "url": "https://www.reddit.com/r/wii/comments/1xxfm00/i_just_got_the_perfect_setup_for_my_kids_for/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-16T03:59:58Z",
+      "firstSeen": "2026-11-16T09:37:05Z",
+      "excerpt": "I had a Wii ~15 years ago in my early 30s and felt that it would be a great intro console for my 8yo and 6yo. My kids get very little screen time, but I don’t want to deprive them of fun. IMO if they’re gonna play…",
+      "matched": []
+    },
+    {
+      "id": "4689e1538596",
+      "title": "Did a purchase today, very excited 😝",
+      "url": "https://www.reddit.com/r/wii/comments/1xxdzl4/did_a_purchase_today_very_excited/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-16T02:36:19Z",
+      "firstSeen": "2026-11-16T09:37:05Z",
+      "excerpt": "",
+      "matched": []
+    },
     {
       "id": "0f4ce1f382e9",
       "title": "Little King's Story - anyone else remember this game fondly?",
@@ -108,54 +156,6 @@
       "published": "2026-11-14T13:02:23Z",
       "firstSeen": "2026-11-14T17:03:48Z",
       "excerpt": "Sun is shining in from the right, the blinds aren't that dark and I have an old Plasma TV that is reflecting everything. Guess it's time to search for a blanket to hang up or I just play at night.",
-      "matched": []
-    },
-    {
-      "id": "f5da1b61766d",
-      "title": "need advice on a used wii",
-      "url": "https://www.reddit.com/r/wii/comments/1xw0ezg/need_advice_on_a_used_wii/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-14T11:42:05Z",
-      "firstSeen": "2026-11-14T17:03:48Z",
-      "excerpt": "Hii, I need urgent advice! Two months ago I bought a used Wii, and it had a woke jukebox attached to the bottom of the console. When I connected it to my TV, it turned on without any problems, but my controllers…",
-      "matched": []
-    },
-    {
-      "id": "a0d4d9608cba",
-      "title": "I have been working really hard on this and I have done it i got a perfect score on wii fitness",
-      "url": "https://www.reddit.com/r/wii/comments/1xvhph9/i_have_been_working_really_hard_on_this_and_i/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-13T19:46:37Z",
-      "firstSeen": "2026-11-13T21:58:18Z",
-      "excerpt": "",
-      "matched": []
-    },
-    {
-      "id": "3a5609bf17e0",
-      "title": "Is there any kind of Wii CHannel Banner thats more interactive than Super Paper Mario? O.o",
-      "url": "https://www.reddit.com/r/wii/comments/1xvfw6i/is_there_any_kind_of_wii_channel_banner_thats/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-13T18:37:56Z",
-      "firstSeen": "2026-11-13T21:58:18Z",
-      "excerpt": "Decided to look at my Wii Games i own and theyre Channel Banners and noticed that most of them are very Basic interms of their Design >.> — But SPMs Design seems to be the most Interactive due to the Amount of…",
-      "matched": []
-    },
-    {
-      "id": "efbb6e833543",
-      "title": "Questions About Modding Guide",
-      "url": "https://www.reddit.com/r/wii/comments/1xvcozc/questions_about_modding_guide/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-13T16:40:10Z",
-      "firstSeen": "2026-11-13T21:58:18Z",
-      "excerpt": "I’m looking to mod a Wii but all the threads I’ve seen have conflicting answers. Everyone says that it’s incredibly easy and posts the link to the guide. Modmii looks like the easiest route for someone like me who…",
       "matched": []
     },
     {
@@ -489,11 +489,11 @@
       "press": 9,
       "scene": 28
     },
-    "windowStart": "2026-11-02T02:00:34Z",
+    "windowStart": "2026-11-02T09:37:05Z",
     "completeSince": {
-      "all": "2026-11-13T15:18:35Z",
-      "press": "2026-11-02T02:00:34Z",
-      "scene": "2026-11-13T15:18:35Z"
+      "all": "2026-11-14T11:42:05Z",
+      "press": "2026-11-02T09:37:05Z",
+      "scene": "2026-11-14T11:42:05Z"
     }
   }
 }

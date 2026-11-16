@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "1116d14caf25773d71fbb50c3c660a682b15c97b1f023759368a667100760246",
+  "signature": "aaf7a2a7bb7b9dce492595bb112e6dca0386fab49383b4d40581cd5335185dd6",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-16T02:00:34Z",
+  "lastWrite": "2026-11-16T09:37:05Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0164edd0ebb3": "2026-11-15T21:46:01Z",
@@ -19,6 +19,7 @@
     "11ea74c38072": "2024-07-26T11:00:00Z",
     "17861fa5b00f": "2026-04-14T07:00:00Z",
     "183f0be4a832": "2026-11-15T01:52:30Z",
+    "18b955caef93": "2026-11-16T09:37:05Z",
     "1c8927b09bf4": "2026-10-16T09:28:29Z",
     "1c9799c1b985": "2026-11-08T16:41:19Z",
     "22700bb8bc69": "2026-11-09T00:51:52Z",
@@ -26,6 +27,7 @@
     "2b78f3fce6bb": "2026-11-06T20:52:27Z",
     "2db941bcf4f5": "2007-05-21T07:00:00Z",
     "2edbb7d89cb2": "2024-07-02T07:47:50Z",
+    "2f14110d76fc": "2009-07-30T07:00:00Z",
     "2f18f1d06051": "2025-09-16T03:21:58Z",
     "2f9d09837bde": "2026-11-14T21:27:25Z",
     "305480fc5d04": "2026-11-04T17:22:25Z",
@@ -55,6 +57,7 @@
     "44347108aaf3": "2026-11-13T15:22:31Z",
     "4584976d3f66": "2026-10-27T12:52:26Z",
     "45f11eb31877": "2010-05-28T07:00:00Z",
+    "4689e1538596": "2026-11-16T09:37:05Z",
     "46ae0db7fb93": "2026-11-08T10:15:36Z",
     "492e6ace070d": "2026-11-04T17:22:25Z",
     "4a27b425e27b": "2026-02-09T08:00:00Z",
@@ -65,7 +68,6 @@
     "4f0a151a32b3": "2026-11-10T02:04:23Z",
     "4f0dff1e4517": "2026-11-04T17:22:25Z",
     "4fdbe42adb7c": "2026-11-12T09:46:30Z",
-    "500b2acd2d91": "2026-04-21T07:00:00Z",
     "503a2e2d8b96": "2026-11-04T17:22:25Z",
     "549e7180d4b2": "2026-11-12T18:17:17Z",
     "54d8aafa577b": "2026-11-09T07:56:44Z",
@@ -101,6 +103,7 @@
     "7ca7f4366a15": "2025-03-10T08:31:57Z",
     "7e34f35c1650": "2026-11-15T01:52:30Z",
     "80db11f61c48": "2024-11-05T08:00:00Z",
+    "814ead13ef2a": "2026-11-16T09:37:05Z",
     "82a6975da88b": "2023-05-21T07:27:22Z",
     "8567dcd71a89": "2026-11-10T23:16:20Z",
     "856cb81f6dc2": "2008-07-17T07:00:00Z",
@@ -131,6 +134,7 @@
     "ae265a8b8b61": "2026-11-04T17:22:25Z",
     "aea9e287c645": "2026-10-23T15:41:05Z",
     "b020cb01e5c1": "2026-11-02T02:47:21Z",
+    "b09dc140a438": "2022-11-29T16:26:07Z",
     "b191ff601d8a": "2026-11-15T09:20:09Z",
     "b25ab4396885": "2026-11-04T17:22:25Z",
     "b27dbb75729b": "2026-11-06T06:37:45Z",
@@ -148,6 +152,7 @@
     "c714bf828ee9": "2006-11-20T08:00:00Z",
     "c79d217e529d": "2026-11-04T23:23:40Z",
     "cac75d39f101": "2026-08-25T07:00:00Z",
+    "cc76d5bf4d8d": "2026-11-16T09:37:05Z",
     "ccdff246fc71": "2026-10-26T23:01:45Z",
     "ce3fa9d6925f": "2026-10-29T20:57:24Z",
     "cf1ef8f6dc13": "2026-02-18T08:00:00Z",
@@ -189,8 +194,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-16T02:00:34Z",
-      "lastAttempt": "2026-11-16T02:00:34Z",
+      "lastOk": "2026-11-16T09:37:05Z",
+      "lastAttempt": "2026-11-16T09:37:05Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -198,19 +203,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Sun, 15 Nov 2026 21:19:00 -0000",
-      "lastOk": "2026-11-16T02:00:34Z",
-      "lastAttempt": "2026-11-16T02:00:34Z",
+      "lastModified": "Mon, 16 Nov 2026 06:06:00 -0000",
+      "lastOk": "2026-11-16T09:37:05Z",
+      "lastAttempt": "2026-11-16T09:37:05Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"963460ed8e24e4228a5d84071351cfcc\"",
-      "lastModified": "Sun, 15 Nov 2026 23:30:36 GMT",
-      "lastOk": "2026-11-16T02:00:34Z",
-      "lastAttempt": "2026-11-16T02:00:34Z",
+      "etag": "W/\"ee1ad656386f9696e39b28d2f51130c9\"",
+      "lastModified": "Mon, 16 Nov 2026 04:50:08 GMT",
+      "lastOk": "2026-11-16T09:37:05Z",
+      "lastAttempt": "2026-11-16T09:37:05Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -219,8 +224,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-16T02:00:34Z",
-      "lastAttempt": "2026-11-16T02:00:34Z",
+      "lastOk": "2026-11-16T09:37:05Z",
+      "lastAttempt": "2026-11-16T09:37:05Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -245,8 +250,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-16T02:00:34Z",
-      "lastAttempt": "2026-11-16T02:00:34Z",
+      "lastOk": "2026-11-16T09:37:05Z",
+      "lastAttempt": "2026-11-16T09:37:05Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -336,21 +341,6 @@
           "tab": "press",
           "published": "2026-06-02T07:00:00Z",
           "firstSeen": "2026-06-02T07:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "500b2acd2d91",
-          "title": "Nintendo Switch Users Have Thousands of Free Wii and GameCube Games Now",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblN0bVZWMlVORlJOc1FOTVlQR1ZLa3h0THU0cGU0UWVTRTJubE1xVnlPQm1BMzhoYS1pUDNLNmF4RnlBV0FfbzN6NVBDbXRYZTY5MWdxRFNrSkg4NkQxU09kNHVMandMWWI0NEFIeG5TaGtFX2ZDZDRycDRFRUMxd2Rac0I3U2IzTDN2MGtoblRLejR6R21LZklXeXAzSVJydGp0TFdCenFhLWVVQ2RhNU9PbkJIUVk?oc=5",
-          "source": "GAMINGbible",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-04-21T07:00:00Z",
-          "firstSeen": "2026-04-21T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -471,6 +461,21 @@
           "tab": "press",
           "published": "2023-07-10T07:00:00Z",
           "firstSeen": "2023-07-10T07:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "b09dc140a438",
+          "title": "50 Best Wii Games Of All Time",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
+          "source": "Nintendo Life",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2022-11-29T16:26:07Z",
+          "firstSeen": "2022-11-29T16:26:07Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -642,6 +647,21 @@
           ]
         },
         {
+          "id": "2f14110d76fc",
+          "title": "GUITAR HERO: SMASH HITS Nintendo Wii Review",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xN1RUNHRKOW0wa1dGcHEzWjhkMk4zamdELW90UVVhTWhRSGwzdC16MlhvM3RnRExBSlJtU1Nxd2tNWVEyYWJDY21XQzcyNWpsVkt6RDA1RVl4SXpRUFFINjVlWDg5eFJmYmJnbEd3SHl6dw?oc=5",
+          "source": "Collider",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2009-07-30T07:00:00Z",
+          "firstSeen": "2009-07-30T07:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "0b7b17e3be00",
           "title": "Nintendo Wii: Is the videogame king worthy of its throne?",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MVlR3aGRuclpNQVpnM1JSbWJJZy1iNThVUURka2dXak9mcm1NWWFJN085ajcyLVBaMjZvX1FNTWNGV0s5ZjQ2amFWZDdaRVhCejNjczdoSGJTemM?oc=5",
@@ -750,10 +770,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"1cb70c1f42b0ed77e6aec2c0a76df2ff\"",
-      "lastModified": "Sun, 15 Nov 2026 18:40:53 GMT",
-      "lastOk": "2026-11-16T02:00:34Z",
-      "lastAttempt": "2026-11-16T02:00:34Z",
+      "etag": "W/\"04a7be50c94d12e83e6d578b8cd5304b\"",
+      "lastModified": "Sun, 15 Nov 2026 16:59:31 GMT",
+      "lastOk": "2026-11-16T09:37:05Z",
+      "lastAttempt": "2026-11-16T09:37:05Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -851,8 +871,8 @@
     "dolphin": {
       "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
       "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-16T02:00:34Z",
-      "lastAttempt": "2026-11-16T02:00:34Z",
+      "lastOk": "2026-11-16T09:37:05Z",
+      "lastAttempt": "2026-11-16T09:37:05Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1102,12 +1122,60 @@
     "reddit-wii": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-16T02:00:34Z",
-      "lastAttempt": "2026-11-16T02:00:34Z",
+      "lastOk": "2026-11-16T09:37:05Z",
+      "lastAttempt": "2026-11-16T09:37:05Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "cc76d5bf4d8d",
+          "title": "What is a Wii-Series?????",
+          "url": "https://www.reddit.com/r/wii/comments/1xxkh5l/what_is_a_wiiseries/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-16T08:48:49Z",
+          "firstSeen": "2026-11-16T09:37:05Z",
+          "excerpt": "Today's NintenDoku asks for Wii Series games for the 3DS. What's that exactly?",
+          "matched": []
+        },
+        {
+          "id": "18b955caef93",
+          "title": "Who else remembers this or has this",
+          "url": "https://www.reddit.com/r/wii/comments/1xxggal/who_else_remembers_this_or_has_this/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-16T04:46:00Z",
+          "firstSeen": "2026-11-16T09:37:05Z",
+          "excerpt": "I swear when I was a kid. My best friend at the time (we dont talk anymore) let me borrow his wii version, but it was H.D. I remember collecting all the stamps and having the extra large ruby wallet. I only own a…",
+          "matched": []
+        },
+        {
+          "id": "814ead13ef2a",
+          "title": "I just got the perfect setup for my kids for Christmas!",
+          "url": "https://www.reddit.com/r/wii/comments/1xxfm00/i_just_got_the_perfect_setup_for_my_kids_for/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-16T03:59:58Z",
+          "firstSeen": "2026-11-16T09:37:05Z",
+          "excerpt": "I had a Wii ~15 years ago in my early 30s and felt that it would be a great intro console for my 8yo and 6yo. My kids get very little screen time, but I don’t want to deprive them of fun. IMO if they’re gonna play…",
+          "matched": []
+        },
+        {
+          "id": "4689e1538596",
+          "title": "Did a purchase today, very excited 😝",
+          "url": "https://www.reddit.com/r/wii/comments/1xxdzl4/did_a_purchase_today_very_excited/",
+          "source": "r/wii",
+          "sourceId": "reddit-wii",
+          "tab": "scene",
+          "published": "2026-11-16T02:36:19Z",
+          "firstSeen": "2026-11-16T09:37:05Z",
+          "excerpt": "",
+          "matched": []
+        },
         {
           "id": "0f4ce1f382e9",
           "title": "Little King's Story - anyone else remember this game fondly?",
@@ -1289,18 +1357,6 @@
           "matched": []
         },
         {
-          "id": "79e9d6aad603",
-          "title": "i wanna download meme run on my wii can i?",
-          "url": "https://www.reddit.com/r/wii/comments/1xv1yi5/i_wanna_download_meme_run_on_my_wii_can_i/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-13T07:54:17Z",
-          "firstSeen": "2026-11-13T15:22:31Z",
-          "excerpt": "huh",
-          "matched": []
-        },
-        {
           "id": "a0bfd84575fa",
           "title": "What’s going on with this wii remote?",
           "url": "https://www.reddit.com/r/wii/comments/1xuxkr8/whats_going_on_with_this_wii_remote/",
@@ -1337,30 +1393,6 @@
           "matched": []
         },
         {
-          "id": "4fdbe42adb7c",
-          "title": "Has anyone tried these? I have a Wii u pro controller I'd like to use on the Wii.",
-          "url": "https://www.reddit.com/r/wii/comments/1xu66l4/has_anyone_tried_these_i_have_a_wii_u_pro/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-12T07:07:57Z",
-          "firstSeen": "2026-11-12T09:46:30Z",
-          "excerpt": "",
-          "matched": []
-        },
-        {
-          "id": "ac6f21a2efba",
-          "title": "Bought a wii withDelisted digital games on it - pokemon rumble zelda mario",
-          "url": "https://www.reddit.com/r/wii/comments/1xu03nl/bought_a_wii_withdelisted_digital_games_on_it/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-12T01:45:21Z",
-          "firstSeen": "2026-11-12T09:46:30Z",
-          "excerpt": "I thought this was really cool; I assume the person bought these from the Wii Store. I haven't seen Rumble before; it's pretty fun, actually.",
-          "matched": []
-        },
-        {
           "id": "b4555e9a812f",
           "title": "I made my phone look like the Wii menu",
           "url": "https://www.reddit.com/r/wii/comments/1xtzmi7/i_made_my_phone_look_like_the_wii_menu/",
@@ -1383,26 +1415,14 @@
           "firstSeen": "2026-11-12T01:31:35Z",
           "excerpt": "",
           "matched": []
-        },
-        {
-          "id": "61dc30e4d790",
-          "title": "The new Icy Tower came out yesterday. Now working on Wii",
-          "url": "https://www.reddit.com/r/wii/comments/1xtx0zf/the_new_icy_tower_came_out_yesterday_now_working/",
-          "source": "r/wii",
-          "sourceId": "reddit-wii",
-          "tab": "scene",
-          "published": "2026-11-11T23:24:44Z",
-          "firstSeen": "2026-11-12T01:31:35Z",
-          "excerpt": "",
-          "matched": []
         }
       ]
     },
     "reddit-wiihacks": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-16T02:00:34Z",
-      "lastAttempt": "2026-11-16T02:00:34Z",
+      "lastOk": "2026-11-16T09:37:05Z",
+      "lastAttempt": "2026-11-16T09:37:05Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
