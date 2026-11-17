@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "4e9c98851fc3d9d29ea2a8c528b35ed9f4a6ec1b680469af0008f10075e0e787",
+  "signature": "78072052db0721ffac461cc57af1cd39a5e2fae338bf076fc2c750044bf6e4fc",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-17T13:19:10Z",
+  "lastWrite": "2026-11-17T22:18:56Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0164edd0ebb3": "2026-11-15T21:46:01Z",
@@ -44,6 +44,7 @@
     "3a5609bf17e0": "2026-11-13T21:58:18Z",
     "3b35826d04a5": "2026-11-14T17:03:48Z",
     "3b43bca4012d": "2009-12-05T08:00:00Z",
+    "3bbc3e579041": "2026-11-17T22:18:56Z",
     "3cdf27e2776e": "2026-11-06T20:52:27Z",
     "3deb27d0327c": "2006-11-27T08:00:00Z",
     "3e0310bf1766": "2026-11-17T03:49:08Z",
@@ -70,6 +71,7 @@
     "4f0a151a32b3": "2026-11-10T02:04:23Z",
     "4f0dff1e4517": "2026-11-04T17:22:25Z",
     "4fdbe42adb7c": "2026-11-12T09:46:30Z",
+    "500b2acd2d91": "2026-04-21T07:00:00Z",
     "503a2e2d8b96": "2026-11-04T17:22:25Z",
     "549e7180d4b2": "2026-11-12T18:17:17Z",
     "54d8aafa577b": "2026-11-09T07:56:44Z",
@@ -202,8 +204,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T13:19:10Z",
+      "lastOk": "2026-11-17T22:18:56Z",
+      "lastAttempt": "2026-11-17T22:18:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -211,19 +213,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Tue, 17 Nov 2026 05:01:00 -0000",
-      "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T13:19:10Z",
+      "lastModified": "Tue, 17 Nov 2026 20:46:00 -0000",
+      "lastOk": "2026-11-17T22:18:56Z",
+      "lastAttempt": "2026-11-17T22:18:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"38d2cd08c5afca1ea3623e19ec9bb5a8\"",
-      "lastModified": "Tue, 17 Nov 2026 10:00:57 GMT",
-      "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T13:19:10Z",
+      "etag": "W/\"937ed31ba83263e1b655208ee7e7e3e9\"",
+      "lastModified": "Tue, 17 Nov 2026 20:28:56 GMT",
+      "lastOk": "2026-11-17T22:18:56Z",
+      "lastAttempt": "2026-11-17T22:18:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -232,8 +234,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T13:19:10Z",
+      "lastOk": "2026-11-17T22:18:56Z",
+      "lastAttempt": "2026-11-17T22:18:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -242,12 +244,27 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T13:19:10Z",
+      "lastOk": "2026-11-17T22:18:56Z",
+      "lastAttempt": "2026-11-17T22:18:56Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "3bbc3e579041",
+          "title": "CVG – Nintendo Wii",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ldk4yMnlEaS1mWjc2UjY3aG5ZdFF3dUV5dUp0R3VsQS1pYnh1VFNlcm1GR05DYk1LbnRucGxCQU8wVmM4UUpkRXpDNmQ3dlFmNFJvZ29WaVJGMFlpR3BzY3pjTzhDRFVFd3NpSm5B?oc=5",
+          "source": "Video Games Chronicle",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-17T16:31:08Z",
+          "firstSeen": "2026-11-17T22:18:56Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
         {
           "id": "df3aaaca8c16",
           "title": "20 Years Later, the Wii Remains Nintendo’s Most Important Console",
@@ -261,21 +278,6 @@
           "excerpt": "",
           "matched": [
             "Wii"
-          ]
-        },
-        {
-          "id": "785ae7d515cb",
-          "title": "Blue Hens mascot YoUDee goes ham with huge Wii remote at Delaware game",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONElJbEFmTzAzS0ZGSkl2YW9VWDdBdHZtbWhWRUM0WHZaemhUWWJ5LXJMTGFDZERxUHZsUzlkZXkxY0pmRFA1N0hWRU85Rm1KTjhZUDRmckhhMWxTWTEzamdRS1hmYXM2aFl2QjJRWFhQMGpfLUp4UUstZzh1dWdmcHhTaThKZ1BLYjdHaUp5QlJpWTB0WkE5S1B3S2hEMTJuU1hMSzFld3hUQ0NTLUttaEVteHZ1Sm5VRkVjZC1wcnRxUVNZdkJIaDB1bnUxNWxCY2xn?oc=5",
-          "source": "Delawareonline.com",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-16T10:49:03Z",
-          "firstSeen": "2026-11-17T03:49:08Z",
-          "excerpt": "",
-          "matched": [
-            "Wii Remote"
           ]
         },
         {
@@ -363,6 +365,21 @@
           "tab": "press",
           "published": "2026-06-02T07:00:00Z",
           "firstSeen": "2026-06-02T07:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "500b2acd2d91",
+          "title": "Nintendo Switch Users Have Thousands of Free Wii and GameCube Games Now",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblN0bVZWMlVORlJOc1FOTVlQR1ZLa3h0THU0cGU0UWVTRTJubE1xVnlPQm1BMzhoYS1pUDNLNmF4RnlBV0FfbzN6NVBDbXRYZTY5MWdxRFNrSkg4NkQxU09kNHVMandMWWI0NEFIeG5TaGtFX2ZDZDRycDRFRUMxd2Rac0I3U2IzTDN2MGtoblRLejR6R21LZklXeXAzSVJydGp0TFdCenFhLWVVQ2RhNU9PbkJIUVk?oc=5",
+          "source": "GAMINGbible",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-04-21T07:00:00Z",
+          "firstSeen": "2026-04-21T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -764,10 +781,10 @@
     "hackaday": {
       "etag": "W/\"a730556b6188896de9c346495d4d26fb\"",
       "lastModified": "Tue, 17 Nov 2026 06:58:57 GMT",
-      "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T13:19:10Z",
+      "lastOk": "2026-11-17T22:18:56Z",
+      "lastAttempt": "2026-11-17T22:18:56Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": [
         {
@@ -861,12 +878,12 @@
       ]
     },
     "dolphin": {
-      "etag": "W/\"04b24bbcdea56a1cdf06d708ffa1cc14\"",
-      "lastModified": "Sun, 08 Nov 2026 03:58:27 GMT",
-      "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T13:19:10Z",
+      "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
+      "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
+      "lastOk": "2026-11-17T22:18:56Z",
+      "lastAttempt": "2026-11-17T22:18:56Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": [
         {
@@ -1115,10 +1132,10 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T13:19:10Z",
-      "failures": 0,
-      "httpStatus": 200,
-      "error": null,
+      "lastAttempt": "2026-11-17T22:18:56Z",
+      "failures": 1,
+      "httpStatus": 404,
+      "error": "HTTP 404",
       "items": [
         {
           "id": "d928b9d87b55",
@@ -1414,10 +1431,10 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T13:19:10Z",
-      "failures": 0,
-      "httpStatus": 200,
-      "error": null,
+      "lastAttempt": "2026-11-17T22:18:56Z",
+      "failures": 1,
+      "httpStatus": 404,
+      "error": "HTTP 404",
       "items": [
         {
           "id": "0164edd0ebb3",

@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T13:19:10Z",
+  "generatedAt": "2026-11-17T22:18:56Z",
   "items": [
+    {
+      "id": "3bbc3e579041",
+      "title": "CVG – Nintendo Wii",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ldk4yMnlEaS1mWjc2UjY3aG5ZdFF3dUV5dUp0R3VsQS1pYnh1VFNlcm1GR05DYk1LbnRucGxCQU8wVmM4UUpkRXpDNmQ3dlFmNFJvZ29WaVJGMFlpR3BzY3pjTzhDRFVFd3NpSm5B?oc=5",
+      "source": "Video Games Chronicle",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-17T16:31:08Z",
+      "firstSeen": "2026-11-17T22:18:56Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
     {
       "id": "d928b9d87b55",
       "title": "Earlier this month, it has been 15 years since The Kore Gang was localized for North America. This obscure European-developed sci-fi comedy platformer underwent development hell and released to…",
@@ -486,13 +501,13 @@
       "published": "2026-09-24T04:36:38Z"
     },
     "counts": {
-      "press": 9,
+      "press": 10,
       "scene": 28
     },
-    "windowStart": "2026-11-03T13:19:10Z",
+    "windowStart": "2026-11-03T22:18:56Z",
     "completeSince": {
       "all": "2026-11-16T00:06:27Z",
-      "press": "2026-11-03T13:19:10Z",
+      "press": "2026-11-03T22:18:56Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
