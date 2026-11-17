@@ -5,9 +5,36 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 20:26:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 03:49:08 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ingame Animation System | Nintendo GameCube\Wii</title>
+<link>https://www.reddit.com/r/wii/comments/1xy8ih3/ingame_animation_system_nintendo_gamecubewii/</link>
+<guid isPermaLink="false">3e0310bf1766</guid>
+<pubDate>Tue, 17 Nov 2026 02:20:28 GMT</pubDate>
+<description>This is my in-game cutscene system, called the Arcroarts Animation System. It&#39;s part of my own in-house game engine, which I wrote in C/C++. 😄 — The system runs across my PC and an SN Systems TDEV GameCube development…</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
+<item>
+<title>Here&#39;s every documented way the Wii hurt people (iceberg)</title>
+<link>https://www.reddit.com/r/wii/comments/1xy6ylb/heres_every_documented_way_the_wii_hurt_people/</link>
+<guid isPermaLink="false">1fc973eea2dc</guid>
+<pubDate>Tue, 17 Nov 2026 01:06:35 GMT</pubDate>
+<description>https://preview.redd.it/1cn1sd5io22i1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=31925d8c299745c5ef7791a27950faad39938f57 — I spent a while researching the Wii&#39;s injury reputation and turned it into an iceberg.</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
+<item>
+<title>Wii Sports Blue Tennis Court (No HUD)</title>
+<link>https://www.reddit.com/r/wii/comments/1xy6uy0/wii_sports_blue_tennis_court_no_hud/</link>
+<guid isPermaLink="false">fc67f3e5c8a7</guid>
+<pubDate>Tue, 17 Nov 2026 01:01:53 GMT</pubDate>
+<description>Here&#39;s the blue tennis court from Wii Sports without the HUD. It&#39;s the one used in Training Mode, and you can also play on it by pressing 2 on the Wii Remote before making the match. Applogizes for the multiple uploads</description>
+<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
+<category>scene</category>
+</item>
 <item>
 <title>Anyone wanna be my friend? :3</title>
 <link>https://www.reddit.com/r/wii/comments/1xxunc0/anyone_wanna_be_my_friend_3/</link>
@@ -15,6 +42,14 @@
 <pubDate>Mon, 16 Nov 2026 16:59:09 GMT</pubDate>
 <source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
 <category>scene</category>
+</item>
+<item>
+<title>20 Years Later, the Wii Remains Nintendo’s Most Important Console</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjJkNFQzSmZoQ1hrVGN2MHlKT0VWQkozLUFHVXhlbThpNkFsWXJPaVg1ZTNjTGNRSjRUbjhDZjE0OC1ralNUVm82dGo2ODh4dUFabG9NenR2WkFtNzFyVEk3Z2ltMXYxSGdVYzZsUXBFSlc2VXJJMV9qLXQzV0g5S3hDTWlEbnB5MFBBUlNRd3FMcWVJaFlJ?oc=5</link>
+<guid isPermaLink="false">df3aaaca8c16</guid>
+<pubDate>Mon, 16 Nov 2026 16:30:00 GMT</pubDate>
+<source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">IGN</source>
+<category>press</category>
 </item>
 <item>
 <title>Just wanted to show this (WIP)</title>
@@ -32,6 +67,14 @@
 <description>I&#39;ve been using this really cheap one for a while, but for some reason it limits the resolution to 4:3, so I would like to get a better one, but idk what would be the best cost-benefit as I&#39;m somewhat poor. Any…</description>
 <source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
 <category>scene</category>
+</item>
+<item>
+<title>Blue Hens mascot YoUDee goes ham with huge Wii remote at Delaware game</title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxONElJbEFmTzAzS0ZGSkl2YW9VWDdBdHZtbWhWRUM0WHZaemhUWWJ5LXJMTGFDZERxUHZsUzlkZXkxY0pmRFA1N0hWRU85Rm1KTjhZUDRmckhhMWxTWTEzamdRS1hmYXM2aFl2QjJRWFhQMGpfLUp4UUstZzh1dWdmcHhTaThKZ1BLYjdHaUp5QlJpWTB0WkE5S1B3S2hEMTJuU1hMSzFld3hUQ0NTLUttaEVteHZ1Sm5VRkVjZC1wcnRxUVNZdkJIaDB1bnUxNWxCY2xn?oc=5</link>
+<guid isPermaLink="false">785ae7d515cb</guid>
+<pubDate>Mon, 16 Nov 2026 10:49:03 GMT</pubDate>
+<source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">Delawareonline.com</source>
+<category>press</category>
 </item>
 <item>
 <title>What is a Wii-Series?????</title>
@@ -92,33 +135,6 @@
 <guid isPermaLink="false">e2023f0170c2</guid>
 <pubDate>Sun, 15 Nov 2026 09:58:56 GMT</pubDate>
 <description>badbomb is like bluebomb but why is called badbomb? because in the original bluebomb they give the credits one who made the exploit so i have an idea let&#39;s make an exploit that when you jailbreak it gives you a video…</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>Game Recording on Hardware vs Emulator</title>
-<link>https://www.reddit.com/r/wii/comments/1xwludz/game_recording_on_hardware_vs_emulator/</link>
-<guid isPermaLink="false">b191ff601d8a</guid>
-<pubDate>Sun, 15 Nov 2026 04:01:52 GMT</pubDate>
-<description>Hey guys, If I Wanted to record gameplay of Gamecube games, which method should I go with? Recording on Hardware (ElectronWarp)? or on emulator (Dolphin)?</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>How does Ocarina of Time&#39;s input lag on VC compare to real hardware and vs pc emulation?</title>
-<link>https://www.reddit.com/r/wii/comments/1xwi5e8/how_does_ocarina_of_times_input_lag_on_vc_compare/</link>
-<guid isPermaLink="false">f325220fe2e5</guid>
-<pubDate>Sun, 15 Nov 2026 00:49:04 GMT</pubDate>
-<description>I heard speedrunners use it, but idk if its cause it feels better or cause of some specific advantages.</description>
-<source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
-<category>scene</category>
-</item>
-<item>
-<title>Christmas surprise for my adult kids</title>
-<link>https://www.reddit.com/r/wii/comments/1xwfhd6/christmas_surprise_for_my_adult_kids/</link>
-<guid isPermaLink="false">183f0be4a832</guid>
-<pubDate>Sat, 14 Nov 2026 22:44:02 GMT</pubDate>
-<description>Hi everyone, I just bought a used Wii console, guitar, 2 wii wheels, 2 controllers and guitar hero 3, mario kart and lego rockband to be under the tree on Christmas morning. First time in 7 years, I will have all my…</description>
 <source url="https://www.reddit.com/r/wii/.rss">r/wii</source>
 <category>scene</category>
 </item>
@@ -276,14 +292,6 @@
 <description>Is it possible somehow to boot directly into a game on a USB drive? I know I can boot into USB Loader GX or whatever, but I&#39;d like to not have to press any buttons at all before the game starts loading.</description>
 <source url="https://www.reddit.com/r/WiiHacks/.rss">r/WiiHacks</source>
 <category>scene</category>
-</item>
-<item>
-<title>SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFh3SERjMFFwZklUVGg1RXVDaFBDS1hLRGZydVlNUTM4OHNWVUt2VTRkZFhZSmhYV3pxYWctdDh6TkFtWm1FLVB0dHhNcGFGUnpWYmJfejdLOGthUldjUmYzb0pLUnBKcFYwYS0xMThFZ0VlTFdRVGJrWm1aTDFNWEdSQVNkcktFblRmXw?oc=5</link>
-<guid isPermaLink="false">ed13f06de9c7</guid>
-<pubDate>Mon, 02 Nov 2026 18:10:29 GMT</pubDate>
-<source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">Retro Dodo</source>
-<category>press</category>
 </item>
 <item>
 <title>Dolphin Progress Report: Release 2609</title>

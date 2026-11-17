@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T20:26:41Z",
+  "generatedAt": "2026-11-17T03:49:08Z",
   "items": [
+    {
+      "id": "3e0310bf1766",
+      "title": "Ingame Animation System | Nintendo GameCube\\Wii",
+      "url": "https://www.reddit.com/r/wii/comments/1xy8ih3/ingame_animation_system_nintendo_gamecubewii/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-17T02:20:28Z",
+      "firstSeen": "2026-11-17T03:49:08Z",
+      "excerpt": "This is my in-game cutscene system, called the Arcroarts Animation System. It's part of my own in-house game engine, which I wrote in C/C++. 😄 — The system runs across my PC and an SN Systems TDEV GameCube development…",
+      "matched": []
+    },
+    {
+      "id": "1fc973eea2dc",
+      "title": "Here's every documented way the Wii hurt people (iceberg)",
+      "url": "https://www.reddit.com/r/wii/comments/1xy6ylb/heres_every_documented_way_the_wii_hurt_people/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-17T01:06:35Z",
+      "firstSeen": "2026-11-17T03:49:08Z",
+      "excerpt": "https://preview.redd.it/1cn1sd5io22i1.png?width=1080&format=png&auto=webp&s=31925d8c299745c5ef7791a27950faad39938f57 — I spent a while researching the Wii's injury reputation and turned it into an iceberg.",
+      "matched": []
+    },
+    {
+      "id": "fc67f3e5c8a7",
+      "title": "Wii Sports Blue Tennis Court (No HUD)",
+      "url": "https://www.reddit.com/r/wii/comments/1xy6uy0/wii_sports_blue_tennis_court_no_hud/",
+      "source": "r/wii",
+      "sourceId": "reddit-wii",
+      "tab": "scene",
+      "published": "2026-11-17T01:01:53Z",
+      "firstSeen": "2026-11-17T03:49:08Z",
+      "excerpt": "Here's the blue tennis court from Wii Sports without the HUD. It's the one used in Training Mode, and you can also play on it by pressing 2 on the Wii Remote before making the match. Applogizes for the multiple uploads",
+      "matched": []
+    },
     {
       "id": "ef984cbfdb4f",
       "title": "Anyone wanna be my friend? :3",
@@ -13,6 +49,21 @@
       "firstSeen": "2026-11-16T20:26:41Z",
       "excerpt": "",
       "matched": []
+    },
+    {
+      "id": "df3aaaca8c16",
+      "title": "20 Years Later, the Wii Remains Nintendo’s Most Important Console",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjJkNFQzSmZoQ1hrVGN2MHlKT0VWQkozLUFHVXhlbThpNkFsWXJPaVg1ZTNjTGNRSjRUbjhDZjE0OC1ralNUVm82dGo2ODh4dUFabG9NenR2WkFtNzFyVEk3Z2ltMXYxSGdVYzZsUXBFSlc2VXJJMV9qLXQzV0g5S3hDTWlEbnB5MFBBUlNRd3FMcWVJaFlJ?oc=5",
+      "source": "IGN",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-16T16:30:00Z",
+      "firstSeen": "2026-11-17T03:49:08Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
     },
     {
       "id": "b264a275a00c",
@@ -37,6 +88,21 @@
       "firstSeen": "2026-11-16T20:26:41Z",
       "excerpt": "I've been using this really cheap one for a while, but for some reason it limits the resolution to 4:3, so I would like to get a better one, but idk what would be the best cost-benefit as I'm somewhat poor. Any…",
       "matched": []
+    },
+    {
+      "id": "785ae7d515cb",
+      "title": "Blue Hens mascot YoUDee goes ham with huge Wii remote at Delaware game",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONElJbEFmTzAzS0ZGSkl2YW9VWDdBdHZtbWhWRUM0WHZaemhUWWJ5LXJMTGFDZERxUHZsUzlkZXkxY0pmRFA1N0hWRU85Rm1KTjhZUDRmckhhMWxTWTEzamdRS1hmYXM2aFl2QjJRWFhQMGpfLUp4UUstZzh1dWdmcHhTaThKZ1BLYjdHaUp5QlJpWTB0WkE5S1B3S2hEMTJuU1hMSzFld3hUQ0NTLUttaEVteHZ1Sm5VRkVjZC1wcnRxUVNZdkJIaDB1bnUxNWxCY2xn?oc=5",
+      "source": "Delawareonline.com",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-16T10:49:03Z",
+      "firstSeen": "2026-11-17T03:49:08Z",
+      "excerpt": "",
+      "matched": [
+        "Wii Remote"
+      ]
     },
     {
       "id": "cc76d5bf4d8d",
@@ -120,42 +186,6 @@
       "published": "2026-11-15T09:58:56Z",
       "firstSeen": "2026-11-15T17:05:32Z",
       "excerpt": "badbomb is like bluebomb but why is called badbomb? because in the original bluebomb they give the credits one who made the exploit so i have an idea let's make an exploit that when you jailbreak it gives you a video…",
-      "matched": []
-    },
-    {
-      "id": "b191ff601d8a",
-      "title": "Game Recording on Hardware vs Emulator",
-      "url": "https://www.reddit.com/r/wii/comments/1xwludz/game_recording_on_hardware_vs_emulator/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-15T04:01:52Z",
-      "firstSeen": "2026-11-15T09:20:09Z",
-      "excerpt": "Hey guys, If I Wanted to record gameplay of Gamecube games, which method should I go with? Recording on Hardware (ElectronWarp)? or on emulator (Dolphin)?",
-      "matched": []
-    },
-    {
-      "id": "f325220fe2e5",
-      "title": "How does Ocarina of Time's input lag on VC compare to real hardware and vs pc emulation?",
-      "url": "https://www.reddit.com/r/wii/comments/1xwi5e8/how_does_ocarina_of_times_input_lag_on_vc_compare/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-15T00:49:04Z",
-      "firstSeen": "2026-11-15T01:52:30Z",
-      "excerpt": "I heard speedrunners use it, but idk if its cause it feels better or cause of some specific advantages.",
-      "matched": []
-    },
-    {
-      "id": "183f0be4a832",
-      "title": "Christmas surprise for my adult kids",
-      "url": "https://www.reddit.com/r/wii/comments/1xwfhd6/christmas_surprise_for_my_adult_kids/",
-      "source": "r/wii",
-      "sourceId": "reddit-wii",
-      "tab": "scene",
-      "published": "2026-11-14T22:44:02Z",
-      "firstSeen": "2026-11-15T01:52:30Z",
-      "excerpt": "Hi everyone, I just bought a used Wii console, guitar, 2 wii wheels, 2 controllers and guitar hero 3, mario kart and lego rockband to be under the tree on Christmas morning. First time in 7 years, I will have all my…",
       "matched": []
     },
     {
@@ -396,21 +426,6 @@
       "matched": []
     },
     {
-      "id": "ed13f06de9c7",
-      "title": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFh3SERjMFFwZklUVGg1RXVDaFBDS1hLRGZydVlNUTM4OHNWVUt2VTRkZFhZSmhYV3pxYWctdDh6TkFtWm1FLVB0dHhNcGFGUnpWYmJfejdLOGthUldjUmYzb0pLUnBKcFYwYS0xMThFZ0VlTFdRVGJrWm1aTDFNWEdSQVNkcktFblRmXw?oc=5",
-      "source": "Retro Dodo",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-02T18:10:29Z",
-      "firstSeen": "2026-11-02T18:10:29Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
       "id": "5b9a4f30e349",
       "title": "Dolphin Progress Report: Release 2609",
       "url": "https://dolphin-emu.org/blog/2026/09/24/dolphin-progress-report-release-2609/",
@@ -471,14 +486,14 @@
       "published": "2026-09-24T04:36:38Z"
     },
     "counts": {
-      "press": 8,
+      "press": 9,
       "scene": 28
     },
-    "windowStart": "2026-11-02T20:26:41Z",
+    "windowStart": "2026-11-03T03:49:08Z",
     "completeSince": {
-      "all": "2026-11-14T22:20:28Z",
-      "press": "2026-11-02T20:26:41Z",
-      "scene": "2026-11-14T22:20:28Z"
+      "all": "2026-11-15T04:01:52Z",
+      "press": "2026-11-03T03:49:08Z",
+      "scene": "2026-11-15T04:01:52Z"
     }
   }
 }

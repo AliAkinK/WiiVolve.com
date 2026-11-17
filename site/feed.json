@@ -9,6 +9,51 @@
   "language": "en",
   "items": [
     {
+      "id": "3e0310bf1766",
+      "url": "https://www.reddit.com/r/wii/comments/1xy8ih3/ingame_animation_system_nintendo_gamecubewii/",
+      "title": "Ingame Animation System | Nintendo GameCube\\Wii",
+      "content_text": "This is my in-game cutscene system, called the Arcroarts Animation System. It's part of my own in-house game engine, which I wrote in C/C++. 😄 — The system runs across my PC and an SN Systems TDEV GameCube development…",
+      "date_published": "2026-11-17T02:20:28Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "1fc973eea2dc",
+      "url": "https://www.reddit.com/r/wii/comments/1xy6ylb/heres_every_documented_way_the_wii_hurt_people/",
+      "title": "Here's every documented way the Wii hurt people (iceberg)",
+      "content_text": "https://preview.redd.it/1cn1sd5io22i1.png?width=1080&format=png&auto=webp&s=31925d8c299745c5ef7791a27950faad39938f57 — I spent a while researching the Wii's injury reputation and turned it into an iceberg.",
+      "date_published": "2026-11-17T01:06:35Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
+      "id": "fc67f3e5c8a7",
+      "url": "https://www.reddit.com/r/wii/comments/1xy6uy0/wii_sports_blue_tennis_court_no_hud/",
+      "title": "Wii Sports Blue Tennis Court (No HUD)",
+      "content_text": "Here's the blue tennis court from Wii Sports without the HUD. It's the one used in Training Mode, and you can also play on it by pressing 2 on the Wii Remote before making the match. Applogizes for the multiple uploads",
+      "date_published": "2026-11-17T01:01:53Z",
+      "authors": [
+        {
+          "name": "r/wii"
+        }
+      ],
+      "tags": [
+        "scene"
+      ]
+    },
+    {
       "id": "ef984cbfdb4f",
       "url": "https://www.reddit.com/r/wii/comments/1xxunc0/anyone_wanna_be_my_friend_3/",
       "title": "Anyone wanna be my friend? :3",
@@ -21,6 +66,21 @@
       ],
       "tags": [
         "scene"
+      ]
+    },
+    {
+      "id": "df3aaaca8c16",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjJkNFQzSmZoQ1hrVGN2MHlKT0VWQkozLUFHVXhlbThpNkFsWXJPaVg1ZTNjTGNRSjRUbjhDZjE0OC1ralNUVm82dGo2ODh4dUFabG9NenR2WkFtNzFyVEk3Z2ltMXYxSGdVYzZsUXBFSlc2VXJJMV9qLXQzV0g5S3hDTWlEbnB5MFBBUlNRd3FMcWVJaFlJ?oc=5",
+      "title": "20 Years Later, the Wii Remains Nintendo’s Most Important Console",
+      "content_text": "20 Years Later, the Wii Remains Nintendo’s Most Important Console",
+      "date_published": "2026-11-16T16:30:00Z",
+      "authors": [
+        {
+          "name": "IGN"
+        }
+      ],
+      "tags": [
+        "press"
       ]
     },
     {
@@ -51,6 +111,21 @@
       ],
       "tags": [
         "scene"
+      ]
+    },
+    {
+      "id": "785ae7d515cb",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONElJbEFmTzAzS0ZGSkl2YW9VWDdBdHZtbWhWRUM0WHZaemhUWWJ5LXJMTGFDZERxUHZsUzlkZXkxY0pmRFA1N0hWRU85Rm1KTjhZUDRmckhhMWxTWTEzamdRS1hmYXM2aFl2QjJRWFhQMGpfLUp4UUstZzh1dWdmcHhTaThKZ1BLYjdHaUp5QlJpWTB0WkE5S1B3S2hEMTJuU1hMSzFld3hUQ0NTLUttaEVteHZ1Sm5VRkVjZC1wcnRxUVNZdkJIaDB1bnUxNWxCY2xn?oc=5",
+      "title": "Blue Hens mascot YoUDee goes ham with huge Wii remote at Delaware game",
+      "content_text": "Blue Hens mascot YoUDee goes ham with huge Wii remote at Delaware game",
+      "date_published": "2026-11-16T10:49:03Z",
+      "authors": [
+        {
+          "name": "Delawareonline.com"
+        }
+      ],
+      "tags": [
+        "press"
       ]
     },
     {
@@ -149,51 +224,6 @@
       "title": "i think i found a new way to mod the wii mini is called badbomb",
       "content_text": "badbomb is like bluebomb but why is called badbomb? because in the original bluebomb they give the credits one who made the exploit so i have an idea let's make an exploit that when you jailbreak it gives you a video…",
       "date_published": "2026-11-15T09:58:56Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "b191ff601d8a",
-      "url": "https://www.reddit.com/r/wii/comments/1xwludz/game_recording_on_hardware_vs_emulator/",
-      "title": "Game Recording on Hardware vs Emulator",
-      "content_text": "Hey guys, If I Wanted to record gameplay of Gamecube games, which method should I go with? Recording on Hardware (ElectronWarp)? or on emulator (Dolphin)?",
-      "date_published": "2026-11-15T04:01:52Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "f325220fe2e5",
-      "url": "https://www.reddit.com/r/wii/comments/1xwi5e8/how_does_ocarina_of_times_input_lag_on_vc_compare/",
-      "title": "How does Ocarina of Time's input lag on VC compare to real hardware and vs pc emulation?",
-      "content_text": "I heard speedrunners use it, but idk if its cause it feels better or cause of some specific advantages.",
-      "date_published": "2026-11-15T00:49:04Z",
-      "authors": [
-        {
-          "name": "r/wii"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "183f0be4a832",
-      "url": "https://www.reddit.com/r/wii/comments/1xwfhd6/christmas_surprise_for_my_adult_kids/",
-      "title": "Christmas surprise for my adult kids",
-      "content_text": "Hi everyone, I just bought a used Wii console, guitar, 2 wii wheels, 2 controllers and guitar hero 3, mario kart and lego rockband to be under the tree on Christmas morning. First time in 7 years, I will have all my…",
-      "date_published": "2026-11-14T22:44:02Z",
       "authors": [
         {
           "name": "r/wii"
@@ -471,21 +501,6 @@
       ],
       "tags": [
         "scene"
-      ]
-    },
-    {
-      "id": "ed13f06de9c7",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFh3SERjMFFwZklUVGg1RXVDaFBDS1hLRGZydVlNUTM4OHNWVUt2VTRkZFhZSmhYV3pxYWctdDh6TkFtWm1FLVB0dHhNcGFGUnpWYmJfejdLOGthUldjUmYzb0pLUnBKcFYwYS0xMThFZ0VlTFdRVGJrWm1aTDFNWEdSQVNkcktFblRmXw?oc=5",
-      "title": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
-      "content_text": "SUMEE! Emulator Turns Your iPhone Into A Wii-Inspired Handheld",
-      "date_published": "2026-11-02T18:10:29Z",
-      "authors": [
-        {
-          "name": "Retro Dodo"
-        }
-      ],
-      "tags": [
-        "press"
       ]
     },
     {
