@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T04:16:11Z",
+  "generatedAt": "2026-11-18T13:06:12Z",
   "items": [
     {
       "id": "3bbc3e579041",
@@ -429,18 +429,6 @@
       "matched": []
     },
     {
-      "id": "b27dbb75729b",
-      "title": "Boot directly into game on USB",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xnn4uo/boot_directly_into_game_on_usb/",
-      "source": "r/WiiHacks",
-      "sourceId": "reddit-wiihacks",
-      "tab": "scene",
-      "published": "2026-11-04T12:37:42Z",
-      "firstSeen": "2026-11-06T06:37:45Z",
-      "excerpt": "Is it possible somehow to boot directly into a game on a USB drive? I know I can boot into USB Loader GX or whatever, but I'd like to not have to press any buttons at all before the game starts loading.",
-      "matched": []
-    },
-    {
       "id": "5b9a4f30e349",
       "title": "Dolphin Progress Report: Release 2609",
       "url": "https://dolphin-emu.org/blog/2026/09/24/dolphin-progress-report-release-2609/",
@@ -502,12 +490,12 @@
     },
     "counts": {
       "press": 10,
-      "scene": 28
+      "scene": 27
     },
-    "windowStart": "2026-11-04T04:16:11Z",
+    "windowStart": "2026-11-04T13:06:12Z",
     "completeSince": {
       "all": "2026-11-16T00:06:27Z",
-      "press": "2026-11-04T04:16:11Z",
+      "press": "2026-11-04T13:06:12Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
