@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T13:06:12Z",
+  "generatedAt": "2026-11-18T21:25:16Z",
   "items": [
+    {
+      "id": "0b6db0ca20f1",
+      "title": "What Is the Wii Sports Theme Song? Composer and Original Music Explained",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2ZqTEFybUw1clRvcC1rdGMwT1lwQ1dweGpQVHFYMjhTWk9YM3U0SmU2QXNTby1hR1B5aWRMY3pxc3J3b0ctOGFsQ09fUHQtRW5kOVA0UjVvSlJxVG5XbjRKRGJzZkFpQi1saGdyLWNMeDE3YkJOT0Nsekc3eWRtNEtac2pjVTRNSHlBVi04SWRiVU1TZ1hIcEhyY3pJZmxJZHc?oc=5",
+      "source": "RouteNote",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-18T17:21:00Z",
+      "firstSeen": "2026-11-18T21:25:16Z",
+      "excerpt": "",
+      "matched": [
+        "Wii Sports"
+      ]
+    },
+    {
+      "id": "e8c934963c24",
+      "title": "Twenty years ago, the Wii and PS3 predicted the future of gaming – did they get it right?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa01yQjNKWTQ0VGRPRnFWdXE1em1iTlVkXzZlR2JqZC1wZHZIQnl6bWxlT2xPb0NYVHhjbk9sSkxZM1diVTlZQmt5bVBvQ2pyYUtBV3JhV1ZxbnFER2FCcjl5Z01DREdMODRsZ2tiMXQ2QWdxVmlySEZyNmpjR0ltdkFEOGlQY3N4al9zUEhydEc4T1lIQ0dUWkVJLWJwSWpheTNIcmk1cnBWYVVT?oc=5",
+      "source": "The Guardian",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-18T16:12:00Z",
+      "firstSeen": "2026-11-18T21:25:16Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
     {
       "id": "3bbc3e579041",
       "title": "CVG – Nintendo Wii",
@@ -489,13 +519,13 @@
       "published": "2026-09-24T04:36:38Z"
     },
     "counts": {
-      "press": 10,
+      "press": 12,
       "scene": 27
     },
-    "windowStart": "2026-11-04T13:06:12Z",
+    "windowStart": "2026-11-04T21:25:16Z",
     "completeSince": {
       "all": "2026-11-16T00:06:27Z",
-      "press": "2026-11-04T13:06:12Z",
+      "press": "2026-11-04T21:25:16Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }

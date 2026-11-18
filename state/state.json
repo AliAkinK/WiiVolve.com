@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "364c4f48b9630a8f8de0a26e69eaee73fc0689553bf416ba4dbf726729d3d648",
+  "signature": "539d5e78fa2b55a53bfdf7c80b73b74217b2ce2e3de36a914ca07a50f46e55df",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-18T13:06:12Z",
+  "lastWrite": "2026-11-18T21:25:16Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0164edd0ebb3": "2026-11-15T21:46:01Z",
@@ -12,6 +12,7 @@
     "03e6a7a6c088": "2026-11-06T00:12:19Z",
     "09b862d39f1b": "2026-11-04T17:22:25Z",
     "0b14a20b1603": "2026-10-16T10:10:25Z",
+    "0b6db0ca20f1": "2026-11-18T21:25:16Z",
     "0e31de6bc41d": "2026-11-05T10:50:04Z",
     "0e6b97df8067": "2026-11-09T07:56:44Z",
     "0f4ce1f382e9": "2026-11-16T02:00:34Z",
@@ -111,7 +112,6 @@
     "82a6975da88b": "2023-05-21T07:27:22Z",
     "8567dcd71a89": "2026-11-10T23:16:20Z",
     "856cb81f6dc2": "2008-07-17T07:00:00Z",
-    "8744a64a1e79": "2017-10-16T20:21:07Z",
     "877d7331e801": "2026-11-08T02:26:39Z",
     "885ce50c2ea2": "2026-11-05T18:43:09Z",
     "89ba2f11dae0": "2026-10-05T20:15:13Z",
@@ -180,6 +180,7 @@
     "e5895d91fa9f": "2024-04-19T15:30:06Z",
     "e709e488c51f": "2026-11-04T17:22:25Z",
     "e7c0b7774d5a": "2025-11-14T10:04:26Z",
+    "e8c934963c24": "2026-11-18T21:25:16Z",
     "e8fe48d4d728": "2026-01-22T09:00:06Z",
     "ed13f06de9c7": "2026-11-02T18:10:29Z",
     "ef984cbfdb4f": "2026-11-16T20:26:41Z",
@@ -204,8 +205,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-18T13:06:12Z",
-      "lastAttempt": "2026-11-18T13:06:12Z",
+      "lastOk": "2026-11-18T21:25:16Z",
+      "lastAttempt": "2026-11-18T21:25:16Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -213,19 +214,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Wed, 18 Nov 2026 06:05:00 -0000",
-      "lastOk": "2026-11-18T13:06:12Z",
-      "lastAttempt": "2026-11-18T13:06:12Z",
+      "lastModified": "Wed, 18 Nov 2026 20:26:00 -0000",
+      "lastOk": "2026-11-18T21:25:16Z",
+      "lastAttempt": "2026-11-18T21:25:16Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"93329e3a8837490f8f31b0255149986a\"",
-      "lastModified": "Wed, 18 Nov 2026 10:14:32 GMT",
-      "lastOk": "2026-11-18T13:06:12Z",
-      "lastAttempt": "2026-11-18T13:06:12Z",
+      "etag": "W/\"ffb573fc483b3777d270cc81d8c2585c\"",
+      "lastModified": "Wed, 18 Nov 2026 19:55:15 GMT",
+      "lastOk": "2026-11-18T21:25:16Z",
+      "lastAttempt": "2026-11-18T21:25:16Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -234,8 +235,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-18T13:06:12Z",
-      "lastAttempt": "2026-11-18T13:06:12Z",
+      "lastOk": "2026-11-18T21:25:16Z",
+      "lastAttempt": "2026-11-18T21:25:16Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -244,12 +245,42 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-18T13:06:12Z",
-      "lastAttempt": "2026-11-18T13:06:12Z",
+      "lastOk": "2026-11-18T21:25:16Z",
+      "lastAttempt": "2026-11-18T21:25:16Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "0b6db0ca20f1",
+          "title": "What Is the Wii Sports Theme Song? Composer and Original Music Explained",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2ZqTEFybUw1clRvcC1rdGMwT1lwQ1dweGpQVHFYMjhTWk9YM3U0SmU2QXNTby1hR1B5aWRMY3pxc3J3b0ctOGFsQ09fUHQtRW5kOVA0UjVvSlJxVG5XbjRKRGJzZkFpQi1saGdyLWNMeDE3YkJOT0Nsekc3eWRtNEtac2pjVTRNSHlBVi04SWRiVU1TZ1hIcEhyY3pJZmxJZHc?oc=5",
+          "source": "RouteNote",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-18T17:21:00Z",
+          "firstSeen": "2026-11-18T21:25:16Z",
+          "excerpt": "",
+          "matched": [
+            "Wii Sports"
+          ]
+        },
+        {
+          "id": "e8c934963c24",
+          "title": "Twenty years ago, the Wii and PS3 predicted the future of gaming – did they get it right?",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa01yQjNKWTQ0VGRPRnFWdXE1em1iTlVkXzZlR2JqZC1wZHZIQnl6bWxlT2xPb0NYVHhjbk9sSkxZM1diVTlZQmt5bVBvQ2pyYUtBV3JhV1ZxbnFER2FCcjl5Z01DREdMODRsZ2tiMXQ2QWdxVmlySEZyNmpjR0ltdkFEOGlQY3N4al9zUEhydEc4T1lIQ0dUWkVJLWJwSWpheTNIcmk1cnBWYVVT?oc=5",
+          "source": "The Guardian",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-18T16:12:00Z",
+          "firstSeen": "2026-11-18T21:25:16Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
         {
           "id": "3bbc3e579041",
           "title": "CVG – Nintendo Wii",
@@ -275,21 +306,6 @@
           "tab": "press",
           "published": "2026-11-16T16:30:00Z",
           "firstSeen": "2026-11-17T03:49:08Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "935333fc3a87",
-          "title": "Review: Nex Playground - a Wii and Kinect Successor That Wants to Get Families Active Again",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZWJGRjQ0TThlamFkYTdsZGYzUE9vMVp6TE9uX1NOQ09ONmZJSVFnNXEtczZIQVdiYmdsemlZLVlrZlhFNjdaZlFISEdCREllakZjWnYtUzN4c05zZDJfaEVBMXotak1aSklVRVgwLWxvQnI4NHRrUnFialZXdU1wdU1zdnNUYXZRZ0lFREJ3R2w0cC1VSUxJSE9WOUdfWnNhdlJyUWJuQi16UGtsZE1Pb2ZHcGVXbmkxakVv?oc=5",
-          "source": "Time Extension",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-12T16:00:00Z",
-          "firstSeen": "2026-11-12T18:17:17Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -626,21 +642,6 @@
           ]
         },
         {
-          "id": "8744a64a1e79",
-          "title": "How the Wii Works",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4OXM2NGFZdkdBaXRjakJ0RmROendrZXgzazV0R19GSl95VktPT1BMa0VzWWZBU1kxUkExYWVjakFpZzRGdjdnY1NVNW5GeVZ5dW5ZaEk4Mkg?oc=5",
-          "source": "HowStuffWorks",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2017-10-16T20:21:07Z",
-          "firstSeen": "2017-10-16T20:21:07Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
           "id": "26437f139790",
           "title": "Nintendo Wii price drop ahead of Wii U launch",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclM4TUdnN0ZlQXMyeWdoa2JiQkNJLXVxLW83RGJhdUMwNW1ONFRobzZwYXhCMlFzbjRFdHdLd2k2N1psNFpCUzJPZkJUa3ZESzV6anM5OGQ1YjFmelZOYjBUSTdrWW54QnRtYzAxQmIyUXlmLWZGUTN0TmotaVBxdQ?oc=5",
@@ -795,7 +796,7 @@
           "id": "c714bf828ee9",
           "title": "The Nintendo Wii is better than the PS3 and the Xbox 360.",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUwyd3l0VGhKUEZIOG9TOFpWMi15aEh0WmNvc1pHLUQweDlIandmNGhZY3RjY0xOVmdVeGRKaU41V1dDcE5TejM5NkZSR1J3NktBR0ItQnVmRzFHcnA5V0xTQ0hJdUtHdV9TWjNkRVJ1VHFQT3ZKOHdwQnBld0owbFhoaFBjQlNab25tZkxQQklacHBpNjlLOEJvTTJNOFE?oc=5",
-          "source": "Slate",
+          "source": "Slate Magazine",
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
@@ -824,10 +825,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"953600bf695c85bce491e7988cee7f31\"",
-      "lastModified": "Wed, 18 Nov 2026 10:01:25 GMT",
-      "lastOk": "2026-11-18T13:06:12Z",
-      "lastAttempt": "2026-11-18T13:06:12Z",
+      "etag": "W/\"1d9225e13f11fe472c966d3f2e73660b\"",
+      "lastModified": "Wed, 18 Nov 2026 15:50:50 GMT",
+      "lastOk": "2026-11-18T21:25:16Z",
+      "lastAttempt": "2026-11-18T21:25:16Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -925,8 +926,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-18T13:06:12Z",
-      "lastAttempt": "2026-11-18T13:06:12Z",
+      "lastOk": "2026-11-18T21:25:16Z",
+      "lastAttempt": "2026-11-18T21:25:16Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1177,8 +1178,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-18T13:06:12Z",
-      "failures": 3,
+      "lastAttempt": "2026-11-18T21:25:16Z",
+      "failures": 4,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1476,8 +1477,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-18T13:06:12Z",
-      "failures": 3,
+      "lastAttempt": "2026-11-18T21:25:16Z",
+      "failures": 4,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
