@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "78072052db0721ffac461cc57af1cd39a5e2fae338bf076fc2c750044bf6e4fc",
+  "signature": "1ca1e0a07d477fa0e62124f6d24faf04b590d8d06a52002c278461514206d01e",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-17T22:18:56Z",
+  "lastWrite": "2026-11-18T04:16:11Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0164edd0ebb3": "2026-11-15T21:46:01Z",
@@ -112,6 +112,7 @@
     "82a6975da88b": "2023-05-21T07:27:22Z",
     "8567dcd71a89": "2026-11-10T23:16:20Z",
     "856cb81f6dc2": "2008-07-17T07:00:00Z",
+    "8744a64a1e79": "2017-10-16T20:21:07Z",
     "877d7331e801": "2026-11-08T02:26:39Z",
     "885ce50c2ea2": "2026-11-05T18:43:09Z",
     "89ba2f11dae0": "2026-10-05T20:15:13Z",
@@ -204,8 +205,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-17T22:18:56Z",
-      "lastAttempt": "2026-11-17T22:18:56Z",
+      "lastOk": "2026-11-18T04:16:11Z",
+      "lastAttempt": "2026-11-18T04:16:11Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -213,19 +214,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Tue, 17 Nov 2026 20:46:00 -0000",
-      "lastOk": "2026-11-17T22:18:56Z",
-      "lastAttempt": "2026-11-17T22:18:56Z",
+      "lastModified": "Wed, 18 Nov 2026 02:22:00 -0000",
+      "lastOk": "2026-11-18T04:16:11Z",
+      "lastAttempt": "2026-11-18T04:16:11Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"937ed31ba83263e1b655208ee7e7e3e9\"",
-      "lastModified": "Tue, 17 Nov 2026 20:28:56 GMT",
-      "lastOk": "2026-11-17T22:18:56Z",
-      "lastAttempt": "2026-11-17T22:18:56Z",
+      "etag": "W/\"4bd79065f8b4a7ba13affe27c77e2c68\"",
+      "lastModified": "Wed, 18 Nov 2026 02:14:39 GMT",
+      "lastOk": "2026-11-18T04:16:11Z",
+      "lastAttempt": "2026-11-18T04:16:11Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -234,8 +235,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-17T22:18:56Z",
-      "lastAttempt": "2026-11-17T22:18:56Z",
+      "lastOk": "2026-11-18T04:16:11Z",
+      "lastAttempt": "2026-11-18T04:16:11Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -244,8 +245,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-17T22:18:56Z",
-      "lastAttempt": "2026-11-17T22:18:56Z",
+      "lastOk": "2026-11-18T04:16:11Z",
+      "lastAttempt": "2026-11-18T04:16:11Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -278,6 +279,36 @@
           "excerpt": "",
           "matched": [
             "Wii"
+          ]
+        },
+        {
+          "id": "935333fc3a87",
+          "title": "Review: Nex Playground - a Wii and Kinect Successor That Wants to Get Families Active Again",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZWJGRjQ0TThlamFkYTdsZGYzUE9vMVp6TE9uX1NOQ09ONmZJSVFnNXEtczZIQVdiYmdsemlZLVlrZlhFNjdaZlFISEdCREllakZjWnYtUzN4c05zZDJfaEVBMXotak1aSklVRVgwLWxvQnI4NHRrUnFialZXdU1wdU1zdnNUYXZRZ0lFREJ3R2w0cC1VSUxJSE9WOUdfWnNhdlJyUWJuQi16UGtsZE1Pb2ZHcGVXbmkxakVv?oc=5",
+          "source": "Time Extension",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-12T16:00:00Z",
+          "firstSeen": "2026-11-12T18:17:17Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "9482079d87e5",
+          "title": "What Is the Wii Shop Channel Theme Song? Composer and History",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkFmWk96T0s3cTFFZ0lmVGhKX01pamZtNGhGdlNFUmh2LUJidVhsM1VHcmttdE1Ma1ctU3l4UWJoeG15cEZSRGMzdzlkc3NyNWtjbUxPcDVkUVF5OE52Zzc3bFpVVV9aQ1JOU3RHUXdzWmZCM3BNbDh1NFR1VDNVU2ZHOFpFYVhCUGZpbnd3Q19TQjg?oc=5",
+          "source": "RouteNote",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-12T11:27:00Z",
+          "firstSeen": "2026-11-12T18:17:17Z",
+          "excerpt": "",
+          "matched": [
+            "Wii Shop"
           ]
         },
         {
@@ -596,6 +627,21 @@
           ]
         },
         {
+          "id": "8744a64a1e79",
+          "title": "How the Wii Works",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4OXM2NGFZdkdBaXRjakJ0RmROendrZXgzazV0R19GSl95VktPT1BMa0VzWWZBU1kxUkExYWVjakFpZzRGdjdnY1NVNW5GeVZ5dW5ZaEk4Mkg?oc=5",
+          "source": "HowStuffWorks",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2017-10-16T20:21:07Z",
+          "firstSeen": "2017-10-16T20:21:07Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "26437f139790",
           "title": "Nintendo Wii price drop ahead of Wii U launch",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclM4TUdnN0ZlQXMyeWdoa2JiQkNJLXVxLW83RGJhdUMwNW1ONFRobzZwYXhCMlFzbjRFdHdLd2k2N1psNFpCUzJPZkJUa3ZESzV6anM5OGQ1YjFmelZOYjBUSTdrWW54QnRtYzAxQmIyUXlmLWZGUTN0TmotaVBxdQ?oc=5",
@@ -779,12 +825,12 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"a730556b6188896de9c346495d4d26fb\"",
-      "lastModified": "Tue, 17 Nov 2026 06:58:57 GMT",
-      "lastOk": "2026-11-17T22:18:56Z",
-      "lastAttempt": "2026-11-17T22:18:56Z",
+      "etag": "W/\"6eac65b8463342621d23f012f9e68b4c\"",
+      "lastModified": "Tue, 17 Nov 2026 21:56:37 GMT",
+      "lastOk": "2026-11-18T04:16:11Z",
+      "lastAttempt": "2026-11-18T04:16:11Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": [
         {
@@ -880,10 +926,10 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-17T22:18:56Z",
-      "lastAttempt": "2026-11-17T22:18:56Z",
+      "lastOk": "2026-11-18T04:16:11Z",
+      "lastAttempt": "2026-11-18T04:16:11Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": [
         {
@@ -1132,8 +1178,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T22:18:56Z",
-      "failures": 1,
+      "lastAttempt": "2026-11-18T04:16:11Z",
+      "failures": 2,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1431,8 +1477,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-17T22:18:56Z",
-      "failures": 1,
+      "lastAttempt": "2026-11-18T04:16:11Z",
+      "failures": 2,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
