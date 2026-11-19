@@ -1,10 +1,11 @@
 {
   "version": 1,
-  "signature": "fa3ce30994b80c53208c2002b454b36541d45ee9f763bae78be7039d9eefd0ae",
+  "signature": "edd493298b975f4420355ab9c52d84ec73136d25fc92dbb8787886cfa68de806",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-19T03:22:54Z",
+  "lastWrite": "2026-11-19T12:59:03Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
+    "0141fd50c395": "2026-11-19T12:59:03Z",
     "0164edd0ebb3": "2026-11-15T21:46:01Z",
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
@@ -82,7 +83,6 @@
     "5d0e562a27e1": "2009-11-28T08:00:00Z",
     "5db4ffa8faf7": "2026-11-12T01:31:35Z",
     "5ea678c6b8c0": "2026-11-02T08:25:08Z",
-    "5feeed740b67": "2023-07-10T07:00:00Z",
     "607ee5d86c15": "2026-11-02T13:22:57Z",
     "6192b84301f1": "2024-07-15T20:54:59Z",
     "61dc30e4d790": "2026-11-12T01:31:35Z",
@@ -124,6 +124,7 @@
     "966440fd7ab6": "2026-11-07T07:06:17Z",
     "98fee3c0d488": "2026-11-07T22:42:52Z",
     "9df281965dbe": "2026-11-10T02:04:23Z",
+    "9ef7003b4ad5": "2026-11-19T12:59:03Z",
     "a0bfd84575fa": "2026-11-13T06:39:18Z",
     "a0c0e3ff6c3f": "2026-10-31T22:47:07Z",
     "a0d4d9608cba": "2026-11-13T21:58:18Z",
@@ -161,6 +162,7 @@
     "cc76d5bf4d8d": "2026-11-16T09:37:05Z",
     "ccdff246fc71": "2026-10-26T23:01:45Z",
     "ce3fa9d6925f": "2026-10-29T20:57:24Z",
+    "cf1ef8f6dc13": "2026-02-18T08:00:00Z",
     "cf2a37c5d759": "2026-11-04T17:22:25Z",
     "cf81d239f637": "2026-11-09T18:44:56Z",
     "d1a70aa936b0": "2026-11-04T23:23:40Z",
@@ -204,28 +206,43 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-19T03:22:54Z",
-      "lastAttempt": "2026-11-19T03:22:54Z",
+      "lastOk": "2026-11-19T12:59:03Z",
+      "lastAttempt": "2026-11-19T12:59:03Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
-      "items": []
+      "items": [
+        {
+          "id": "0141fd50c395",
+          "title": "Guide: 50 Best Wii Games Of All Time",
+          "url": "https://www.nintendolife.com/guides/50-best-wii-games-of-all-time",
+          "source": "Nintendo Life",
+          "sourceId": "nintendolife",
+          "tab": "press",
+          "published": "2026-11-19T10:00:00Z",
+          "firstSeen": "2026-11-19T12:59:03Z",
+          "excerpt": "Our guide to the best games on Wii. 19th November 2026 marks the 20th anniversary of Wii's Japanese launch, so it's the perfect time to revisit our list of the best games on the system. Keep an eye out for more…",
+          "matched": [
+            "Wii"
+          ]
+        }
+      ]
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Thu, 19 Nov 2026 03:19:00 -0000",
-      "lastOk": "2026-11-19T03:22:54Z",
-      "lastAttempt": "2026-11-19T03:22:54Z",
+      "lastModified": "Thu, 19 Nov 2026 09:36:00 -0000",
+      "lastOk": "2026-11-19T12:59:03Z",
+      "lastAttempt": "2026-11-19T12:59:03Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"876ee2a74f666d98b18b72210f85a792\"",
-      "lastModified": "Thu, 19 Nov 2026 01:03:40 GMT",
-      "lastOk": "2026-11-19T03:22:54Z",
-      "lastAttempt": "2026-11-19T03:22:54Z",
+      "etag": "W/\"6d3db52dc7c185465066521a3e37d7a1\"",
+      "lastModified": "Thu, 19 Nov 2026 09:12:06 GMT",
+      "lastOk": "2026-11-19T12:59:03Z",
+      "lastAttempt": "2026-11-19T12:59:03Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -234,8 +251,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-19T03:22:54Z",
-      "lastAttempt": "2026-11-19T03:22:54Z",
+      "lastOk": "2026-11-19T12:59:03Z",
+      "lastAttempt": "2026-11-19T12:59:03Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -244,12 +261,28 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-19T03:22:54Z",
-      "lastAttempt": "2026-11-19T03:22:54Z",
+      "lastOk": "2026-11-19T12:59:03Z",
+      "lastAttempt": "2026-11-19T12:59:03Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "9ef7003b4ad5",
+          "title": "Remembering Nintendo Wii at 20 and how the Wiimote meant it was only a matter of time before you smashed your TV",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UQjVBQ2w5R1BrMkxLVDZmS3BCelJmNkpLRy1SZnI0U2JDa1psbEkzZ2Ezb3pRb0EtN19iQXQ5WVh6N01POXNJXzc3b3FGbTctTzZpTmNB?oc=5",
+          "source": "Stuff",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-19T10:01:27Z",
+          "firstSeen": "2026-11-19T12:59:03Z",
+          "excerpt": "",
+          "matched": [
+            "Wii",
+            "Wiimote"
+          ]
+        },
         {
           "id": "0b6db0ca20f1",
           "title": "What Is the Wii Sports Theme Song? Composer and Original Music Explained",
@@ -296,30 +329,15 @@
           ]
         },
         {
-          "id": "9482079d87e5",
-          "title": "What Is the Wii Shop Channel Theme Song? Composer and History",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkFmWk96T0s3cTFFZ0lmVGhKX01pamZtNGhGdlNFUmh2LUJidVhsM1VHcmttdE1Ma1ctU3l4UWJoeG15cEZSRGMzdzlkc3NyNWtjbUxPcDVkUVF5OE52Zzc3bFpVVV9aQ1JOU3RHUXdzWmZCM3BNbDh1NFR1VDNVU2ZHOFpFYVhCUGZpbnd3Q19TQjg?oc=5",
-          "source": "RouteNote",
+          "id": "785ae7d515cb",
+          "title": "Blue Hens mascot YoUDee goes ham with huge Wii remote at Delaware game",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONElJbEFmTzAzS0ZGSkl2YW9VWDdBdHZtbWhWRUM0WHZaemhUWWJ5LXJMTGFDZERxUHZsUzlkZXkxY0pmRFA1N0hWRU85Rm1KTjhZUDRmckhhMWxTWTEzamdRS1hmYXM2aFl2QjJRWFhQMGpfLUp4UUstZzh1dWdmcHhTaThKZ1BLYjdHaUp5QlJpWTB0WkE5S1B3S2hEMTJuU1hMSzFld3hUQ0NTLUttaEVteHZ1Sm5VRkVjZC1wcnRxUVNZdkJIaDB1bnUxNWxCY2xn?oc=5",
+          "source": "Delawareonline.com",
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
-          "published": "2026-11-12T11:27:00Z",
-          "firstSeen": "2026-11-12T18:17:17Z",
-          "excerpt": "",
-          "matched": [
-            "Wii Shop"
-          ]
-        },
-        {
-          "id": "d7108c3b9c6c",
-          "title": "I used an Android phone as a Wii Remote in Dolphin, and it works better than it has any right to",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXI4UHBqZnFPdUF4c2hndkZhY2NpZkxfRHRyaTd2aGpDajBPLTJ3M0Y0bFNFakhNZnpNSTJONFVMU1YxVG1Qd1dZcXNDT1prUHJhcFRvTXIwQmJwNkdoQWlFVFA5RTkyNVFkd2hGX2Z6WVNPc2JfaFRtNFFfN1lWMGdJR3JKekp1aTJhdlBhcTdaSlE5clNUck11TnFPNWNzdE1Z?oc=5",
-          "source": "XDA",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-11T13:30:22Z",
-          "firstSeen": "2026-11-11T13:30:22Z",
+          "published": "2026-11-16T10:49:03Z",
+          "firstSeen": "2026-11-17T03:49:08Z",
           "excerpt": "",
           "matched": [
             "Wii Remote"
@@ -431,6 +449,21 @@
           ]
         },
         {
+          "id": "cf1ef8f6dc13",
+          "title": "5 Clever Uses For Your Old Nintendo Wii Remotes",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wRUQ1cFAwQzA4OW9NLWJKcUlaTktsdmpVcDRjR0s3M2hHR1ZhcUY5OG1odlVUdWl2bmoxZ3Uyc3B4M2YxVkRMQkdWalRURm1RTFl1SmF5VURnVHV5ZzRtYjUtYmhhSDhBRHFTejd2R2owci0xRWc?oc=5",
+          "source": "BGR",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-02-18T08:00:00Z",
+          "firstSeen": "2026-02-18T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "4a27b425e27b",
           "title": "Nintendo Set To Bring Back The Wii, Dreams Do Come True",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWVCUllvajhGcEdLd0k0ZWtfSG5aREJTSHhkR3NJZjNqdzlaYnlia1k1YVNnZzlLZXR4YTZ5Q0FLSWsxaEJDbGtSa1pIcnVfM1Y3dGVrTV9WQjM1V3d1ZkpSQ1RSTEQzNWJUUmZmZUh6dDlseHNWSkd5amREbEZ2eFVVMmp0MEZtWWlQa1FSNnVyY3BCYUFmY0VhSFRvWWhJVmFJLWZlcEd0eFEwNC1iVmVoU0I4d3RYUjQ2OUJB?oc=5",
@@ -506,15 +539,15 @@
           ]
         },
         {
-          "id": "5feeed740b67",
-          "title": "Nine Of The Best Uses For An Old Nintendo Wii",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfa2ZlUWRKUHo3aV9oSENnR0FfbXNjUlU1ZzM3TEpubUZ1clRvd0N1TVNHV2VnN2l5NzRISVZRQzhTdzlQZ3BRNE56ZmpYbHZGeDZUWS1uWlFpV1VScVFQY2F2ZjNvdlpSWFZnWXBn?oc=5",
-          "source": "SlashGear",
+          "id": "b09dc140a438",
+          "title": "50 Best Wii Games Of All Time",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
+          "source": "Nintendo Life",
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
-          "published": "2023-07-10T07:00:00Z",
-          "firstSeen": "2023-07-10T07:00:00Z",
+          "published": "2022-11-29T16:26:07Z",
+          "firstSeen": "2022-11-29T16:26:07Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -590,21 +623,6 @@
           "tab": "press",
           "published": "2020-11-19T08:00:00Z",
           "firstSeen": "2020-11-19T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "b09dc140a438",
-          "title": "50 Best Wii Games Of All Time",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
-          "source": "Nintendo Life",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2020-11-03T08:00:00Z",
-          "firstSeen": "2022-11-29T16:26:07Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -794,10 +812,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"abc10056df1e05aa475710b5af6a5e8f\"",
-      "lastModified": "Wed, 18 Nov 2026 16:06:29 GMT",
-      "lastOk": "2026-11-19T03:22:54Z",
-      "lastAttempt": "2026-11-19T03:22:54Z",
+      "etag": "W/\"0102e8e16e1ab7603eb7b04ae8182ef2\"",
+      "lastModified": "Thu, 19 Nov 2026 04:27:21 GMT",
+      "lastOk": "2026-11-19T12:59:03Z",
+      "lastAttempt": "2026-11-19T12:59:03Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -895,8 +913,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-19T03:22:54Z",
-      "lastAttempt": "2026-11-19T03:22:54Z",
+      "lastOk": "2026-11-19T12:59:03Z",
+      "lastAttempt": "2026-11-19T12:59:03Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1147,8 +1165,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-19T03:22:54Z",
-      "failures": 5,
+      "lastAttempt": "2026-11-19T12:59:03Z",
+      "failures": 6,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1446,10 +1464,10 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-19T03:22:54Z",
-      "failures": 5,
-      "httpStatus": 429,
-      "error": "HTTP 429",
+      "lastAttempt": "2026-11-19T12:59:03Z",
+      "failures": 6,
+      "httpStatus": 404,
+      "error": "HTTP 404",
       "items": [
         {
           "id": "0164edd0ebb3",
