@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "539d5e78fa2b55a53bfdf7c80b73b74217b2ce2e3de36a914ca07a50f46e55df",
+  "signature": "fa3ce30994b80c53208c2002b454b36541d45ee9f763bae78be7039d9eefd0ae",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-18T21:25:16Z",
+  "lastWrite": "2026-11-19T03:22:54Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0164edd0ebb3": "2026-11-15T21:46:01Z",
@@ -161,7 +161,6 @@
     "cc76d5bf4d8d": "2026-11-16T09:37:05Z",
     "ccdff246fc71": "2026-10-26T23:01:45Z",
     "ce3fa9d6925f": "2026-10-29T20:57:24Z",
-    "cf1ef8f6dc13": "2026-02-18T08:00:00Z",
     "cf2a37c5d759": "2026-11-04T17:22:25Z",
     "cf81d239f637": "2026-11-09T18:44:56Z",
     "d1a70aa936b0": "2026-11-04T23:23:40Z",
@@ -205,8 +204,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-18T21:25:16Z",
-      "lastAttempt": "2026-11-18T21:25:16Z",
+      "lastOk": "2026-11-19T03:22:54Z",
+      "lastAttempt": "2026-11-19T03:22:54Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -214,19 +213,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Wed, 18 Nov 2026 20:26:00 -0000",
-      "lastOk": "2026-11-18T21:25:16Z",
-      "lastAttempt": "2026-11-18T21:25:16Z",
+      "lastModified": "Thu, 19 Nov 2026 03:19:00 -0000",
+      "lastOk": "2026-11-19T03:22:54Z",
+      "lastAttempt": "2026-11-19T03:22:54Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"ffb573fc483b3777d270cc81d8c2585c\"",
-      "lastModified": "Wed, 18 Nov 2026 19:55:15 GMT",
-      "lastOk": "2026-11-18T21:25:16Z",
-      "lastAttempt": "2026-11-18T21:25:16Z",
+      "etag": "W/\"876ee2a74f666d98b18b72210f85a792\"",
+      "lastModified": "Thu, 19 Nov 2026 01:03:40 GMT",
+      "lastOk": "2026-11-19T03:22:54Z",
+      "lastAttempt": "2026-11-19T03:22:54Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -235,8 +234,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-18T21:25:16Z",
-      "lastAttempt": "2026-11-18T21:25:16Z",
+      "lastOk": "2026-11-19T03:22:54Z",
+      "lastAttempt": "2026-11-19T03:22:54Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -245,8 +244,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-18T21:25:16Z",
-      "lastAttempt": "2026-11-18T21:25:16Z",
+      "lastOk": "2026-11-19T03:22:54Z",
+      "lastAttempt": "2026-11-19T03:22:54Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -276,21 +275,6 @@
           "tab": "press",
           "published": "2026-11-18T16:12:00Z",
           "firstSeen": "2026-11-18T21:25:16Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "3bbc3e579041",
-          "title": "CVG – Nintendo Wii",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ldk4yMnlEaS1mWjc2UjY3aG5ZdFF3dUV5dUp0R3VsQS1pYnh1VFNlcm1GR05DYk1LbnRucGxCQU8wVmM4UUpkRXpDNmQ3dlFmNFJvZ29WaVJGMFlpR3BzY3pjTzhDRFVFd3NpSm5B?oc=5",
-          "source": "Video Games Chronicle",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-17T16:31:08Z",
-          "firstSeen": "2026-11-17T22:18:56Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -447,21 +431,6 @@
           ]
         },
         {
-          "id": "cf1ef8f6dc13",
-          "title": "5 Clever Uses For Your Old Nintendo Wii Remotes",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wRUQ1cFAwQzA4OW9NLWJKcUlaTktsdmpVcDRjR0s3M2hHR1ZhcUY5OG1odlVUdWl2bmoxZ3Uyc3B4M2YxVkRMQkdWalRURm1RTFl1SmF5VURnVHV5ZzRtYjUtYmhhSDhBRHFTejd2R2owci0xRWc?oc=5",
-          "source": "BGR",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-02-18T08:00:00Z",
-          "firstSeen": "2026-02-18T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
           "id": "4a27b425e27b",
           "title": "Nintendo Set To Bring Back The Wii, Dreams Do Come True",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWVCUllvajhGcEdLd0k0ZWtfSG5aREJTSHhkR3NJZjNqdzlaYnlia1k1YVNnZzlLZXR4YTZ5Q0FLSWsxaEJDbGtSa1pIcnVfM1Y3dGVrTV9WQjM1V3d1ZkpSQ1RSTEQzNWJUUmZmZUh6dDlseHNWSkd5amREbEZ2eFVVMmp0MEZtWWlQa1FSNnVyY3BCYUFmY0VhSFRvWWhJVmFJLWZlcEd0eFEwNC1iVmVoU0I4d3RYUjQ2OUJB?oc=5",
@@ -552,21 +521,6 @@
           ]
         },
         {
-          "id": "b09dc140a438",
-          "title": "50 Best Wii Games Of All Time",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
-          "source": "Nintendo Life",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2022-11-29T16:26:07Z",
-          "firstSeen": "2022-11-29T16:26:07Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
           "id": "561321a38c62",
           "title": "Remembering The Queen’s Totally Real Love For The Nintendo Wii",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlFHX2FhbWRIemVBaDZuSHdqTlV1ZjVmUGpCVzhKdl9OTTc1U19oZE1XcGxzaWtmNjlOZkItakFKdENiSndqRy10SllaX0FTNlBFa0E0MmxBWWlFSzRaeGR5a1gxVlN0eUhHN1Rpdzd3YkIwdk9BT2FjVklLMVdsMGNPUmhRc2ZaOUgw?oc=5",
@@ -636,6 +590,21 @@
           "tab": "press",
           "published": "2020-11-19T08:00:00Z",
           "firstSeen": "2020-11-19T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "b09dc140a438",
+          "title": "50 Best Wii Games Of All Time",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
+          "source": "Nintendo Life",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2020-11-03T08:00:00Z",
+          "firstSeen": "2022-11-29T16:26:07Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -796,7 +765,7 @@
           "id": "c714bf828ee9",
           "title": "The Nintendo Wii is better than the PS3 and the Xbox 360.",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUwyd3l0VGhKUEZIOG9TOFpWMi15aEh0WmNvc1pHLUQweDlIandmNGhZY3RjY0xOVmdVeGRKaU41V1dDcE5TejM5NkZSR1J3NktBR0ItQnVmRzFHcnA5V0xTQ0hJdUtHdV9TWjNkRVJ1VHFQT3ZKOHdwQnBld0owbFhoaFBjQlNab25tZkxQQklacHBpNjlLOEJvTTJNOFE?oc=5",
-          "source": "Slate Magazine",
+          "source": "Slate",
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
@@ -825,10 +794,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"1d9225e13f11fe472c966d3f2e73660b\"",
-      "lastModified": "Wed, 18 Nov 2026 15:50:50 GMT",
-      "lastOk": "2026-11-18T21:25:16Z",
-      "lastAttempt": "2026-11-18T21:25:16Z",
+      "etag": "W/\"abc10056df1e05aa475710b5af6a5e8f\"",
+      "lastModified": "Wed, 18 Nov 2026 16:06:29 GMT",
+      "lastOk": "2026-11-19T03:22:54Z",
+      "lastAttempt": "2026-11-19T03:22:54Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -926,8 +895,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-18T21:25:16Z",
-      "lastAttempt": "2026-11-18T21:25:16Z",
+      "lastOk": "2026-11-19T03:22:54Z",
+      "lastAttempt": "2026-11-19T03:22:54Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1178,8 +1147,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-18T21:25:16Z",
-      "failures": 4,
+      "lastAttempt": "2026-11-19T03:22:54Z",
+      "failures": 5,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1477,10 +1446,10 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-18T21:25:16Z",
-      "failures": 4,
-      "httpStatus": 404,
-      "error": "HTTP 404",
+      "lastAttempt": "2026-11-19T03:22:54Z",
+      "failures": 5,
+      "httpStatus": 429,
+      "error": "HTTP 429",
       "items": [
         {
           "id": "0164edd0ebb3",
