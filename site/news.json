@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T21:29:19Z",
+  "generatedAt": "2026-11-20T03:09:48Z",
   "items": [
+    {
+      "id": "ed9ac1aab517",
+      "title": "Nintendo Wii Turns 20 Years Old on November 19",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MOWtlSTRIUWVnenkyN29xcEVpS1NKRG5qYTRkNXJLVUVNUnJMU3JjVWk1V0ZYMWZ3c0dsTExrLXZKZ1JfSEk1LUZFMllqLVNkMjVDTDVJQnVmOGFfbjJmMEV1VXlwenpiSHNJbQ?oc=5",
+      "source": "Happy Gamer",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-19T22:01:46Z",
+      "firstSeen": "2026-11-20T03:09:48Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
     {
       "id": "7c71f3b69200",
       "title": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)",
@@ -130,6 +145,21 @@
       "published": "2026-11-19T10:00:00Z",
       "firstSeen": "2026-11-19T12:59:03Z",
       "excerpt": "Our guide to the best games on Wii. 19th November 2026 marks the 20th anniversary of Wii's Japanese launch, so it's the perfect time to revisit our list of the best games on the system. Keep an eye out for more…",
+      "matched": [
+        "Wii"
+      ]
+    },
+    {
+      "id": "59e496bcc676",
+      "title": "The Wii turns 20, and that ridiculous name aged pretty well",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kRk1XbndnNzZtYXR5WDNHSkY1dDd6MzRnakZGSDVsVkV0UzVEMExrM1Z5SGtjbjR5RVVaa1NmMFdsSWpPUTY4?oc=5",
+      "source": "Digg",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-18T17:31:27Z",
+      "firstSeen": "2026-11-20T03:09:48Z",
+      "excerpt": "",
       "matched": [
         "Wii"
       ]
@@ -408,21 +438,6 @@
       "matched": []
     },
     {
-      "id": "6c29995aae56",
-      "title": "The Wii and PS3 Both Turn 20 This Month, and Each Won a Different Race",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Kejl4V2dROW5vS24tRFh5dzJnSXZiZWRkU1JfaWw5OUJPRURvaWM2NEd2bFJZVGdvRXI5LU9tSHhQNHc1QldmZGlua1RSQzJXak9wZmZxNmh4Y0Q1czBKQQ?oc=5",
-      "source": "Technobezz",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-11T18:47:42Z",
-      "firstSeen": "2026-11-12T01:31:35Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
       "id": "6845a1ed1876",
       "title": "Is there any way to hide the homebrew channel?",
       "url": "https://www.reddit.com/r/WiiHacks/comments/1xtnk5q/is_there_any_way_to_hide_the_homebrew_channel/",
@@ -459,21 +474,6 @@
       "matched": []
     },
     {
-      "id": "d7108c3b9c6c",
-      "title": "I used an Android phone as a Wii Remote in Dolphin, and it works better than it has any right to",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXI4UHBqZnFPdUF4c2hndkZhY2NpZkxfRHRyaTd2aGpDajBPLTJ3M0Y0bFNFakhNZnpNSTJONFVMU1YxVG1Qd1dZcXNDT1prUHJhcFRvTXIwQmJwNkdoQWlFVFA5RTkyNVFkd2hGX2Z6WVNPc2JfaFRtNFFfN1lWMGdJR3JKekp1aTJhdlBhcTdaSlE5clNUck11TnFPNWNzdE1Z?oc=5",
-      "source": "XDA",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-11T13:30:22Z",
-      "firstSeen": "2026-11-11T13:30:22Z",
-      "excerpt": "",
-      "matched": [
-        "Wii Remote"
-      ]
-    },
-    {
       "id": "54d8aafa577b",
       "title": "I've been working on a native Celeste port for the Wii. Here's how it's going so far!",
       "url": "https://www.reddit.com/r/WiiHacks/comments/1xrh87f/ive_been_working_on_a_native_celeste_port_for_the/",
@@ -495,18 +495,6 @@
       "published": "2026-11-09T00:34:46Z",
       "firstSeen": "2026-11-09T07:56:44Z",
       "excerpt": "Initially, the controller wouldn't even turn on; the battery contacts were green and corroded. After cleaning everything with vinegar and IPA, it now powers on, but button 2 and the blue LED for the second player…",
-      "matched": []
-    },
-    {
-      "id": "a930acfe0ad4",
-      "title": "Need help making a Super Mario Bros. CD WAD.",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xow6th/need_help_making_a_super_mario_bros_cd_wad/",
-      "source": "r/WiiHacks",
-      "sourceId": "reddit-wiihacks",
-      "tab": "scene",
-      "published": "2026-11-05T22:23:09Z",
-      "firstSeen": "2026-11-06T06:37:45Z",
-      "excerpt": "I'm trying to create a custom Wii Menu channel for Super Mario Bros. CD using the latest Friish Produce (Catman version). I'm using Snes9x GX as the injection method. The game requires MSU-1 audio, so I've created a…",
       "matched": []
     },
     {
@@ -571,12 +559,12 @@
     },
     "counts": {
       "press": 18,
-      "scene": 24
+      "scene": 23
     },
-    "windowStart": "2026-11-05T21:29:19Z",
+    "windowStart": "2026-11-06T03:09:48Z",
     "completeSince": {
       "all": "2026-11-16T00:06:27Z",
-      "press": "2026-11-11T05:45:07Z",
+      "press": "2026-11-11T18:47:42Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
