@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "04792491cebbf8fdd42101894ecc8113896fdbc22425a589c012c441ee421af5",
+  "signature": "6cbeed8edebfb40227a9cc841200f9f12511a967cb4135b36182e140ebb6f22a",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-20T20:10:31Z",
+  "lastWrite": "2026-11-21T01:29:13Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0141fd50c395": "2026-11-19T12:59:03Z",
@@ -52,7 +52,6 @@
     "38cc74ba5835": "2023-07-20T08:11:32Z",
     "3a5609bf17e0": "2026-11-13T21:58:18Z",
     "3b35826d04a5": "2026-11-14T17:03:48Z",
-    "3b43bca4012d": "2009-12-05T08:00:00Z",
     "3bbc3e579041": "2026-11-17T22:18:56Z",
     "3cdf27e2776e": "2026-11-06T20:52:27Z",
     "3deb27d0327c": "2006-11-27T08:00:00Z",
@@ -231,8 +230,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-20T20:10:31Z",
-      "lastAttempt": "2026-11-20T20:10:31Z",
+      "lastOk": "2026-11-21T01:29:13Z",
+      "lastAttempt": "2026-11-21T01:29:13Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -284,19 +283,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Fri, 20 Nov 2026 20:07:00 -0000",
-      "lastOk": "2026-11-20T20:10:31Z",
-      "lastAttempt": "2026-11-20T20:10:31Z",
+      "lastModified": "Fri, 20 Nov 2026 22:15:00 -0000",
+      "lastOk": "2026-11-21T01:29:13Z",
+      "lastAttempt": "2026-11-21T01:29:13Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"9966f5678ae0173329daa6d9a50ccf62\"",
-      "lastModified": "Fri, 20 Nov 2026 19:36:32 GMT",
-      "lastOk": "2026-11-20T20:10:31Z",
-      "lastAttempt": "2026-11-20T20:10:31Z",
+      "etag": "W/\"88aff30530aa2328050e90ee82660021\"",
+      "lastModified": "Fri, 20 Nov 2026 22:21:55 GMT",
+      "lastOk": "2026-11-21T01:29:13Z",
+      "lastAttempt": "2026-11-21T01:29:13Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -305,8 +304,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-20T20:10:31Z",
-      "lastAttempt": "2026-11-20T20:10:31Z",
+      "lastOk": "2026-11-21T01:29:13Z",
+      "lastAttempt": "2026-11-21T01:29:13Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -315,8 +314,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-20T20:10:31Z",
-      "lastAttempt": "2026-11-20T20:10:31Z",
+      "lastOk": "2026-11-21T01:29:13Z",
+      "lastAttempt": "2026-11-21T01:29:13Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -968,21 +967,6 @@
           ]
         },
         {
-          "id": "3b43bca4012d",
-          "title": "For Christmas - Don't Think Nintendo Wii... Think Celestron Omni",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWFiQnVMQU90VmUxN2wybjlKSDZFX0tnajhOcWpma1RRaHhwM0k3RERjUHl0NWJPRWkwUjVOVU5La1VpM2tKd1lYanhXQUlTcXBSQjk4Z0tDX2ZEZDZoemU4TTRibEZUUnNXTm1PYmZIV3ZMbk5UX1FfUWxjeHRBWHJHanY?oc=5",
-          "source": "Universe Today",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2009-12-05T08:00:00Z",
-          "firstSeen": "2009-12-05T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
           "id": "5d0e562a27e1",
           "title": "DJ HERO/BAND HERO Nintendo Wii Reviews",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tOExVZ3JiM01oTW5NdTEyU2VCWWhmSFZ3c1pKSnhjaGpIWFNyc2hJWkIxa0hPUTY4OUNKTXdDaFBOYlFpZ1Zxbi0xWk5Vb3J0ZTU4SXpYbHplM25FUFZDa3lIdUowaTVLdExOTg?oc=5",
@@ -1072,14 +1056,29 @@
           "matched": [
             "Wii"
           ]
+        },
+        {
+          "id": "3deb27d0327c",
+          "title": "Nintendo Wii: the Ars Technica review",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkek5KMnBfN3B2UG9wVlFHVG5lVzQzQkMxajFuazdSc1Vwbkh2bmFjNWZJSms2SXFocjF6NUlhekx4V2REdEozOTJzRG1zbG1jeFhzV3RvVQ?oc=5",
+          "source": "Ars Technica",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2006-11-27T08:00:00Z",
+          "firstSeen": "2006-11-27T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
         }
       ]
     },
     "hackaday": {
-      "etag": "W/\"3ed27ed6c5e72dc1d4c44f45a6d18d78\"",
-      "lastModified": "Fri, 20 Nov 2026 04:52:51 GMT",
-      "lastOk": "2026-11-20T20:10:31Z",
-      "lastAttempt": "2026-11-20T20:10:31Z",
+      "etag": "W/\"5cd3e99cdd0a14e305ebf9cd13b02413\"",
+      "lastModified": "Fri, 20 Nov 2026 17:12:57 GMT",
+      "lastOk": "2026-11-21T01:29:13Z",
+      "lastAttempt": "2026-11-21T01:29:13Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1177,8 +1176,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-20T20:10:31Z",
-      "lastAttempt": "2026-11-20T20:10:31Z",
+      "lastOk": "2026-11-21T01:29:13Z",
+      "lastAttempt": "2026-11-21T01:29:13Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1429,8 +1428,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-20T20:10:31Z",
-      "failures": 10,
+      "lastAttempt": "2026-11-21T01:29:13Z",
+      "failures": 11,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1728,8 +1727,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-20T20:10:31Z",
-      "failures": 10,
+      "lastAttempt": "2026-11-21T01:29:13Z",
+      "failures": 11,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
