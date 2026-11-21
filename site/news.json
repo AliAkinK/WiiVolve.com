@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T17:28:20Z",
+  "generatedAt": "2026-11-21T23:11:50Z",
   "items": [
     {
       "id": "478176e7f6b8",
@@ -24,7 +24,7 @@
       "sourceId": "googlenews",
       "via": "Google News",
       "tab": "press",
-      "published": "2026-11-21T14:56:07Z",
+      "published": "2026-11-21T15:47:39Z",
       "firstSeen": "2026-11-21T17:28:20Z",
       "excerpt": "",
       "matched": [
@@ -575,7 +575,7 @@
       "press": 19,
       "scene": 23
     },
-    "windowStart": "2026-11-07T17:28:20Z",
+    "windowStart": "2026-11-07T23:11:50Z",
     "completeSince": {
       "all": "2026-11-18T21:29:17Z",
       "press": "2026-11-18T21:29:17Z",
