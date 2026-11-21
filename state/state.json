@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "0979362d53e9d3914b2888df707a817e1077335589a29d2f37487703dd53c813",
+  "signature": "9bb75507680f0f2152d19a88bfaeb3eee44c097696dd9ec4f2940c04711d0292",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-21T09:45:04Z",
+  "lastWrite": "2026-11-21T17:28:20Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0141fd50c395": "2026-11-19T12:59:03Z",
@@ -69,6 +69,7 @@
     "45f11eb31877": "2010-05-28T07:00:00Z",
     "4689e1538596": "2026-11-16T09:37:05Z",
     "46ae0db7fb93": "2026-11-08T10:15:36Z",
+    "478176e7f6b8": "2026-11-21T17:28:20Z",
     "492e6ace070d": "2026-11-04T17:22:25Z",
     "4a27b425e27b": "2026-02-09T08:00:00Z",
     "4b3e2515bcb4": "2026-10-24T15:41:51Z",
@@ -118,6 +119,7 @@
     "7b17ff03ba71": "2026-11-05T18:43:09Z",
     "7c71f3b69200": "2026-11-19T21:29:19Z",
     "7ca7f4366a15": "2025-03-10T08:31:57Z",
+    "7d7d2dd4e0ee": "2026-11-21T17:28:20Z",
     "7d8a70ae71df": "2026-10-14T07:00:00Z",
     "7e34f35c1650": "2026-11-15T01:52:30Z",
     "80db11f61c48": "2024-11-05T08:00:00Z",
@@ -197,6 +199,7 @@
     "e0088a6c4c39": "2026-11-19T21:29:19Z",
     "e162a8b30599": "2026-11-19T21:29:19Z",
     "e2023f0170c2": "2026-11-15T17:05:32Z",
+    "e2baae0714cd": "2026-11-21T17:28:20Z",
     "e326b86c8a11": "2025-06-04T10:42:04Z",
     "e5895d91fa9f": "2024-04-19T15:30:06Z",
     "e709e488c51f": "2026-11-04T17:22:25Z",
@@ -229,12 +232,26 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-21T09:45:04Z",
-      "lastAttempt": "2026-11-21T09:45:04Z",
+      "lastOk": "2026-11-21T17:28:20Z",
+      "lastAttempt": "2026-11-21T17:28:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "478176e7f6b8",
+          "title": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
+          "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
+          "source": "Nintendo Life",
+          "sourceId": "nintendolife",
+          "tab": "press",
+          "published": "2026-11-21T16:00:00Z",
+          "firstSeen": "2026-11-21T17:28:20Z",
+          "excerpt": "SWiitching it up. Many people reading this will have a Wii in the house. Even if it's collecting dust in the cupboard after launching 20 years ago, there's over 100 million of the things out in the wild, so the chances…",
+          "matched": [
+            "Wii"
+          ]
+        },
         {
           "id": "7c71f3b69200",
           "title": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)",
@@ -283,18 +300,18 @@
     "gonintendo": {
       "etag": null,
       "lastModified": "Sat, 21 Nov 2026 06:10:00 -0000",
-      "lastOk": "2026-11-21T09:45:04Z",
-      "lastAttempt": "2026-11-21T09:45:04Z",
+      "lastOk": "2026-11-21T17:28:20Z",
+      "lastAttempt": "2026-11-21T17:28:20Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"fa27117f63e8e99f626d1a9b6ec76a1e\"",
-      "lastModified": "Sat, 21 Nov 2026 06:50:19 GMT",
-      "lastOk": "2026-11-21T09:45:04Z",
-      "lastAttempt": "2026-11-21T09:45:04Z",
+      "etag": "W/\"675485af4176cf291b88bc0fe29db1f8\"",
+      "lastModified": "Sat, 21 Nov 2026 15:10:46 GMT",
+      "lastOk": "2026-11-21T17:28:20Z",
+      "lastAttempt": "2026-11-21T17:28:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -303,8 +320,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-21T09:45:04Z",
-      "lastAttempt": "2026-11-21T09:45:04Z",
+      "lastOk": "2026-11-21T17:28:20Z",
+      "lastAttempt": "2026-11-21T17:28:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -313,12 +330,42 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-21T09:45:04Z",
-      "lastAttempt": "2026-11-21T09:45:04Z",
+      "lastOk": "2026-11-21T17:28:20Z",
+      "lastAttempt": "2026-11-21T17:28:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "e2baae0714cd",
+          "title": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTlnN2J5V0dsWlMxQ0NaVHBHbVFiVnZYWTFRXzJ0dzZjVXhxRnItdHdmeVNIWW9wMWdFMzctbEF1NXo2Nm5rXzQwUXphOExmaTRmSVhEUkg2a2w5Q2gzNFdrTUVOMk1GMk11NVNHOVVkSVMyRGlFejFkSXBwbXM0WjEzMU9KNlJBQ3BJSFhKdjBVaG1meXRWc3d4bTZrNmJIV2VQZElVT0M3T3BG?oc=5",
+          "source": "Nintendo Life",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-21T16:00:00Z",
+          "firstSeen": "2026-11-21T17:28:20Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "7d7d2dd4e0ee",
+          "title": "Nintendo Wii Turns 20, Top 10 Best-Selling Wii Games",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVl81T2J4bVhwdXpmV0JUMlFtNUN6MG9faFY3T0txZEk4QVZFLXB2aFZtd1ZBVFRvQzZHNFl5a3MtMnRXUWNvTEVhVUtudTN0bEUyZDNyUklJcWpveHhleE9TRFdSSWZYT1J3ckI3cGx5cHU5TG5YMG5JOXlMcUlaVE9ncEhyY2dIczdjejdzblN1dURHdkRF?oc=5",
+          "source": "VGChartz",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-21T14:56:07Z",
+          "firstSeen": "2026-11-21T17:28:20Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
         {
           "id": "3310a6f9aced",
           "title": "The last 20 years of Wii had something for everybody",
@@ -380,21 +427,6 @@
           ]
         },
         {
-          "id": "b09dc140a438",
-          "title": "50 Best Wii Games Of All Time",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
-          "source": "Nintendo Life",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-20T03:12:52Z",
-          "firstSeen": "2022-11-29T16:26:07Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
           "id": "f4998d6e7b3f",
           "title": "On the Wii's 20th anniversary, the console's 20 best-selling games in the U.S. have been revealed",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTVrUU02NngzeHRvTkt0c29WQXVRaEtocENuWm16WGV2X1QxbTYwWHFpbnpmWEVMclJfbnQ3V21wOGhDYjR3ZkZTSkl4MFlHdTVrVjNhQ2xmZ1dYbWFtdXR3SmNyZ1phajVpQXFveFAyQ2wwRnE1T29CZVVRNzBxWEIwZkY5b3JRYmFSdFd1Y2g4eThJU0ZEVWNoQ3BIbVl1cmtxcGxkeW5abHFvZ2MxRzNtREIyRWJOVlhz?oc=5",
@@ -419,21 +451,6 @@
           "tab": "press",
           "published": "2026-11-19T22:01:46Z",
           "firstSeen": "2026-11-20T03:09:48Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "a4fad95b6bb9",
-          "title": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVhrQnllVGNqRC1Cak1CV0U0eUJzV3JFb3BVVUxQZmlWODJmcHgtbUttOHFfSnZWeEs1Rng4cU5zUHp3THJwZWloTUhRWjhRcFJjdjhxM0FDVXcwSEZ1bnFDdnp2QUVrTUU3aHI3Zjd5VE9Heno1ZFZkckgzS2REZ2hUS3UyU1JaME4wUWxHVktDVTZzTFk0UDcwNA?oc=5",
-          "source": "Nintendo Life",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-19T18:45:00Z",
-          "firstSeen": "2026-11-19T21:29:19Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -515,6 +532,21 @@
           ]
         },
         {
+          "id": "b09dc140a438",
+          "title": "50 Best Wii Games Of All Time",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
+          "source": "Nintendo Life",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-19T10:08:08Z",
+          "firstSeen": "2022-11-29T16:26:07Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "9ef7003b4ad5",
           "title": "Remembering Nintendo Wii at 20 and how the Wiimote meant it was only a matter of time before you smashed your TV",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UQjVBQ2w5R1BrMkxLVDZmS3BCelJmNkpLRy1SZnI0U2JDa1psbEkzZ2Ezb3pRb0EtN19iQXQ5WVh6N01POXNJXzc3b3FGbTctTzZpTmNB?oc=5",
@@ -585,21 +617,6 @@
           "tab": "press",
           "published": "2026-11-16T16:30:00Z",
           "firstSeen": "2026-11-17T03:49:08Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "db9eddafe83c",
-          "title": "5 Classic Nintendo Wii Games That Are Unplayable Today",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MVAtVnZrZHRzWGVBRWktMkViZFRFTktpdlEyTDk5N2o0dFV3WGI3RjF4NnptUHFJU1ZJMkhUTi02YlFfUVdXR3RKeXFUc01OUHhWOU1RQ3hjOVFqWmpaUW1JRGtZRzhvNW9hN3ZRMFM3djRJUHFMNVlPemU?oc=5",
-          "source": "SVG",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-10-26T07:00:00Z",
-          "firstSeen": "2026-10-26T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -1074,10 +1091,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"578352a40b218e1a3f8abdbb32d66764\"",
-      "lastModified": "Sat, 21 Nov 2026 05:16:18 GMT",
-      "lastOk": "2026-11-21T09:45:04Z",
-      "lastAttempt": "2026-11-21T09:45:04Z",
+      "etag": "W/\"4b5ba52b04c183f85726b94265fe1d07\"",
+      "lastModified": "Sat, 21 Nov 2026 05:23:11 GMT",
+      "lastOk": "2026-11-21T17:28:20Z",
+      "lastAttempt": "2026-11-21T17:28:20Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1175,8 +1192,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-21T09:45:04Z",
-      "lastAttempt": "2026-11-21T09:45:04Z",
+      "lastOk": "2026-11-21T17:28:20Z",
+      "lastAttempt": "2026-11-21T17:28:20Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1427,8 +1444,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-21T09:45:04Z",
-      "failures": 12,
+      "lastAttempt": "2026-11-21T17:28:20Z",
+      "failures": 13,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1726,8 +1743,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-21T09:45:04Z",
-      "failures": 12,
+      "lastAttempt": "2026-11-21T17:28:20Z",
+      "failures": 13,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
