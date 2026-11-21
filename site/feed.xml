@@ -5,7 +5,7 @@
 <link>https://wiivolve.com/</link>
 <description>Fresh Nintendo Wii news and homebrew scene activity, gathered every hour, on the site that covered the Wii from 2006 to 2008.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 01:29:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 09:45:04 GMT</lastBuildDate>
 <ttl>60</ttl>
 <atom:link href="https://wiivolve.com/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
@@ -38,6 +38,14 @@
 <guid isPermaLink="false">6d2797f26f50</guid>
 <pubDate>Fri, 20 Nov 2026 10:14:07 GMT</pubDate>
 <source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">GBAtemp</source>
+<category>press</category>
+</item>
+<item>
+<title>50 Best Wii Games Of All Time</title>
+<link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5</link>
+<guid isPermaLink="false">b09dc140a438</guid>
+<pubDate>Fri, 20 Nov 2026 03:12:52 GMT</pubDate>
+<source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">Nintendo Life</source>
 <category>press</category>
 </item>
 <item>
@@ -138,14 +146,6 @@
 <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xZExieTVpMDEyRlRzaVkzOGljcjdRc0VvV25RYlJQcnVPeWZuelhSTlRTcXdEZ3FORm9Uc1RtZGt4WGlCRktpWmh0V2NsWDFx?oc=5</link>
 <guid isPermaLink="false">ca7e94ab4054</guid>
 <pubDate>Wed, 18 Nov 2026 21:29:17 GMT</pubDate>
-<source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">Digg</source>
-<category>press</category>
-</item>
-<item>
-<title>The Wii turns 20, and that ridiculous name aged pretty well</title>
-<link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kRk1XbndnNzZtYXR5WDNHSkY1dDd6MzRnakZGSDVsVkV0UzVEMExrM1Z5SGtjbjR5RVVaa1NmMFdsSWpPUTY4?oc=5</link>
-<guid isPermaLink="false">59e496bcc676</guid>
-<pubDate>Wed, 18 Nov 2026 17:31:27 GMT</pubDate>
 <source url="https://news.google.com/rss/search?q=%22Nintendo+Wii%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en">Digg</source>
 <category>press</category>
 </item>

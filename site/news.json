@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T01:29:13Z",
+  "generatedAt": "2026-11-21T09:45:04Z",
   "items": [
     {
       "id": "3310a6f9aced",
@@ -57,6 +57,21 @@
       "tab": "press",
       "published": "2026-11-20T10:14:07Z",
       "firstSeen": "2026-11-20T20:10:31Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
+    {
+      "id": "b09dc140a438",
+      "title": "50 Best Wii Games Of All Time",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
+      "source": "Nintendo Life",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-20T03:12:52Z",
+      "firstSeen": "2022-11-29T16:26:07Z",
       "excerpt": "",
       "matched": [
         "Wii"
@@ -234,21 +249,6 @@
       "tab": "press",
       "published": "2026-11-18T21:29:17Z",
       "firstSeen": "2026-11-20T11:30:39Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
-      "id": "59e496bcc676",
-      "title": "The Wii turns 20, and that ridiculous name aged pretty well",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kRk1XbndnNzZtYXR5WDNHSkY1dDd6MzRnakZGSDVsVkV0UzVEMExrM1Z5SGtjbjR5RVVaa1NmMFdsSWpPUTY4?oc=5",
-      "source": "Digg",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-18T17:31:27Z",
-      "firstSeen": "2026-11-20T03:09:48Z",
       "excerpt": "",
       "matched": [
         "Wii"
@@ -561,10 +561,10 @@
       "press": 18,
       "scene": 23
     },
-    "windowStart": "2026-11-07T01:29:13Z",
+    "windowStart": "2026-11-07T09:45:04Z",
     "completeSince": {
-      "all": "2026-11-18T16:12:00Z",
-      "press": "2026-11-18T16:12:00Z",
+      "all": "2026-11-18T17:31:27Z",
+      "press": "2026-11-18T17:31:27Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
