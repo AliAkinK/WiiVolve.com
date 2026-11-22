@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "f7537d649819441ac24df1dc1f96c850d84d1cefac37cff9ceb251fc326584b4",
+  "signature": "474aa0416fd2cbfbceec0a4a11afdf578403447a3edee5bab98e8300a14d6fc0",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-22T11:16:49Z",
+  "lastWrite": "2026-11-22T18:32:55Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0141fd50c395": "2026-11-19T12:59:03Z",
@@ -202,6 +202,7 @@
     "e2023f0170c2": "2026-11-15T17:05:32Z",
     "e2baae0714cd": "2026-11-21T17:28:20Z",
     "e326b86c8a11": "2025-06-04T10:42:04Z",
+    "e47dcbc624e5": "2026-11-22T18:32:55Z",
     "e5895d91fa9f": "2024-04-19T15:30:06Z",
     "e709e488c51f": "2026-11-04T17:22:25Z",
     "e7c0b7774d5a": "2025-11-14T10:04:26Z",
@@ -220,6 +221,7 @@
     "f7b093d91946": "2021-11-20T08:00:00Z",
     "f8a3463f6b91": "2025-12-22T06:46:16Z",
     "f9d6ed4a214f": "2026-02-01T08:00:00Z",
+    "f9f8bf7284d3": "2020-11-19T08:00:00Z",
     "fa73389bb2f7": "2026-11-02T14:57:02Z",
     "fb344aa21b7e": "2026-10-29T12:32:03Z",
     "fb86d2986c4e": "2026-11-12T18:17:17Z",
@@ -231,8 +233,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-22T11:16:49Z",
-      "lastAttempt": "2026-11-22T11:16:49Z",
+      "lastOk": "2026-11-22T18:32:55Z",
+      "lastAttempt": "2026-11-22T18:32:55Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -269,19 +271,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Sun, 22 Nov 2026 05:33:00 -0000",
-      "lastOk": "2026-11-22T11:16:49Z",
-      "lastAttempt": "2026-11-22T11:16:49Z",
+      "lastModified": "Sun, 22 Nov 2026 18:27:00 -0000",
+      "lastOk": "2026-11-22T18:32:55Z",
+      "lastAttempt": "2026-11-22T18:32:55Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"57ca2070b6eb52fc71dd834e60b22c6d\"",
-      "lastModified": "Sun, 22 Nov 2026 08:22:56 GMT",
-      "lastOk": "2026-11-22T11:16:49Z",
-      "lastAttempt": "2026-11-22T11:16:49Z",
+      "etag": "W/\"ff7b828ccdaaed03468280912a9f1323\"",
+      "lastModified": "Sun, 22 Nov 2026 16:05:25 GMT",
+      "lastOk": "2026-11-22T18:32:55Z",
+      "lastAttempt": "2026-11-22T18:32:55Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -290,8 +292,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-22T11:16:49Z",
-      "lastAttempt": "2026-11-22T11:16:49Z",
+      "lastOk": "2026-11-22T18:32:55Z",
+      "lastAttempt": "2026-11-22T18:32:55Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -300,12 +302,27 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-22T11:16:49Z",
-      "lastAttempt": "2026-11-22T11:16:49Z",
+      "lastOk": "2026-11-22T18:32:55Z",
+      "lastAttempt": "2026-11-22T18:32:55Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "e47dcbc624e5",
+          "title": "How Nintendo Wii Shaped a Generation of Gaming",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nX0pmWlRBR0g3VmtseFdpd3pDbXBzaVNzSy1FdUZIQVE4dFZLdVRROEt1RnRkQS1LOFJpWC0wMjNicGROY25JVHZOc0tiM001SThGTHdEVXVRd2FxT0U2MG8yZk1LVGRJOFdZWE90THN5d2IxckVWaVBiQnRkRGc?oc=5",
+          "source": "GameRant",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-22T16:00:14Z",
+          "firstSeen": "2026-11-22T18:32:55Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
         {
           "id": "6d2797f26f50",
           "title": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
@@ -863,6 +880,21 @@
           ]
         },
         {
+          "id": "f9f8bf7284d3",
+          "title": "There Will Never Be Another System Like The Wii",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZvdmhXVDlvaGVWNnlvdnhEdWNIam5Id0tmWC00cHRyOURoYUtzX0lISjQyLVVRYk9oUHVkZWJfYUlxZ3hCUzZEVHduYU5EdU9nV2M1REJlU3JzSnpQNmwyYWx5VkNIbEJvTlpZdDBSckxwOU1uZlZLMTIzMW4wTUg0NUtQN0NxZ2JNaC1jWW04MjZwSlpfWQ?oc=5",
+          "source": "TheGamer",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2020-11-19T08:00:00Z",
+          "firstSeen": "2020-11-19T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "8744a64a1e79",
           "title": "How the Wii Works",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4OXM2NGFZdkdBaXRjakJ0RmROendrZXgzazV0R19GSl95VktPT1BMa0VzWWZBU1kxUkExYWVjakFpZzRGdjdnY1NVNW5GeVZ5dW5ZaEk4Mkg?oc=5",
@@ -1027,44 +1059,14 @@
           "matched": [
             "Wii"
           ]
-        },
-        {
-          "id": "3deb27d0327c",
-          "title": "Nintendo Wii: the Ars Technica review",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkek5KMnBfN3B2UG9wVlFHVG5lVzQzQkMxajFuazdSc1Vwbkh2bmFjNWZJSms2SXFocjF6NUlhekx4V2REdEozOTJzRG1zbG1jeFhzV3RvVQ?oc=5",
-          "source": "Ars Technica",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2006-11-27T08:00:00Z",
-          "firstSeen": "2006-11-27T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "c714bf828ee9",
-          "title": "The Nintendo Wii is better than the PS3 and the Xbox 360.",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUwyd3l0VGhKUEZIOG9TOFpWMi15aEh0WmNvc1pHLUQweDlIandmNGhZY3RjY0xOVmdVeGRKaU41V1dDcE5TejM5NkZSR1J3NktBR0ItQnVmRzFHcnA5V0xTQ0hJdUtHdV9TWjNkRVJ1VHFQT3ZKOHdwQnBld0owbFhoaFBjQlNab25tZkxQQklacHBpNjlLOEJvTTJNOFE?oc=5",
-          "source": "Slate",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2006-11-20T08:00:00Z",
-          "firstSeen": "2006-11-20T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
         }
       ]
     },
     "hackaday": {
-      "etag": "W/\"8dfe4ed9ec5af03e78e4cbb86794b2b6\"",
-      "lastModified": "Sat, 21 Nov 2026 23:13:20 GMT",
-      "lastOk": "2026-11-22T11:16:49Z",
-      "lastAttempt": "2026-11-22T11:16:49Z",
+      "etag": "W/\"fbc0097925443b90432b522c1ce55c97\"",
+      "lastModified": "Sun, 22 Nov 2026 10:07:14 GMT",
+      "lastOk": "2026-11-22T18:32:55Z",
+      "lastAttempt": "2026-11-22T18:32:55Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1162,8 +1164,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-22T11:16:49Z",
-      "lastAttempt": "2026-11-22T11:16:49Z",
+      "lastOk": "2026-11-22T18:32:55Z",
+      "lastAttempt": "2026-11-22T18:32:55Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1414,8 +1416,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-22T11:16:49Z",
-      "failures": 16,
+      "lastAttempt": "2026-11-22T18:32:55Z",
+      "failures": 17,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1713,8 +1715,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-22T11:16:49Z",
-      "failures": 16,
+      "lastAttempt": "2026-11-22T18:32:55Z",
+      "failures": 17,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
