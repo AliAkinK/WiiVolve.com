@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T03:08:01Z",
+  "generatedAt": "2026-11-22T11:16:49Z",
   "items": [
+    {
+      "id": "6d2797f26f50",
+      "title": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1rUDBMSjh0dDBvYVEyTjNPSWFNNE45RnBIR1N3R0Z6RzVNdS1zakF2VEVoem5lWmZsR2txMDJ4LWtwOGk1Mi1GZmRhakotU0NaREJhU0ZkTGVGTnJKTHB3ekd5R2tieE1GQTRCOXdQZU8xTTVITm1OZXpGMnpzbVBYaHNpRk5nUW16SnpnM3lMWjdJek9Pa3dIeXIwZw?oc=5",
+      "source": "GBAtemp",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-22T07:28:31Z",
+      "firstSeen": "2026-11-20T20:10:31Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
     {
       "id": "478176e7f6b8",
       "title": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
@@ -70,21 +85,6 @@
       "via": "Google News",
       "tab": "press",
       "published": "2026-11-20T12:52:36Z",
-      "firstSeen": "2026-11-20T20:10:31Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
-      "id": "6d2797f26f50",
-      "title": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1rUDBMSjh0dDBvYVEyTjNPSWFNNE45RnBIR1N3R0Z6RzVNdS1zakF2VEVoem5lWmZsR2txMDJ4LWtwOGk1Mi1GZmRhakotU0NaREJhU0ZkTGVGTnJKTHB3ekd5R2tieE1GQTRCOXdQZU8xTTVITm1OZXpGMnpzbVBYaHNpRk5nUW16SnpnM3lMWjdJek9Pa3dIeXIwZw?oc=5",
-      "source": "GBAtemp",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-20T10:14:07Z",
       "firstSeen": "2026-11-20T20:10:31Z",
       "excerpt": "",
       "matched": [
@@ -575,7 +575,7 @@
       "press": 19,
       "scene": 23
     },
-    "windowStart": "2026-11-08T03:08:01Z",
+    "windowStart": "2026-11-08T11:16:49Z",
     "completeSince": {
       "all": "2026-11-18T21:29:17Z",
       "press": "2026-11-18T21:29:17Z",
