@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "76c2dbdb364fb174ccfba80dbbed01d70546014cb79bd85555bcd305651bd28f",
+  "signature": "86195287eb7c46e11e42e68a6cbe5a037fcc0c7e880b8f59673068c87a1bcef7",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-21T23:11:50Z",
+  "lastWrite": "2026-11-22T03:08:01Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0141fd50c395": "2026-11-19T12:59:03Z",
@@ -176,6 +176,7 @@
     "c64dde292934": "2026-10-30T04:07:07Z",
     "c714bf828ee9": "2006-11-20T08:00:00Z",
     "c79d217e529d": "2026-11-04T23:23:40Z",
+    "c8945fb4ee93": "2023-12-23T08:00:00Z",
     "ca7e94ab4054": "2026-11-20T11:30:39Z",
     "cac75d39f101": "2026-08-25T07:00:00Z",
     "cc76d5bf4d8d": "2026-11-16T09:37:05Z",
@@ -220,7 +221,6 @@
     "f7b093d91946": "2021-11-20T08:00:00Z",
     "f8a3463f6b91": "2025-12-22T06:46:16Z",
     "f9d6ed4a214f": "2026-02-01T08:00:00Z",
-    "f9f8bf7284d3": "2020-11-19T08:00:00Z",
     "fa73389bb2f7": "2026-11-02T14:57:02Z",
     "fb344aa21b7e": "2026-10-29T12:32:03Z",
     "fb86d2986c4e": "2026-11-12T18:17:17Z",
@@ -232,8 +232,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-21T23:11:50Z",
-      "lastAttempt": "2026-11-21T23:11:50Z",
+      "lastOk": "2026-11-22T03:08:01Z",
+      "lastAttempt": "2026-11-22T03:08:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -280,38 +280,24 @@
             "Wii",
             "Wii Sports"
           ]
-        },
-        {
-          "id": "0141fd50c395",
-          "title": "Guide: 50 Best Wii Games Of All Time",
-          "url": "https://www.nintendolife.com/guides/50-best-wii-games-of-all-time",
-          "source": "Nintendo Life",
-          "sourceId": "nintendolife",
-          "tab": "press",
-          "published": "2026-11-19T10:00:00Z",
-          "firstSeen": "2026-11-19T12:59:03Z",
-          "excerpt": "Our guide to the best games on Wii. 19th November 2026 marks the 20th anniversary of Wii's Japanese launch, so it's the perfect time to revisit our list of the best games on the system. Keep an eye out for more…",
-          "matched": [
-            "Wii"
-          ]
         }
       ]
     },
     "gonintendo": {
       "etag": null,
       "lastModified": "Sat, 21 Nov 2026 18:24:00 -0000",
-      "lastOk": "2026-11-21T23:11:50Z",
-      "lastAttempt": "2026-11-21T23:11:50Z",
+      "lastOk": "2026-11-22T03:08:01Z",
+      "lastAttempt": "2026-11-22T03:08:01Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"8afae4547394ae1e8e28d39e3c26cf1b\"",
-      "lastModified": "Sat, 21 Nov 2026 21:30:40 GMT",
-      "lastOk": "2026-11-21T23:11:50Z",
-      "lastAttempt": "2026-11-21T23:11:50Z",
+      "etag": "W/\"23a1f6a9346be2c03815a478b6421ed2\"",
+      "lastModified": "Sat, 21 Nov 2026 23:00:16 GMT",
+      "lastOk": "2026-11-22T03:08:01Z",
+      "lastAttempt": "2026-11-22T03:08:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -320,8 +306,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-21T23:11:50Z",
-      "lastAttempt": "2026-11-21T23:11:50Z",
+      "lastOk": "2026-11-22T03:08:01Z",
+      "lastAttempt": "2026-11-22T03:08:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -330,8 +316,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-21T23:11:50Z",
-      "lastAttempt": "2026-11-21T23:11:50Z",
+      "lastOk": "2026-11-22T03:08:01Z",
+      "lastAttempt": "2026-11-22T03:08:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -344,7 +330,7 @@
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
-          "published": "2026-11-21T17:27:46Z",
+          "published": "2026-11-21T17:32:35Z",
           "firstSeen": "2026-11-21T17:28:20Z",
           "excerpt": "",
           "matched": [
@@ -509,7 +495,7 @@
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
-          "published": "2026-11-19T13:27:49Z",
+          "published": "2026-11-19T13:23:49Z",
           "firstSeen": "2026-11-19T21:29:19Z",
           "excerpt": "",
           "matched": [
@@ -590,6 +576,21 @@
           "excerpt": "",
           "matched": [
             "Wii"
+          ]
+        },
+        {
+          "id": "0b6db0ca20f1",
+          "title": "What Is the Wii Sports Theme Song? Composer and Original Music Explained",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2ZqTEFybUw1clRvcC1rdGMwT1lwQ1dweGpQVHFYMjhTWk9YM3U0SmU2QXNTby1hR1B5aWRMY3pxc3J3b0ctOGFsQ09fUHQtRW5kOVA0UjVvSlJxVG5XbjRKRGJzZkFpQi1saGdyLWNMeDE3YkJOT0Nsekc3eWRtNEtac2pjVTRNSHlBVi04SWRiVU1TZ1hIcEhyY3pJZmxJZHc?oc=5",
+          "source": "RouteNote",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-18T17:21:00Z",
+          "firstSeen": "2026-11-18T21:25:16Z",
+          "excerpt": "",
+          "matched": [
+            "Wii Sports"
           ]
         },
         {
@@ -818,6 +819,21 @@
           ]
         },
         {
+          "id": "c8945fb4ee93",
+          "title": "Why I'm Still Playing My Nintendo Wii Over 15 Years Later",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84MFhjczROY1ZfaXI2VmFFRGFrWDd5SmpzM0dKZ3BEVm5hYUpIUlJIT1dBd0tCeGY3VmxWbEtlc0lZMHluRjFJSENvMURFaXhNRkhqa2JYdUZwekxPR3dDY2pKVjBpOUxLUzNZdw?oc=5",
+          "source": "Make Tech Easier",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2023-12-23T08:00:00Z",
+          "firstSeen": "2023-12-23T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "561321a38c62",
           "title": "Remembering The Queen’s Totally Real Love For The Nintendo Wii",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlFHX2FhbWRIemVBaDZuSHdqTlV1ZjVmUGpCVzhKdl9OTTc1U19oZE1XcGxzaWtmNjlOZkItakFKdENiSndqRy10SllaX0FTNlBFa0E0MmxBWWlFSzRaeGR5a1gxVlN0eUhHN1Rpdzd3YkIwdk9BT2FjVklLMVdsMGNPUmhRc2ZaOUgw?oc=5",
@@ -872,21 +888,6 @@
           "tab": "press",
           "published": "2021-11-20T08:00:00Z",
           "firstSeen": "2021-11-20T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "f9f8bf7284d3",
-          "title": "There Will Never Be Another System Like The Wii",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZvdmhXVDlvaGVWNnlvdnhEdWNIam5Id0tmWC00cHRyOURoYUtzX0lISjQyLVVRYk9oUHVkZWJfYUlxZ3hCUzZEVHduYU5EdU9nV2M1REJlU3JzSnpQNmwyYWx5VkNIbEJvTlpZdDBSckxwOU1uZlZLMTIzMW4wTUg0NUtQN0NxZ2JNaC1jWW04MjZwSlpfWQ?oc=5",
-          "source": "TheGamer",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2020-11-19T08:00:00Z",
-          "firstSeen": "2020-11-19T08:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -1072,29 +1073,14 @@
           "matched": [
             "Wii"
           ]
-        },
-        {
-          "id": "f396b81c67b9",
-          "title": "Pros and cons of Nintendo Wii",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fZk5FWEhxTERkamZDNDhIWTZBOTFIa0M3TVhXelVuVGVfd2YxMlloLVN5TjhRZE9wa1Y0Zl9la1FXRmVtVUE5TndacTdwM2xiOTQ1Vm5FZkgtVUdHbTJTZGV0MGtJRFNNZXhB?oc=5",
-          "source": "CBS News",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2006-11-17T08:00:00Z",
-          "firstSeen": "2006-11-17T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
         }
       ]
     },
     "hackaday": {
-      "etag": "W/\"9d120ab6df106effd392042b25c00e02\"",
-      "lastModified": "Sat, 21 Nov 2026 18:10:28 GMT",
-      "lastOk": "2026-11-21T23:11:50Z",
-      "lastAttempt": "2026-11-21T23:11:50Z",
+      "etag": "W/\"4b5ba52b04c183f85726b94265fe1d07\"",
+      "lastModified": "Sat, 21 Nov 2026 05:23:11 GMT",
+      "lastOk": "2026-11-22T03:08:01Z",
+      "lastAttempt": "2026-11-22T03:08:01Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1192,8 +1178,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-21T23:11:50Z",
-      "lastAttempt": "2026-11-21T23:11:50Z",
+      "lastOk": "2026-11-22T03:08:01Z",
+      "lastAttempt": "2026-11-22T03:08:01Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1444,8 +1430,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-21T23:11:50Z",
-      "failures": 14,
+      "lastAttempt": "2026-11-22T03:08:01Z",
+      "failures": 15,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1743,8 +1729,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-21T23:11:50Z",
-      "failures": 14,
+      "lastAttempt": "2026-11-22T03:08:01Z",
+      "failures": 15,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
