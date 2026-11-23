@@ -24,21 +24,6 @@
       ]
     },
     {
-      "id": "6d2797f26f50",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1rUDBMSjh0dDBvYVEyTjNPSWFNNE45RnBIR1N3R0Z6RzVNdS1zakF2VEVoem5lWmZsR2txMDJ4LWtwOGk1Mi1GZmRhakotU0NaREJhU0ZkTGVGTnJKTHB3ekd5R2tieE1GQTRCOXdQZU8xTTVITm1OZXpGMnpzbVBYaHNpRk5nUW16SnpnM3lMWjdJek9Pa3dIeXIwZw?oc=5",
-      "title": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
-      "content_text": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
-      "date_published": "2026-11-22T07:28:31Z",
-      "authors": [
-        {
-          "name": "GBAtemp"
-        }
-      ],
-      "tags": [
-        "press"
-      ]
-    },
-    {
       "id": "478176e7f6b8",
       "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
       "title": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
@@ -107,6 +92,21 @@
       "authors": [
         {
           "name": "GamesRadar+"
+        }
+      ],
+      "tags": [
+        "press"
+      ]
+    },
+    {
+      "id": "6d2797f26f50",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1rUDBMSjh0dDBvYVEyTjNPSWFNNE45RnBIR1N3R0Z6RzVNdS1zakF2VEVoem5lWmZsR2txMDJ4LWtwOGk1Mi1GZmRhakotU0NaREJhU0ZkTGVGTnJKTHB3ekd5R2tieE1GQTRCOXdQZU8xTTVITm1OZXpGMnpzbVBYaHNpRk5nUW16SnpnM3lMWjdJek9Pa3dIeXIwZw?oc=5",
+      "title": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
+      "content_text": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
+      "date_published": "2026-11-20T10:07:37Z",
+      "authors": [
+        {
+          "name": "GBAtemp"
         }
       ],
       "tags": [
@@ -249,14 +249,14 @@
       ]
     },
     {
-      "id": "b09dc140a438",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
-      "title": "50 Best Wii Games Of All Time",
-      "content_text": "50 Best Wii Games Of All Time",
-      "date_published": "2026-11-19T10:08:08Z",
+      "id": "9ef7003b4ad5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UQjVBQ2w5R1BrMkxLVDZmS3BCelJmNkpLRy1SZnI0U2JDa1psbEkzZ2Ezb3pRb0EtN19iQXQ5WVh6N01POXNJXzc3b3FGbTctTzZpTmNB?oc=5",
+      "title": "Remembering Nintendo Wii at 20 and how the Wiimote meant it was only a matter of time before you smashed your TV",
+      "content_text": "Remembering Nintendo Wii at 20 and how the Wiimote meant it was only a matter of time before you smashed your TV",
+      "date_published": "2026-11-19T10:01:27Z",
       "authors": [
         {
-          "name": "Nintendo Life"
+          "name": "Stuff"
         }
       ],
       "tags": [
@@ -539,36 +539,6 @@
       "title": "Nintendo Wii 3rd-party wireless controller support🙏🙏",
       "content_text": "So I recently modded my Wii with Homebrew and wanted to play some GameCube and N64 games, but obviously I'll need an actual controller instead of my usual Wii Remote + Nunchuck. I can't use wired controllers, and…",
       "date_published": "2026-11-11T16:07:46Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "54d8aafa577b",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xrh87f/ive_been_working_on_a_native_celeste_port_for_the/",
-      "title": "I've been working on a native Celeste port for the Wii. Here's how it's going so far!",
-      "content_text": "Hey everyone! So, I've been working on getting Celeste running natively on the Wii, and I figured some people here might find it interesting. It started out pretty simple. I just wanted to see if I could get the core…",
-      "date_published": "2026-11-09T03:29:26Z",
-      "authors": [
-        {
-          "name": "r/WiiHacks"
-        }
-      ],
-      "tags": [
-        "scene"
-      ]
-    },
-    {
-      "id": "0e6b97df8067",
-      "url": "https://www.reddit.com/r/WiiHacks/comments/1xrdqwi/button_2_and_2nd_player_led_dont_work/",
-      "title": "Button 2 and 2nd Player LED don't work",
-      "content_text": "Initially, the controller wouldn't even turn on; the battery contacts were green and corroded. After cleaning everything with vinegar and IPA, it now powers on, but button 2 and the blue LED for the second player…",
-      "date_published": "2026-11-09T00:34:46Z",
       "authors": [
         {
           "name": "r/WiiHacks"
