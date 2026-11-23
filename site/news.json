@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T08:58:42Z",
+  "generatedAt": "2026-11-23T21:17:10Z",
   "items": [
     {
       "id": "e47dcbc624e5",
@@ -33,7 +33,7 @@
     },
     {
       "id": "7d7d2dd4e0ee",
-      "title": "Nintendo Wii Turns 20, Top 10 Best-Selling Wii Games",
+      "title": "Nintendo Wii Turns 20, Top 10 Best-Selling Wii Games - Sales",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVl81T2J4bVhwdXpmV0JUMlFtNUN6MG9faFY3T0txZEk4QVZFLXB2aFZtd1ZBVFRvQzZHNFl5a3MtMnRXUWNvTEVhVUtudTN0bEUyZDNyUklJcWpveHhleE9TRFdSSWZYT1J3ckI3cGx5cHU5TG5YMG5JOXlMcUlaVE9ncEhyY2dIczdjejdzblN1dURHdkRF?oc=5",
       "source": "VGChartz",
       "sourceId": "googlenews",
@@ -239,19 +239,18 @@
       ]
     },
     {
-      "id": "9ef7003b4ad5",
-      "title": "Remembering Nintendo Wii at 20 and how the Wiimote meant it was only a matter of time before you smashed your TV",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UQjVBQ2w5R1BrMkxLVDZmS3BCelJmNkpLRy1SZnI0U2JDa1psbEkzZ2Ezb3pRb0EtN19iQXQ5WVh6N01POXNJXzc3b3FGbTctTzZpTmNB?oc=5",
-      "source": "Stuff",
+      "id": "02978689e25e",
+      "title": "Random Access Memories (2006) – Nintendo Wii",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vQjFCemhZdVVyejBWaFpiTGdOc25NTElCMGdLYS1kQlVtYWh3Wi1OUjRoQnQyeklLSlZKUjdyOTNzZEpGLU9sbUxvd3hWYzhIakFlcFVZX3ZHTG05ZktZTC1qbnlfNk9EOHJXR0dSa2xhbmVYRDIxWDNaVlQ?oc=5",
+      "source": "Stuff South Africa",
       "sourceId": "googlenews",
       "via": "Google News",
       "tab": "press",
-      "published": "2026-11-19T10:01:27Z",
-      "firstSeen": "2026-11-19T12:59:03Z",
+      "published": "2026-11-19T12:50:56Z",
+      "firstSeen": "2026-11-19T12:50:56Z",
       "excerpt": "",
       "matched": [
-        "Wii",
-        "Wiimote"
+        "Wii"
       ]
     },
     {
@@ -551,10 +550,10 @@
       "press": 19,
       "scene": 21
     },
-    "windowStart": "2026-11-09T08:58:42Z",
+    "windowStart": "2026-11-09T21:17:10Z",
     "completeSince": {
-      "all": "2026-11-18T21:29:17Z",
-      "press": "2026-11-18T21:29:17Z",
+      "all": "2026-11-19T10:01:27Z",
+      "press": "2026-11-19T10:01:27Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
