@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T05:21:27Z",
+  "generatedAt": "2026-11-24T17:38:03Z",
   "items": [
     {
       "id": "e47dcbc624e5",
@@ -18,6 +18,21 @@
       ]
     },
     {
+      "id": "7d7d2dd4e0ee",
+      "title": "Nintendo Wii Turns 20, Top 10 Best-Selling Wii Games - Sales",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVl81T2J4bVhwdXpmV0JUMlFtNUN6MG9faFY3T0txZEk4QVZFLXB2aFZtd1ZBVFRvQzZHNFl5a3MtMnRXUWNvTEVhVUtudTN0bEUyZDNyUklJcWpveHhleE9TRFdSSWZYT1J3ckI3cGx5cHU5TG5YMG5JOXlMcUlaVE9ncEhyY2dIczdjejdzblN1dURHdkRF?oc=5",
+      "source": "VGChartz",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-21T20:26:55Z",
+      "firstSeen": "2026-11-21T17:28:20Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
+    {
       "id": "478176e7f6b8",
       "title": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
       "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
@@ -27,21 +42,6 @@
       "published": "2026-11-21T16:00:00Z",
       "firstSeen": "2026-11-21T17:28:20Z",
       "excerpt": "SWiitching it up. Many people reading this will have a Wii in the house. Even if it's collecting dust in the cupboard after launching 20 years ago, there's over 100 million of the things out in the wild, so the chances…",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
-      "id": "7d7d2dd4e0ee",
-      "title": "Nintendo Wii Turns 20, Top 10 Best-Selling Wii Games - Sales",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVl81T2J4bVhwdXpmV0JUMlFtNUN6MG9faFY3T0txZEk4QVZFLXB2aFZtd1ZBVFRvQzZHNFl5a3MtMnRXUWNvTEVhVUtudTN0bEUyZDNyUklJcWpveHhleE9TRFdSSWZYT1J3ckI3cGx5cHU5TG5YMG5JOXlMcUlaVE9ncEhyY2dIczdjejdzblN1dURHdkRF?oc=5",
-      "source": "VGChartz",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-21T15:47:39Z",
-      "firstSeen": "2026-11-21T17:28:20Z",
-      "excerpt": "",
       "matched": [
         "Wii"
       ]
@@ -550,10 +550,10 @@
       "press": 19,
       "scene": 21
     },
-    "windowStart": "2026-11-10T05:21:27Z",
+    "windowStart": "2026-11-10T17:38:03Z",
     "completeSince": {
-      "all": "2026-11-19T10:00:00Z",
-      "press": "2026-11-19T10:00:00Z",
+      "all": "2026-11-19T10:01:27Z",
+      "press": "2026-11-19T10:01:27Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
