@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "9c9b7c76592512e550699fd2bd43a29fc51bda1c45f169d4e7c0a49779cf09a5",
+  "signature": "f108df828aff28ec2c640fd55b454b35b88fe02d0a8971c8f754791fa81d1795",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-24T17:38:03Z",
+  "lastWrite": "2026-11-25T02:22:39Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0141fd50c395": "2026-11-19T12:59:03Z",
@@ -230,43 +230,28 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-24T17:38:03Z",
-      "lastAttempt": "2026-11-24T17:38:03Z",
+      "lastOk": "2026-11-25T02:22:39Z",
+      "lastAttempt": "2026-11-25T02:22:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
-      "items": [
-        {
-          "id": "478176e7f6b8",
-          "title": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
-          "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
-          "source": "Nintendo Life",
-          "sourceId": "nintendolife",
-          "tab": "press",
-          "published": "2026-11-21T16:00:00Z",
-          "firstSeen": "2026-11-21T17:28:20Z",
-          "excerpt": "SWiitching it up. Many people reading this will have a Wii in the house. Even if it's collecting dust in the cupboard after launching 20 years ago, there's over 100 million of the things out in the wild, so the chances…",
-          "matched": [
-            "Wii"
-          ]
-        }
-      ]
+      "items": []
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Tue, 24 Nov 2026 05:03:00 -0000",
-      "lastOk": "2026-11-24T17:38:03Z",
-      "lastAttempt": "2026-11-24T17:38:03Z",
+      "lastModified": "Wed, 25 Nov 2026 02:20:00 -0000",
+      "lastOk": "2026-11-25T02:22:39Z",
+      "lastAttempt": "2026-11-25T02:22:39Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"bb7eb37ad7943d39059c415766582fad\"",
-      "lastModified": "Tue, 24 Nov 2026 17:08:12 GMT",
-      "lastOk": "2026-11-24T17:38:03Z",
-      "lastAttempt": "2026-11-24T17:38:03Z",
+      "etag": "W/\"504095b07d2290ff84640e63d1281f1a\"",
+      "lastModified": "Wed, 25 Nov 2026 01:06:23 GMT",
+      "lastOk": "2026-11-25T02:22:39Z",
+      "lastAttempt": "2026-11-25T02:22:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -275,8 +260,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-24T17:38:03Z",
-      "lastAttempt": "2026-11-24T17:38:03Z",
+      "lastOk": "2026-11-25T02:22:39Z",
+      "lastAttempt": "2026-11-25T02:22:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -286,10 +271,10 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-24T17:38:03Z",
-      "lastAttempt": "2026-11-24T17:38:03Z",
-      "failures": 0,
-      "httpStatus": 200,
-      "error": null,
+      "lastAttempt": "2026-11-25T02:22:39Z",
+      "failures": 1,
+      "httpStatus": 503,
+      "error": "HTTP 503",
       "items": [
         {
           "id": "e47dcbc624e5",
@@ -926,10 +911,10 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"f026bbbd80b78a72e37755dc90aa3000\"",
-      "lastModified": "Tue, 24 Nov 2026 16:30:16 GMT",
-      "lastOk": "2026-11-24T17:38:03Z",
-      "lastAttempt": "2026-11-24T17:38:03Z",
+      "etag": "W/\"b7b08ca13cb3d1fbd9656cf8b436d89f\"",
+      "lastModified": "Wed, 25 Nov 2026 00:00:17 GMT",
+      "lastOk": "2026-11-25T02:22:39Z",
+      "lastAttempt": "2026-11-25T02:22:39Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -1027,8 +1012,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-24T17:38:03Z",
-      "lastAttempt": "2026-11-24T17:38:03Z",
+      "lastOk": "2026-11-25T02:22:39Z",
+      "lastAttempt": "2026-11-25T02:22:39Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1279,8 +1264,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-24T17:38:03Z",
-      "failures": 22,
+      "lastAttempt": "2026-11-25T02:22:39Z",
+      "failures": 23,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1578,8 +1563,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-24T17:38:03Z",
-      "failures": 22,
+      "lastAttempt": "2026-11-25T02:22:39Z",
+      "failures": 23,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
