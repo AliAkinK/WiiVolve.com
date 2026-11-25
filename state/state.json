@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "195b75af7981b5e0f6cef86461729d0e2bde0c99ee114176ba2cef33ee327e35",
+  "signature": "e770aec86f1f9afe91edd65527daf789c49d831852ba8e4eac37eb5fc4e392e5",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-25T12:47:21Z",
+  "lastWrite": "2026-11-25T22:28:46Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0141fd50c395": "2026-11-19T12:59:03Z",
@@ -10,6 +10,7 @@
     "019143d0295e": "2026-11-04T17:22:25Z",
     "026b420b5d27": "2022-05-04T07:00:00Z",
     "02978689e25e": "2026-11-19T12:50:56Z",
+    "0311deb3d7ed": "2011-06-05T07:00:00Z",
     "0313915f64ad": "2026-11-10T02:04:23Z",
     "035ea998421a": "2026-11-19T21:29:19Z",
     "03e6a7a6c088": "2026-11-06T00:12:19Z",
@@ -21,6 +22,7 @@
     "0e6b97df8067": "2026-11-09T07:56:44Z",
     "0f4ce1f382e9": "2026-11-16T02:00:34Z",
     "11ea74c38072": "2024-07-26T11:00:00Z",
+    "132157f21cc7": "2010-11-05T07:00:00Z",
     "17861fa5b00f": "2026-04-14T07:00:00Z",
     "183f0be4a832": "2026-11-15T01:52:30Z",
     "18b955caef93": "2026-11-16T09:37:05Z",
@@ -206,6 +208,7 @@
     "e7c0b7774d5a": "2025-11-14T10:04:26Z",
     "e8c934963c24": "2026-11-18T21:25:16Z",
     "e8fe48d4d728": "2026-01-22T08:00:00Z",
+    "eb34c8ddb832": "2011-01-28T08:00:00Z",
     "ed13f06de9c7": "2026-11-02T18:10:29Z",
     "ed9ac1aab517": "2026-11-20T03:09:48Z",
     "ef984cbfdb4f": "2026-11-16T20:26:41Z",
@@ -230,8 +233,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-25T12:47:21Z",
-      "lastAttempt": "2026-11-25T12:47:21Z",
+      "lastOk": "2026-11-25T22:28:46Z",
+      "lastAttempt": "2026-11-25T22:28:46Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -239,19 +242,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Wed, 25 Nov 2026 09:29:00 -0000",
-      "lastOk": "2026-11-25T12:47:21Z",
-      "lastAttempt": "2026-11-25T12:47:21Z",
+      "lastModified": "Wed, 25 Nov 2026 21:50:00 -0000",
+      "lastOk": "2026-11-25T22:28:46Z",
+      "lastAttempt": "2026-11-25T22:28:46Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"d86d1266cefbd9270f15cb5a0b776a6c\"",
-      "lastModified": "Wed, 25 Nov 2026 12:07:26 GMT",
-      "lastOk": "2026-11-25T12:47:21Z",
-      "lastAttempt": "2026-11-25T12:47:21Z",
+      "etag": "W/\"050c479db7c892e6d450348dc24f7025\"",
+      "lastModified": "Wed, 25 Nov 2026 22:15:08 GMT",
+      "lastOk": "2026-11-25T22:28:46Z",
+      "lastAttempt": "2026-11-25T22:28:46Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -260,8 +263,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-25T12:47:21Z",
-      "lastAttempt": "2026-11-25T12:47:21Z",
+      "lastOk": "2026-11-25T22:28:46Z",
+      "lastAttempt": "2026-11-25T22:28:46Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -270,8 +273,8 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-25T12:47:21Z",
-      "lastAttempt": "2026-11-25T12:47:21Z",
+      "lastOk": "2026-11-25T22:28:46Z",
+      "lastAttempt": "2026-11-25T22:28:46Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -307,15 +310,15 @@
           ]
         },
         {
-          "id": "6d2797f26f50",
-          "title": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1rUDBMSjh0dDBvYVEyTjNPSWFNNE45RnBIR1N3R0Z6RzVNdS1zakF2VEVoem5lWmZsR2txMDJ4LWtwOGk1Mi1GZmRhakotU0NaREJhU0ZkTGVGTnJKTHB3ekd5R2tieE1GQTRCOXdQZU8xTTVITm1OZXpGMnpzbVBYaHNpRk5nUW16SnpnM3lMWjdJek9Pa3dIeXIwZw?oc=5",
-          "source": "GBAtemp",
+          "id": "da4350178fd7",
+          "title": "Quiz: Can You Name These Wii Games From The Mangled Box Art?",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON21udUZyU29vTlY4RmxvcER4NG1JeVBMSWpfdTNscnpfTXFfdXI0eEMtenVhLWlhRlJKaGRReG5mLXJKXzNzekNxLWVEOWVCTDNqOUhGbVFFNjdKMllOMUR0V29aTHpWLThUMGF6a2lMYjlLTUJ6UUZiTk1JYXVaVnZWVFhzWFVQUGdiS1ZZZ3dpS0dq?oc=5",
+          "source": "Nintendo Life",
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
-          "published": "2026-11-20T10:07:37Z",
-          "firstSeen": "2026-11-20T20:10:31Z",
+          "published": "2026-11-19T16:04:35Z",
+          "firstSeen": "2026-11-19T21:29:19Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -337,6 +340,21 @@
           ]
         },
         {
+          "id": "c1898703af17",
+          "title": "On its 20th anniversary, here are the 30 best Wii games chosen by a former Official Nintendo Magazine writer",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnMW9rcVZxcThuVTB5UEM3VTJ1OThiSDRYWHpLamlZdmdyVzczLThwM1c1NnZnbHpfcXBJWXRtQ1FPazRaRDZSamFhRmVOelJ1am0wQWxVMzcxUGhyUWw5cDU1UzVvVS12SmxZeg?oc=5",
+          "source": "Video Games Chronicle",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-19T13:23:49Z",
+          "firstSeen": "2026-11-19T21:29:19Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "e8c934963c24",
           "title": "Twenty years ago, the Wii and PS3 predicted the future of gaming – did they get it right?",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa01yQjNKWTQ0VGRPRnFWdXE1em1iTlVkXzZlR2JqZC1wZHZIQnl6bWxlT2xPb0NYVHhjbk9sSkxZM1diVTlZQmt5bVBvQ2pyYUtBV3JhV1ZxbnFER2FCcjl5Z01DREdMODRsZ2tiMXQ2QWdxVmlySEZyNmpjR0ltdkFEOGlQY3N4al9zUEhydEc4T1lIQ0dUWkVJLWJwSWpheTNIcmk1cnBWYVVT?oc=5",
@@ -346,21 +364,6 @@
           "tab": "press",
           "published": "2026-11-18T18:51:24Z",
           "firstSeen": "2026-11-18T21:25:16Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "df3aaaca8c16",
-          "title": "20 Years Later, the Wii Remains Nintendo’s Most Important Console",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjJkNFQzSmZoQ1hrVGN2MHlKT0VWQkozLUFHVXhlbThpNkFsWXJPaVg1ZTNjTGNRSjRUbjhDZjE0OC1ralNUVm82dGo2ODh4dUFabG9NenR2WkFtNzFyVEk3Z2ltMXYxSGdVYzZsUXBFSlc2VXJJMV9qLXQzV0g5S3hDTWlEbnB5MFBBUlNRd3FMcWVJaFlJ?oc=5",
-          "source": "IGN",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-16T08:00:00Z",
-          "firstSeen": "2026-11-17T03:49:08Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -637,6 +640,36 @@
           ]
         },
         {
+          "id": "0311deb3d7ed",
+          "title": "Wii Play Motion Review",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90em1RVEJfVVUxUWo4czdabV9ISFV6SkI5Z0VvVTNvRUcwc1dhUWdRMmQwWEdFZGRWdmdxcmZDNmp1OFJjS0V4eG1tMmEwMHljTjZlMVJ4c2dhUnVUdmVicEhCdmhvem8?oc=5",
+          "source": "Nintendo Insider",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2011-06-05T07:00:00Z",
+          "firstSeen": "2011-06-05T07:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "eb34c8ddb832",
+          "title": "Further Kirby game on the way for Wii",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aWHpUZlVLbEQtTnVVN2tYV1BYWHZrbVRkSlNpS2lPTFplX1lOUkhkYnVLcGRlT1c3N2VnN054dHRDS3JJUzl3VnRCdFgyUDZDRG5yMjUteTFobFY4TkR5bklQWmlZZ2tMWFNDc1pkNUtfQkJfbzVFOTQwYw?oc=5",
+          "source": "Nintendo Insider",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2011-01-28T08:00:00Z",
+          "firstSeen": "2011-01-28T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "7709bb72e07f",
           "title": "Why My Nintendo Wii Has Been Collecting Dust",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3RTWDZCUXlHb2dib29EdjkyaEpqanJQWk0tRUhvanNRR0FNTVFxbmRDWlVCa2lyNVE2MGUzSkVrU0JtY2NKUTA5VE9IRVVyYnNVYkJVN1dIYzJhb24wdWo4amhRZlFUTWtIbzhvc3JGVGNKYTFPWlRlZEFhbUo2SUxKbEtWRW8?oc=5",
@@ -646,6 +679,21 @@
           "tab": "press",
           "published": "2010-11-20T08:00:00Z",
           "firstSeen": "2010-11-20T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "132157f21cc7",
+          "title": "Rumor: Wii Successor Announcement at E3 2011",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcEZ1SzJxY2sxZmd1STc4ZE9hMXBpTHBtZnVJclFFZmU1d1BPZ2NQRlBHdmRjdjVia1lLVi1YR0Rvd0NuR3NtbWYyNlRlY09DUjA4bzBoYVJHbi16dkQ2T0NpdGM4dFJ2NXJhVWZJcWktLUpyMGhhRWtNYzlkWGhibDJHTTUxbGxC?oc=5",
+          "source": "Nintendo Insider",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2010-11-05T07:00:00Z",
+          "firstSeen": "2010-11-05T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -807,10 +855,10 @@
     "hackaday": {
       "etag": "W/\"294bb8a45b56ac80313aad0ccd73334f\"",
       "lastModified": "Wed, 25 Nov 2026 12:00:25 GMT",
-      "lastOk": "2026-11-25T12:47:21Z",
-      "lastAttempt": "2026-11-25T12:47:21Z",
+      "lastOk": "2026-11-25T22:28:46Z",
+      "lastAttempt": "2026-11-25T22:28:46Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": [
         {
@@ -906,8 +954,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-25T12:47:21Z",
-      "lastAttempt": "2026-11-25T12:47:21Z",
+      "lastOk": "2026-11-25T22:28:46Z",
+      "lastAttempt": "2026-11-25T22:28:46Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1158,8 +1206,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-25T12:47:21Z",
-      "failures": 24,
+      "lastAttempt": "2026-11-25T22:28:46Z",
+      "failures": 25,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1457,8 +1505,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-25T12:47:21Z",
-      "failures": 24,
+      "lastAttempt": "2026-11-25T22:28:46Z",
+      "failures": 25,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
