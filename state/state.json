@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "e770aec86f1f9afe91edd65527daf789c49d831852ba8e4eac37eb5fc4e392e5",
+  "signature": "bb37ea7efb50946890c5dd755d6d11e09844a7451f7a5fd61894cce0c780ceac",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-25T22:28:46Z",
+  "lastWrite": "2026-11-26T04:59:19Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0141fd50c395": "2026-11-19T12:59:03Z",
@@ -14,6 +14,7 @@
     "0313915f64ad": "2026-11-10T02:04:23Z",
     "035ea998421a": "2026-11-19T21:29:19Z",
     "03e6a7a6c088": "2026-11-06T00:12:19Z",
+    "097395661ccb": "2026-11-26T04:59:19Z",
     "09b862d39f1b": "2026-11-04T17:22:25Z",
     "0b14a20b1603": "2026-10-16T10:10:25Z",
     "0b6db0ca20f1": "2026-11-18T21:25:16Z",
@@ -158,6 +159,7 @@
     "ae265a8b8b61": "2026-11-04T17:22:25Z",
     "aea9e287c645": "2026-10-23T15:41:05Z",
     "b020cb01e5c1": "2026-11-02T02:47:21Z",
+    "b09dc140a438": "2020-11-03T08:00:00Z",
     "b191ff601d8a": "2026-11-15T09:20:09Z",
     "b25ab4396885": "2026-11-04T17:22:25Z",
     "b264a275a00c": "2026-11-16T20:26:41Z",
@@ -233,8 +235,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-25T22:28:46Z",
-      "lastAttempt": "2026-11-25T22:28:46Z",
+      "lastOk": "2026-11-26T04:59:19Z",
+      "lastAttempt": "2026-11-26T04:59:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -242,19 +244,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Wed, 25 Nov 2026 21:50:00 -0000",
-      "lastOk": "2026-11-25T22:28:46Z",
-      "lastAttempt": "2026-11-25T22:28:46Z",
+      "lastModified": "Thu, 26 Nov 2026 03:10:00 -0000",
+      "lastOk": "2026-11-26T04:59:19Z",
+      "lastAttempt": "2026-11-26T04:59:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"050c479db7c892e6d450348dc24f7025\"",
-      "lastModified": "Wed, 25 Nov 2026 22:15:08 GMT",
-      "lastOk": "2026-11-25T22:28:46Z",
-      "lastAttempt": "2026-11-25T22:28:46Z",
+      "etag": "W/\"634623afaaf3d2b5c3d43b0679f45c3e\"",
+      "lastModified": "Thu, 26 Nov 2026 02:45:00 GMT",
+      "lastOk": "2026-11-26T04:59:19Z",
+      "lastAttempt": "2026-11-26T04:59:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -263,8 +265,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-25T22:28:46Z",
-      "lastAttempt": "2026-11-25T22:28:46Z",
+      "lastOk": "2026-11-26T04:59:19Z",
+      "lastAttempt": "2026-11-26T04:59:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -273,12 +275,27 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-25T22:28:46Z",
-      "lastAttempt": "2026-11-25T22:28:46Z",
+      "lastOk": "2026-11-26T04:59:19Z",
+      "lastAttempt": "2026-11-26T04:59:19Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
+        {
+          "id": "097395661ccb",
+          "title": "Nintendo Wii is 20 years old and its legacy is still felt to this day",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1GbU80WXJiUW5OcjU3dzg2amVnNmxSWlJQelcyOHJNamtCanM3OV9yajYzcnp2Y2hCbHNQZzJMOVh5dU90SVMyRjQ3d1F3cWEtWkZrRS1XWXo5eXNNV0E0ckVGdXNQSl9sVUJES3dIRjNYc3pDREthQXVfRjlXc2FfRnV5aHdDYlJuRlVSeERWYUFEZTZqTtIBngFBVV95cUxNdGJZZEJZMDlhVHpabFFfQlBpZ0pzanVoV19iZGhnRHZuRS1FWEhxb242MXFaS2t2ZF9jd0pxOG50aXNJYXlPc0JxSXozMExWSDVCVlYzYUwwNTdSQVVBQThUZnl4aVMyYVhhcFJlWmJVS2pOSENjYkhNeThMYTlVNzQwbEZYWmZZYm1JemJjQlE0Q3hPNjBVdFV6Z3pKdw?oc=5",
+          "source": "Metro.co.uk",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-26T01:00:00Z",
+          "firstSeen": "2026-11-26T04:59:19Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
         {
           "id": "e47dcbc624e5",
           "title": "How Nintendo Wii Shaped a Generation of Gaming",
@@ -304,6 +321,21 @@
           "tab": "press",
           "published": "2026-11-21T20:26:55Z",
           "firstSeen": "2026-11-21T17:28:20Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "6d2797f26f50",
+          "title": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1rUDBMSjh0dDBvYVEyTjNPSWFNNE45RnBIR1N3R0Z6RzVNdS1zakF2VEVoem5lWmZsR2txMDJ4LWtwOGk1Mi1GZmRhakotU0NaREJhU0ZkTGVGTnJKTHB3ekd5R2tieE1GQTRCOXdQZU8xTTVITm1OZXpGMnpzbVBYaHNpRk5nUW16SnpnM3lMWjdJek9Pa3dIeXIwZw?oc=5",
+          "source": "GBAtemp",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-20T10:07:37Z",
+          "firstSeen": "2026-11-20T20:10:31Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -364,6 +396,21 @@
           "tab": "press",
           "published": "2026-11-18T18:51:24Z",
           "firstSeen": "2026-11-18T21:25:16Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "df3aaaca8c16",
+          "title": "20 Years Later, the Wii Remains Nintendo’s Most Important Console",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjJkNFQzSmZoQ1hrVGN2MHlKT0VWQkozLUFHVXhlbThpNkFsWXJPaVg1ZTNjTGNRSjRUbjhDZjE0OC1ralNUVm82dGo2ODh4dUFabG9NenR2WkFtNzFyVEk3Z2ltMXYxSGdVYzZsUXBFSlc2VXJJMV9qLXQzV0g5S3hDTWlEbnB5MFBBUlNRd3FMcWVJaFlJ?oc=5",
+          "source": "IGN",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2026-11-16T08:00:00Z",
+          "firstSeen": "2026-11-17T03:49:08Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -604,6 +651,21 @@
           "tab": "press",
           "published": "2021-11-20T08:00:00Z",
           "firstSeen": "2021-11-20T08:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
+          "id": "b09dc140a438",
+          "title": "50 Best Wii Games Of All Time",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
+          "source": "Nintendo Life",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2020-11-03T08:00:00Z",
+          "firstSeen": "2020-11-03T08:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -853,12 +915,12 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"294bb8a45b56ac80313aad0ccd73334f\"",
-      "lastModified": "Wed, 25 Nov 2026 12:00:25 GMT",
-      "lastOk": "2026-11-25T22:28:46Z",
-      "lastAttempt": "2026-11-25T22:28:46Z",
+      "etag": "W/\"53d0f105a9d03b1a6bc55c24c410e013\"",
+      "lastModified": "Thu, 26 Nov 2026 03:00:47 GMT",
+      "lastOk": "2026-11-26T04:59:19Z",
+      "lastAttempt": "2026-11-26T04:59:19Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": [
         {
@@ -954,8 +1016,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-25T22:28:46Z",
-      "lastAttempt": "2026-11-25T22:28:46Z",
+      "lastOk": "2026-11-26T04:59:19Z",
+      "lastAttempt": "2026-11-26T04:59:19Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1206,8 +1268,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-25T22:28:46Z",
-      "failures": 25,
+      "lastAttempt": "2026-11-26T04:59:19Z",
+      "failures": 26,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1505,8 +1567,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-25T22:28:46Z",
-      "failures": 25,
+      "lastAttempt": "2026-11-26T04:59:19Z",
+      "failures": 26,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [

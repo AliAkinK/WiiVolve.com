@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T22:28:46Z",
+  "generatedAt": "2026-11-26T04:59:19Z",
   "items": [
+    {
+      "id": "097395661ccb",
+      "title": "Nintendo Wii is 20 years old and its legacy is still felt to this day",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk1GbU80WXJiUW5OcjU3dzg2amVnNmxSWlJQelcyOHJNamtCanM3OV9yajYzcnp2Y2hCbHNQZzJMOVh5dU90SVMyRjQ3d1F3cWEtWkZrRS1XWXo5eXNNV0E0ckVGdXNQSl9sVUJES3dIRjNYc3pDREthQXVfRjlXc2FfRnV5aHdDYlJuRlVSeERWYUFEZTZqTtIBngFBVV95cUxNdGJZZEJZMDlhVHpabFFfQlBpZ0pzanVoV19iZGhnRHZuRS1FWEhxb242MXFaS2t2ZF9jd0pxOG50aXNJYXlPc0JxSXozMExWSDVCVlYzYUwwNTdSQVVBQThUZnl4aVMyYVhhcFJlWmJVS2pOSENjYkhNeThMYTlVNzQwbEZYWmZZYm1JemJjQlE0Q3hPNjBVdFV6Z3pKdw?oc=5",
+      "source": "Metro.co.uk",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-26T01:00:00Z",
+      "firstSeen": "2026-11-26T04:59:19Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
     {
       "id": "e47dcbc624e5",
       "title": "How Nintendo Wii Shaped a Generation of Gaming",
@@ -236,21 +251,6 @@
       "matched": [
         "Wii",
         "Wii Sports"
-      ]
-    },
-    {
-      "id": "02978689e25e",
-      "title": "Random Access Memories (2006) – Nintendo Wii",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vQjFCemhZdVVyejBWaFpiTGdOc25NTElCMGdLYS1kQlVtYWh3Wi1OUjRoQnQyeklLSlZKUjdyOTNzZEpGLU9sbUxvd3hWYzhIakFlcFVZX3ZHTG05ZktZTC1qbnlfNk9EOHJXR0dSa2xhbmVYRDIxWDNaVlQ?oc=5",
-      "source": "Stuff South Africa",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-19T12:50:56Z",
-      "firstSeen": "2026-11-19T12:50:56Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
       ]
     },
     {
@@ -514,10 +514,10 @@
       "press": 19,
       "scene": 18
     },
-    "windowStart": "2026-11-11T22:28:46Z",
+    "windowStart": "2026-11-12T04:59:19Z",
     "completeSince": {
-      "all": "2026-11-18T18:51:24Z",
-      "press": "2026-11-18T18:51:24Z",
+      "all": "2026-11-19T12:50:56Z",
+      "press": "2026-11-19T12:50:56Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
