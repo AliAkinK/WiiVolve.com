@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T04:59:19Z",
+  "generatedAt": "2026-11-26T15:08:58Z",
   "items": [
     {
       "id": "097395661ccb",
@@ -137,6 +137,21 @@
       ]
     },
     {
+      "id": "ca7e94ab4054",
+      "title": "The Nintendo Wii turns 20, and 2006 owes us an explanation",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xZExieTVpMDEyRlRzaVkzOGljcjdRc0VvV25RYlJQcnVPeWZuelhSTlRTcXdEZ3FORm9Uc1RtZGt4WGlCRktpWmh0V2NsWDFx?oc=5",
+      "source": "Digg",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-19T21:11:51Z",
+      "firstSeen": "2026-11-20T11:30:39Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
+    {
       "id": "7c71f3b69200",
       "title": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)",
       "url": "https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us",
@@ -218,21 +233,6 @@
       "tab": "press",
       "published": "2026-11-19T14:00:00Z",
       "firstSeen": "2026-11-20T11:30:39Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
-      "id": "c1898703af17",
-      "title": "On its 20th anniversary, here are the 30 best Wii games chosen by a former Official Nintendo Magazine writer",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnMW9rcVZxcThuVTB5UEM3VTJ1OThiSDRYWHpLamlZdmdyVzczLThwM1c1NnZnbHpfcXBJWXRtQ1FPazRaRDZSamFhRmVOelJ1am0wQWxVMzcxUGhyUWw5cDU1UzVvVS12SmxZeg?oc=5",
-      "source": "Video Games Chronicle",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-19T13:23:49Z",
-      "firstSeen": "2026-11-19T21:29:19Z",
       "excerpt": "",
       "matched": [
         "Wii"
@@ -514,10 +514,10 @@
       "press": 19,
       "scene": 18
     },
-    "windowStart": "2026-11-12T04:59:19Z",
+    "windowStart": "2026-11-12T15:08:58Z",
     "completeSince": {
-      "all": "2026-11-19T12:50:56Z",
-      "press": "2026-11-19T12:50:56Z",
+      "all": "2026-11-19T13:23:49Z",
+      "press": "2026-11-19T13:23:49Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
