@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "6443803cdfd4da952886220c22764672f0329b926410acb7c5ae56c2f9a753ea",
+  "signature": "247c6fc940e21ac2a5003a03454e8f446bae9a1a591a063ea684501e4a85f9b6",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-27T08:22:40Z",
+  "lastWrite": "2026-11-27T18:55:26Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0141fd50c395": "2026-11-19T12:59:03Z",
@@ -31,6 +31,7 @@
     "1fc973eea2dc": "2026-11-17T03:49:08Z",
     "22700bb8bc69": "2026-11-09T00:51:52Z",
     "24cbb92e3b6e": "2026-11-19T21:29:19Z",
+    "26437f139790": "2012-10-15T07:00:00Z",
     "27aa4a3a12b6": "2026-11-19T21:29:19Z",
     "2b78f3fce6bb": "2026-11-06T20:52:27Z",
     "2db941bcf4f5": "2007-05-21T07:00:00Z",
@@ -113,10 +114,10 @@
     "72b48e2b2d69": "2026-11-20T20:10:31Z",
     "74c1c473f52c": "2024-02-10T04:11:38Z",
     "763072b463b6": "2026-11-01T15:47:33Z",
-    "7709bb72e07f": "2010-11-20T08:00:00Z",
     "785ae7d515cb": "2026-11-17T03:49:08Z",
     "79862c0cbd30": "2026-04-09T05:00:02Z",
     "79e9d6aad603": "2026-11-13T15:22:31Z",
+    "7a141c7d6b0a": "2024-03-20T07:00:00Z",
     "7b17ff03ba71": "2026-11-05T18:43:09Z",
     "7c71f3b69200": "2026-11-19T21:29:19Z",
     "7ca7f4366a15": "2025-03-10T08:31:57Z",
@@ -156,7 +157,6 @@
     "ae265a8b8b61": "2026-11-04T17:22:25Z",
     "aea9e287c645": "2026-10-23T15:41:05Z",
     "b020cb01e5c1": "2026-11-02T02:47:21Z",
-    "b09dc140a438": "2020-11-03T08:00:00Z",
     "b191ff601d8a": "2026-11-15T09:20:09Z",
     "b25ab4396885": "2026-11-04T17:22:25Z",
     "b264a275a00c": "2026-11-16T20:26:41Z",
@@ -233,8 +233,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-27T08:22:40Z",
-      "lastAttempt": "2026-11-27T08:22:40Z",
+      "lastOk": "2026-11-27T18:55:26Z",
+      "lastAttempt": "2026-11-27T18:55:26Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -242,19 +242,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Fri, 27 Nov 2026 01:02:00 -0000",
-      "lastOk": "2026-11-27T08:22:40Z",
-      "lastAttempt": "2026-11-27T08:22:40Z",
+      "lastModified": "Fri, 27 Nov 2026 16:12:00 -0000",
+      "lastOk": "2026-11-27T18:55:26Z",
+      "lastAttempt": "2026-11-27T18:55:26Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"23e5bf1c0b76454cc41c0f4e25022f1f\"",
-      "lastModified": "Fri, 27 Nov 2026 06:00:47 GMT",
-      "lastOk": "2026-11-27T08:22:40Z",
-      "lastAttempt": "2026-11-27T08:22:40Z",
+      "etag": "W/\"efb684fdd4b411b8dc9649563f02b3b4\"",
+      "lastModified": "Fri, 27 Nov 2026 18:11:04 GMT",
+      "lastOk": "2026-11-27T18:55:26Z",
+      "lastAttempt": "2026-11-27T18:55:26Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -263,8 +263,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-27T08:22:40Z",
-      "lastAttempt": "2026-11-27T08:22:40Z",
+      "lastOk": "2026-11-27T18:55:26Z",
+      "lastAttempt": "2026-11-27T18:55:26Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -273,27 +273,12 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-27T08:22:40Z",
-      "lastAttempt": "2026-11-27T08:22:40Z",
+      "lastOk": "2026-11-27T18:55:26Z",
+      "lastAttempt": "2026-11-27T18:55:26Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
-        {
-          "id": "e3a94ac0f0ae",
-          "title": "10 Great Games That Defined The Nintendo Wii",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByVUVnVGtacVVZNkc0RlRwWjdmczFpZkgyMVFyT3VteGF2c2ZfY0E4R2hKYWpvV0hXTUZmdUZ5Y3A5bHU0UnVIcXFzVUFERW0zUGlWUjJiT3RfSUk4LXpRM0tOM3hsT28?oc=5",
-          "source": "IMDb",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-26T21:22:16Z",
-          "firstSeen": "2026-11-26T23:48:43Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
         {
           "id": "3e41b7590ec0",
           "title": "The games that defined the Nintendo Wii, two decades later",
@@ -325,81 +310,6 @@
           ]
         },
         {
-          "id": "e47dcbc624e5",
-          "title": "How Nintendo Wii Shaped a Generation of Gaming",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nX0pmWlRBR0g3VmtseFdpd3pDbXBzaVNzSy1FdUZIQVE4dFZLdVRROEt1RnRkQS1LOFJpWC0wMjNicGROY25JVHZOc0tiM001SThGTHdEVXVRd2FxT0U2MG8yZk1LVGRJOFdZWE90THN5d2IxckVWaVBiQnRkRGc?oc=5",
-          "source": "GameRant",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-22T16:00:14Z",
-          "firstSeen": "2026-11-22T18:32:55Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "7d7d2dd4e0ee",
-          "title": "Nintendo Wii Turns 20, Top 10 Best-Selling Wii Games - Sales",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVl81T2J4bVhwdXpmV0JUMlFtNUN6MG9faFY3T0txZEk4QVZFLXB2aFZtd1ZBVFRvQzZHNFl5a3MtMnRXUWNvTEVhVUtudTN0bEUyZDNyUklJcWpveHhleE9TRFdSSWZYT1J3ckI3cGx5cHU5TG5YMG5JOXlMcUlaVE9ncEhyY2dIczdjejdzblN1dURHdkRF?oc=5",
-          "source": "VGChartz",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-21T20:26:55Z",
-          "firstSeen": "2026-11-21T17:28:20Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "6d2797f26f50",
-          "title": "The Nintendo Wii turns 20: a brief look back at its hacking scene",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby1rUDBMSjh0dDBvYVEyTjNPSWFNNE45RnBIR1N3R0Z6RzVNdS1zakF2VEVoem5lWmZsR2txMDJ4LWtwOGk1Mi1GZmRhakotU0NaREJhU0ZkTGVGTnJKTHB3ekd5R2tieE1GQTRCOXdQZU8xTTVITm1OZXpGMnpzbVBYaHNpRk5nUW16SnpnM3lMWjdJek9Pa3dIeXIwZw?oc=5",
-          "source": "GBAtemp",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-20T10:07:37Z",
-          "firstSeen": "2026-11-20T20:10:31Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "27aa4a3a12b6",
-          "title": "Happy 20th Birthday to the Wii — A Revolution in the Industry",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XaklDYUUyTGNxUXllVV9xaGhNcUdfbllxeExmUzh6cE5GWU5wazF1dXFLdEkzTkwyRGxYcUJRRmN0NU5sRFhrX0ZNeERtY1ZfYmRHLUFzVDVIYTJIWXF1VzYtWXl5dlZPbWxfTW91R2hyUQ?oc=5",
-          "source": "Insider Gaming",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-19T15:12:58Z",
-          "firstSeen": "2026-11-19T21:29:19Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "c1898703af17",
-          "title": "On its 20th anniversary, here are the 30 best Wii games chosen by a former Official Nintendo Magazine writer",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnMW9rcVZxcThuVTB5UEM3VTJ1OThiSDRYWHpLamlZdmdyVzczLThwM1c1NnZnbHpfcXBJWXRtQ1FPazRaRDZSamFhRmVOelJ1am0wQWxVMzcxUGhyUWw5cDU1UzVvVS12SmxZeg?oc=5",
-          "source": "Video Games Chronicle",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-19T13:23:49Z",
-          "firstSeen": "2026-11-19T21:29:19Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
           "id": "e8c934963c24",
           "title": "Twenty years ago, the Wii and PS3 predicted the future of gaming – did they get it right?",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa01yQjNKWTQ0VGRPRnFWdXE1em1iTlVkXzZlR2JqZC1wZHZIQnl6bWxlT2xPb0NYVHhjbk9sSkxZM1diVTlZQmt5bVBvQ2pyYUtBV3JhV1ZxbnFER2FCcjl5Z01DREdMODRsZ2tiMXQ2QWdxVmlySEZyNmpjR0ltdkFEOGlQY3N4al9zUEhydEc4T1lIQ0dUWkVJLWJwSWpheTNIcmk1cnBWYVVT?oc=5",
@@ -409,21 +319,6 @@
           "tab": "press",
           "published": "2026-11-18T08:00:00Z",
           "firstSeen": "2026-11-18T21:25:16Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "df3aaaca8c16",
-          "title": "20 Years Later, the Wii Remains Nintendo’s Most Important Console",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjJkNFQzSmZoQ1hrVGN2MHlKT0VWQkozLUFHVXhlbThpNkFsWXJPaVg1ZTNjTGNRSjRUbjhDZjE0OC1ralNUVm82dGo2ODh4dUFabG9NenR2WkFtNzFyVEk3Z2ltMXYxSGdVYzZsUXBFSlc2VXJJMV9qLXQzV0g5S3hDTWlEbnB5MFBBUlNRd3FMcWVJaFlJ?oc=5",
-          "source": "IGN",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-16T08:00:00Z",
-          "firstSeen": "2026-11-17T03:49:08Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -610,6 +505,21 @@
           ]
         },
         {
+          "id": "7a141c7d6b0a",
+          "title": "The Nintendo Wii is officially retro – so why is nobody nostalgic but me?",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BOHZKT09lUlpwVndQZEFsRGF1aEU0cWxFQmpPM0kwVjMtSm5XS1lKT3JzcmREWVhMMGU0WWowS0hVWlZtdnlVY1FLcTA4UzlYaUt0dkxtY0xNZVltYU5EUE9nMGtBdGFOMGc?oc=5",
+          "source": "Creative Bloq",
+          "sourceId": "googlenews",
+          "via": "Google News",
+          "tab": "press",
+          "published": "2024-03-20T07:00:00Z",
+          "firstSeen": "2024-03-20T07:00:00Z",
+          "excerpt": "",
+          "matched": [
+            "Wii"
+          ]
+        },
+        {
           "id": "561321a38c62",
           "title": "Remembering The Queen’s Totally Real Love For The Nintendo Wii",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlFHX2FhbWRIemVBaDZuSHdqTlV1ZjVmUGpCVzhKdl9OTTc1U19oZE1XcGxzaWtmNjlOZkItakFKdENiSndqRy10SllaX0FTNlBFa0E0MmxBWWlFSzRaeGR5a1gxVlN0eUhHN1Rpdzd3YkIwdk9BT2FjVklLMVdsMGNPUmhRc2ZaOUgw?oc=5",
@@ -670,21 +580,6 @@
           ]
         },
         {
-          "id": "b09dc140a438",
-          "title": "50 Best Wii Games Of All Time",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yekw5V1lJQnRoci1YMnpQR2FVRzBiWmJLZlNOcG4tMWk1bHNnaGlYU2lTYW93al8xZDB4aThoNVJNWjVWWUpDYi1DejJiOW5QcWRCYnI4eVo5b09YXzRRZVFwY1lsWVdzcVhFTDRUUFNOajg?oc=5",
-          "source": "Nintendo Life",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2020-11-03T08:00:00Z",
-          "firstSeen": "2020-11-03T08:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
           "id": "8744a64a1e79",
           "title": "How the Wii Works",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4OXM2NGFZdkdBaXRjakJ0RmROendrZXgzazV0R19GSl95VktPT1BMa0VzWWZBU1kxUkExYWVjakFpZzRGdjdnY1NVNW5GeVZ5dW5ZaEk4Mkg?oc=5",
@@ -700,15 +595,15 @@
           ]
         },
         {
-          "id": "7709bb72e07f",
-          "title": "Why My Nintendo Wii Has Been Collecting Dust",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3RTWDZCUXlHb2dib29EdjkyaEpqanJQWk0tRUhvanNRR0FNTVFxbmRDWlVCa2lyNVE2MGUzSkVrU0JtY2NKUTA5VE9IRVVyYnNVYkJVN1dIYzJhb24wdWo4amhRZlFUTWtIbzhvc3JGVGNKYTFPWlRlZEFhbUo2SUxKbEtWRW8?oc=5",
-          "source": "SlashGear",
+          "id": "26437f139790",
+          "title": "Nintendo Wii price drop ahead of Wii U launch",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclM4TUdnN0ZlQXMyeWdoa2JiQkNJLXVxLW83RGJhdUMwNW1ONFRobzZwYXhCMlFzbjRFdHdLd2k2N1psNFpCUzJPZkJUa3ZESzV6anM5OGQ1YjFmelZOYjBUSTdrWW54QnRtYzAxQmIyUXlmLWZGUTN0TmotaVBxdQ?oc=5",
+          "source": "CBS News",
           "sourceId": "googlenews",
           "via": "Google News",
           "tab": "press",
-          "published": "2010-11-20T08:00:00Z",
-          "firstSeen": "2010-11-20T08:00:00Z",
+          "published": "2012-10-15T07:00:00Z",
+          "firstSeen": "2012-10-15T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -870,10 +765,10 @@
     "hackaday": {
       "etag": "W/\"af82dfc97706568c776ff094094b2200\"",
       "lastModified": "Fri, 27 Nov 2026 06:01:02 GMT",
-      "lastOk": "2026-11-27T08:22:40Z",
-      "lastAttempt": "2026-11-27T08:22:40Z",
+      "lastOk": "2026-11-27T18:55:26Z",
+      "lastAttempt": "2026-11-27T18:55:26Z",
       "failures": 0,
-      "httpStatus": 200,
+      "httpStatus": 304,
       "error": null,
       "items": [
         {
@@ -969,8 +864,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-27T08:22:40Z",
-      "lastAttempt": "2026-11-27T08:22:40Z",
+      "lastOk": "2026-11-27T18:55:26Z",
+      "lastAttempt": "2026-11-27T18:55:26Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1221,8 +1116,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-27T08:22:40Z",
-      "failures": 29,
+      "lastAttempt": "2026-11-27T18:55:26Z",
+      "failures": 30,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1520,8 +1415,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-27T08:22:40Z",
-      "failures": 29,
+      "lastAttempt": "2026-11-27T18:55:26Z",
+      "failures": 30,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
