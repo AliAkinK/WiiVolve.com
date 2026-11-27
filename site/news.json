@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T23:48:43Z",
+  "generatedAt": "2026-11-27T08:22:40Z",
   "items": [
+    {
+      "id": "3e41b7590ec0",
+      "title": "The games that defined the Nintendo Wii, two decades later",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iMG9BTGpYOTdTT1ZsUEJ2T2pKWjNiQzN5QTVKbkdJY2tTVmRfZk5FZmJKQWhSbU9pR05memc1VGlNUkUtVEZIWVM0TFprZS1xbFFwMXJoNDlvWmkyZFN0akQ1MUlNaEljZjNBRGpDSjhmN3lOcHpQV3dtMWtqdw?oc=5",
+      "source": "Anmo Sugoi",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-26T20:17:56Z",
+      "firstSeen": "2026-11-27T08:22:40Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
     {
       "id": "097395661ccb",
       "title": "Nintendo Wii is 20 years old and its legacy is still felt to this day",
@@ -218,21 +233,6 @@
       "tab": "press",
       "published": "2026-11-19T15:12:58Z",
       "firstSeen": "2026-11-19T21:29:19Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
-      "id": "b50b49566c7e",
-      "title": "The 21 Best Nintendo Wii Games of All Time",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jRmJ2a0ZabHdzUEdMcldQWjhQNU8xelpEUGtKN1lBemtNUTJ2dm1BbDNMY2o2cnB0bDNUYkU0aGp2N2l0dnlLTENnUmpXcm9rUFhxdWRTTHFVc1dzeEVUdEJR0gFqQVVfeXFMTTRjV0ZfdVdnLWMzU1pCMUFYNUwtMzBwS3kxUVhkV0dULTFxbWthOEh4SmF2Y3EySVZGV0hNWG14ZXM0Y251cVNiMGtULVptcTdHdDB0NU5NWmNULVZ1TzYtbFFnalZ1c3lnUQ?oc=5",
-      "source": "The Punished Backlog",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-19T14:00:00Z",
-      "firstSeen": "2026-11-20T11:30:39Z",
       "excerpt": "",
       "matched": [
         "Wii"
@@ -514,10 +514,10 @@
       "press": 19,
       "scene": 18
     },
-    "windowStart": "2026-11-12T23:48:43Z",
+    "windowStart": "2026-11-13T08:22:40Z",
     "completeSince": {
-      "all": "2026-11-19T13:23:49Z",
-      "press": "2026-11-19T13:23:49Z",
+      "all": "2026-11-19T14:00:00Z",
+      "press": "2026-11-19T14:00:00Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
