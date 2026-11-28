@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T01:56:41Z",
+  "generatedAt": "2026-11-28T10:20:47Z",
   "items": [
+    {
+      "id": "09e611043617",
+      "title": "20 years on and it doesn’t seem like the Wii changed anything - Reader's Feature",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjhvRlhsRC13WGdSTFZiUW1DbDhwOEVlRjk3a25yOWpRcGUxdHpQQm5tR0ZDWGNSNVp0blg0NWtDa1ZSRzVaSVlrRHNDUkk1amVHSHRyQWdCSFpHUUdkbVFvMENWcDU3WHVqMUI0UXVhOExuaEZNdXNURWVkZUZ6MjJabW4zZ1lIWXEyelFNb2ZoVENJUzhyeFJrN25WYlBtVGZ2bU1B0gGrAUFVX3lxTFBVdWlJZ0hHY2FEbkluV01GUU45Wjc3ZThMb1FJaVFqd3hzd3BxOTBQeU9nblBjWW5TTTJCUUpOekE2ZkI5bklhcGVLdGhTSVF2aUx1eUdybHRodVZlcUI1QmtsRkQtRW41dnAyeFVEN1RfOHZ2a2hUaEhDbzdiV0xYVEY5TWVOSzVfU2wxNEpmYzR5QzMwQ3JmQ1dwRDVHeTBIUVNQQUl4SW8zVQ?oc=5",
+      "source": "Metro.co.uk",
+      "sourceId": "googlenews",
+      "via": "Google News",
+      "tab": "press",
+      "published": "2026-11-28T02:00:00Z",
+      "firstSeen": "2026-11-28T10:20:47Z",
+      "excerpt": "",
+      "matched": [
+        "Wii"
+      ]
+    },
     {
       "id": "3e41b7590ec0",
       "title": "The games that defined the Nintendo Wii, two decades later",
@@ -217,21 +232,6 @@
       "via": "Google News",
       "tab": "press",
       "published": "2026-11-19T16:04:35Z",
-      "firstSeen": "2026-11-19T21:29:19Z",
-      "excerpt": "",
-      "matched": [
-        "Wii"
-      ]
-    },
-    {
-      "id": "27aa4a3a12b6",
-      "title": "Happy 20th Birthday to the Wii — A Revolution in the Industry",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XaklDYUUyTGNxUXllVV9xaGhNcUdfbllxeExmUzh6cE5GWU5wazF1dXFLdEkzTkwyRGxYcUJRRmN0NU5sRFhrX0ZNeERtY1ZfYmRHLUFzVDVIYTJIWXF1VzYtWXl5dlZPbWxfTW91R2hyUQ?oc=5",
-      "source": "Insider Gaming",
-      "sourceId": "googlenews",
-      "via": "Google News",
-      "tab": "press",
-      "published": "2026-11-19T15:12:58Z",
       "firstSeen": "2026-11-19T21:29:19Z",
       "excerpt": "",
       "matched": [
@@ -514,10 +514,10 @@
       "press": 19,
       "scene": 18
     },
-    "windowStart": "2026-11-14T01:56:41Z",
+    "windowStart": "2026-11-14T10:20:47Z",
     "completeSince": {
-      "all": "2026-11-18T08:00:00Z",
-      "press": "2026-11-18T08:00:00Z",
+      "all": "2026-11-19T15:12:58Z",
+      "press": "2026-11-19T15:12:58Z",
       "scene": "2026-11-16T00:06:27Z"
     }
   }
