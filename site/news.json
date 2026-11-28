@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T18:55:26Z",
+  "generatedAt": "2026-11-28T01:56:41Z",
   "items": [
     {
       "id": "3e41b7590ec0",
@@ -514,7 +514,7 @@
       "press": 19,
       "scene": 18
     },
-    "windowStart": "2026-11-13T18:55:26Z",
+    "windowStart": "2026-11-14T01:56:41Z",
     "completeSince": {
       "all": "2026-11-18T08:00:00Z",
       "press": "2026-11-18T08:00:00Z",

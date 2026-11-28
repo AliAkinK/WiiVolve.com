@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "signature": "247c6fc940e21ac2a5003a03454e8f446bae9a1a591a063ea684501e4a85f9b6",
+  "signature": "fd02a9b60195f9f78111735e676efb7886e7e310abc7d7f6509c35d22d4fcba1",
   "rulesHash": "817237b61cabbce647cf4c3c42fa2730577003786ce6361289072371ee20d693",
-  "lastWrite": "2026-11-27T18:55:26Z",
+  "lastWrite": "2026-11-28T01:56:41Z",
   "seen": {
     "01209c4669af": "2026-11-11T02:50:02Z",
     "0141fd50c395": "2026-11-19T12:59:03Z",
@@ -219,7 +219,6 @@
     "f5da1b61766d": "2026-11-14T17:03:48Z",
     "f685411cfb62": "2026-11-06T14:59:51Z",
     "f7b093d91946": "2021-11-20T08:00:00Z",
-    "f8486c3095c0": "2026-03-31T07:00:00Z",
     "f8a3463f6b91": "2025-12-22T06:46:16Z",
     "f9d6ed4a214f": "2026-02-01T08:00:00Z",
     "fa73389bb2f7": "2026-11-02T14:57:02Z",
@@ -233,8 +232,8 @@
     "nintendolife": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-27T18:55:26Z",
-      "lastAttempt": "2026-11-27T18:55:26Z",
+      "lastOk": "2026-11-28T01:56:41Z",
+      "lastAttempt": "2026-11-28T01:56:41Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -242,19 +241,19 @@
     },
     "gonintendo": {
       "etag": null,
-      "lastModified": "Fri, 27 Nov 2026 16:12:00 -0000",
-      "lastOk": "2026-11-27T18:55:26Z",
-      "lastAttempt": "2026-11-27T18:55:26Z",
+      "lastModified": "Fri, 27 Nov 2026 19:33:00 -0000",
+      "lastOk": "2026-11-28T01:56:41Z",
+      "lastAttempt": "2026-11-28T01:56:41Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": []
     },
     "nintendoeverything": {
-      "etag": "W/\"efb684fdd4b411b8dc9649563f02b3b4\"",
-      "lastModified": "Fri, 27 Nov 2026 18:11:04 GMT",
-      "lastOk": "2026-11-27T18:55:26Z",
-      "lastAttempt": "2026-11-27T18:55:26Z",
+      "etag": "W/\"f455de05fa3471319d618443ca2af924\"",
+      "lastModified": "Fri, 27 Nov 2026 21:56:55 GMT",
+      "lastOk": "2026-11-28T01:56:41Z",
+      "lastAttempt": "2026-11-28T01:56:41Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -263,8 +262,8 @@
     "timeextension": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-27T18:55:26Z",
-      "lastAttempt": "2026-11-27T18:55:26Z",
+      "lastOk": "2026-11-28T01:56:41Z",
+      "lastAttempt": "2026-11-28T01:56:41Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
@@ -273,27 +272,12 @@
     "googlenews": {
       "etag": null,
       "lastModified": null,
-      "lastOk": "2026-11-27T18:55:26Z",
-      "lastAttempt": "2026-11-27T18:55:26Z",
+      "lastOk": "2026-11-28T01:56:41Z",
+      "lastAttempt": "2026-11-28T01:56:41Z",
       "failures": 0,
       "httpStatus": 200,
       "error": null,
       "items": [
-        {
-          "id": "3e41b7590ec0",
-          "title": "The games that defined the Nintendo Wii, two decades later",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iMG9BTGpYOTdTT1ZsUEJ2T2pKWjNiQzN5QTVKbkdJY2tTVmRfZk5FZmJKQWhSbU9pR05memc1VGlNUkUtVEZIWVM0TFprZS1xbFFwMXJoNDlvWmkyZFN0akQ1MUlNaEljZjNBRGpDSjhmN3lOcHpQV3dtMWtqdw?oc=5",
-          "source": "Anmo Sugoi",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-11-26T20:17:56Z",
-          "firstSeen": "2026-11-27T08:22:40Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
         {
           "id": "097395661ccb",
           "title": "Nintendo Wii is 20 years old and its legacy is still felt to this day",
@@ -409,21 +393,6 @@
           "tab": "press",
           "published": "2026-04-14T07:00:00Z",
           "firstSeen": "2026-04-14T07:00:00Z",
-          "excerpt": "",
-          "matched": [
-            "Wii"
-          ]
-        },
-        {
-          "id": "f8486c3095c0",
-          "title": "10 Great Games That Defined The Nintendo Wii",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96cEZMTFg3S0doNWJJRW5tOW04WTJjc2duZFR0OXp0cElCVlZRLWlDVWFVUmM5WXcyVmx0YmhfOGVpTF8ycnN2eWY4SWZCNFhBSV9tS3VwTUUxQW1kTFByWTh0VFFxQ3VwaVdYQ2RCamU3a0dYbWFnNGxvVQ?oc=5",
-          "source": "DualShockers",
-          "sourceId": "googlenews",
-          "via": "Google News",
-          "tab": "press",
-          "published": "2026-03-31T07:00:00Z",
-          "firstSeen": "2026-03-31T07:00:00Z",
           "excerpt": "",
           "matched": [
             "Wii"
@@ -763,12 +732,12 @@
       ]
     },
     "hackaday": {
-      "etag": "W/\"af82dfc97706568c776ff094094b2200\"",
-      "lastModified": "Fri, 27 Nov 2026 06:01:02 GMT",
-      "lastOk": "2026-11-27T18:55:26Z",
-      "lastAttempt": "2026-11-27T18:55:26Z",
+      "etag": "W/\"4111c45efa56dce54003a820742af5ee\"",
+      "lastModified": "Sat, 28 Nov 2026 00:00:21 GMT",
+      "lastOk": "2026-11-28T01:56:41Z",
+      "lastAttempt": "2026-11-28T01:56:41Z",
       "failures": 0,
-      "httpStatus": 304,
+      "httpStatus": 200,
       "error": null,
       "items": [
         {
@@ -864,8 +833,8 @@
     "dolphin": {
       "etag": "W/\"9da20e1f89186d1befc0d4db1634308d\"",
       "lastModified": "Tue, 17 Nov 2026 14:30:53 GMT",
-      "lastOk": "2026-11-27T18:55:26Z",
-      "lastAttempt": "2026-11-27T18:55:26Z",
+      "lastOk": "2026-11-28T01:56:41Z",
+      "lastAttempt": "2026-11-28T01:56:41Z",
       "failures": 0,
       "httpStatus": 304,
       "error": null,
@@ -1116,8 +1085,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-27T18:55:26Z",
-      "failures": 30,
+      "lastAttempt": "2026-11-28T01:56:41Z",
+      "failures": 31,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
@@ -1415,8 +1384,8 @@
       "etag": null,
       "lastModified": null,
       "lastOk": "2026-11-17T13:19:10Z",
-      "lastAttempt": "2026-11-27T18:55:26Z",
-      "failures": 30,
+      "lastAttempt": "2026-11-28T01:56:41Z",
+      "failures": 31,
       "httpStatus": 404,
       "error": "HTTP 404",
       "items": [
